@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Optically induced delocalization of electrons bound by attractive potentials**|O. V. Kibis et.al.|[2308.07191](http://arxiv.org/abs/2308.07191)|null|
 |**2023-08-10**|**Asymptotic stability conditions for linear coupled impulsive systems with time-invariant subsystems**|Vitalii Slynko et.al.|[2308.05635](http://arxiv.org/abs/2308.05635)|null|
 |**2023-08-06**|**Multifield asymptotic homogenization scheme for periodic Cauchy materials in non-standard thermoelasticity**|Rosaria Del Toro et.al.|[2308.04456](http://arxiv.org/abs/2308.04456)|null|
 |**2023-08-08**|**Nonlinear time-reversal interferometry with arbitrary quadratic collective-spin interaction**|Zhiyao Hu et.al.|[2308.04042](http://arxiv.org/abs/2308.04042)|null|
@@ -29,7 +30,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-11**|**Observation of integer and fractional quantum anomalous Hall states in twisted bilayer MoTe2**|Fan Xu et.al.|[2308.06177](http://arxiv.org/abs/2308.06177)|null|
+|**2023-08-12**|**In-plane Hall effect in rutile oxide films induced by the Lorentz force**|Yongwei Cui et.al.|[2308.06651](http://arxiv.org/abs/2308.06651)|null|
+|**2023-08-14**|**Observation of integer and fractional quantum anomalous Hall states in twisted bilayer MoTe2**|Fan Xu et.al.|[2308.06177](http://arxiv.org/abs/2308.06177)|null|
 |**2023-08-11**|**Metallic Quantized Anomalous Hall Effect without Chiral Edge States**|Kai-Zhi Bai et.al.|[2308.05963](http://arxiv.org/abs/2308.05963)|null|
 |**2023-08-10**|**Correlated electrons tunneling through pseudo Fermi arcs in hyperbolic Fermi surfaces of topological materials**|Elena Derunova et.al.|[2308.05788](http://arxiv.org/abs/2308.05788)|null|
 |**2023-08-10**|**Geometric criterion of topological phase transition for non-Hermitian systems**|Annan Fan et.al.|[2308.05771](http://arxiv.org/abs/2308.05771)|null|
@@ -44,8 +46,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Absence of Vestigial Time-reversal Symmetry Breaking above $T_c$ in the Strong-coupling Limit of a Twisted Bilayer Superconductor**|Andrew C. Yuan et.al.|[2308.06988](http://arxiv.org/abs/2308.06988)|null|
+|**2023-08-11**|**Interlayer interaction, shear vibrational mode, and tribological properties of two-dimensional bilayers with a commensurate moiré pattern**|Alexander S. Minkin et.al.|[2308.06302](http://arxiv.org/abs/2308.06302)|null|
 |**2023-08-11**|**Electron correlation in 2D periodic systems**|Oinam Romesh Meitei et.al.|[2308.06185](http://arxiv.org/abs/2308.06185)|null|
-|**2023-08-11**|**Observation of integer and fractional quantum anomalous Hall states in twisted bilayer MoTe2**|Fan Xu et.al.|[2308.06177](http://arxiv.org/abs/2308.06177)|null|
+|**2023-08-14**|**Observation of integer and fractional quantum anomalous Hall states in twisted bilayer MoTe2**|Fan Xu et.al.|[2308.06177](http://arxiv.org/abs/2308.06177)|null|
 |**2023-08-11**|**Metallic Quantized Anomalous Hall Effect without Chiral Edge States**|Kai-Zhi Bai et.al.|[2308.05963](http://arxiv.org/abs/2308.05963)|null|
 |**2023-08-08**|**Perpendicular electronic transport and moiré-induced resonance in twisted interfaces of 3D graphite**|Tenta Tani et.al.|[2308.03993](http://arxiv.org/abs/2308.03993)|null|
 |**2023-08-07**|**Strongly Interacting Phases in Twisted Bilayer Graphene at the Magic Angle**|Khagendra Adhikari et.al.|[2308.03843](http://arxiv.org/abs/2308.03843)|null|
