@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Fault-tolerant complexes**|Hector Bombin et.al.|[2308.07844](http://arxiv.org/abs/2308.07844)|null|
 |**2023-08-14**|**Optically induced delocalization of electrons bound by attractive potentials**|O. V. Kibis et.al.|[2308.07191](http://arxiv.org/abs/2308.07191)|null|
 |**2023-08-10**|**Asymptotic stability conditions for linear coupled impulsive systems with time-invariant subsystems**|Vitalii Slynko et.al.|[2308.05635](http://arxiv.org/abs/2308.05635)|null|
 |**2023-08-06**|**Multifield asymptotic homogenization scheme for periodic Cauchy materials in non-standard thermoelasticity**|Rosaria Del Toro et.al.|[2308.04456](http://arxiv.org/abs/2308.04456)|null|
@@ -30,6 +31,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Current-induced magnetization switching in a magnetic topological insulator heterostructure**|Erik Zimmermann et.al.|[2308.07657](http://arxiv.org/abs/2308.07657)|null|
+|**2023-08-14**|**Gate-tunable antiferromagnetic Chern insulator in twisted bilayer transition metal dichalcogenides**|Xiaoyu Liu et.al.|[2308.07488](http://arxiv.org/abs/2308.07488)|null|
 |**2023-08-12**|**In-plane Hall effect in rutile oxide films induced by the Lorentz force**|Yongwei Cui et.al.|[2308.06651](http://arxiv.org/abs/2308.06651)|null|
 |**2023-08-14**|**Observation of integer and fractional quantum anomalous Hall states in twisted bilayer MoTe2**|Fan Xu et.al.|[2308.06177](http://arxiv.org/abs/2308.06177)|null|
 |**2023-08-11**|**Metallic Quantized Anomalous Hall Effect without Chiral Edge States**|Kai-Zhi Bai et.al.|[2308.05963](http://arxiv.org/abs/2308.05963)|null|
@@ -46,6 +49,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Valley-polarized Josephson Junctions as gate-tunable $0$-$π$ qubit platforms**|Zhong-Chang-Fei Li et.al.|[2308.07888](http://arxiv.org/abs/2308.07888)|null|
+|**2023-08-14**|**Gate-tunable antiferromagnetic Chern insulator in twisted bilayer transition metal dichalcogenides**|Xiaoyu Liu et.al.|[2308.07488](http://arxiv.org/abs/2308.07488)|null|
+|**2023-08-14**|**Tunable quantum interferometer for correlated moiré electrons**|Shuichi Iwakiri et.al.|[2308.07400](http://arxiv.org/abs/2308.07400)|null|
 |**2023-08-14**|**Absence of Vestigial Time-reversal Symmetry Breaking above $T_c$ in the Strong-coupling Limit of a Twisted Bilayer Superconductor**|Andrew C. Yuan et.al.|[2308.06988](http://arxiv.org/abs/2308.06988)|null|
 |**2023-08-11**|**Interlayer interaction, shear vibrational mode, and tribological properties of two-dimensional bilayers with a commensurate moiré pattern**|Alexander S. Minkin et.al.|[2308.06302](http://arxiv.org/abs/2308.06302)|null|
 |**2023-08-11**|**Electron correlation in 2D periodic systems**|Oinam Romesh Meitei et.al.|[2308.06185](http://arxiv.org/abs/2308.06185)|null|
