@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Discrete time crystal in an open optomechanical system**|Dongni Chen et.al.|[2308.08196](http://arxiv.org/abs/2308.08196)|null|
 |**2023-08-15**|**Fault-tolerant complexes**|Hector Bombin et.al.|[2308.07844](http://arxiv.org/abs/2308.07844)|null|
 |**2023-08-14**|**Optically induced delocalization of electrons bound by attractive potentials**|O. V. Kibis et.al.|[2308.07191](http://arxiv.org/abs/2308.07191)|null|
 |**2023-08-10**|**Asymptotic stability conditions for linear coupled impulsive systems with time-invariant subsystems**|Vitalii Slynko et.al.|[2308.05635](http://arxiv.org/abs/2308.05635)|null|
@@ -38,6 +39,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Interplay between altermagnetism and nonsymmorphic symmetries generating large anomalous Hall conductivity by semi-Dirac points induced anticrossings**|Amar Fakhredine et.al.|[2308.08416](http://arxiv.org/abs/2308.08416)|null|
+|**2023-08-16**|**Promoting $p$-based Hall effects by $p$-$d$-$f$ hybridization in Gd-based dichalcogenides**|Mahmoud Zeer et.al.|[2308.08207](http://arxiv.org/abs/2308.08207)|null|
+|**2023-08-15**|**Tunable topological magnon-polaron states and anomalous Hall phenomena in two-dimensional ferromagnetic insulators**|Jostein N. Kløgetvedt et.al.|[2308.08048](http://arxiv.org/abs/2308.08048)|null|
 |**2023-08-15**|**Current-induced magnetization switching in a magnetic topological insulator heterostructure**|Erik Zimmermann et.al.|[2308.07657](http://arxiv.org/abs/2308.07657)|null|
 |**2023-08-14**|**Gate-tunable antiferromagnetic Chern insulator in twisted bilayer transition metal dichalcogenides**|Xiaoyu Liu et.al.|[2308.07488](http://arxiv.org/abs/2308.07488)|null|
 |**2023-08-12**|**In-plane Hall effect in rutile oxide films induced by the Lorentz force**|Yongwei Cui et.al.|[2308.06651](http://arxiv.org/abs/2308.06651)|null|
@@ -58,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Multiple antiferromagnetic phases and magnetic anisotropy in exfoliated CrBr $_3$ multilayers**|Fengrui Yao et.al.|[2308.08355](http://arxiv.org/abs/2308.08355)|null|
 |**2023-08-15**|**Valley-polarized Josephson Junctions as gate-tunable $0$-$π$ qubit platforms**|Zhong-Chang-Fei Li et.al.|[2308.07888](http://arxiv.org/abs/2308.07888)|null|
 |**2023-08-14**|**Gate-tunable antiferromagnetic Chern insulator in twisted bilayer transition metal dichalcogenides**|Xiaoyu Liu et.al.|[2308.07488](http://arxiv.org/abs/2308.07488)|null|
 |**2023-08-14**|**Tunable quantum interferometer for correlated moiré electrons**|Shuichi Iwakiri et.al.|[2308.07400](http://arxiv.org/abs/2308.07400)|null|
