@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Bright quantum photon sources from a topological Floquet resonance**|Shirin Afzal et.al.|[2308.11451](http://arxiv.org/abs/2308.11451)|null|
+|**2023-08-21**|**Photoinduced topological phase transitions in Kitaev-Heisenberg honeycomb ferromagnets with the Dzyaloshinskii-Moriya interaction**|Zhengguo Tang et.al.|[2308.11077](http://arxiv.org/abs/2308.11077)|null|
 |**2023-08-21**|**Controllable Weyl nodes and Fermi arcs in a light-irradiated carbon allotrope**|Ruoning Ji et.al.|[2308.10723](http://arxiv.org/abs/2308.10723)|null|
 |**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|
 |**2023-08-20**|**Qubits on programmable geometries with a trapped-ion quantum processor**|Qiming Wu et.al.|[2308.10179](http://arxiv.org/abs/2308.10179)|null|
@@ -43,6 +45,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Altermagnetic Orbital Chern Insulator in Twisted MoTe $_{2}$**|Feng-Ren Fan et.al.|[2308.11454](http://arxiv.org/abs/2308.11454)|null|
+|**2023-08-22**|**Tuning of Electrical, Magnetic, and Topological Properties of Magnetic Weyl Semimetal Mn $_{3+x}$ Ge by Fe doping**|Susanta Ghosh et.al.|[2308.11183](http://arxiv.org/abs/2308.11183)|null|
+|**2023-08-22**|**Effect of Electron-Phonon Scattering on the Anomalous Hall Conductivity of Fe $_3$ Sn: A Kagome Ferromagnetic Metal**|Achintya Low et.al.|[2308.11177](http://arxiv.org/abs/2308.11177)|null|
 |**2023-08-21**|**Phase transitions out of quantum Hall states in moiré TMD bilayers**|Xue-Yang Song et.al.|[2308.10903](http://arxiv.org/abs/2308.10903)|null|
 |**2023-08-21**|**Toward a global phase diagram of the fractional quantum anomalous Hall effect**|Aidan P. Reddy et.al.|[2308.10406](http://arxiv.org/abs/2308.10406)|null|
 |**2023-08-20**|**Room temperature magnetic phase transition in an electrically-tuned van der Waals ferromagnet**|Cheng Tan et.al.|[2308.10324](http://arxiv.org/abs/2308.10324)|null|
@@ -76,6 +81,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**From the chiral model of TBG to the Bistritzer--MacDonald model**|Simon Becker et.al.|[2308.11555](http://arxiv.org/abs/2308.11555)|null|
+|**2023-08-21**|**Coulomb-driven band unflattening suppresses $K$ -phonon pairing in moiré graphene**|Glenn Wagner et.al.|[2308.10938](http://arxiv.org/abs/2308.10938)|null|
+|**2023-08-21**|**Superconductivity in a Topological Lattice Model with Strong Repulsion**|Rahul Sahay et.al.|[2308.10935](http://arxiv.org/abs/2308.10935)|null|
 |**2023-08-21**|**Modeling of electronic dynamics in twisted bilayer graphene**|Tianyu Kong et.al.|[2308.10430](http://arxiv.org/abs/2308.10430)|null|
 |**2023-08-18**|**Maximally Localized Wannier Orbitals, Interaction Models and Fractional Quantum Anomalous Hall Effect in Twisted Bilayer MoTe2**|Cheng Xu et.al.|[2308.09697](http://arxiv.org/abs/2308.09697)|null|
 |**2023-08-21**|**Understanding Symmetry Breaking in Twisted Bilayer Graphene from Cluster Constraints**|Nikita Astrakhantsev et.al.|[2308.08590](http://arxiv.org/abs/2308.08590)|null|
