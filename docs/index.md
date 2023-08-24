@@ -72,6 +72,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Coulomb drag in metallic twisted bilayer graphene**|Federico Escudero et.al.|[2308.11739](http://arxiv.org/abs/2308.11739)|null|
 |**2023-08-22**|**From the chiral model of TBG to the Bistritzer--MacDonald model**|Simon Becker et.al.|[2308.11555](http://arxiv.org/abs/2308.11555)|null|
 |**2023-08-21**|**Coulomb-driven band unflattening suppresses $K$ -phonon pairing in moiré graphene**|Glenn Wagner et.al.|[2308.10938](http://arxiv.org/abs/2308.10938)|null|
 |**2023-08-21**|**Superconductivity in a Topological Lattice Model with Strong Repulsion**|Rahul Sahay et.al.|[2308.10935](http://arxiv.org/abs/2308.10935)|null|
