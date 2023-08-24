@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -75,7 +75,7 @@ layout: default
 |**2023-08-22**|**From the chiral model of TBG to the Bistritzer--MacDonald model**|Simon Becker et.al.|[2308.11555](http://arxiv.org/abs/2308.11555)|null|
 |**2023-08-21**|**Coulomb-driven band unflattening suppresses $K$ -phonon pairing in moiré graphene**|Glenn Wagner et.al.|[2308.10938](http://arxiv.org/abs/2308.10938)|null|
 |**2023-08-21**|**Superconductivity in a Topological Lattice Model with Strong Repulsion**|Rahul Sahay et.al.|[2308.10935](http://arxiv.org/abs/2308.10935)|null|
-|**2023-08-21**|**Modeling of electronic dynamics in twisted bilayer graphene**|Tianyu Kong et.al.|[2308.10430](http://arxiv.org/abs/2308.10430)|null|
+|**2023-08-21**|**Modeling of electronic dynamics in twisted bilayer graphene**|Tianyu Kong et.al.|[2308.10430](http://arxiv.org/abs/2308.10430)|**[link](https://github.com/timkong98/dynamics_tbg)**|
 |**2023-08-18**|**Maximally Localized Wannier Orbitals, Interaction Models and Fractional Quantum Anomalous Hall Effect in Twisted Bilayer MoTe2**|Cheng Xu et.al.|[2308.09697](http://arxiv.org/abs/2308.09697)|null|
 |**2023-08-21**|**Understanding Symmetry Breaking in Twisted Bilayer Graphene from Cluster Constraints**|Nikita Astrakhantsev et.al.|[2308.08590](http://arxiv.org/abs/2308.08590)|null|
 |**2023-08-16**|**Multiple antiferromagnetic phases and magnetic anisotropy in exfoliated CrBr $_3$ multilayers**|Fengrui Yao et.al.|[2308.08355](http://arxiv.org/abs/2308.08355)|null|

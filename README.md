@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230824>back to top</a>)</p>
 
 ## QAH
 
@@ -75,7 +75,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230824>back to top</a>)</p>
 
 ## twist
 
@@ -84,7 +84,7 @@
 |**2023-08-22**|**From the chiral model of TBG to the Bistritzer--MacDonald model**|Simon Becker et.al.|[2308.11555](http://arxiv.org/abs/2308.11555)|null|
 |**2023-08-21**|**Coulomb-driven band unflattening suppresses $K$ -phonon pairing in moiré graphene**|Glenn Wagner et.al.|[2308.10938](http://arxiv.org/abs/2308.10938)|null|
 |**2023-08-21**|**Superconductivity in a Topological Lattice Model with Strong Repulsion**|Rahul Sahay et.al.|[2308.10935](http://arxiv.org/abs/2308.10935)|null|
-|**2023-08-21**|**Modeling of electronic dynamics in twisted bilayer graphene**|Tianyu Kong et.al.|[2308.10430](http://arxiv.org/abs/2308.10430)|null|
+|**2023-08-21**|**Modeling of electronic dynamics in twisted bilayer graphene**|Tianyu Kong et.al.|[2308.10430](http://arxiv.org/abs/2308.10430)|**[link](https://github.com/timkong98/dynamics_tbg)**|
 |**2023-08-18**|**Maximally Localized Wannier Orbitals, Interaction Models and Fractional Quantum Anomalous Hall Effect in Twisted Bilayer MoTe2**|Cheng Xu et.al.|[2308.09697](http://arxiv.org/abs/2308.09697)|null|
 |**2023-08-21**|**Understanding Symmetry Breaking in Twisted Bilayer Graphene from Cluster Constraints**|Nikita Astrakhantsev et.al.|[2308.08590](http://arxiv.org/abs/2308.08590)|null|
 |**2023-08-16**|**Multiple antiferromagnetic phases and magnetic anisotropy in exfoliated CrBr $_3$ multilayers**|Fengrui Yao et.al.|[2308.08355](http://arxiv.org/abs/2308.08355)|null|
@@ -104,7 +104,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
