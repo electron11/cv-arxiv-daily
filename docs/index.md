@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Floquet Nonadiabatic Nuclear Dynamics with Photoinduced Lorenz-Like Force in Quantum Transport**|Jingqi Chen et.al.|[2308.12660](http://arxiv.org/abs/2308.12660)|null|
 |**2023-08-22**|**Bright quantum photon sources from a topological Floquet resonance**|Shirin Afzal et.al.|[2308.11451](http://arxiv.org/abs/2308.11451)|null|
 |**2023-08-21**|**Photoinduced topological phase transitions in Kitaev-Heisenberg honeycomb ferromagnets with the Dzyaloshinskii-Moriya interaction**|Zhengguo Tang et.al.|[2308.11077](http://arxiv.org/abs/2308.11077)|null|
 |**2023-08-21**|**Controllable Weyl nodes and Fermi arcs in a light-irradiated carbon allotrope**|Ruoning Ji et.al.|[2308.10723](http://arxiv.org/abs/2308.10723)|null|
@@ -38,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Nearly-room-temperature ferromagnetism and tunable anomalous Hall effect in atomically thin Fe4CoGeTe2**|Shaohua Yan et.al.|[2308.12765](http://arxiv.org/abs/2308.12765)|null|
 |**2023-08-22**|**Altermagnetic Orbital Chern Insulator in Twisted MoTe $_{2}$**|Feng-Ren Fan et.al.|[2308.11454](http://arxiv.org/abs/2308.11454)|null|
 |**2023-08-22**|**Tuning of Electrical, Magnetic, and Topological Properties of Magnetic Weyl Semimetal Mn $_{3+x}$ Ge by Fe doping**|Susanta Ghosh et.al.|[2308.11183](http://arxiv.org/abs/2308.11183)|null|
 |**2023-08-22**|**Effect of Electron-Phonon Scattering on the Anomalous Hall Conductivity of Fe $_3$ Sn: A Kagome Ferromagnetic Metal**|Achintya Low et.al.|[2308.11177](http://arxiv.org/abs/2308.11177)|null|
