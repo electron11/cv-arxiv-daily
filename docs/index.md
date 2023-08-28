@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Observation of multiple steady states with engineered dissipation**|Li Li et.al.|[2308.13235](http://arxiv.org/abs/2308.13235)|null|
 |**2023-08-24**|**Floquet Nonadiabatic Nuclear Dynamics with Photoinduced Lorenz-Like Force in Quantum Transport**|Jingqi Chen et.al.|[2308.12660](http://arxiv.org/abs/2308.12660)|null|
 |**2023-08-22**|**Bright quantum photon sources from a topological Floquet resonance**|Shirin Afzal et.al.|[2308.11451](http://arxiv.org/abs/2308.11451)|null|
 |**2023-08-21**|**Photoinduced topological phase transitions in Kitaev-Heisenberg honeycomb ferromagnets with the Dzyaloshinskii-Moriya interaction**|Zhengguo Tang et.al.|[2308.11077](http://arxiv.org/abs/2308.11077)|null|
