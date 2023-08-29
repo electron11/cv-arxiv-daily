@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-27**|**Tight-binding model subject to conditional resets at random times**|Anish Acharya et.al.|[2308.14040](http://arxiv.org/abs/2308.14040)|null|
 |**2023-08-25**|**Observation of multiple steady states with engineered dissipation**|Li Li et.al.|[2308.13235](http://arxiv.org/abs/2308.13235)|null|
 |**2023-08-24**|**Floquet Nonadiabatic Nuclear Dynamics with Photoinduced Lorenz-Like Force in Quantum Transport**|Jingqi Chen et.al.|[2308.12660](http://arxiv.org/abs/2308.12660)|null|
 |**2023-08-22**|**Bright quantum photon sources from a topological Floquet resonance**|Shirin Afzal et.al.|[2308.11451](http://arxiv.org/abs/2308.11451)|null|
@@ -40,6 +41,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-26**|**Magnetism and berry phase manipulation in an emergent structure of perovskite ruthenate by (111) strain engineering**|Zhaoqing Ding et.al.|[2308.13825](http://arxiv.org/abs/2308.13825)|null|
+|**2023-08-25**|**Tuning the Curie temperature of a 2D magnet/topological insulator heterostructure to above room temperature by epitaxial growth**|Wenyi Zhou et.al.|[2308.13620](http://arxiv.org/abs/2308.13620)|null|
+|**2023-08-25**|**Nematic order in topological SYK models**|Andrew Hardy et.al.|[2308.13601](http://arxiv.org/abs/2308.13601)|null|
 |**2023-08-24**|**Nearly-room-temperature ferromagnetism and tunable anomalous Hall effect in atomically thin Fe4CoGeTe2**|Shaohua Yan et.al.|[2308.12765](http://arxiv.org/abs/2308.12765)|null|
 |**2023-08-22**|**Altermagnetic Orbital Chern Insulator in Twisted MoTe $_{2}$**|Feng-Ren Fan et.al.|[2308.11454](http://arxiv.org/abs/2308.11454)|null|
 |**2023-08-22**|**Tuning of Electrical, Magnetic, and Topological Properties of Magnetic Weyl Semimetal Mn $_{3+x}$ Ge by Fe doping**|Susanta Ghosh et.al.|[2308.11183](http://arxiv.org/abs/2308.11183)|null|
@@ -75,6 +79,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Impact of atomic reconstruction on optical spectra of twisted TMD homobilayers**|Joakim Hagel et.al.|[2308.14633](http://arxiv.org/abs/2308.14633)|null|
 |**2023-08-22**|**Coulomb drag in metallic twisted bilayer graphene**|Federico Escudero et.al.|[2308.11739](http://arxiv.org/abs/2308.11739)|null|
 |**2023-08-22**|**From the chiral model of TBG to the Bistritzer--MacDonald model**|Simon Becker et.al.|[2308.11555](http://arxiv.org/abs/2308.11555)|null|
 |**2023-08-21**|**Coulomb-driven band unflattening suppresses $K$ -phonon pairing in moiré graphene**|Glenn Wagner et.al.|[2308.10938](http://arxiv.org/abs/2308.10938)|null|
