@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Floquet Topology Stabilized with Non-Hermitian Driving**|Christopher I. Timms et.al.|[2308.14788](http://arxiv.org/abs/2308.14788)|null|
 |**2023-08-27**|**Tight-binding model subject to conditional resets at random times**|Anish Acharya et.al.|[2308.14040](http://arxiv.org/abs/2308.14040)|null|
 |**2023-08-25**|**Observation of multiple steady states with engineered dissipation**|Li Li et.al.|[2308.13235](http://arxiv.org/abs/2308.13235)|null|
 |**2023-08-24**|**Floquet Nonadiabatic Nuclear Dynamics with Photoinduced Lorenz-Like Force in Quantum Transport**|Jingqi Chen et.al.|[2308.12660](http://arxiv.org/abs/2308.12660)|null|
@@ -41,6 +42,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
+|**2023-08-29**|**Intrinsic antiferromagnetic topological insulator and axion state in V2WS4**|Yadong Jiang et.al.|[2308.15023](http://arxiv.org/abs/2308.15023)|null|
+|**2023-08-29**|**Efficient thermo-spin conversion in van der Waals ferromagnet FeGaTe**|Shuhan Liu et.al.|[2308.14977](http://arxiv.org/abs/2308.14977)|null|
+|**2023-08-28**|**A Brillouin torus decomposition for Chern insulators**|F. Kordon et.al.|[2308.14937](http://arxiv.org/abs/2308.14937)|null|
+|**2023-08-28**|**Large anomalous Hall effect in single crystals of the kagome Weyl ferromagnet Fe $_3$ Sn**|Bishnu P. Belbase et.al.|[2308.14826](http://arxiv.org/abs/2308.14826)|null|
 |**2023-08-26**|**Magnetism and berry phase manipulation in an emergent structure of perovskite ruthenate by (111) strain engineering**|Zhaoqing Ding et.al.|[2308.13825](http://arxiv.org/abs/2308.13825)|null|
 |**2023-08-25**|**Tuning the Curie temperature of a 2D magnet/topological insulator heterostructure to above room temperature by epitaxial growth**|Wenyi Zhou et.al.|[2308.13620](http://arxiv.org/abs/2308.13620)|null|
 |**2023-08-25**|**Nematic order in topological SYK models**|Andrew Hardy et.al.|[2308.13601](http://arxiv.org/abs/2308.13601)|null|
