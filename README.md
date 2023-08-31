@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,13 +43,13 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230831>back to top</a>)</p>
 
 ## QAH
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-29**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
+|**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
 |**2023-08-29**|**Intrinsic antiferromagnetic topological insulator and axion state in V2WS4**|Yadong Jiang et.al.|[2308.15023](http://arxiv.org/abs/2308.15023)|null|
 |**2023-08-29**|**Efficient thermo-spin conversion in van der Waals ferromagnet FeGaTe**|Shuhan Liu et.al.|[2308.14977](http://arxiv.org/abs/2308.14977)|null|
 |**2023-08-28**|**A Brillouin torus decomposition for Chern insulators**|F. Kordon et.al.|[2308.14937](http://arxiv.org/abs/2308.14937)|null|
@@ -88,7 +88,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230831>back to top</a>)</p>
 
 ## twist
 
@@ -119,7 +119,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230831>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

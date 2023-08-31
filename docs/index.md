@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -42,7 +42,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-29**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
+|**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
 |**2023-08-29**|**Intrinsic antiferromagnetic topological insulator and axion state in V2WS4**|Yadong Jiang et.al.|[2308.15023](http://arxiv.org/abs/2308.15023)|null|
 |**2023-08-29**|**Efficient thermo-spin conversion in van der Waals ferromagnet FeGaTe**|Shuhan Liu et.al.|[2308.14977](http://arxiv.org/abs/2308.14977)|null|
 |**2023-08-28**|**A Brillouin torus decomposition for Chern insulators**|F. Kordon et.al.|[2308.14937](http://arxiv.org/abs/2308.14937)|null|
