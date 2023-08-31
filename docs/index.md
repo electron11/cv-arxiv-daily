@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**Chiral cavity-magnonic system for the unidirectional emission of a tunable squeezed microwave field**|Ji-kun Xie et.al.|[2308.15826](http://arxiv.org/abs/2308.15826)|null|
 |**2023-08-28**|**Floquet Topology Stabilized with Non-Hermitian Driving**|Christopher I. Timms et.al.|[2308.14788](http://arxiv.org/abs/2308.14788)|null|
 |**2023-08-27**|**Tight-binding model subject to conditional resets at random times**|Anish Acharya et.al.|[2308.14040](http://arxiv.org/abs/2308.14040)|null|
 |**2023-08-25**|**Observation of multiple steady states with engineered dissipation**|Li Li et.al.|[2308.13235](http://arxiv.org/abs/2308.13235)|null|
@@ -42,6 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Edge Magnetoplasmon Dispersion and Time-Resolved Plasmon Transport in a Quantum Anomalous Hall Insulator**|Luis A. Martinez et.al.|[2308.15665](http://arxiv.org/abs/2308.15665)|null|
 |**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
 |**2023-08-29**|**Intrinsic antiferromagnetic topological insulator and axion state in V2WS4**|Yadong Jiang et.al.|[2308.15023](http://arxiv.org/abs/2308.15023)|null|
 |**2023-08-29**|**Efficient thermo-spin conversion in van der Waals ferromagnet FeGaTe**|Shuhan Liu et.al.|[2308.14977](http://arxiv.org/abs/2308.14977)|null|
