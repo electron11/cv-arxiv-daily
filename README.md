@@ -50,6 +50,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Tunable magnetic domains in ferrimagnetic MnSb $_2$Te$_4$**|Tatiana A. Webb et.al.|[2308.16806](http://arxiv.org/abs/2308.16806)|null|
 |**2023-08-29**|**Edge Magnetoplasmon Dispersion and Time-Resolved Plasmon Transport in a Quantum Anomalous Hall Insulator**|Luis A. Martinez et.al.|[2308.15665](http://arxiv.org/abs/2308.15665)|null|
 |**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
 |**2023-08-29**|**Intrinsic antiferromagnetic topological insulator and axion state in V2WS4**|Yadong Jiang et.al.|[2308.15023](http://arxiv.org/abs/2308.15023)|null|
