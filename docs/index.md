@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Saturation of the anomalous Hall effect at high magnetic fields in altermagnetic RuO2**|Teresa Tschirner et.al.|[2309.00568](http://arxiv.org/abs/2309.00568)|null|
+|**2023-08-31**|**DFT+DMFT study of the magnetic susceptibility and the correlated electronic structure in transition-metal intercalated NbS $_2$**|Hyowon Park et.al.|[2309.00112](http://arxiv.org/abs/2309.00112)|null|
 |**2023-08-31**|**Tunable magnetic domains in ferrimagnetic MnSb $_2$Te$_4$**|Tatiana A. Webb et.al.|[2308.16806](http://arxiv.org/abs/2308.16806)|null|
 |**2023-08-29**|**Edge Magnetoplasmon Dispersion and Time-Resolved Plasmon Transport in a Quantum Anomalous Hall Insulator**|Luis A. Martinez et.al.|[2308.15665](http://arxiv.org/abs/2308.15665)|null|
 |**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343](http://arxiv.org/abs/2308.15343)|null|
@@ -88,6 +90,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Coexistence of nematic superconductivity and spin density wave in magic-angle twisted bilayer graphene**|A. O. Sboychakov et.al.|[2309.00346](http://arxiv.org/abs/2309.00346)|null|
+|**2023-08-31**|**Noise probing of topological band gaps in dispersionless quantum states**|Alexander Kruchkov et.al.|[2309.00042](http://arxiv.org/abs/2309.00042)|null|
 |**2023-08-28**|**Impact of atomic reconstruction on optical spectra of twisted TMD homobilayers**|Joakim Hagel et.al.|[2308.14633](http://arxiv.org/abs/2308.14633)|null|
 |**2023-08-22**|**Coulomb drag in metallic twisted bilayer graphene**|Federico Escudero et.al.|[2308.11739](http://arxiv.org/abs/2308.11739)|null|
 |**2023-08-22**|**From the chiral model of TBG to the Bistritzer--MacDonald model**|Simon Becker et.al.|[2308.11555](http://arxiv.org/abs/2308.11555)|null|
