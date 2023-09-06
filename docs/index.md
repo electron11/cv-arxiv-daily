@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-04**|**Engineering rich two-dimensional higher-order topological phases by flux and periodic driving**|Ming-Jian Gao et.al.|[2309.01499](http://arxiv.org/abs/2309.01499)|null|
+|**2023-09-02**|**Higher-harmonic generation in the driven Mott-Hubbard model**|Friedemann Queisser et.al.|[2309.01021](http://arxiv.org/abs/2309.01021)|null|
 |**2023-08-30**|**Chiral cavity-magnonic system for the unidirectional emission of a tunable squeezed microwave field**|Ji-kun Xie et.al.|[2308.15826](http://arxiv.org/abs/2308.15826)|null|
 |**2023-08-28**|**Floquet Topology Stabilized with Non-Hermitian Driving**|Christopher I. Timms et.al.|[2308.14788](http://arxiv.org/abs/2308.14788)|null|
 |**2023-08-27**|**Tight-binding model subject to conditional resets at random times**|Anish Acharya et.al.|[2308.14040](http://arxiv.org/abs/2308.14040)|null|
@@ -43,6 +45,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Tunable Magnetism and Valleys in VSiZ $_3$ monolayers**|Xiaoyu Wang et.al.|[2309.01873](http://arxiv.org/abs/2309.01873)|null|
+|**2023-09-04**|**Acoustic realization of projective mirror Chern insulators**|Tianzi Li et.al.|[2309.01484](http://arxiv.org/abs/2309.01484)|null|
+|**2023-09-04**|**From orthogonal link to phase vortex in generalized dynamical Hopf insulators**|Yuxuan Ma et.al.|[2309.01344](http://arxiv.org/abs/2309.01344)|null|
+|**2023-09-02**|**Room-Temperature Anomalous Hall Effect in Graphene in Interfacial Magnetic Proximity with EuO Grown by Topotactic Reduction**|Satakshi Pandey et.al.|[2309.00892](http://arxiv.org/abs/2309.00892)|null|
+|**2023-09-01**|**Quantum phase transitions in quantum Hall and other topological systems: role of the Planckian time**|Andrey Rogachev et.al.|[2309.00750](http://arxiv.org/abs/2309.00750)|null|
 |**2023-09-01**|**Saturation of the anomalous Hall effect at high magnetic fields in altermagnetic RuO2**|Teresa Tschirner et.al.|[2309.00568](http://arxiv.org/abs/2309.00568)|null|
 |**2023-08-31**|**DFT+DMFT study of the magnetic susceptibility and the correlated electronic structure in transition-metal intercalated NbS $_2$**|Hyowon Park et.al.|[2309.00112](http://arxiv.org/abs/2309.00112)|null|
 |**2023-08-31**|**Tunable magnetic domains in ferrimagnetic MnSb $_2$Te$_4$**|Tatiana A. Webb et.al.|[2308.16806](http://arxiv.org/abs/2308.16806)|null|
@@ -90,6 +97,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Superconductivity from spin fluctuations and long-range interactions in magic-angle twisted bilayer graphene**|Lauro B. Braz et.al.|[2309.02178](http://arxiv.org/abs/2309.02178)|null|
+|**2023-09-02**|**Magic momenta and three dimensional Landau levels from a three dimensional graphite moiré superlattice**|Xin Lu et.al.|[2309.00825](http://arxiv.org/abs/2309.00825)|null|
 |**2023-09-01**|**Coexistence of nematic superconductivity and spin density wave in magic-angle twisted bilayer graphene**|A. O. Sboychakov et.al.|[2309.00346](http://arxiv.org/abs/2309.00346)|null|
 |**2023-08-31**|**Noise probing of topological band gaps in dispersionless quantum states**|Alexander Kruchkov et.al.|[2309.00042](http://arxiv.org/abs/2309.00042)|null|
 |**2023-08-28**|**Impact of atomic reconstruction on optical spectra of twisted TMD homobilayers**|Joakim Hagel et.al.|[2308.14633](http://arxiv.org/abs/2308.14633)|null|
