@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-04**|**Engineering rich two-dimensional higher-order topological phases by flux and periodic driving**|Ming-Jian Gao et.al.|[2309.01499](http://arxiv.org/abs/2309.01499)|null|
+|**2023-09-06**|**Engineering rich two-dimensional higher-order topological phases by flux and periodic driving**|Ming-Jian Gao et.al.|[2309.01499](http://arxiv.org/abs/2309.01499)|null|
 |**2023-09-02**|**Higher-harmonic generation in the driven Mott-Hubbard model**|Friedemann Queisser et.al.|[2309.01021](http://arxiv.org/abs/2309.01021)|null|
 |**2023-08-30**|**Chiral cavity-magnonic system for the unidirectional emission of a tunable squeezed microwave field**|Ji-kun Xie et.al.|[2308.15826](http://arxiv.org/abs/2308.15826)|null|
 |**2023-08-28**|**Floquet Topology Stabilized with Non-Hermitian Driving**|Christopher I. Timms et.al.|[2308.14788](http://arxiv.org/abs/2308.14788)|null|
