@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-06**|**Engineering rich two-dimensional higher-order topological phases by flux and periodic driving**|Ming-Jian Gao et.al.|[2309.01499](http://arxiv.org/abs/2309.01499)|null|
+|**2023-09-07**|**Engineering rich two-dimensional higher-order topological phases by flux and periodic driving**|Ming-Jian Gao et.al.|[2309.01499](http://arxiv.org/abs/2309.01499)|null|
 |**2023-09-02**|**Higher-harmonic generation in the driven Mott-Hubbard model**|Friedemann Queisser et.al.|[2309.01021](http://arxiv.org/abs/2309.01021)|null|
 |**2023-08-30**|**Chiral cavity-magnonic system for the unidirectional emission of a tunable squeezed microwave field**|Ji-kun Xie et.al.|[2308.15826](http://arxiv.org/abs/2308.15826)|null|
 |**2023-08-28**|**Floquet Topology Stabilized with Non-Hermitian Driving**|Christopher I. Timms et.al.|[2308.14788](http://arxiv.org/abs/2308.14788)|null|
@@ -46,7 +46,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230908>back to top</a>)</p>
 
 ## QAH
 
@@ -101,7 +101,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230908>back to top</a>)</p>
 
 ## twist
 
@@ -138,7 +138,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230908>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
