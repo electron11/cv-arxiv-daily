@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Floquet analysis of a driven Kitaev chain in presence of a quasiperiodic potential**|Koustav Roy et.al.|[2309.03836](http://arxiv.org/abs/2309.03836)|null|
+|**2023-09-06**|**The Floquet Fermi Liquid**|Li-kun Shi et.al.|[2309.03268](http://arxiv.org/abs/2309.03268)|null|
 |**2023-09-07**|**Engineering rich two-dimensional higher-order topological phases by flux and periodic driving**|Ming-Jian Gao et.al.|[2309.01499](http://arxiv.org/abs/2309.01499)|null|
 |**2023-09-02**|**Higher-harmonic generation in the driven Mott-Hubbard model**|Friedemann Queisser et.al.|[2309.01021](http://arxiv.org/abs/2309.01021)|null|
 |**2023-08-30**|**Chiral cavity-magnonic system for the unidirectional emission of a tunable squeezed microwave field**|Ji-kun Xie et.al.|[2308.15826](http://arxiv.org/abs/2308.15826)|null|
@@ -45,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Detecting Hidden Order in Fractional Chern Insulators**|Fabian J. Pauw et.al.|[2309.03666](http://arxiv.org/abs/2309.03666)|null|
 |**2023-09-06**|**Magic angle (in)stability and mobility edges in disordered Chern insulators**|Simon Becker et.al.|[2309.02701](http://arxiv.org/abs/2309.02701)|null|
 |**2023-09-05**|**Tunable Magnetism and Valleys in VSiZ $_3$ monolayers**|Xiaoyu Wang et.al.|[2309.01873](http://arxiv.org/abs/2309.01873)|null|
 |**2023-09-04**|**Acoustic realization of projective mirror Chern insulators**|Tianzi Li et.al.|[2309.01484](http://arxiv.org/abs/2309.01484)|null|
@@ -98,6 +101,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Topological Mixed Valence Model in Magic-Angle Twisted Bilayer Graphene**|Yantao Li et.al.|[2309.03416](http://arxiv.org/abs/2309.03416)|null|
 |**2023-09-06**|**Tuning the flat bands by the interlayer interaction, spin-orbital coupling and electric field in twisted homotrilayer MoS $_2$**|Yonggang Li et.al.|[2309.03089](http://arxiv.org/abs/2309.03089)|null|
 |**2023-09-05**|**Magnetoplasmons in magic-angle twisted bilayer graphene**|Thi-Nga Do et.al.|[2309.02546](http://arxiv.org/abs/2309.02546)|null|
 |**2023-09-05**|**Superconductivity from spin fluctuations and long-range interactions in magic-angle twisted bilayer graphene**|Lauro B. Braz et.al.|[2309.02178](http://arxiv.org/abs/2309.02178)|null|
