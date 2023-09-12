@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Long-time properties of generic Floquet systems oscillate at the driving frequency**|Yichen Huang et.al.|[2309.05641](http://arxiv.org/abs/2309.05641)|null|
+|**2023-09-11**|**Periodically driven open quantum systems with vibronic interaction: Resonance effects and vibrationally mediated decoupling**|Jakob Bätge et.al.|[2309.05577](http://arxiv.org/abs/2309.05577)|null|
+|**2023-09-09**|**Stationary measures for higher spin vertex models on a strip**|Zongrui Yang et.al.|[2309.04897](http://arxiv.org/abs/2309.04897)|null|
 |**2023-09-08**|**Driven Majorana Modes: A Route to Synthetic $p_x+ip_y$ Superconductivity**|Lingyu Yang et.al.|[2309.04155](http://arxiv.org/abs/2309.04155)|null|
 |**2023-09-07**|**Floquet theory and stability for Hamiltonian partial differential equations**|Jared C Bronski et.al.|[2309.03962](http://arxiv.org/abs/2309.03962)|null|
 |**2023-09-07**|**Time- and Angle-Resolved Photoemission Studies of Quantum Materials**|Fabio Boschini et.al.|[2309.03935](http://arxiv.org/abs/2309.03935)|null|
@@ -50,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Atomistic Control in Molecular Beam Epitaxy Growth of Intrinsic Magnetic Topological Insulator MnBi2Te4**|Hyunsue Kim et.al.|[2309.05656](http://arxiv.org/abs/2309.05656)|null|
+|**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401](http://arxiv.org/abs/2309.05401)|null|
 |**2023-09-08**|**Spin transport properties in a topological insulator sandwiched between two-dimensional magnetic layers**|Nezhat Pournaghavi et.al.|[2309.04301](http://arxiv.org/abs/2309.04301)|null|
 |**2023-09-08**|**Driven Majorana Modes: A Route to Synthetic $p_x+ip_y$ Superconductivity**|Lingyu Yang et.al.|[2309.04155](http://arxiv.org/abs/2309.04155)|null|
 |**2023-09-07**|**Disorder in the non-linear anomalous Hall effect of $\mathcal{P}\mathcal{T}$ -symmetric Dirac fermions**|Rhonald Burgos Atencia et.al.|[2309.03947](http://arxiv.org/abs/2309.03947)|null|
