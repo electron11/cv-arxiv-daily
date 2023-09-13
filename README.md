@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Forward simulation of coherent beams on grating structures for coherent scatterometry**|Martin Hammerschmidt et.al.|[2309.06109](http://arxiv.org/abs/2309.06109)|null|
+|**2023-09-12**|**Time-dependent Gutzwiller simulation of Floquet topological superconductivity**|Takahiro Anan et.al.|[2309.06069](http://arxiv.org/abs/2309.06069)|null|
 |**2023-09-11**|**Long-time properties of generic Floquet systems oscillate at the driving frequency**|Yichen Huang et.al.|[2309.05641](http://arxiv.org/abs/2309.05641)|null|
 |**2023-09-11**|**Periodically driven open quantum systems with vibronic interaction: Resonance effects and vibrationally mediated decoupling**|Jakob Bätge et.al.|[2309.05577](http://arxiv.org/abs/2309.05577)|null|
 |**2023-09-09**|**Stationary measures for higher spin vertex models on a strip**|Zongrui Yang et.al.|[2309.04897](http://arxiv.org/abs/2309.04897)|null|
@@ -60,6 +62,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Kubo formula for dc conductivity in the presence of spin-orbit coupling: a revision**|I. A. Ado et.al.|[2309.06416](http://arxiv.org/abs/2309.06416)|null|
+|**2023-09-12**|**Three-Dimensional Quantum Hall Effect in Topological Amorphous Metals**|Jiong-Hao Wang et.al.|[2309.05990](http://arxiv.org/abs/2309.05990)|null|
 |**2023-09-11**|**Atomistic Control in Molecular Beam Epitaxy Growth of Intrinsic Magnetic Topological Insulator MnBi2Te4**|Hyunsue Kim et.al.|[2309.05656](http://arxiv.org/abs/2309.05656)|null|
 |**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401](http://arxiv.org/abs/2309.05401)|null|
 |**2023-09-08**|**Spin transport properties in a topological insulator sandwiched between two-dimensional magnetic layers**|Nezhat Pournaghavi et.al.|[2309.04301](http://arxiv.org/abs/2309.04301)|null|
