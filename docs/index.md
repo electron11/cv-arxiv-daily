@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Floquet topological phase transitions induced by uncorrelated or correlated disorder**|Jun-Hui Zheng et.al.|[2309.07035](http://arxiv.org/abs/2309.07035)|null|
+|**2023-09-13**|**Newcomb-Benford Law in Neuromuscular Transmission: Validation at Hyperkalemic Conditions**|Adriano Silva et.al.|[2309.06965](http://arxiv.org/abs/2309.06965)|null|
 |**2023-09-12**|**Forward simulation of coherent beams on grating structures for coherent scatterometry**|Martin Hammerschmidt et.al.|[2309.06109](http://arxiv.org/abs/2309.06109)|null|
 |**2023-09-12**|**Time-dependent Gutzwiller simulation of Floquet topological superconductivity**|Takahiro Anan et.al.|[2309.06069](http://arxiv.org/abs/2309.06069)|null|
 |**2023-09-11**|**Long-time properties of generic Floquet systems oscillate at the driving frequency**|Yichen Huang et.al.|[2309.05641](http://arxiv.org/abs/2309.05641)|null|
@@ -55,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Anomalous Hall effect and magnetoresistance in micro-ribbons of the magnetic Weyl semimetal candidate PrRhC2**|Mickey Martini et.al.|[2309.06963](http://arxiv.org/abs/2309.06963)|null|
+|**2023-09-12**|**Uncovering the spin ordering in magic-angle graphene via edge state equilibration**|Jesse C. Hoke et.al.|[2309.06583](http://arxiv.org/abs/2309.06583)|null|
 |**2023-09-12**|**Kubo formula for dc conductivity in the presence of spin-orbit coupling: a revision**|I. A. Ado et.al.|[2309.06416](http://arxiv.org/abs/2309.06416)|null|
 |**2023-09-12**|**Three-Dimensional Quantum Hall Effect in Topological Amorphous Metals**|Jiong-Hao Wang et.al.|[2309.05990](http://arxiv.org/abs/2309.05990)|null|
 |**2023-09-11**|**Atomistic Control in Molecular Beam Epitaxy Growth of Intrinsic Magnetic Topological Insulator MnBi2Te4**|Hyunsue Kim et.al.|[2309.05656](http://arxiv.org/abs/2309.05656)|null|
@@ -116,6 +120,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Flat band localization in twisted bilayer graphene nanoribbons**|Elias Andrade et.al.|[2309.06596](http://arxiv.org/abs/2309.06596)|null|
+|**2023-09-12**|**Uncovering the spin ordering in magic-angle graphene via edge state equilibration**|Jesse C. Hoke et.al.|[2309.06583](http://arxiv.org/abs/2309.06583)|null|
 |**2023-09-07**|**Topological Mixed Valence Model in Magic-Angle Twisted Bilayer Graphene**|Yantao Li et.al.|[2309.03416](http://arxiv.org/abs/2309.03416)|null|
 |**2023-09-06**|**Tuning the flat bands by the interlayer interaction, spin-orbital coupling and electric field in twisted homotrilayer MoS $_2$**|Yonggang Li et.al.|[2309.03089](http://arxiv.org/abs/2309.03089)|null|
 |**2023-09-05**|**Magnetoplasmons in magic-angle twisted bilayer graphene**|Thi-Nga Do et.al.|[2309.02546](http://arxiv.org/abs/2309.02546)|null|
