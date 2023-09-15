@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Entanglement transitions in a periodically driven non-Hermitian Ising chain**|Tista Banerjee et.al.|[2309.07661](http://arxiv.org/abs/2309.07661)|null|
+|**2023-09-14**|**Transmission in graphene through a double laser barrier**|Rachid El Aitouni et.al.|[2309.07591](http://arxiv.org/abs/2309.07591)|null|
+|**2023-09-14**|**Floquet edge solitons in modulated trimer waveguide arrays**|Shuang Shen et.al.|[2309.07469](http://arxiv.org/abs/2309.07469)|null|
 |**2023-09-13**|**Floquet topological phase transitions induced by uncorrelated or correlated disorder**|Jun-Hui Zheng et.al.|[2309.07035](http://arxiv.org/abs/2309.07035)|null|
 |**2023-09-13**|**Newcomb-Benford Law in Neuromuscular Transmission: Validation at Hyperkalemic Conditions**|Adriano Silva et.al.|[2309.06965](http://arxiv.org/abs/2309.06965)|null|
 |**2023-09-12**|**Forward simulation of coherent beams on grating structures for coherent scatterometry**|Martin Hammerschmidt et.al.|[2309.06109](http://arxiv.org/abs/2309.06109)|null|
@@ -57,6 +60,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Chemical Doping-Driven Giant Anomalous Hall and Nernst Conductivity in Magnetic Cubic Heusler Compounds**|Guangzong Xing et.al.|[2309.07722](http://arxiv.org/abs/2309.07722)|null|
+|**2023-09-13**|**Optimally Localized Wannier Functions for 2D Chern Insulators**|Thivan M. Gunawardana et.al.|[2309.07242](http://arxiv.org/abs/2309.07242)|null|
 |**2023-09-13**|**Anomalous Hall effect and magnetoresistance in micro-ribbons of the magnetic Weyl semimetal candidate PrRhC2**|Mickey Martini et.al.|[2309.06963](http://arxiv.org/abs/2309.06963)|null|
 |**2023-09-12**|**Uncovering the spin ordering in magic-angle graphene via edge state equilibration**|Jesse C. Hoke et.al.|[2309.06583](http://arxiv.org/abs/2309.06583)|null|
 |**2023-09-12**|**Kubo formula for dc conductivity in the presence of spin-orbit coupling: a revision**|I. A. Ado et.al.|[2309.06416](http://arxiv.org/abs/2309.06416)|null|
@@ -120,6 +125,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Bicrystallography-informed Frenkel-Kontorova model for interlayer dislocations in strained 2D heterostructures**|Md Tusher Ahmed et.al.|[2309.07325](http://arxiv.org/abs/2309.07325)|null|
+|**2023-09-13**|**Self-duality properties and localization centers of the electronic wave functions at high magic angles in twisted bilayer graphene**|Leonardo A. Navarro-Labastida et.al.|[2309.07260](http://arxiv.org/abs/2309.07260)|null|
+|**2023-09-13**|**Time-Reversal Invariant Topological Moiré Flatband: A Platform for the Fractional Quantum Spin Hall Effect**|Yi-Ming Wu et.al.|[2309.07222](http://arxiv.org/abs/2309.07222)|null|
 |**2023-09-12**|**Flat band localization in twisted bilayer graphene nanoribbons**|Elias Andrade et.al.|[2309.06596](http://arxiv.org/abs/2309.06596)|null|
 |**2023-09-12**|**Uncovering the spin ordering in magic-angle graphene via edge state equilibration**|Jesse C. Hoke et.al.|[2309.06583](http://arxiv.org/abs/2309.06583)|null|
 |**2023-09-07**|**Topological Mixed Valence Model in Magic-Angle Twisted Bilayer Graphene**|Yantao Li et.al.|[2309.03416](http://arxiv.org/abs/2309.03416)|null|
