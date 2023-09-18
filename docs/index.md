@@ -125,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**Dynamical correlations and order in magic-angle twisted bilayer graphene**|Gautam Rai et.al.|[2309.08529](http://arxiv.org/abs/2309.08529)|null|
 |**2023-09-12**|**Bicrystallography-informed Frenkel-Kontorova model for interlayer dislocations in strained 2D heterostructures**|Md Tusher Ahmed et.al.|[2309.07325](http://arxiv.org/abs/2309.07325)|null|
 |**2023-09-13**|**Self-duality properties and localization centers of the electronic wave functions at high magic angles in twisted bilayer graphene**|Leonardo A. Navarro-Labastida et.al.|[2309.07260](http://arxiv.org/abs/2309.07260)|null|
 |**2023-09-13**|**Time-Reversal Invariant Topological Moiré Flatband: A Platform for the Fractional Quantum Spin Hall Effect**|Yi-Ming Wu et.al.|[2309.07222](http://arxiv.org/abs/2309.07222)|null|
