@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-16**|**Multidimensional stability and transverse bifurcation of hydraulic shocks and roll waves in open channel flow**|Zhao Yang et.al.|[2309.08870](http://arxiv.org/abs/2309.08870)|null|
 |**2023-09-14**|**Entanglement transitions in a periodically driven non-Hermitian Ising chain**|Tista Banerjee et.al.|[2309.07661](http://arxiv.org/abs/2309.07661)|null|
 |**2023-09-14**|**Transmission in graphene through a double laser barrier**|Rachid El Aitouni et.al.|[2309.07591](http://arxiv.org/abs/2309.07591)|null|
 |**2023-09-14**|**Floquet edge solitons in modulated trimer waveguide arrays**|Shuang Shen et.al.|[2309.07469](http://arxiv.org/abs/2309.07469)|null|
@@ -67,6 +68,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-16**|**Electronic and Topological Properties of a Topological Insulator Thin Film Sandwiched between Ferromagnetic Insulators**|Piotr Pigoń et.al.|[2309.09014](http://arxiv.org/abs/2309.09014)|null|
+|**2023-09-16**|**Emergent phases in graphene flat bands**|Saisab Bhowmik et.al.|[2309.08938](http://arxiv.org/abs/2309.08938)|null|
+|**2023-09-16**|**Investigation of the Anomalous and Topological Hall Effects in Layered Monoclinic Ferromagnet Cr $_{2.76}$Te$_4$**|Shubham Purwar et.al.|[2309.08898](http://arxiv.org/abs/2309.08898)|null|
 |**2023-09-14**|**Chemical Doping-Driven Giant Anomalous Hall and Nernst Conductivity in Magnetic Cubic Heusler Compounds**|Guangzong Xing et.al.|[2309.07722](http://arxiv.org/abs/2309.07722)|null|
 |**2023-09-13**|**Optimally Localized Wannier Functions for 2D Chern Insulators**|Thivan M. Gunawardana et.al.|[2309.07242](http://arxiv.org/abs/2309.07242)|null|
 |**2023-09-13**|**Anomalous Hall effect and magnetoresistance in micro-ribbons of the magnetic Weyl semimetal candidate PrRhC2**|Mickey Martini et.al.|[2309.06963](http://arxiv.org/abs/2309.06963)|null|
@@ -134,6 +138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-16**|**Emergent phases in graphene flat bands**|Saisab Bhowmik et.al.|[2309.08938](http://arxiv.org/abs/2309.08938)|null|
 |**2023-09-15**|**Dynamical correlations and order in magic-angle twisted bilayer graphene**|Gautam Rai et.al.|[2309.08529](http://arxiv.org/abs/2309.08529)|null|
 |**2023-09-12**|**Bicrystallography-informed Frenkel-Kontorova model for interlayer dislocations in strained 2D heterostructures**|Md Tusher Ahmed et.al.|[2309.07325](http://arxiv.org/abs/2309.07325)|null|
 |**2023-09-13**|**Self-duality properties and localization centers of the electronic wave functions at high magic angles in twisted bilayer graphene**|Leonardo A. Navarro-Labastida et.al.|[2309.07260](http://arxiv.org/abs/2309.07260)|null|
