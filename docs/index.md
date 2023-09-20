@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
+|**2023-09-18**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|null|
 |**2023-09-16**|**Multidimensional stability and transverse bifurcation of hydraulic shocks and roll waves in open channel flow**|Zhao Yang et.al.|[2309.08870](http://arxiv.org/abs/2309.08870)|null|
 |**2023-09-14**|**Entanglement transitions in a periodically driven non-Hermitian Ising chain**|Tista Banerjee et.al.|[2309.07661](http://arxiv.org/abs/2309.07661)|null|
 |**2023-09-14**|**Transmission in graphene through a double laser barrier**|Rachid El Aitouni et.al.|[2309.07591](http://arxiv.org/abs/2309.07591)|null|
@@ -61,6 +63,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Impact of strain on the SOT-driven dynamics of thin film Mn $_3$ Sn**|Ankit Shukla et.al.|[2309.10246](http://arxiv.org/abs/2309.10246)|null|
 |**2023-09-16**|**Electronic and Topological Properties of a Topological Insulator Thin Film Sandwiched between Ferromagnetic Insulators**|Piotr Pigoń et.al.|[2309.09014](http://arxiv.org/abs/2309.09014)|null|
 |**2023-09-16**|**Emergent phases in graphene flat bands**|Saisab Bhowmik et.al.|[2309.08938](http://arxiv.org/abs/2309.08938)|null|
 |**2023-09-16**|**Investigation of the Anomalous and Topological Hall Effects in Layered Monoclinic Ferromagnet Cr $_{2.76}$Te$_4$**|Shubham Purwar et.al.|[2309.08898](http://arxiv.org/abs/2309.08898)|null|
@@ -129,6 +132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Origin of magic angles in twisted bilayer graphene: The magic ring**|Wei-Chen Wang et.al.|[2309.10026](http://arxiv.org/abs/2309.10026)|null|
 |**2023-09-16**|**Emergent phases in graphene flat bands**|Saisab Bhowmik et.al.|[2309.08938](http://arxiv.org/abs/2309.08938)|null|
 |**2023-09-15**|**Dynamical correlations and order in magic-angle twisted bilayer graphene**|Gautam Rai et.al.|[2309.08529](http://arxiv.org/abs/2309.08529)|null|
 |**2023-09-12**|**Bicrystallography-informed Frenkel-Kontorova model for interlayer dislocations in strained 2D heterostructures**|Md Tusher Ahmed et.al.|[2309.07325](http://arxiv.org/abs/2309.07325)|null|
