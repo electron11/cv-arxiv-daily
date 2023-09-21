@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Floquet engineering of black phosphorus upon below-gap pumping**|Shaohua Zhou et.al.|[2309.11339](http://arxiv.org/abs/2309.11339)|null|
 |**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
 |**2023-09-18**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|null|
 |**2023-09-16**|**Multidimensional stability and transverse bifurcation of hydraulic shocks and roll waves in open channel flow**|Zhao Yang et.al.|[2309.08870](http://arxiv.org/abs/2309.08870)|null|
