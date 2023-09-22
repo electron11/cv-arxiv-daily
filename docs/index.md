@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**Dynamically Assisted Tunneling in the Floquet Picture**|Daniil Ryndyk et.al.|[2309.12205](http://arxiv.org/abs/2309.12205)|null|
+|**2023-09-21**|**Individually tunable tunnelling coefficients in optical lattices using local periodic driving**|Georgia M. Nixon et.al.|[2309.12124](http://arxiv.org/abs/2309.12124)|null|
+|**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
+|**2023-09-20**|**Tailoring higher-order van Hove singularities in non-Hermitian interface systems via Floquet engineering**|Ayan Banerjee et.al.|[2309.11565](http://arxiv.org/abs/2309.11565)|null|
 |**2023-09-20**|**Floquet engineering of black phosphorus upon below-gap pumping**|Shaohua Zhou et.al.|[2309.11339](http://arxiv.org/abs/2309.11339)|null|
 |**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
 |**2023-09-18**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|null|
@@ -64,6 +68,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
+|**2023-09-20**|**Spatially Inhomogeneous Linear and Nonlinear Electromagnetic Response in Periodic Solids: A General Approach**|Robert C. McKay et.al.|[2309.11658](http://arxiv.org/abs/2309.11658)|null|
 |**2023-09-19**|**Impact of strain on the SOT-driven dynamics of thin film Mn $_3$ Sn**|Ankit Shukla et.al.|[2309.10246](http://arxiv.org/abs/2309.10246)|null|
 |**2023-09-16**|**Electronic and Topological Properties of a Topological Insulator Thin Film Sandwiched between Ferromagnetic Insulators**|Piotr Pigoń et.al.|[2309.09014](http://arxiv.org/abs/2309.09014)|null|
 |**2023-09-16**|**Emergent phases in graphene flat bands**|Saisab Bhowmik et.al.|[2309.08938](http://arxiv.org/abs/2309.08938)|null|
@@ -133,6 +139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
 |**2023-09-18**|**Origin of magic angles in twisted bilayer graphene: The magic ring**|Wei-Chen Wang et.al.|[2309.10026](http://arxiv.org/abs/2309.10026)|null|
 |**2023-09-16**|**Emergent phases in graphene flat bands**|Saisab Bhowmik et.al.|[2309.08938](http://arxiv.org/abs/2309.08938)|null|
 |**2023-09-15**|**Dynamical correlations and order in magic-angle twisted bilayer graphene**|Gautam Rai et.al.|[2309.08529](http://arxiv.org/abs/2309.08529)|null|
