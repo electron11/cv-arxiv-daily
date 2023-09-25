@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2023-09-20**|**Tailoring higher-order van Hove singularities in non-Hermitian interface systems via Floquet engineering**|Ayan Banerjee et.al.|[2309.11565](http://arxiv.org/abs/2309.11565)|null|
 |**2023-09-20**|**Floquet engineering of black phosphorus upon below-gap pumping**|Shaohua Zhou et.al.|[2309.11339](http://arxiv.org/abs/2309.11339)|null|
 |**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
-|**2023-09-18**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|**[link](https://github.com/fahimniya/hyperbolicfloquetqecc)**|
+|**2023-09-22**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|**[link](https://github.com/fahimniya/hyperbolicfloquetqecc)**|
 |**2023-09-16**|**Multidimensional stability and transverse bifurcation of hydraulic shocks and roll waves in open channel flow**|Zhao Yang et.al.|[2309.08870](http://arxiv.org/abs/2309.08870)|null|
 |**2023-09-14**|**Entanglement transitions in a periodically driven non-Hermitian Ising chain**|Tista Banerjee et.al.|[2309.07661](http://arxiv.org/abs/2309.07661)|null|
 |**2023-09-14**|**Transmission in graphene through a double laser barrier**|Rachid El Aitouni et.al.|[2309.07591](http://arxiv.org/abs/2309.07591)|null|
@@ -69,7 +69,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230925>back to top</a>)</p>
 
 ## QAH
 
@@ -142,7 +142,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230925>back to top</a>)</p>
 
 ## twist
 
@@ -189,7 +189,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
