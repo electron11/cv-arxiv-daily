@@ -33,7 +33,7 @@ layout: default
 |**2023-09-11**|**Periodically driven open quantum systems with vibronic interaction: Resonance effects and vibrationally mediated decoupling**|Jakob Bätge et.al.|[2309.05577](http://arxiv.org/abs/2309.05577)|null|
 |**2023-09-09**|**Stationary measures for higher spin vertex models on a strip**|Zongrui Yang et.al.|[2309.04897](http://arxiv.org/abs/2309.04897)|null|
 |**2023-09-08**|**Driven Majorana Modes: A Route to Synthetic $p_x+ip_y$ Superconductivity**|Lingyu Yang et.al.|[2309.04155](http://arxiv.org/abs/2309.04155)|null|
-|**2023-09-07**|**Floquet theory and stability for Hamiltonian partial differential equations**|Jared C Bronski et.al.|[2309.03962](http://arxiv.org/abs/2309.03962)|null|
+|**2023-09-07**|**Floquet theory and stability for Hamiltonian partial differential equations**|Jared C Bronski et.al.|[2309.03962](http://arxiv.org/abs/2309.03962)|**[link](https://github.com/JaredCBronski/Hamiltonian-Floquet)**|
 |**2023-09-07**|**Time- and Angle-Resolved Photoemission Studies of Quantum Materials**|Fabio Boschini et.al.|[2309.03935](http://arxiv.org/abs/2309.03935)|null|
 |**2023-09-07**|**Floquet analysis of a driven Kitaev chain in presence of a quasiperiodic potential**|Koustav Roy et.al.|[2309.03836](http://arxiv.org/abs/2309.03836)|null|
 |**2023-09-06**|**The Floquet Fermi Liquid**|Li-kun Shi et.al.|[2309.03268](http://arxiv.org/abs/2309.03268)|null|
