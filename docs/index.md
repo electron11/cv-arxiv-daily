@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
+|**2023-09-22**|**Nonadiabatic dynamics near metal surfaces with periodic drivings: A generalized surface hopping in Floquet representation**|Yu Wang et.al.|[2309.12905](http://arxiv.org/abs/2309.12905)|null|
+|**2023-09-22**|**Floquet-Anderson localization in the Thouless pump and how to avoid it**|András Grabarits et.al.|[2309.12882](http://arxiv.org/abs/2309.12882)|null|
+|**2023-09-21**|**Effective versus Floquet theory for the Kerr parametric oscillator**|Ignacio García-Mata et.al.|[2309.12516](http://arxiv.org/abs/2309.12516)|null|
+|**2023-09-21**|**Theory of robust quantum many-body scars in long-range interacting systems**|Alessio Lerose et.al.|[2309.12504](http://arxiv.org/abs/2309.12504)|null|
+|**2023-09-21**|**Constraining work fluctuations of non-Hermitian dynamics across the exceptional point of a superconducting qubit**|Serra Erdamar et.al.|[2309.12393](http://arxiv.org/abs/2309.12393)|null|
 |**2023-09-21**|**Dynamically Assisted Tunneling in the Floquet Picture**|Daniil Ryndyk et.al.|[2309.12205](http://arxiv.org/abs/2309.12205)|null|
 |**2023-09-21**|**Individually tunable tunnelling coefficients in optical lattices using local periodic driving**|Georgia M. Nixon et.al.|[2309.12124](http://arxiv.org/abs/2309.12124)|null|
 |**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
@@ -68,6 +74,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**Spin Weyl Topological Insulators**|Rafael Gonzalez-Hernandez et.al.|[2309.12470](http://arxiv.org/abs/2309.12470)|null|
 |**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
 |**2023-09-20**|**Spatially Inhomogeneous Linear and Nonlinear Electromagnetic Response in Periodic Solids: A General Approach**|Robert C. McKay et.al.|[2309.11658](http://arxiv.org/abs/2309.11658)|null|
 |**2023-09-19**|**Impact of strain on the SOT-driven dynamics of thin film Mn $_3$ Sn**|Ankit Shukla et.al.|[2309.10246](http://arxiv.org/abs/2309.10246)|null|
