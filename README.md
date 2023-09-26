@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-23**|**Interaction of the Cosmic Dark Fluid with Dynamic Aether: Parametric Mechanism of Axion Generation in the Early Universe**|Alexander B. Balakin et.al.|[2309.13392](http://arxiv.org/abs/2309.13392)|null|
 |**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
 |**2023-09-22**|**Nonadiabatic dynamics near metal surfaces with periodic drivings: A generalized surface hopping in Floquet representation**|Yu Wang et.al.|[2309.12905](http://arxiv.org/abs/2309.12905)|null|
 |**2023-09-22**|**Floquet-Anderson localization in the Thouless pump and how to avoid it**|András Grabarits et.al.|[2309.12882](http://arxiv.org/abs/2309.12882)|null|
@@ -81,6 +82,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Magnetic States and Electronic Properties of Manganese-Based Intermetallic Compounds Mn $_2$YAl and Mn$_3$ Z (Y = V, Cr, Fe, Co, Ni; Z = Al, Ge, Sn, Si, Pt)**|V. V. Marchenkov et.al.|[2309.14140](http://arxiv.org/abs/2309.14140)|null|
+|**2023-09-25**|**All-electrical detection of the spin-charge conversion in nanodevices based on SrTiO3 two-dimensional electron gases**|Fernando Gallego et.al.|[2309.13992](http://arxiv.org/abs/2309.13992)|null|
+|**2023-09-24**|**Gate-electric-field and magnetic-field control of versatile topological phases in a semi-magnetic topological insulator**|Ryota Watanabe et.al.|[2309.13510](http://arxiv.org/abs/2309.13510)|null|
 |**2023-09-21**|**Spin Weyl Topological Insulators**|Rafael Gonzalez-Hernandez et.al.|[2309.12470](http://arxiv.org/abs/2309.12470)|null|
 |**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
 |**2023-09-20**|**Spatially Inhomogeneous Linear and Nonlinear Electromagnetic Response in Periodic Solids: A General Approach**|Robert C. McKay et.al.|[2309.11658](http://arxiv.org/abs/2309.11658)|null|
