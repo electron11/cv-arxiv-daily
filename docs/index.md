@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Faraday waves on a bubble Bose-Einstein condensed binary mixture**|Leonardo Brito et.al.|[2309.14878](http://arxiv.org/abs/2309.14878)|null|
 |**2023-09-23**|**Interaction of the Cosmic Dark Fluid with Dynamic Aether: Parametric Mechanism of Axion Generation in the Early Universe**|Alexander B. Balakin et.al.|[2309.13392](http://arxiv.org/abs/2309.13392)|null|
 |**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
 |**2023-09-22**|**Nonadiabatic dynamics near metal surfaces with periodic drivings: A generalized surface hopping in Floquet representation**|Yu Wang et.al.|[2309.12905](http://arxiv.org/abs/2309.12905)|null|
@@ -75,6 +76,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Quantum-geometry-induced anomalous Hall effect in non-unitary superconductors and application to Sr $_2$RuO$_4$**|Jia-Long Zhang et.al.|[2309.14448](http://arxiv.org/abs/2309.14448)|null|
+|**2023-09-25**|**Fractional Chern Insulators vs. Non-Magnetic States in Twisted Bilayer MoTe $_2$**|Jiabin Yu et.al.|[2309.14429](http://arxiv.org/abs/2309.14429)|null|
 |**2023-09-25**|**Magnetic States and Electronic Properties of Manganese-Based Intermetallic Compounds Mn $_2$YAl and Mn$_3$ Z (Y = V, Cr, Fe, Co, Ni; Z = Al, Ge, Sn, Si, Pt)**|V. V. Marchenkov et.al.|[2309.14140](http://arxiv.org/abs/2309.14140)|null|
 |**2023-09-25**|**All-electrical detection of the spin-charge conversion in nanodevices based on SrTiO3 two-dimensional electron gases**|Fernando Gallego et.al.|[2309.13992](http://arxiv.org/abs/2309.13992)|null|
 |**2023-09-24**|**Gate-electric-field and magnetic-field control of versatile topological phases in a semi-magnetic topological insulator**|Ryota Watanabe et.al.|[2309.13510](http://arxiv.org/abs/2309.13510)|null|
@@ -150,6 +153,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Theoretical determination of the effect of a screening gate on plasmon-induced superconductivity in twisted bilayer graphene**|Liangtao Peng et.al.|[2309.14767](http://arxiv.org/abs/2309.14767)|null|
+|**2023-09-25**|**Fractional Chern Insulators vs. Non-Magnetic States in Twisted Bilayer MoTe $_2$**|Jiabin Yu et.al.|[2309.14429](http://arxiv.org/abs/2309.14429)|null|
 |**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
 |**2023-09-18**|**Origin of magic angles in twisted bilayer graphene: The magic ring**|Wei-Chen Wang et.al.|[2309.10026](http://arxiv.org/abs/2309.10026)|null|
 |**2023-09-16**|**Emergent phases in graphene flat bands**|Saisab Bhowmik et.al.|[2309.08938](http://arxiv.org/abs/2309.08938)|null|
