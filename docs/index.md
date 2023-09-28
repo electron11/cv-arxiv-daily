@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Splitting decoders for correcting hypergraph faults**|Nicolas Delfosse et.al.|[2309.15354](http://arxiv.org/abs/2309.15354)|null|
 |**2023-09-26**|**Faraday waves on a bubble Bose-Einstein condensed binary mixture**|Leonardo Brito et.al.|[2309.14878](http://arxiv.org/abs/2309.14878)|null|
 |**2023-09-23**|**Interaction of the Cosmic Dark Fluid with Dynamic Aether: Parametric Mechanism of Axion Generation in the Early Universe**|Alexander B. Balakin et.al.|[2309.13392](http://arxiv.org/abs/2309.13392)|null|
 |**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
@@ -76,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Engineering the in-plane anomalous hall effect in Cd $_3$As$_2$ thin films**|Wangqian Miao et.al.|[2309.15457](http://arxiv.org/abs/2309.15457)|null|
 |**2023-09-25**|**Quantum-geometry-induced anomalous Hall effect in non-unitary superconductors and application to Sr $_2$RuO$_4$**|Jia-Long Zhang et.al.|[2309.14448](http://arxiv.org/abs/2309.14448)|null|
 |**2023-09-25**|**Fractional Chern Insulators vs. Non-Magnetic States in Twisted Bilayer MoTe $_2$**|Jiabin Yu et.al.|[2309.14429](http://arxiv.org/abs/2309.14429)|null|
 |**2023-09-25**|**Magnetic States and Electronic Properties of Manganese-Based Intermetallic Compounds Mn $_2$YAl and Mn$_3$ Z (Y = V, Cr, Fe, Co, Ni; Z = Al, Ge, Sn, Si, Pt)**|V. V. Marchenkov et.al.|[2309.14140](http://arxiv.org/abs/2309.14140)|null|
