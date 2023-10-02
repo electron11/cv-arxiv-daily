@@ -77,6 +77,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
+|**2023-09-29**|**Growing Extended Laughlin States in a Quantum Gas Microscope: A Patchwork Construction**|Felix A. Palm et.al.|[2309.17402](http://arxiv.org/abs/2309.17402)|null|
 |**2023-09-28**|**Band mixing in the quantum anomalous Hall regime of twisted semiconductor bilayers**|Ahmed Abouelkomsan et.al.|[2309.16548](http://arxiv.org/abs/2309.16548)|null|
 |**2023-09-27**|**Engineering the in-plane anomalous hall effect in Cd $_3$As$_2$ thin films**|Wangqian Miao et.al.|[2309.15457](http://arxiv.org/abs/2309.15457)|null|
 |**2023-09-25**|**Quantum-geometry-induced anomalous Hall effect in non-unitary superconductors and application to Sr $_2$RuO$_4$**|Jia-Long Zhang et.al.|[2309.14448](http://arxiv.org/abs/2309.14448)|null|
