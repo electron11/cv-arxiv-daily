@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Dissipative Dicke time crystals: an atoms' point of view**|Simon B. Jäger et.al.|[2310.00046](http://arxiv.org/abs/2310.00046)|null|
 |**2023-09-27**|**Splitting decoders for correcting hypergraph faults**|Nicolas Delfosse et.al.|[2309.15354](http://arxiv.org/abs/2309.15354)|null|
 |**2023-09-26**|**Faraday waves on a bubble Bose-Einstein condensed binary mixture**|Leonardo Brito et.al.|[2309.14878](http://arxiv.org/abs/2309.14878)|null|
 |**2023-09-23**|**Interaction of the Cosmic Dark Fluid with Dynamic Aether: Parametric Mechanism of Axion Generation in the Early Universe**|Alexander B. Balakin et.al.|[2309.13392](http://arxiv.org/abs/2309.13392)|null|
@@ -84,6 +85,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Electrically tuned topology and magnetism in twisted bilayer MoTe $_2$ at $ν_h=1$**|Bohao Li et.al.|[2310.02217](http://arxiv.org/abs/2310.02217)|null|
+|**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052](http://arxiv.org/abs/2310.02052)|null|
+|**2023-10-02**|**Control of the magnetic anisotropy in multi-repeat Pt/Co/Al heterostructures using magneto-ionic gating**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.01623](http://arxiv.org/abs/2310.01623)|null|
+|**2023-10-02**|**Anomalous Hall transport by optically injected isospin degree of freedom in Dirac semimetal thin film**|Yuta Murotani et.al.|[2310.01093](http://arxiv.org/abs/2310.01093)|null|
+|**2023-10-01**|**Effect of Spin Fluctuations on Magnetoresistance and Anomalous Hall Effect in the Chiral Magnet Co8Zn8Mn4**|P. Saha et.al.|[2310.00739](http://arxiv.org/abs/2310.00739)|null|
 |**2023-09-29**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
 |**2023-09-29**|**Growing Extended Laughlin States in a Quantum Gas Microscope: A Patchwork Construction**|Felix A. Palm et.al.|[2309.17402](http://arxiv.org/abs/2309.17402)|null|
 |**2023-09-28**|**Band mixing in the quantum anomalous Hall regime of twisted semiconductor bilayers**|Ahmed Abouelkomsan et.al.|[2309.16548](http://arxiv.org/abs/2309.16548)|null|
@@ -167,6 +173,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Symmetry-based classification of exact flat bands in single and bilayer moiré systems**|Siddhartha Sarkar et.al.|[2310.02218](http://arxiv.org/abs/2310.02218)|null|
+|**2023-10-03**|**Electrically tuned topology and magnetism in twisted bilayer MoTe $_2$ at $ν_h=1$**|Bohao Li et.al.|[2310.02217](http://arxiv.org/abs/2310.02217)|null|
+|**2023-10-01**|**Classification of High-Ordered Topological Nodes Towards MFBs in Twisted Bilayers**|Fan Cui et.al.|[2310.00662](http://arxiv.org/abs/2310.00662)|null|
 |**2023-09-26**|**Theoretical determination of the effect of a screening gate on plasmon-induced superconductivity in twisted bilayer graphene**|Liangtao Peng et.al.|[2309.14767](http://arxiv.org/abs/2309.14767)|null|
 |**2023-09-25**|**Fractional Chern Insulators vs. Non-Magnetic States in Twisted Bilayer MoTe $_2$**|Jiabin Yu et.al.|[2309.14429](http://arxiv.org/abs/2309.14429)|null|
 |**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
