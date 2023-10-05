@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Counterdiabatic Driving for Periodically Driven Systems**|Paul Manuel Schindler et.al.|[2310.02728](http://arxiv.org/abs/2310.02728)|null|
+|**2023-10-03**|**Oscillating Fields, Emergent Gravity and Particle Traps**|Alexander A. Penin et.al.|[2310.02311](http://arxiv.org/abs/2310.02311)|null|
 |**2023-09-29**|**Dissipative Dicke time crystals: an atoms' point of view**|Simon B. Jäger et.al.|[2310.00046](http://arxiv.org/abs/2310.00046)|null|
 |**2023-09-27**|**Splitting decoders for correcting hypergraph faults**|Nicolas Delfosse et.al.|[2309.15354](http://arxiv.org/abs/2309.15354)|null|
 |**2023-09-26**|**Faraday waves on a bubble Bose-Einstein condensed binary mixture**|Leonardo Brito et.al.|[2309.14878](http://arxiv.org/abs/2309.14878)|null|
@@ -78,6 +80,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Electronic structure evolution of the magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ with hole and electron doping**|Himanshu Lohani et.al.|[2310.03009](http://arxiv.org/abs/2310.03009)|null|
 |**2023-10-03**|**Electrically tuned topology and magnetism in twisted bilayer MoTe $_2$ at $ν_h=1$**|Bohao Li et.al.|[2310.02217](http://arxiv.org/abs/2310.02217)|null|
 |**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052](http://arxiv.org/abs/2310.02052)|null|
 |**2023-10-02**|**Control of the magnetic anisotropy in multi-repeat Pt/Co/Al heterostructures using magneto-ionic gating**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.01623](http://arxiv.org/abs/2310.01623)|null|
@@ -164,6 +167,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Electronic localization in high-angle twisted boron nitride bilayer**|Sylvain Latil et.al.|[2310.02937](http://arxiv.org/abs/2310.02937)|null|
 |**2023-10-03**|**Symmetry-based classification of exact flat bands in single and bilayer moiré systems**|Siddhartha Sarkar et.al.|[2310.02218](http://arxiv.org/abs/2310.02218)|null|
 |**2023-10-03**|**Electrically tuned topology and magnetism in twisted bilayer MoTe $_2$ at $ν_h=1$**|Bohao Li et.al.|[2310.02217](http://arxiv.org/abs/2310.02217)|null|
 |**2023-10-01**|**Classification of High-Ordered Topological Nodes Towards MFBs in Twisted Bilayers**|Fan Cui et.al.|[2310.00662](http://arxiv.org/abs/2310.00662)|null|
