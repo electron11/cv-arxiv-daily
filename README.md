@@ -87,6 +87,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model**|Ryunosuke Terasawa et.al.|[2310.03576](http://arxiv.org/abs/2310.03576)|null|
 |**2023-10-04**|**Electronic structure evolution of the magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ with hole and electron doping**|Himanshu Lohani et.al.|[2310.03009](http://arxiv.org/abs/2310.03009)|null|
 |**2023-10-03**|**Electrically tuned topology and magnetism in twisted bilayer MoTe $_2$ at $ν_h=1$**|Bohao Li et.al.|[2310.02217](http://arxiv.org/abs/2310.02217)|null|
 |**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052](http://arxiv.org/abs/2310.02052)|null|
