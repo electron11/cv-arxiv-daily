@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -81,13 +81,13 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20231008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231009>back to top</a>)</p>
 
 ## QAH
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-05**|**Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model**|Ryunosuke Terasawa et.al.|[2310.03576](http://arxiv.org/abs/2310.03576)|null|
+|**2023-10-06**|**Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model**|Ryunosuke Terasawa et.al.|[2310.03576](http://arxiv.org/abs/2310.03576)|null|
 |**2023-10-04**|**Electronic structure evolution of the magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ with hole and electron doping**|Himanshu Lohani et.al.|[2310.03009](http://arxiv.org/abs/2310.03009)|null|
 |**2023-10-03**|**Electrically tuned topology and magnetism in twisted bilayer MoTe $_2$ at $ν_h=1$**|Bohao Li et.al.|[2310.02217](http://arxiv.org/abs/2310.02217)|null|
 |**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052](http://arxiv.org/abs/2310.02052)|null|
@@ -171,7 +171,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20231008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231009>back to top</a>)</p>
 
 ## twist
 
@@ -224,7 +224,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20231008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231009>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
