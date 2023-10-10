@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Nanoscale engineering and dynamical stabilization of mesoscopic spin textures**|Kieren Harkins et.al.|[2310.05635](http://arxiv.org/abs/2310.05635)|null|
+|**2023-10-09**|**Modulating near-field thermal radiation through temporal drivings: a quantum many-body theory**|Gaomin Tang et.al.|[2310.05417](http://arxiv.org/abs/2310.05417)|null|
 |**2023-10-04**|**Counterdiabatic Driving for Periodically Driven Systems**|Paul Manuel Schindler et.al.|[2310.02728](http://arxiv.org/abs/2310.02728)|null|
 |**2023-10-03**|**Oscillating Fields, Emergent Gravity and Particle Traps**|Alexander A. Penin et.al.|[2310.02311](http://arxiv.org/abs/2310.02311)|null|
 |**2023-09-29**|**Dissipative Dicke time crystals: an atoms' point of view**|Simon B. Jäger et.al.|[2310.00046](http://arxiv.org/abs/2310.00046)|null|
@@ -87,6 +89,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Controlling Topology through Targeted Symmetry Manipulation in Magnetic Systems**|Ilyoun Na et.al.|[2310.05896](http://arxiv.org/abs/2310.05896)|null|
+|**2023-10-09**|**Stability of fractional Chern insulators with a non-Landau level continuum limit**|Bartholomew Andrews et.al.|[2310.05758](http://arxiv.org/abs/2310.05758)|null|
+|**2023-10-09**|**Interplay of valley, layer and band topology towards interacting quantum phases in bilayer graphene moire superlattice**|Yungi Jeong et.al.|[2310.05667](http://arxiv.org/abs/2310.05667)|null|
+|**2023-10-09**|**Quantum anomalous Hall state in a fluorinated 1T-MoSe $_2$ monolayer**|Zhen Zhang et.al.|[2310.05356](http://arxiv.org/abs/2310.05356)|null|
+|**2023-10-09**|**Surface ferromagnetism in rhombohedral heptalayer graphene moire superlattice**|Wenqiang Zhou et.al.|[2310.05319](http://arxiv.org/abs/2310.05319)|null|
+|**2023-10-07**|**Anomalous charge transport upon quantum melting of chiral spin order**|Y. Fujishiro et.al.|[2310.04823](http://arxiv.org/abs/2310.04823)|null|
 |**2023-10-06**|**Kagome KMn $_3$Sb$_5$ metal: Magnetism, lattice dynamics, and anomalous Hall conductivity**|Sobhit Singh et.al.|[2310.04339](http://arxiv.org/abs/2310.04339)|null|
 |**2023-10-06**|**Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model**|Ryunosuke Terasawa et.al.|[2310.03576](http://arxiv.org/abs/2310.03576)|null|
 |**2023-10-04**|**Electronic structure evolution of the magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ with hole and electron doping**|Himanshu Lohani et.al.|[2310.03009](http://arxiv.org/abs/2310.03009)|null|
@@ -178,6 +186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Moiré Semiconductors on Twisted Bilayer Dice Lattice**|Di Ma et.al.|[2310.05403](http://arxiv.org/abs/2310.05403)|null|
 |**2023-10-06**|**Tuning topological superconductivity within the $t$-$J$-$U$ model of twisted bilayer cuprates**|Maciej Fidrysiak et.al.|[2310.04379](http://arxiv.org/abs/2310.04379)|null|
 |**2023-10-06**|**Twisted Coupled Wire Model for moiré Sliding Luttinger Liquid**|Yichen Hu et.al.|[2310.04070](http://arxiv.org/abs/2310.04070)|null|
 |**2023-10-04**|**Electronic localization in high-angle twisted boron nitride bilayer**|Sylvain Latil et.al.|[2310.02937](http://arxiv.org/abs/2310.02937)|null|
