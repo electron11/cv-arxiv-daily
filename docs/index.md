@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -183,7 +183,7 @@ layout: default
 |**2023-10-04**|**Electronic localization in high-angle twisted boron nitride bilayer**|Sylvain Latil et.al.|[2310.02937](http://arxiv.org/abs/2310.02937)|null|
 |**2023-10-03**|**Symmetry-based classification of exact flat bands in single and bilayer moiré systems**|Siddhartha Sarkar et.al.|[2310.02218](http://arxiv.org/abs/2310.02218)|null|
 |**2023-10-03**|**Electrically tuned topology and magnetism in twisted bilayer MoTe $_2$ at $ν_h=1$**|Bohao Li et.al.|[2310.02217](http://arxiv.org/abs/2310.02217)|null|
-|**2023-10-01**|**Classification of High-Ordered Topological Nodes Towards MFBs in Twisted Bilayers**|Fan Cui et.al.|[2310.00662](http://arxiv.org/abs/2310.00662)|null|
+|**2023-10-10**|**Classification of High-Ordered Topological Nodes towards Moiré Flat Bands in Twisted Bilayers**|Fan Cui et.al.|[2310.00662](http://arxiv.org/abs/2310.00662)|null|
 |**2023-09-26**|**Theoretical determination of the effect of a screening gate on plasmon-induced superconductivity in twisted bilayer graphene**|Liangtao Peng et.al.|[2309.14767](http://arxiv.org/abs/2309.14767)|null|
 |**2023-09-25**|**Fractional Chern Insulators vs. Non-Magnetic States in Twisted Bilayer MoTe $_2$**|Jiabin Yu et.al.|[2309.14429](http://arxiv.org/abs/2309.14429)|null|
 |**2023-09-20**|**Topological Floquet Flat Bands in Irradiated Alternating Twist Multilayer Graphene**|Yingyi Huang et.al.|[2309.11685](http://arxiv.org/abs/2309.11685)|null|
