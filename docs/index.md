@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Exact quench dynamics of the Floquet quantum East model at the deterministic point**|Bruno Bertini et.al.|[2310.06128](http://arxiv.org/abs/2310.06128)|null|
 |**2023-10-09**|**Nanoscale engineering and dynamical stabilization of mesoscopic spin textures**|Kieren Harkins et.al.|[2310.05635](http://arxiv.org/abs/2310.05635)|null|
 |**2023-10-09**|**Modulating near-field thermal radiation through temporal drivings: a quantum many-body theory**|Gaomin Tang et.al.|[2310.05417](http://arxiv.org/abs/2310.05417)|null|
 |**2023-10-04**|**Counterdiabatic Driving for Periodically Driven Systems**|Paul Manuel Schindler et.al.|[2310.02728](http://arxiv.org/abs/2310.02728)|null|
