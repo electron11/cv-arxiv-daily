@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Fault-tolerant logical gates via constant depth circuits and emergent symmetries on non-orientable topological stabilizer and Floquet codes**|Ryohei Kobayashi et.al.|[2310.06917](http://arxiv.org/abs/2310.06917)|null|
 |**2023-10-09**|**Exact quench dynamics of the Floquet quantum East model at the deterministic point**|Bruno Bertini et.al.|[2310.06128](http://arxiv.org/abs/2310.06128)|null|
 |**2023-10-09**|**Nanoscale engineering and dynamical stabilization of mesoscopic spin textures**|Kieren Harkins et.al.|[2310.05635](http://arxiv.org/abs/2310.05635)|null|
 |**2023-10-09**|**Modulating near-field thermal radiation through temporal drivings: a quantum many-body theory**|Gaomin Tang et.al.|[2310.05417](http://arxiv.org/abs/2310.05417)|null|
@@ -90,6 +91,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140](http://arxiv.org/abs/2310.07140)|null|
+|**2023-10-11**|**Many-body Chern insulator in the Kondo lattice model on a triangular lattice**|Kota Ido et.al.|[2310.07094](http://arxiv.org/abs/2310.07094)|null|
 |**2023-10-09**|**Controlling Topology through Targeted Symmetry Manipulation in Magnetic Systems**|Ilyoun Na et.al.|[2310.05896](http://arxiv.org/abs/2310.05896)|null|
 |**2023-10-09**|**Stability of fractional Chern insulators with a non-Landau level continuum limit**|Bartholomew Andrews et.al.|[2310.05758](http://arxiv.org/abs/2310.05758)|null|
 |**2023-10-09**|**Interplay of valley, layer and band topology towards interacting quantum phases in bilayer graphene moire superlattice**|Yungi Jeong et.al.|[2310.05667](http://arxiv.org/abs/2310.05667)|null|
@@ -187,6 +190,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Fountains of Flat Bands through Moiré Engineering**|Xiaoting Zhou et.al.|[2310.07647](http://arxiv.org/abs/2310.07647)|null|
 |**2023-10-09**|**Moiré Semiconductors on Twisted Bilayer Dice Lattice**|Di Ma et.al.|[2310.05403](http://arxiv.org/abs/2310.05403)|null|
 |**2023-10-06**|**Tuning topological superconductivity within the $t$-$J$-$U$ model of twisted bilayer cuprates**|Maciej Fidrysiak et.al.|[2310.04379](http://arxiv.org/abs/2310.04379)|null|
 |**2023-10-06**|**Twisted Coupled Wire Model for moiré Sliding Luttinger Liquid**|Yichen Hu et.al.|[2310.04070](http://arxiv.org/abs/2310.04070)|null|
