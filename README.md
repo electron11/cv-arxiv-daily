@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Characterizing Floquet topological phases by quench dynamics: A multiple-subsystem approach**|Bei-Bei Wang et.al.|[2310.08409](http://arxiv.org/abs/2310.08409)|null|
 |**2023-10-10**|**Fault-tolerant logical gates via constant depth circuits and emergent symmetries on non-orientable topological stabilizer and Floquet codes**|Ryohei Kobayashi et.al.|[2310.06917](http://arxiv.org/abs/2310.06917)|null|
 |**2023-10-09**|**Exact quench dynamics of the Floquet quantum East model at the deterministic point**|Bruno Bertini et.al.|[2310.06128](http://arxiv.org/abs/2310.06128)|null|
 |**2023-10-09**|**Nanoscale engineering and dynamical stabilization of mesoscopic spin textures**|Kieren Harkins et.al.|[2310.05635](http://arxiv.org/abs/2310.05635)|null|
@@ -190,6 +191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Extended critical phase in quasiperiodic quantum Hall systems**|Jonas F Karcher et.al.|[2310.07760](http://arxiv.org/abs/2310.07760)|null|
 |**2023-10-11**|**Fountains of Flat Bands through Moiré Engineering**|Xiaoting Zhou et.al.|[2310.07647](http://arxiv.org/abs/2310.07647)|null|
 |**2023-10-09**|**Moiré Semiconductors on Twisted Bilayer Dice Lattice**|Di Ma et.al.|[2310.05403](http://arxiv.org/abs/2310.05403)|null|
 |**2023-10-06**|**Tuning topological superconductivity within the $t$-$J$-$U$ model of twisted bilayer cuprates**|Maciej Fidrysiak et.al.|[2310.04379](http://arxiv.org/abs/2310.04379)|null|
