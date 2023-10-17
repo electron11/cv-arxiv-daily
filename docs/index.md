@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Corrections to diffusion in interacting quantum systems**|Alexios A. Michailidis et.al.|[2310.10564](http://arxiv.org/abs/2310.10564)|null|
+|**2023-10-14**|**Projective Spacetime Symmetry of Spacetime Crystals**|Zheng Zhang et.al.|[2310.09577](http://arxiv.org/abs/2310.09577)|null|
+|**2023-10-08**|**Floquet-engineering the exceptional points in parity-time-symmetric magnonics**|Xi-guang Wang et.al.|[2310.09300](http://arxiv.org/abs/2310.09300)|null|
 |**2023-10-13**|**Floquet Non-Abelian Topological Insulator and Multifold Bulk-Edge Correspondence**|Tianyu Li et.al.|[2310.08819](http://arxiv.org/abs/2310.08819)|null|
 |**2023-10-12**|**Space-time symmetry and parametric resonance in dynamic mechanical systems**|Abhijeet Melkani et.al.|[2310.08734](http://arxiv.org/abs/2310.08734)|null|
 |**2023-10-12**|**Characterizing Floquet topological phases by quench dynamics: A multiple-subsystem approach**|Bei-Bei Wang et.al.|[2310.08409](http://arxiv.org/abs/2310.08409)|null|
@@ -87,6 +90,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Trompe L'oeil Ferromagnetism: magnetic point group analysis**|Sang-Wook Cheong et.al.|[2310.10562](http://arxiv.org/abs/2310.10562)|null|
+|**2023-10-16**|**Berry Curvature and Bulk-Boundary Correspondence from Transport Measurement for Photonic Chern Bands**|Chao Chen et.al.|[2310.10365](http://arxiv.org/abs/2310.10365)|null|
+|**2023-10-16**|**Topological phases of monolayer and bilayer depleted Lieb lattices**|Arghya Sil et.al.|[2310.10286](http://arxiv.org/abs/2310.10286)|null|
+|**2023-10-14**|**Chiral magnetism, lattice dynamics, and anomalous Hall conductivity in the novel V $_3$ AuN antiferromagnetic antiperovskite**|J. M. Duran-Pinilla et.al.|[2310.09616](http://arxiv.org/abs/2310.09616)|null|
+|**2023-10-13**|**Topological properties of nearly flat bands in $α-\mathcal{T}3$ lattice bilayer**|Puspita Parui et.al.|[2310.09415](http://arxiv.org/abs/2310.09415)|null|
+|**2023-10-13**|**Anomalous Hall effect in the antiferromagnetic Weyl semimetal SmAlSi**|Yuxiang Gao et.al.|[2310.09364](http://arxiv.org/abs/2310.09364)|null|
 |**2023-10-13**|**Coexistence of Anomalous Hall Effect and Weak Net Magnetization in Collinear Antiferromagnet MnTe**|K. P. Kluczyk et.al.|[2310.09134](http://arxiv.org/abs/2310.09134)|null|
 |**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140](http://arxiv.org/abs/2310.07140)|null|
 |**2023-10-11**|**Many-body Chern insulator in the Kondo lattice model on a triangular lattice**|Kota Ido et.al.|[2310.07094](http://arxiv.org/abs/2310.07094)|null|
@@ -185,6 +194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-14**|**Moiré excitons in biased twisted bilayer graphene under pressure**|V. G. M. Duarte et.al.|[2310.09645](http://arxiv.org/abs/2310.09645)|null|
 |**2023-10-11**|**Extended critical phase in quasiperiodic quantum Hall systems**|Jonas F Karcher et.al.|[2310.07760](http://arxiv.org/abs/2310.07760)|null|
 |**2023-10-11**|**Fountains of Flat Bands through Moiré Engineering**|Xiaoting Zhou et.al.|[2310.07647](http://arxiv.org/abs/2310.07647)|null|
 |**2023-10-09**|**Moiré Semiconductors on Twisted Bilayer Dice Lattice**|Di Ma et.al.|[2310.05403](http://arxiv.org/abs/2310.05403)|null|
