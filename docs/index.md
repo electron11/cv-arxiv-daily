@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Floquet Non-Abelian Topological Insulator and Multifold Bulk-Edge Correspondence**|Tianyu Li et.al.|[2310.08819](http://arxiv.org/abs/2310.08819)|null|
+|**2023-10-12**|**Space-time symmetry and parametric resonance in dynamic mechanical systems**|Abhijeet Melkani et.al.|[2310.08734](http://arxiv.org/abs/2310.08734)|null|
 |**2023-10-12**|**Characterizing Floquet topological phases by quench dynamics: A multiple-subsystem approach**|Bei-Bei Wang et.al.|[2310.08409](http://arxiv.org/abs/2310.08409)|null|
 |**2023-10-10**|**Fault-tolerant logical gates via constant depth circuits and emergent symmetries on non-orientable topological stabilizer and Floquet codes**|Ryohei Kobayashi et.al.|[2310.06917](http://arxiv.org/abs/2310.06917)|null|
 |**2023-10-09**|**Exact quench dynamics of the Floquet quantum East model at the deterministic point**|Bruno Bertini et.al.|[2310.06128](http://arxiv.org/abs/2310.06128)|null|
@@ -85,6 +87,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Coexistence of Anomalous Hall Effect and Weak Net Magnetization in Collinear Antiferromagnet MnTe**|K. P. Kluczyk et.al.|[2310.09134](http://arxiv.org/abs/2310.09134)|null|
 |**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140](http://arxiv.org/abs/2310.07140)|null|
 |**2023-10-11**|**Many-body Chern insulator in the Kondo lattice model on a triangular lattice**|Kota Ido et.al.|[2310.07094](http://arxiv.org/abs/2310.07094)|null|
 |**2023-10-09**|**Controlling Topology through Targeted Symmetry Manipulation in Magnetic Systems**|Ilyoun Na et.al.|[2310.05896](http://arxiv.org/abs/2310.05896)|null|
