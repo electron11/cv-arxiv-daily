@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Entanglement phase transitions in non-Hermitian Floquet systems**|Longwen Zhou et.al.|[2310.11351](http://arxiv.org/abs/2310.11351)|null|
+|**2023-10-17**|**Optical Regulation of Chiral-Induced Spin Selectivity**|Wei Liu et.al.|[2310.10929](http://arxiv.org/abs/2310.10929)|null|
+|**2023-10-17**|**Destabilization of synchronous periodic solutions for patch models: a criterion by period functions**|Shuang Chen et.al.|[2310.10926](http://arxiv.org/abs/2310.10926)|null|
 |**2023-10-16**|**Corrections to diffusion in interacting quantum systems**|Alexios A. Michailidis et.al.|[2310.10564](http://arxiv.org/abs/2310.10564)|null|
 |**2023-10-14**|**Projective Spacetime Symmetry of Spacetime Crystals**|Zheng Zhang et.al.|[2310.09577](http://arxiv.org/abs/2310.09577)|null|
 |**2023-10-08**|**Floquet-engineering the exceptional points in parity-time-symmetric magnonics**|Xi-guang Wang et.al.|[2310.09300](http://arxiv.org/abs/2310.09300)|null|
@@ -91,12 +94,13 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## QAH
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Extremely large anomalous Hall conductivity and unusual axial diamagnetism in a quasi-1D Dirac material La $_3$MgBi$_5$**|Zhe-Kai Yi et.al.|[2310.11378](http://arxiv.org/abs/2310.11378)|null|
 |**2023-10-16**|**Trompe L'oeil Ferromagnetism: magnetic point group analysis**|Sang-Wook Cheong et.al.|[2310.10562](http://arxiv.org/abs/2310.10562)|null|
 |**2023-10-16**|**Berry Curvature and Bulk-Boundary Correspondence from Transport Measurement for Photonic Chern Bands**|Chao Chen et.al.|[2310.10365](http://arxiv.org/abs/2310.10365)|null|
 |**2023-10-16**|**Topological phases of monolayer and bilayer depleted Lieb lattices**|Arghya Sil et.al.|[2310.10286](http://arxiv.org/abs/2310.10286)|null|
@@ -197,7 +201,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## twist
 
@@ -256,7 +260,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
