@@ -100,6 +100,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Magnetic eight-fold nodal-point and nodal-network fermions in MnB2**|Yongheng Ge et.al.|[2310.11669](http://arxiv.org/abs/2310.11669)|null|
+|**2023-10-17**|**Intertwined fractional quantum anomalous Hall states and charge density waves**|Xue-Yang Song et.al.|[2310.11632](http://arxiv.org/abs/2310.11632)|null|
 |**2023-10-17**|**Extremely large anomalous Hall conductivity and unusual axial diamagnetism in a quasi-1D Dirac material La $_3$MgBi$_5$**|Zhe-Kai Yi et.al.|[2310.11378](http://arxiv.org/abs/2310.11378)|null|
 |**2023-10-16**|**Trompe L'oeil Ferromagnetism: magnetic point group analysis**|Sang-Wook Cheong et.al.|[2310.10562](http://arxiv.org/abs/2310.10562)|null|
 |**2023-10-16**|**Berry Curvature and Bulk-Boundary Correspondence from Transport Measurement for Photonic Chern Bands**|Chao Chen et.al.|[2310.10365](http://arxiv.org/abs/2310.10365)|null|
