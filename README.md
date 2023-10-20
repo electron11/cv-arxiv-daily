@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|
+|**2023-10-19**|**Comment on "Floquet non-Abelian topological insulator and multifold bulk-edge correspondence"**|Robert-Jan Slager et.al.|[2310.12782](http://arxiv.org/abs/2310.12782)|null|
+|**2023-10-19**|**Excitonic enhancement of cavity-mediated interactions in a two-band Hubbard model**|Xiao Wang et.al.|[2310.12626](http://arxiv.org/abs/2310.12626)|null|
+|**2023-10-19**|**Trapped acoustic waves and raindrops: high-order accurate integral equation method for localized excitation of a periodic staircase**|Fruzsina J. Agocs et.al.|[2310.12486](http://arxiv.org/abs/2310.12486)|null|
 |**2023-10-17**|**Entanglement phase transitions in non-Hermitian Floquet systems**|Longwen Zhou et.al.|[2310.11351](http://arxiv.org/abs/2310.11351)|null|
 |**2023-10-17**|**Optical Regulation of Chiral-Induced Spin Selectivity**|Wei Liu et.al.|[2310.10929](http://arxiv.org/abs/2310.10929)|null|
 |**2023-10-17**|**Destabilization of synchronous periodic solutions for patch models: a criterion by period functions**|Shuang Chen et.al.|[2310.10926](http://arxiv.org/abs/2310.10926)|null|
@@ -100,6 +104,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Giant Spin Transport Anisotropy in Magnetic Topological Insulators**|Marc Vila et.al.|[2310.12377](http://arxiv.org/abs/2310.12377)|null|
+|**2023-10-18**|**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**|Li-Qiao Xia et.al.|[2310.12204](http://arxiv.org/abs/2310.12204)|null|
 |**2023-10-18**|**Magnetic eight-fold nodal-point and nodal-network fermions in MnB2**|Yongheng Ge et.al.|[2310.11669](http://arxiv.org/abs/2310.11669)|null|
 |**2023-10-17**|**Intertwined fractional quantum anomalous Hall states and charge density waves**|Xue-Yang Song et.al.|[2310.11632](http://arxiv.org/abs/2310.11632)|null|
 |**2023-10-17**|**Extremely large anomalous Hall conductivity and unusual axial diamagnetism in a quasi-1D Dirac material La $_3$MgBi$_5$**|Zhe-Kai Yi et.al.|[2310.11378](http://arxiv.org/abs/2310.11378)|null|
@@ -209,6 +215,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Twisted bilayer graphene revisited: minimal two-band model for low-energy bands**|Daniel Bennett et.al.|[2310.12308](http://arxiv.org/abs/2310.12308)|null|
+|**2023-10-18**|**Theory of moiré magnetism in twisted bilayer $α$-RuCl$_3$**|Muhammad Akram et.al.|[2310.12211](http://arxiv.org/abs/2310.12211)|null|
 |**2023-10-14**|**Moiré excitons in biased twisted bilayer graphene under pressure**|V. G. M. Duarte et.al.|[2310.09645](http://arxiv.org/abs/2310.09645)|null|
 |**2023-10-11**|**Extended critical phase in quasiperiodic quantum Hall systems**|Jonas F Karcher et.al.|[2310.07760](http://arxiv.org/abs/2310.07760)|null|
 |**2023-10-11**|**Fountains of Flat Bands through Moiré Engineering**|Xiaoting Zhou et.al.|[2310.07647](http://arxiv.org/abs/2310.07647)|null|
