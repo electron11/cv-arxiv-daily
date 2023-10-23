@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -98,7 +98,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
 
 ## QAH
 
@@ -113,7 +113,7 @@
 |**2023-10-16**|**Berry Curvature and Bulk-Boundary Correspondence from Transport Measurement for Photonic Chern Bands**|Chao Chen et.al.|[2310.10365](http://arxiv.org/abs/2310.10365)|null|
 |**2023-10-16**|**Topological phases of monolayer and bilayer depleted Lieb lattices**|Arghya Sil et.al.|[2310.10286](http://arxiv.org/abs/2310.10286)|null|
 |**2023-10-14**|**Chiral magnetism, lattice dynamics, and anomalous Hall conductivity in the novel V $_3$ AuN antiferromagnetic antiperovskite**|J. M. Duran-Pinilla et.al.|[2310.09616](http://arxiv.org/abs/2310.09616)|null|
-|**2023-10-17**|**Topological properties of nearly flat bands in bilayer $α-\mathcal{T}3$ lattice**|Puspita Parui et.al.|[2310.09415](http://arxiv.org/abs/2310.09415)|null|
+|**2023-10-19**|**Topological properties of nearly flat bands in bilayer $α-\mathcal{T}3$ lattice**|Puspita Parui et.al.|[2310.09415](http://arxiv.org/abs/2310.09415)|null|
 |**2023-10-13**|**Anomalous Hall effect in the antiferromagnetic Weyl semimetal SmAlSi**|Yuxiang Gao et.al.|[2310.09364](http://arxiv.org/abs/2310.09364)|null|
 |**2023-10-13**|**Coexistence of Anomalous Hall Effect and Weak Net Magnetization in Collinear Antiferromagnet MnTe**|K. P. Kluczyk et.al.|[2310.09134](http://arxiv.org/abs/2310.09134)|null|
 |**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140](http://arxiv.org/abs/2310.07140)|null|
@@ -209,7 +209,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
 
 ## twist
 
@@ -270,7 +270,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

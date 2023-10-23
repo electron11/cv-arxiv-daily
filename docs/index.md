@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -106,7 +106,7 @@ layout: default
 |**2023-10-16**|**Berry Curvature and Bulk-Boundary Correspondence from Transport Measurement for Photonic Chern Bands**|Chao Chen et.al.|[2310.10365](http://arxiv.org/abs/2310.10365)|null|
 |**2023-10-16**|**Topological phases of monolayer and bilayer depleted Lieb lattices**|Arghya Sil et.al.|[2310.10286](http://arxiv.org/abs/2310.10286)|null|
 |**2023-10-14**|**Chiral magnetism, lattice dynamics, and anomalous Hall conductivity in the novel V $_3$ AuN antiferromagnetic antiperovskite**|J. M. Duran-Pinilla et.al.|[2310.09616](http://arxiv.org/abs/2310.09616)|null|
-|**2023-10-17**|**Topological properties of nearly flat bands in bilayer $α-\mathcal{T}3$ lattice**|Puspita Parui et.al.|[2310.09415](http://arxiv.org/abs/2310.09415)|null|
+|**2023-10-19**|**Topological properties of nearly flat bands in bilayer $α-\mathcal{T}3$ lattice**|Puspita Parui et.al.|[2310.09415](http://arxiv.org/abs/2310.09415)|null|
 |**2023-10-13**|**Anomalous Hall effect in the antiferromagnetic Weyl semimetal SmAlSi**|Yuxiang Gao et.al.|[2310.09364](http://arxiv.org/abs/2310.09364)|null|
 |**2023-10-13**|**Coexistence of Anomalous Hall Effect and Weak Net Magnetization in Collinear Antiferromagnet MnTe**|K. P. Kluczyk et.al.|[2310.09134](http://arxiv.org/abs/2310.09134)|null|
 |**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140](http://arxiv.org/abs/2310.07140)|null|
