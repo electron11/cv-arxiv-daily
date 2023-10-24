@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Scrambling in Ising spin systems with constant and periodic transverse magnetic fields**|Rohit Kumar Shukla et.al.|[2310.14620](http://arxiv.org/abs/2310.14620)|null|
+|**2023-10-22**|**Non-Bloch-Siegert-type power-induced shift of two-photon electron paramagnetic resonances of charge-carrier spin states in an OLED**|S. I. Atwood et.al.|[2310.14180](http://arxiv.org/abs/2310.14180)|null|
+|**2023-10-21**|**Floquet stability analysis of a two-layer oscillatory flow near a flexible wall**|Antonio J Bárcenas-Luque et.al.|[2310.13957](http://arxiv.org/abs/2310.13957)|null|
 |**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|
 |**2023-10-19**|**Comment on "Floquet non-Abelian topological insulator and multifold bulk-edge correspondence"**|Robert-Jan Slager et.al.|[2310.12782](http://arxiv.org/abs/2310.12782)|null|
 |**2023-10-19**|**Excitonic enhancement of cavity-mediated interactions in a two-band Hubbard model**|Xiao Wang et.al.|[2310.12626](http://arxiv.org/abs/2310.12626)|null|
@@ -104,6 +107,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Inheritance of the exciton geometric structure from Bloch electrons in two-dimensional layered semiconductors**|Jianju Tang et.al.|[2310.14856](http://arxiv.org/abs/2310.14856)|null|
+|**2023-10-22**|**Investigation of the mechanism of the anomalous Hall effects in Cr2Te3/(BiSb)2(TeSe)3 heterostructure**|Seong Won Cho et.al.|[2310.14259](http://arxiv.org/abs/2310.14259)|null|
+|**2023-10-21**|**Bound states and local topological phase diagram of classical impurity spins coupled to a Chern insulator**|Simon Michel et.al.|[2310.14097](http://arxiv.org/abs/2310.14097)|null|
+|**2023-10-21**|**Localization renormalization and quantum Hall systems**|Bartholomew Andrews et.al.|[2310.14074](http://arxiv.org/abs/2310.14074)|null|
 |**2023-10-18**|**Giant Spin Transport Anisotropy in Magnetic Topological Insulators**|Marc Vila et.al.|[2310.12377](http://arxiv.org/abs/2310.12377)|null|
 |**2023-10-18**|**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**|Li-Qiao Xia et.al.|[2310.12204](http://arxiv.org/abs/2310.12204)|null|
 |**2023-10-18**|**Magnetic eight-fold nodal-point and nodal-network fermions in MnB2**|Yongheng Ge et.al.|[2310.11669](http://arxiv.org/abs/2310.11669)|null|
@@ -215,6 +222,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Complete zero-energy flat bands of surface states in fully gapped chiral noncentrosymmetric superconductors**|Clara J. Lapp et.al.|[2310.14800](http://arxiv.org/abs/2310.14800)|null|
+|**2023-10-20**|**Designing Moiré Patterns by Bending**|Pierre A. Pantaleón et.al.|[2310.13743](http://arxiv.org/abs/2310.13743)|null|
 |**2023-10-18**|**Twisted bilayer graphene revisited: minimal two-band model for low-energy bands**|Daniel Bennett et.al.|[2310.12308](http://arxiv.org/abs/2310.12308)|null|
 |**2023-10-18**|**Theory of moiré magnetism in twisted bilayer $α$-RuCl$_3$**|Muhammad Akram et.al.|[2310.12211](http://arxiv.org/abs/2310.12211)|null|
 |**2023-10-14**|**Moiré excitons in biased twisted bilayer graphene under pressure**|V. G. M. Duarte et.al.|[2310.09645](http://arxiv.org/abs/2310.09645)|null|
