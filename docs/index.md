@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -210,7 +210,7 @@ layout: default
 |**2023-10-18**|**Theory of moiré magnetism in twisted bilayer $α$-RuCl$_3$**|Muhammad Akram et.al.|[2310.12211](http://arxiv.org/abs/2310.12211)|null|
 |**2023-10-14**|**Moiré excitons in biased twisted bilayer graphene under pressure**|V. G. M. Duarte et.al.|[2310.09645](http://arxiv.org/abs/2310.09645)|null|
 |**2023-10-11**|**Extended critical phase in quasiperiodic quantum Hall systems**|Jonas F Karcher et.al.|[2310.07760](http://arxiv.org/abs/2310.07760)|null|
-|**2023-10-11**|**Fountains of Flat Bands through Moiré Engineering**|Xiaoting Zhou et.al.|[2310.07647](http://arxiv.org/abs/2310.07647)|null|
+|**2023-10-20**|**Generation of isolated flat bands with tunable numbers through Moiré engineering**|Xiaoting Zhou et.al.|[2310.07647](http://arxiv.org/abs/2310.07647)|null|
 |**2023-10-09**|**Moiré Semiconductors on Twisted Bilayer Dice Lattice**|Di Ma et.al.|[2310.05403](http://arxiv.org/abs/2310.05403)|null|
 |**2023-10-06**|**Tuning topological superconductivity within the $t$-$J$-$U$ model of twisted bilayer cuprates**|Maciej Fidrysiak et.al.|[2310.04379](http://arxiv.org/abs/2310.04379)|null|
 |**2023-10-06**|**Twisted Coupled Wire Model for moiré Sliding Luttinger Liquid**|Yichen Hu et.al.|[2310.04070](http://arxiv.org/abs/2310.04070)|null|
