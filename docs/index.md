@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Modeling and Testing Superconducting Artificial CPW Lines Suitable for Parametric Amplification**|F. P. Mena et.al.|[2310.15344](http://arxiv.org/abs/2310.15344)|null|
 |**2023-10-23**|**Scrambling in Ising spin systems with constant and periodic transverse magnetic fields**|Rohit Kumar Shukla et.al.|[2310.14620](http://arxiv.org/abs/2310.14620)|null|
 |**2023-10-22**|**Non-Bloch-Siegert-type power-induced shift of two-photon electron paramagnetic resonances of charge-carrier spin states in an OLED**|S. I. Atwood et.al.|[2310.14180](http://arxiv.org/abs/2310.14180)|null|
 |**2023-10-21**|**Floquet stability analysis of a two-layer oscillatory flow near a flexible wall**|Antonio J Bárcenas-Luque et.al.|[2310.13957](http://arxiv.org/abs/2310.13957)|null|
@@ -100,6 +101,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Theory of correlated Chern insulators in twisted bilayer graphene**|Xiaoyu Wang et.al.|[2310.15982](http://arxiv.org/abs/2310.15982)|null|
+|**2023-10-24**|**Local Chern Marker for Periodic Systems**|Nicolas Baù et.al.|[2310.15783](http://arxiv.org/abs/2310.15783)|null|
 |**2023-10-23**|**Inheritance of the exciton geometric structure from Bloch electrons in two-dimensional layered semiconductors**|Jianju Tang et.al.|[2310.14856](http://arxiv.org/abs/2310.14856)|null|
 |**2023-10-22**|**Investigation of the mechanism of the anomalous Hall effects in Cr2Te3/(BiSb)2(TeSe)3 heterostructure**|Seong Won Cho et.al.|[2310.14259](http://arxiv.org/abs/2310.14259)|null|
 |**2023-10-21**|**Bound states and local topological phase diagram of classical impurity spins coupled to a Chern insulator**|Simon Michel et.al.|[2310.14097](http://arxiv.org/abs/2310.14097)|null|
@@ -213,6 +216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Theory of correlated Chern insulators in twisted bilayer graphene**|Xiaoyu Wang et.al.|[2310.15982](http://arxiv.org/abs/2310.15982)|null|
 |**2023-10-23**|**Complete zero-energy flat bands of surface states in fully gapped chiral noncentrosymmetric superconductors**|Clara J. Lapp et.al.|[2310.14800](http://arxiv.org/abs/2310.14800)|null|
 |**2023-10-20**|**Designing Moiré Patterns by Bending**|Pierre A. Pantaleón et.al.|[2310.13743](http://arxiv.org/abs/2310.13743)|null|
 |**2023-10-18**|**Twisted bilayer graphene revisited: minimal two-band model for low-energy bands**|Daniel Bennett et.al.|[2310.12308](http://arxiv.org/abs/2310.12308)|null|
