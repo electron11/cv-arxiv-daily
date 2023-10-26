@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Long term behavior of the stirred vacuum on a Dirac chain: geometry blur and the random Slater ensemble**|José Vinaixa et.al.|[2310.16693](http://arxiv.org/abs/2310.16693)|null|
 |**2023-10-23**|**Modeling and Testing Superconducting Artificial CPW Lines Suitable for Parametric Amplification**|F. P. Mena et.al.|[2310.15344](http://arxiv.org/abs/2310.15344)|null|
 |**2023-10-23**|**Scrambling in Ising spin systems with constant and periodic transverse magnetic fields**|Rohit Kumar Shukla et.al.|[2310.14620](http://arxiv.org/abs/2310.14620)|null|
 |**2023-10-22**|**Non-Bloch-Siegert-type power-induced shift of two-photon electron paramagnetic resonances of charge-carrier spin states in an OLED**|S. I. Atwood et.al.|[2310.14180](http://arxiv.org/abs/2310.14180)|null|
@@ -216,6 +217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Kekulé spirals and charge transfer cascades in twisted symmetric trilayer graphene**|Ziwei Wang et.al.|[2310.16094](http://arxiv.org/abs/2310.16094)|null|
 |**2023-10-24**|**Theory of correlated Chern insulators in twisted bilayer graphene**|Xiaoyu Wang et.al.|[2310.15982](http://arxiv.org/abs/2310.15982)|null|
 |**2023-10-23**|**Complete zero-energy flat bands of surface states in fully gapped chiral noncentrosymmetric superconductors**|Clara J. Lapp et.al.|[2310.14800](http://arxiv.org/abs/2310.14800)|null|
 |**2023-10-20**|**Designing Moiré Patterns by Bending**|Pierre A. Pantaleón et.al.|[2310.13743](http://arxiv.org/abs/2310.13743)|null|
