@@ -107,6 +107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Isotropic 3D topological phases with broken time reversal symmetry**|Helene Spring et.al.|[2310.18400](http://arxiv.org/abs/2310.18400)|null|
 |**2023-10-27**|**Molecular beam epitaxy of superconducting FeSe $_{x}$Te$_{1-x}$ thin films interfaced with magnetic topological insulators**|Yuki Sato et.al.|[2310.18147](http://arxiv.org/abs/2310.18147)|null|
 |**2023-10-27**|**Observation of Chern insulator in crystalline ABCA-tetralayer graphene with spin-orbit coupling**|Yating Sha et.al.|[2310.17971](http://arxiv.org/abs/2310.17971)|null|
 |**2023-10-27**|**Strain-Tunable Magnetic Compensation Temperature of Epitaxial Tb $_3$Fe$_5$O$_{12}$ Thin Films**|Yufei Li et.al.|[2310.17841](http://arxiv.org/abs/2310.17841)|null|
@@ -229,6 +230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Classically forbidden regions in the chiral model of twisted bilayer graphene. With an appendix by Zhongkai Tao and Maciej Zworski**|Michael Hitrik et.al.|[2310.19140](http://arxiv.org/abs/2310.19140)|null|
 |**2023-10-24**|**Kekulé spirals and charge transfer cascades in twisted symmetric trilayer graphene**|Ziwei Wang et.al.|[2310.16094](http://arxiv.org/abs/2310.16094)|null|
 |**2023-10-24**|**Theory of correlated Chern insulators in twisted bilayer graphene**|Xiaoyu Wang et.al.|[2310.15982](http://arxiv.org/abs/2310.15982)|null|
 |**2023-10-23**|**Complete zero-energy flat bands of surface states in fully gapped chiral noncentrosymmetric superconductors**|Clara J. Lapp et.al.|[2310.14800](http://arxiv.org/abs/2310.14800)|null|
