@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -18,7 +18,7 @@ layout: default
 |**2023-10-27**|**On the bifurcation of a Dirac point in a photonic waveguide without band gap openning**|Jiayu Qiu et.al.|[2310.17964](http://arxiv.org/abs/2310.17964)|null|
 |**2023-10-27**|**Periodic jumps in binary lattices with a static force**|Liwei Duan et.al.|[2310.17873](http://arxiv.org/abs/2310.17873)|null|
 |**2023-10-26**|**Driving superconducting qubits into chaos**|Jorge Chávez-Carlos et.al.|[2310.17698](http://arxiv.org/abs/2310.17698)|null|
-|**2023-10-25**|**Geodynamics in spacetime crystal under slow perturbation and deformation**|Anzhuoer Li et.al.|[2310.16918](http://arxiv.org/abs/2310.16918)|null|
+|**2023-10-28**|**Geodynamics in spacetime crystal under slow perturbation and deformation**|Anzhuoer Li et.al.|[2310.16918](http://arxiv.org/abs/2310.16918)|null|
 |**2023-10-25**|**Long term behavior of the stirred vacuum on a Dirac chain: geometry blur and the random Slater ensemble**|José Vinaixa et.al.|[2310.16693](http://arxiv.org/abs/2310.16693)|null|
 |**2023-10-23**|**Modeling and Testing Superconducting Artificial CPW Lines Suitable for Parametric Amplification**|F. P. Mena et.al.|[2310.15344](http://arxiv.org/abs/2310.15344)|null|
 |**2023-10-23**|**Scrambling in Ising spin systems with constant and periodic transverse magnetic fields**|Rohit Kumar Shukla et.al.|[2310.14620](http://arxiv.org/abs/2310.14620)|null|
