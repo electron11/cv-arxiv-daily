@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Universal localization-delocalization transition in chirally-symmetric Floquet drives**|Adrian B. Culver et.al.|[2310.20696](http://arxiv.org/abs/2310.20696)|null|
+|**2023-10-31**|**Dissipation entanglement control of two coupled qubits via strong driving fields**|M. V. Bastrakova et.al.|[2310.20229](http://arxiv.org/abs/2310.20229)|null|
+|**2023-10-30**|**Floquet non-equilibrium Green's function and Floquet quantum master equation for electronic transport: The role of electron-electron interactions**|Vahid Mosallanejad et.al.|[2310.19362](http://arxiv.org/abs/2310.19362)|null|
 |**2023-10-27**|**Floquet analysis of a superradiant many-qutrit refrigerator**|Dmytro Kolisnyk et.al.|[2310.18126](http://arxiv.org/abs/2310.18126)|null|
 |**2023-10-27**|**On the bifurcation of a Dirac point in a photonic waveguide without band gap openning**|Jiayu Qiu et.al.|[2310.17964](http://arxiv.org/abs/2310.17964)|null|
 |**2023-10-27**|**Periodic jumps in binary lattices with a static force**|Liwei Duan et.al.|[2310.17873](http://arxiv.org/abs/2310.17873)|null|
@@ -114,6 +117,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Intertwined Dirac cones induced by anisotropic coupling in antiferromagnetic topological insulator**|Yiliang Fan et.al.|[2310.20693](http://arxiv.org/abs/2310.20693)|null|
+|**2023-10-31**|**Hidden Real Topology and Unusual Magnetoelectric Responses in Monolayer Antiferromagnetic Cr $_2$Se$_2$ O**|Jialin Gong et.al.|[2310.20510](http://arxiv.org/abs/2310.20510)|null|
+|**2023-10-31**|**Low-dimensional polaritonics: Emergent non-trivial topology on exciton-polariton simulators**|Konstantin Rips et.al.|[2310.20166](http://arxiv.org/abs/2310.20166)|null|
+|**2023-10-30**|**Tight-binding theory of spin-spin interactions, Curie temperatures, and quantum Hall effects in topological (Hg,Cr)Te in comparison to non-topological (Zn,Cr)Te, and (Ga,Mn)N**|Cezary Śliwa et.al.|[2310.19856](http://arxiv.org/abs/2310.19856)|null|
 |**2023-10-27**|**Isotropic 3D topological phases with broken time reversal symmetry**|Helene Spring et.al.|[2310.18400](http://arxiv.org/abs/2310.18400)|null|
 |**2023-10-27**|**Molecular beam epitaxy of superconducting FeSe $_{x}$Te$_{1-x}$ thin films interfaced with magnetic topological insulators**|Yuki Sato et.al.|[2310.18147](http://arxiv.org/abs/2310.18147)|null|
 |**2023-10-27**|**Observation of Chern insulator in crystalline ABCA-tetralayer graphene with spin-orbit coupling**|Yating Sha et.al.|[2310.17971](http://arxiv.org/abs/2310.17971)|null|
@@ -239,6 +246,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642](http://arxiv.org/abs/2310.20642)|null|
+|**2023-10-30**|**Nonrelativistic spin splittings in twisted bilayers of centrosymmetric antiferromagnets: A case study of MnPSe3 and MnSe**|Sajjan Sheoran et.al.|[2310.19395](http://arxiv.org/abs/2310.19395)|null|
+|**2023-10-30**|**A Planning-and-Exploring Approach to Extreme-Mechanics Force Fields**|Pengjie Shi et.al.|[2310.19306](http://arxiv.org/abs/2310.19306)|null|
 |**2023-10-29**|**Classically forbidden regions in the chiral model of twisted bilayer graphene. With an appendix by Zhongkai Tao and Maciej Zworski**|Michael Hitrik et.al.|[2310.19140](http://arxiv.org/abs/2310.19140)|null|
 |**2023-10-24**|**Kekulé spirals and charge transfer cascades in twisted symmetric trilayer graphene**|Ziwei Wang et.al.|[2310.16094](http://arxiv.org/abs/2310.16094)|null|
 |**2023-10-24**|**Theory of correlated Chern insulators in twisted bilayer graphene**|Xiaoyu Wang et.al.|[2310.15982](http://arxiv.org/abs/2310.15982)|null|
