@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Dynamical characterization of $Z_{2}$ Floquet topological phases via quantum quenches**|Lin Zhang et.al.|[2311.00114](http://arxiv.org/abs/2311.00114)|null|
+|**2023-10-31**|**Topological quantum computation assisted by phase transitions**|Yuanjie Ren et.al.|[2311.00103](http://arxiv.org/abs/2311.00103)|null|
 |**2023-10-31**|**Universal localization-delocalization transition in chirally-symmetric Floquet drives**|Adrian B. Culver et.al.|[2310.20696](http://arxiv.org/abs/2310.20696)|null|
 |**2023-10-31**|**Dissipation entanglement control of two coupled qubits via strong driving fields**|M. V. Bastrakova et.al.|[2310.20229](http://arxiv.org/abs/2310.20229)|null|
 |**2023-10-30**|**Floquet non-equilibrium Green's function and Floquet quantum master equation for electronic transport: The role of electron-electron interactions**|Vahid Mosallanejad et.al.|[2310.19362](http://arxiv.org/abs/2310.19362)|null|
@@ -110,6 +112,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683](http://arxiv.org/abs/2311.00683)|null|
+|**2023-11-01**|**Theoretical Investigation of Samarium Hexaboride**|Partha Goswami et.al.|[2311.00583](http://arxiv.org/abs/2311.00583)|null|
+|**2023-11-01**|**Tuning of Berry Curvature Dipole in TaAs slabs: An effective Route to Enhance Nonlinear Hall Response**|Hongsheng Pang et.al.|[2311.00247](http://arxiv.org/abs/2311.00247)|null|
 |**2023-10-31**|**Intertwined Dirac cones induced by anisotropic coupling in antiferromagnetic topological insulator**|Yiliang Fan et.al.|[2310.20693](http://arxiv.org/abs/2310.20693)|null|
 |**2023-10-31**|**Hidden Real Topology and Unusual Magnetoelectric Responses in Monolayer Antiferromagnetic Cr $_2$Se$_2$ O**|Jialin Gong et.al.|[2310.20510](http://arxiv.org/abs/2310.20510)|null|
 |**2023-10-31**|**Low-dimensional polaritonics: Emergent non-trivial topology on exciton-polariton simulators**|Konstantin Rips et.al.|[2310.20166](http://arxiv.org/abs/2310.20166)|null|
