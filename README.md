@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -113,7 +113,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231103>back to top</a>)</p>
 
 ## QAH
 
@@ -245,13 +245,13 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231103>back to top</a>)</p>
 
 ## twist
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-31**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642](http://arxiv.org/abs/2310.20642)|null|
+|**2023-11-02**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642](http://arxiv.org/abs/2310.20642)|null|
 |**2023-10-30**|**Nonrelativistic spin splittings in twisted bilayers of centrosymmetric antiferromagnets: A case study of MnPSe3 and MnSe**|Sajjan Sheoran et.al.|[2310.19395](http://arxiv.org/abs/2310.19395)|null|
 |**2023-10-30**|**A Planning-and-Exploring Approach to Extreme-Mechanics Force Fields**|Pengjie Shi et.al.|[2310.19306](http://arxiv.org/abs/2310.19306)|null|
 |**2023-10-29**|**Classically forbidden regions in the chiral model of twisted bilayer graphene. With an appendix by Zhongkai Tao and Maciej Zworski**|Michael Hitrik et.al.|[2310.19140](http://arxiv.org/abs/2310.19140)|null|
@@ -314,7 +314,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

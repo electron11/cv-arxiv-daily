@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -242,7 +242,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-31**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642](http://arxiv.org/abs/2310.20642)|null|
+|**2023-11-02**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642](http://arxiv.org/abs/2310.20642)|null|
 |**2023-10-30**|**Nonrelativistic spin splittings in twisted bilayers of centrosymmetric antiferromagnets: A case study of MnPSe3 and MnSe**|Sajjan Sheoran et.al.|[2310.19395](http://arxiv.org/abs/2310.19395)|null|
 |**2023-10-30**|**A Planning-and-Exploring Approach to Extreme-Mechanics Force Fields**|Pengjie Shi et.al.|[2310.19306](http://arxiv.org/abs/2310.19306)|null|
 |**2023-10-29**|**Classically forbidden regions in the chiral model of twisted bilayer graphene. With an appendix by Zhongkai Tao and Maciej Zworski**|Michael Hitrik et.al.|[2310.19140](http://arxiv.org/abs/2310.19140)|null|
