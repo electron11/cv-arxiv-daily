@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Unstable capillary-gravity waves**|Vera Mikyoung Hur et.al.|[2311.01368](http://arxiv.org/abs/2311.01368)|null|
+|**2023-11-02**|**Engineering Photon-mediated Long-Range Spin Interactions in Mott Insulators**|Paul Fadler et.al.|[2311.01339](http://arxiv.org/abs/2311.01339)|null|
+|**2023-11-02**|**Floquet engineering in the presence of optically excited carriers**|Mitchell A. Conway et.al.|[2311.00916](http://arxiv.org/abs/2311.00916)|null|
+|**2023-11-01**|**Floquet engineering with spatially non-uniform driving fields**|Stella Tallula Schindler et.al.|[2311.00845](http://arxiv.org/abs/2311.00845)|null|
 |**2023-10-31**|**Dynamical characterization of $Z_{2}$ Floquet topological phases via quantum quenches**|Lin Zhang et.al.|[2311.00114](http://arxiv.org/abs/2311.00114)|null|
 |**2023-10-31**|**Topological quantum computation assisted by phase transitions**|Yuanjie Ren et.al.|[2311.00103](http://arxiv.org/abs/2311.00103)|null|
 |**2023-10-31**|**Universal localization-delocalization transition in chirally-symmetric Floquet drives**|Adrian B. Culver et.al.|[2310.20696](http://arxiv.org/abs/2310.20696)|null|
@@ -242,6 +246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Non-Fermi liquid behavior in a correlated flatband pyrochlore lattice**|Jianwei Huang et.al.|[2311.01269](http://arxiv.org/abs/2311.01269)|null|
+|**2023-11-02**|**Probing interlayer interactions and commensurate-incommensurate transition in twisted bilayer graphene through Raman spectroscopy**|Vineet Pandey et.al.|[2311.01029](http://arxiv.org/abs/2311.01029)|null|
 |**2023-11-02**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642](http://arxiv.org/abs/2310.20642)|null|
 |**2023-10-30**|**Nonrelativistic spin splittings in twisted bilayers of centrosymmetric antiferromagnets: A case study of MnPSe3 and MnSe**|Sajjan Sheoran et.al.|[2310.19395](http://arxiv.org/abs/2310.19395)|null|
 |**2023-10-30**|**A Planning-and-Exploring Approach to Extreme-Mechanics Force Fields**|Pengjie Shi et.al.|[2310.19306](http://arxiv.org/abs/2310.19306)|null|
