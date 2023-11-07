@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Cavity Induced Topology in Graphene**|Ceren B. Dag et.al.|[2311.02806](http://arxiv.org/abs/2311.02806)|null|
+|**2023-11-05**|**Topological spin-orbit-coupled fermions beyond rotating wave approximation**|Han Zhang et.al.|[2311.02584](http://arxiv.org/abs/2311.02584)|null|
+|**2023-11-03**|**Localization and integrability breaking in weakly interacting Floquet circuits**|Dominik Hahn et.al.|[2311.02197](http://arxiv.org/abs/2311.02197)|null|
 |**2023-11-03**|**Breathers in the fractional Frenkel-Kontorova model**|J. Catarecha et.al.|[2311.01809](http://arxiv.org/abs/2311.01809)|null|
 |**2023-11-02**|**Photon-resolved Floquet theory in open quantum systems**|G. Engelhardt et.al.|[2311.01509](http://arxiv.org/abs/2311.01509)|null|
 |**2023-11-02**|**Unstable capillary-gravity waves**|Vera Mikyoung Hur et.al.|[2311.01368](http://arxiv.org/abs/2311.01368)|null|
@@ -118,6 +121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Cavity Induced Topology in Graphene**|Ceren B. Dag et.al.|[2311.02806](http://arxiv.org/abs/2311.02806)|null|
 |**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683](http://arxiv.org/abs/2311.00683)|null|
 |**2023-11-01**|**Theoretical Investigation of Samarium Hexaboride**|Partha Goswami et.al.|[2311.00583](http://arxiv.org/abs/2311.00583)|null|
 |**2023-11-01**|**Tuning of Berry Curvature Dipole in TaAs slabs: An effective Route to Enhance Nonlinear Hall Response**|Hongsheng Pang et.al.|[2311.00247](http://arxiv.org/abs/2311.00247)|null|
@@ -248,6 +252,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Understanding Phonon Thermal Transport in Twisted Bilayer Graphene**|Shahid Ahmed et.al.|[2311.02964](http://arxiv.org/abs/2311.02964)|null|
+|**2023-11-03**|**Inter-layer bias effect on time-reversal symmetry breaking in twisted bilayer cuprates**|Mathieu Bélanger et.al.|[2311.02207](http://arxiv.org/abs/2311.02207)|null|
 |**2023-11-03**|**Imaging de Haas-van Alphen quantum oscillations and milli-Tesla pseudomagnetic fields**|Haibiao Zhou et.al.|[2311.01805](http://arxiv.org/abs/2311.01805)|null|
 |**2023-11-02**|**Non-Fermi liquid behavior in a correlated flatband pyrochlore lattice**|Jianwei Huang et.al.|[2311.01269](http://arxiv.org/abs/2311.01269)|null|
 |**2023-11-02**|**Probing interlayer interactions and commensurate-incommensurate transition in twisted bilayer graphene through Raman spectroscopy**|Vineet Pandey et.al.|[2311.01029](http://arxiv.org/abs/2311.01029)|null|
