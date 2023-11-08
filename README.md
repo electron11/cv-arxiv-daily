@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Topological phases in the periodically kicked Chern insulators**|Fei Yang et.al.|[2311.03961](http://arxiv.org/abs/2311.03961)|null|
+|**2023-11-07**|**Multifractality and pre-thermalization in the quasi-periodically kicked Aubry-André-Harper model**|Wen Chen et.al.|[2311.03879](http://arxiv.org/abs/2311.03879)|null|
+|**2023-11-07**|**Periodicity of dynamical signatures of chaos in quantum kicked top**|Sreeram P. G et.al.|[2311.03795](http://arxiv.org/abs/2311.03795)|null|
+|**2023-11-07**|**Floquet second-order topological Anderson insulator hosting corner localized modes**|Arnob Kumar Ghosh et.al.|[2311.03727](http://arxiv.org/abs/2311.03727)|null|
 |**2023-11-06**|**Cavity Induced Topology in Graphene**|Ceren B. Dag et.al.|[2311.02806](http://arxiv.org/abs/2311.02806)|null|
 |**2023-11-05**|**Topological spin-orbit-coupled fermions beyond rotating wave approximation**|Han Zhang et.al.|[2311.02584](http://arxiv.org/abs/2311.02584)|null|
 |**2023-11-03**|**Localization and integrability breaking in weakly interacting Floquet circuits**|Dominik Hahn et.al.|[2311.02197](http://arxiv.org/abs/2311.02197)|null|
@@ -128,6 +132,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217](http://arxiv.org/abs/2311.04217)|null|
+|**2023-11-07**|**Topological phases in the periodically kicked Chern insulators**|Fei Yang et.al.|[2311.03961](http://arxiv.org/abs/2311.03961)|null|
+|**2023-11-06**|**Effects of dilution in a 2D topological magnon insulator**|Miguel S. Oliveira et.al.|[2311.03457](http://arxiv.org/abs/2311.03457)|null|
+|**2023-11-06**|**Theory of fractional quantum anomalous Hall phases in pentalayer rhombohedral graphene moiré structures**|Zhihuan Dong et.al.|[2311.03445](http://arxiv.org/abs/2311.03445)|null|
 |**2023-11-06**|**Cavity Induced Topology in Graphene**|Ceren B. Dag et.al.|[2311.02806](http://arxiv.org/abs/2311.02806)|null|
 |**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683](http://arxiv.org/abs/2311.00683)|null|
 |**2023-11-01**|**Theoretical Investigation of Samarium Hexaboride**|Partha Goswami et.al.|[2311.00583](http://arxiv.org/abs/2311.00583)|null|
@@ -261,6 +269,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217](http://arxiv.org/abs/2311.04217)|null|
+|**2023-11-07**|**Multiple and spectrally robust photonic magic angles in reconfigurable α-MoO3 trilayers**|J. Duan et.al.|[2311.04173](http://arxiv.org/abs/2311.04173)|null|
+|**2023-11-07**|**Buckyballs directly probe inter-valley coherence and intra-valley pairing in moire heterostructures**|Tamaghna Hazra et.al.|[2311.04170](http://arxiv.org/abs/2311.04170)|null|
 |**2023-11-06**|**Understanding Phonon Thermal Transport in Twisted Bilayer Graphene**|Shahid Ahmed et.al.|[2311.02964](http://arxiv.org/abs/2311.02964)|null|
 |**2023-11-03**|**Inter-layer bias effect on time-reversal symmetry breaking in twisted bilayer cuprates**|Mathieu Bélanger et.al.|[2311.02207](http://arxiv.org/abs/2311.02207)|null|
 |**2023-11-03**|**Imaging de Haas-van Alphen quantum oscillations and milli-Tesla pseudomagnetic fields**|Haibiao Zhou et.al.|[2311.01805](http://arxiv.org/abs/2311.01805)|null|
