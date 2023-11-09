@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Floquet engineering of binding in doped and photo-doped Mott insulators**|Madhumita Sarkar et.al.|[2311.04899](http://arxiv.org/abs/2311.04899)|null|
+|**2023-11-08**|**Real-space multifold degeneracy in graphene irradiated by twisted light**|Suman Aich et.al.|[2311.04792](http://arxiv.org/abs/2311.04792)|null|
+|**2023-11-08**|**Fast generation of GHZ-like states using collective-spin XYZ model**|Xuanchen Zhang et.al.|[2311.04560](http://arxiv.org/abs/2311.04560)|null|
+|**2023-11-07**|**Electrostatic microinstabilities and turbulence in Wendelstein 7-X close to the stability threshold**|L. Podavini et.al.|[2311.04342](http://arxiv.org/abs/2311.04342)|null|
 |**2023-11-07**|**Topological phases in the periodically kicked Chern insulators**|Fei Yang et.al.|[2311.03961](http://arxiv.org/abs/2311.03961)|null|
 |**2023-11-07**|**Multifractality and pre-thermalization in the quasi-periodically kicked Aubry-André-Harper model**|Wen Chen et.al.|[2311.03879](http://arxiv.org/abs/2311.03879)|null|
 |**2023-11-07**|**Periodicity of dynamical signatures of chaos in quantum kicked top**|Sreeram P. G et.al.|[2311.03795](http://arxiv.org/abs/2311.03795)|null|
@@ -132,6 +136,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**d-Wave Hall effect and linear magnetoconductivity in metallic collinear antiferromagnets**|Dmitrii L. Vorobev et.al.|[2311.04890](http://arxiv.org/abs/2311.04890)|null|
+|**2023-11-08**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418](http://arxiv.org/abs/2311.04418)|**[link](https://github.com/zfgao66/mataltmag)**|
 |**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217](http://arxiv.org/abs/2311.04217)|null|
 |**2023-11-07**|**Topological phases in the periodically kicked Chern insulators**|Fei Yang et.al.|[2311.03961](http://arxiv.org/abs/2311.03961)|null|
 |**2023-11-06**|**Effects of dilution in a 2D topological magnon insulator**|Miguel S. Oliveira et.al.|[2311.03457](http://arxiv.org/abs/2311.03457)|null|
@@ -269,6 +275,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Photon absorption in twisted bilayer graphene**|Disha Arora et.al.|[2311.04565](http://arxiv.org/abs/2311.04565)|null|
 |**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217](http://arxiv.org/abs/2311.04217)|null|
 |**2023-11-07**|**Multiple and spectrally robust photonic magic angles in reconfigurable α-MoO3 trilayers**|J. Duan et.al.|[2311.04173](http://arxiv.org/abs/2311.04173)|null|
 |**2023-11-07**|**Buckyballs directly probe inter-valley coherence and intra-valley pairing in moire heterostructures**|Tamaghna Hazra et.al.|[2311.04170](http://arxiv.org/abs/2311.04170)|null|
