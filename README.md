@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Probing non-equilibrium dissipative phase transitions with trapped-ion quantum simulators**|Casey Haack et.al.|[2311.06199](http://arxiv.org/abs/2311.06199)|null|
+|**2023-11-09**|**Floquet insulators and lattice fermions beyond naive time discretization**|Thomas Iadecola et.al.|[2311.05686](http://arxiv.org/abs/2311.05686)|null|
 |**2023-11-09**|**Charge qubits based on ultra-thin topological insulator films**|Kexin Zhang et.al.|[2311.05166](http://arxiv.org/abs/2311.05166)|null|
 |**2023-11-08**|**Floquet engineering of binding in doped and photo-doped Mott insulators**|Madhumita Sarkar et.al.|[2311.04899](http://arxiv.org/abs/2311.04899)|null|
 |**2023-11-08**|**Real-space multifold degeneracy in graphene irradiated by twisted light**|Suman Aich et.al.|[2311.04792](http://arxiv.org/abs/2311.04792)|null|
@@ -279,6 +281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Magnetotransport properties of a twisted bilayer graphene in the presence of external electric and magnetic field**|Priyanka Sinha et.al.|[2311.06215](http://arxiv.org/abs/2311.06215)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970](http://arxiv.org/abs/2311.04970)|null|
 |**2023-11-08**|**Moiré Fractional Chern Insulators I: First-principles calculations and Continuum Models of Twisted Bilayer MoTe $_2$**|Yujin Jia et.al.|[2311.04958](http://arxiv.org/abs/2311.04958)|null|
 |**2023-11-08**|**Photon absorption in twisted bilayer graphene**|Disha Arora et.al.|[2311.04565](http://arxiv.org/abs/2311.04565)|null|
