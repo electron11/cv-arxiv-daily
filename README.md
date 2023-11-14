@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Nonlinear optical response in multiband Dirac-Electron System**|Keisuke Kitayama et.al.|[2311.07176](http://arxiv.org/abs/2311.07176)|null|
+|**2023-11-11**|**Non-Hermitian Skin Effect In Periodically-Driven Dissipative Ultracold Atoms**|Zhao-Fan Cai et.al.|[2311.06550](http://arxiv.org/abs/2311.06550)|null|
 |**2023-11-10**|**Probing non-equilibrium dissipative phase transitions with trapped-ion quantum simulators**|Casey Haack et.al.|[2311.06199](http://arxiv.org/abs/2311.06199)|null|
 |**2023-11-09**|**Floquet insulators and lattice fermions beyond naive time discretization**|Thomas Iadecola et.al.|[2311.05686](http://arxiv.org/abs/2311.05686)|null|
 |**2023-11-09**|**Charge qubits based on ultra-thin topological insulator films**|Kexin Zhang et.al.|[2311.05166](http://arxiv.org/abs/2311.05166)|null|
@@ -139,11 +141,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183](http://arxiv.org/abs/2311.07183)|null|
+|**2023-11-11**|**Orbital Hall Conductivity in Bilayer Graphene**|Sovan Ghosh et.al.|[2311.06447](http://arxiv.org/abs/2311.06447)|null|
 |**2023-11-09**|**Anomalous Hall Crystals in Rhombohedral Multilayer Graphene I: Interaction-Driven Chern Bands and Fractional Quantum Hall States at Zero Magnetic Field**|Junkai Dong et.al.|[2311.05568](http://arxiv.org/abs/2311.05568)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970](http://arxiv.org/abs/2311.04970)|null|
 |**2023-11-08**|**Moiré Fractional Chern Insulators I: First-principles calculations and Continuum Models of Twisted Bilayer MoTe $_2$**|Yujin Jia et.al.|[2311.04958](http://arxiv.org/abs/2311.04958)|null|
 |**2023-11-08**|**d-Wave Hall effect and linear magnetoconductivity in metallic collinear antiferromagnets**|Dmitrii L. Vorobev et.al.|[2311.04890](http://arxiv.org/abs/2311.04890)|null|
-|**2023-11-08**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418](http://arxiv.org/abs/2311.04418)|**[link](https://github.com/zfgao66/mataltmag)**|
+|**2023-11-13**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418](http://arxiv.org/abs/2311.04418)|**[link](https://github.com/zfgao66/mataltmag)**|
 |**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217](http://arxiv.org/abs/2311.04217)|null|
 |**2023-11-07**|**Topological phases in the periodically kicked Chern insulators**|Fei Yang et.al.|[2311.03961](http://arxiv.org/abs/2311.03961)|null|
 |**2023-11-06**|**Effects of dilution in a 2D topological magnon insulator**|Miguel S. Oliveira et.al.|[2311.03457](http://arxiv.org/abs/2311.03457)|null|
@@ -281,6 +285,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Lattice relaxation, electronic structure and continuum model for twisted bilayer MoTe $_2$**|Ning Mao et.al.|[2311.07533](http://arxiv.org/abs/2311.07533)|null|
 |**2023-11-10**|**Magnetotransport properties of a twisted bilayer graphene in the presence of external electric and magnetic field**|Priyanka Sinha et.al.|[2311.06215](http://arxiv.org/abs/2311.06215)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970](http://arxiv.org/abs/2311.04970)|null|
 |**2023-11-08**|**Moiré Fractional Chern Insulators I: First-principles calculations and Continuum Models of Twisted Bilayer MoTe $_2$**|Yujin Jia et.al.|[2311.04958](http://arxiv.org/abs/2311.04958)|null|
