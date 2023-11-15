@@ -141,6 +141,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Berry curvature induced giant intrinsic spin-orbit torque in single layer magnetic Weyl semimetal thin films**|Lakhan Bainsla et.al.|[2311.08145](http://arxiv.org/abs/2311.08145)|null|
+|**2023-11-14**|**Imaging Self-aligned Moiré Crystals and Quasicrystals in Magic-angle Bilayer Graphene on hBN Heterostructures**|Xinyuan Lai et.al.|[2311.07819](http://arxiv.org/abs/2311.07819)|null|
 |**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183](http://arxiv.org/abs/2311.07183)|null|
 |**2023-11-11**|**Orbital Hall Conductivity in Bilayer Graphene**|Sovan Ghosh et.al.|[2311.06447](http://arxiv.org/abs/2311.06447)|null|
 |**2023-11-09**|**Anomalous Hall Crystals in Rhombohedral Multilayer Graphene I: Interaction-Driven Chern Bands and Fractional Quantum Hall States at Zero Magnetic Field**|Junkai Dong et.al.|[2311.05568](http://arxiv.org/abs/2311.05568)|null|
@@ -285,6 +287,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Imaging Self-aligned Moiré Crystals and Quasicrystals in Magic-angle Bilayer Graphene on hBN Heterostructures**|Xinyuan Lai et.al.|[2311.07819](http://arxiv.org/abs/2311.07819)|null|
 |**2023-11-13**|**Lattice relaxation, electronic structure and continuum model for twisted bilayer MoTe $_2$**|Ning Mao et.al.|[2311.07533](http://arxiv.org/abs/2311.07533)|null|
 |**2023-11-10**|**Magnetotransport properties of a twisted bilayer graphene in the presence of external electric and magnetic field**|Priyanka Sinha et.al.|[2311.06215](http://arxiv.org/abs/2311.06215)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970](http://arxiv.org/abs/2311.04970)|null|
