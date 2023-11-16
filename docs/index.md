@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450](http://arxiv.org/abs/2311.08450)|null|
 |**2023-11-13**|**Nonlinear optical response in multiband Dirac-Electron System**|Keisuke Kitayama et.al.|[2311.07176](http://arxiv.org/abs/2311.07176)|null|
 |**2023-11-11**|**Non-Hermitian Skin Effect In Periodically-Driven Dissipative Ultracold Atoms**|Zhao-Fan Cai et.al.|[2311.06550](http://arxiv.org/abs/2311.06550)|null|
 |**2023-11-10**|**Probing non-equilibrium dissipative phase transitions with trapped-ion quantum simulators**|Casey Haack et.al.|[2311.06199](http://arxiv.org/abs/2311.06199)|null|
@@ -134,6 +135,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Stability of topologically protected slow light against disorder**|Jonas F. Karcher et.al.|[2311.09220](http://arxiv.org/abs/2311.09220)|null|
+|**2023-11-15**|**The Anatomy of a Topological Phase Transition in a 2D Chern Insulator**|Arjo Dasgupta et.al.|[2311.08932](http://arxiv.org/abs/2311.08932)|null|
 |**2023-11-14**|**Berry curvature induced giant intrinsic spin-orbit torque in single layer magnetic Weyl semimetal thin films**|Lakhan Bainsla et.al.|[2311.08145](http://arxiv.org/abs/2311.08145)|null|
 |**2023-11-14**|**Imaging Self-aligned Moiré Crystals and Quasicrystals in Magic-angle Bilayer Graphene on hBN Heterostructures**|Xinyuan Lai et.al.|[2311.07819](http://arxiv.org/abs/2311.07819)|null|
 |**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183](http://arxiv.org/abs/2311.07183)|null|
