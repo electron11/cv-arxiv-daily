@@ -135,6 +135,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Quantum-anomalous-Hall current patterns and interference in thin slabs of chiral topological superconductors**|Daniele Di Miceli et.al.|[2311.09664](http://arxiv.org/abs/2311.09664)|null|
+|**2023-11-16**|**Dissipation Enhanced Unidirectional Transport in Topological Systems**|Ming Lu et.al.|[2311.09534](http://arxiv.org/abs/2311.09534)|null|
+|**2023-11-15**|**First-order effect of electron-electron interactions on the anomalous Hall conductivity of massive Dirac fermions**|Daria A. Dumitriu-I. et.al.|[2311.09304](http://arxiv.org/abs/2311.09304)|null|
 |**2023-11-15**|**Stability of topologically protected slow light against disorder**|Jonas F. Karcher et.al.|[2311.09220](http://arxiv.org/abs/2311.09220)|null|
 |**2023-11-15**|**The Anatomy of a Topological Phase Transition in a 2D Chern Insulator**|Arjo Dasgupta et.al.|[2311.08932](http://arxiv.org/abs/2311.08932)|null|
 |**2023-11-14**|**Berry curvature induced giant intrinsic spin-orbit torque in single layer magnetic Weyl semimetal thin films**|Lakhan Bainsla et.al.|[2311.08145](http://arxiv.org/abs/2311.08145)|null|
@@ -282,7 +285,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-14**|**Imaging Self-aligned Moiré Crystals and Quasicrystals in Magic-angle Bilayer Graphene on hBN Heterostructures**|Xinyuan Lai et.al.|[2311.07819](http://arxiv.org/abs/2311.07819)|null|
-|**2023-11-13**|**Lattice relaxation, electronic structure and continuum model for twisted bilayer MoTe $_2$**|Ning Mao et.al.|[2311.07533](http://arxiv.org/abs/2311.07533)|null|
+|**2023-11-16**|**Lattice relaxation, electronic structure and continuum model for twisted bilayer MoTe $_2$**|Ning Mao et.al.|[2311.07533](http://arxiv.org/abs/2311.07533)|null|
 |**2023-11-10**|**Magnetotransport properties of a twisted bilayer graphene in the presence of external electric and magnetic field**|Priyanka Sinha et.al.|[2311.06215](http://arxiv.org/abs/2311.06215)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970](http://arxiv.org/abs/2311.04970)|null|
 |**2023-11-08**|**Moiré Fractional Chern Insulators I: First-principles calculations and Continuum Models of Twisted Bilayer MoTe $_2$**|Yujin Jia et.al.|[2311.04958](http://arxiv.org/abs/2311.04958)|null|
