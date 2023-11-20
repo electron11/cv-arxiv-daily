@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286](http://arxiv.org/abs/2311.10286)|null|
 |**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450](http://arxiv.org/abs/2311.08450)|null|
 |**2023-11-13**|**Nonlinear optical response in multiband Dirac-Electron System**|Keisuke Kitayama et.al.|[2311.07176](http://arxiv.org/abs/2311.07176)|null|
 |**2023-11-11**|**Non-Hermitian Skin Effect In Periodically-Driven Dissipative Ultracold Atoms**|Zhao-Fan Cai et.al.|[2311.06550](http://arxiv.org/abs/2311.06550)|null|
