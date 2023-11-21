@@ -14,9 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Floquet Engineering of Hilbert Space Fragmentation in Stark Lattices**|Li Zhang et.al.|[2311.11771](http://arxiv.org/abs/2311.11771)|null|
 |**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286](http://arxiv.org/abs/2311.10286)|null|
 |**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450](http://arxiv.org/abs/2311.08450)|null|
-|**2023-11-13**|**Nonlinear optical response in multiband Dirac-Electron System**|Keisuke Kitayama et.al.|[2311.07176](http://arxiv.org/abs/2311.07176)|null|
+|**2023-11-20**|**Nonlinear optical response in multiband Dirac-Electron System**|Keisuke Kitayama et.al.|[2311.07176](http://arxiv.org/abs/2311.07176)|null|
 |**2023-11-11**|**Non-Hermitian Skin Effect In Periodically-Driven Dissipative Ultracold Atoms**|Zhao-Fan Cai et.al.|[2311.06550](http://arxiv.org/abs/2311.06550)|null|
 |**2023-11-10**|**Probing non-equilibrium dissipative phase transitions with trapped-ion quantum simulators**|Casey Haack et.al.|[2311.06199](http://arxiv.org/abs/2311.06199)|null|
 |**2023-11-09**|**Floquet insulators and lattice fermions beyond naive time discretization**|Thomas Iadecola et.al.|[2311.05686](http://arxiv.org/abs/2311.05686)|null|
@@ -136,6 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Structural and magnetic properties of molecular beam epitaxy (MnSb2Te4)x(Sb2Te3)1-x topological materials with exceedingly high Curie temperature**|Candice R. Forrester et.al.|[2311.10891](http://arxiv.org/abs/2311.10891)|null|
 |**2023-11-16**|**Quantum-anomalous-Hall current patterns and interference in thin slabs of chiral topological superconductors**|Daniele Di Miceli et.al.|[2311.09664](http://arxiv.org/abs/2311.09664)|null|
 |**2023-11-16**|**Dissipation Enhanced Unidirectional Transport in Topological Systems**|Ming Lu et.al.|[2311.09534](http://arxiv.org/abs/2311.09534)|null|
 |**2023-11-15**|**First-order effect of electron-electron interactions on the anomalous Hall conductivity of massive Dirac fermions**|Daria A. Dumitriu-I. et.al.|[2311.09304](http://arxiv.org/abs/2311.09304)|null|
@@ -285,6 +287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Interlayer electric multipoles induced by in-plane field from quantum geometric origins**|Huiyuan Zheng et.al.|[2311.11710](http://arxiv.org/abs/2311.11710)|null|
 |**2023-11-14**|**Imaging Self-aligned Moiré Crystals and Quasicrystals in Magic-angle Bilayer Graphene on hBN Heterostructures**|Xinyuan Lai et.al.|[2311.07819](http://arxiv.org/abs/2311.07819)|null|
 |**2023-11-16**|**Lattice relaxation, electronic structure and continuum model for twisted bilayer MoTe $_2$**|Ning Mao et.al.|[2311.07533](http://arxiv.org/abs/2311.07533)|null|
 |**2023-11-10**|**Magnetotransport properties of a twisted bilayer graphene in the presence of external electric and magnetic field**|Priyanka Sinha et.al.|[2311.06215](http://arxiv.org/abs/2311.06215)|null|
