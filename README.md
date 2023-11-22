@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Alpha Zero for Physics: Application of Symbolic Regression with Alpha Zero to find the analytical methods in physics**|Yoshihiro Michishita et.al.|[2311.12713](http://arxiv.org/abs/2311.12713)|null|
+|**2023-11-21**|**Localized Floquet states in gated bilayer graphene induced by focused optical beam with orbital angular momentum**|Ma Luo et.al.|[2311.12350](http://arxiv.org/abs/2311.12350)|null|
 |**2023-11-20**|**Floquet Engineering of Hilbert Space Fragmentation in Stark Lattices**|Li Zhang et.al.|[2311.11771](http://arxiv.org/abs/2311.11771)|null|
 |**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286](http://arxiv.org/abs/2311.10286)|null|
 |**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450](http://arxiv.org/abs/2311.08450)|null|
@@ -144,6 +146,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Weyl orbits as probe of chiral separation effect in magnetic Weyl semimetals**|M. A. Zubkov et.al.|[2311.12712](http://arxiv.org/abs/2311.12712)|null|
+|**2023-11-21**|**Layer-Locked Anomalous Valley Hall Effect in Two-Dimensional A-Type Tetragonal Antiferromagnetic Insulator**|San-Dong Guo et.al.|[2311.12441](http://arxiv.org/abs/2311.12441)|null|
 |**2023-11-17**|**Structural and magnetic properties of molecular beam epitaxy (MnSb2Te4)x(Sb2Te3)1-x topological materials with exceedingly high Curie temperature**|Candice R. Forrester et.al.|[2311.10891](http://arxiv.org/abs/2311.10891)|null|
 |**2023-11-16**|**Quantum-anomalous-Hall current patterns and interference in thin slabs of chiral topological superconductors**|Daniele Di Miceli et.al.|[2311.09664](http://arxiv.org/abs/2311.09664)|null|
 |**2023-11-16**|**Dissipation Enhanced Unidirectional Transport in Topological Systems**|Ming Lu et.al.|[2311.09534](http://arxiv.org/abs/2311.09534)|null|
@@ -296,6 +300,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Polarization-driven band topology evolution in twisted MoTe $_2$ and WSe$_2$**|Xiao-Wei Zhang et.al.|[2311.12776](http://arxiv.org/abs/2311.12776)|null|
+|**2023-11-21**|**Atomistic theory of moiré Hofstadter's butterfly in magic-angle graphene**|Alina Wania Rodrigues et.al.|[2311.12740](http://arxiv.org/abs/2311.12740)|null|
 |**2023-11-20**|**Interlayer electric multipoles induced by in-plane field from quantum geometric origins**|Huiyuan Zheng et.al.|[2311.11710](http://arxiv.org/abs/2311.11710)|null|
 |**2023-11-14**|**Imaging Self-aligned Moiré Crystals and Quasicrystals in Magic-angle Bilayer Graphene on hBN Heterostructures**|Xinyuan Lai et.al.|[2311.07819](http://arxiv.org/abs/2311.07819)|null|
 |**2023-11-16**|**Lattice relaxation, electronic structure and continuum model for twisted bilayer MoTe $_2$**|Ning Mao et.al.|[2311.07533](http://arxiv.org/abs/2311.07533)|null|
