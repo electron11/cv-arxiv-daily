@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Exactly Solvable Floquet Dynamics for Conformal Field Theories in Dimensions Greater than Two**|Diptarka Das et.al.|[2311.13468](http://arxiv.org/abs/2311.13468)|null|
+|**2023-11-22**|**Buildup and dephasing of Floquet-Bloch bands on subcycle time scales**|S. Ito et.al.|[2311.13309](http://arxiv.org/abs/2311.13309)|null|
 |**2023-11-21**|**Alpha Zero for Physics: Application of Symbolic Regression with Alpha Zero to find the analytical methods in physics**|Yoshihiro Michishita et.al.|[2311.12713](http://arxiv.org/abs/2311.12713)|null|
 |**2023-11-21**|**Localized Floquet states in gated bilayer graphene induced by focused optical beam with orbital angular momentum**|Ma Luo et.al.|[2311.12350](http://arxiv.org/abs/2311.12350)|null|
 |**2023-11-20**|**Floquet Engineering of Hilbert Space Fragmentation in Stark Lattices**|Li Zhang et.al.|[2311.11771](http://arxiv.org/abs/2311.11771)|null|
@@ -146,6 +148,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Rashba-splitting-induced topological flat band detected by anomalous resistance oscillations beyond the quantum limit in ZrTe $_5$**|Dong Xing et.al.|[2311.13346](http://arxiv.org/abs/2311.13346)|null|
+|**2023-11-22**|**Bulk--boundary correspondence in a non-Hermitian quantum spin-Hall insulator**|Chihiro Ishii et.al.|[2311.13142](http://arxiv.org/abs/2311.13142)|null|
+|**2023-11-21**|**Moiré Fractional Chern Insulators II: First-principles Calculations and Continuum Models of Rhombohedral Graphene Superlattices**|Jonah Herzog-Arbeitman et.al.|[2311.12920](http://arxiv.org/abs/2311.12920)|null|
 |**2023-11-21**|**Weyl orbits as probe of chiral separation effect in magnetic Weyl semimetals**|M. A. Zubkov et.al.|[2311.12712](http://arxiv.org/abs/2311.12712)|null|
 |**2023-11-21**|**Layer-Locked Anomalous Valley Hall Effect in Two-Dimensional A-Type Tetragonal Antiferromagnetic Insulator**|San-Dong Guo et.al.|[2311.12441](http://arxiv.org/abs/2311.12441)|null|
 |**2023-11-17**|**Structural and magnetic properties of molecular beam epitaxy (MnSb2Te4)x(Sb2Te3)1-x topological materials with exceedingly high Curie temperature**|Candice R. Forrester et.al.|[2311.10891](http://arxiv.org/abs/2311.10891)|null|
