@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Floquet Engineering of a Diatomic Molecule Through a Bichromatic Radiation Field**|Edgar Barriga et.al.|[2311.13697](http://arxiv.org/abs/2311.13697)|null|
 |**2023-11-22**|**Exactly Solvable Floquet Dynamics for Conformal Field Theories in Dimensions Greater than Two**|Diptarka Das et.al.|[2311.13468](http://arxiv.org/abs/2311.13468)|null|
 |**2023-11-22**|**Buildup and dephasing of Floquet-Bloch bands on subcycle time scales**|S. Ito et.al.|[2311.13309](http://arxiv.org/abs/2311.13309)|null|
 |**2023-11-21**|**Alpha Zero for Physics: Application of Symbolic Regression with Alpha Zero to find the analytical methods in physics**|Yoshihiro Michishita et.al.|[2311.12713](http://arxiv.org/abs/2311.12713)|null|
@@ -148,6 +149,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640](http://arxiv.org/abs/2311.14640)|null|
+|**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626](http://arxiv.org/abs/2311.14626)|null|
+|**2023-11-24**|**Even-in-magnetic-field part of transverse resistivity as a probe of magnetic order**|Antonin Badura et.al.|[2311.14498](http://arxiv.org/abs/2311.14498)|null|
+|**2023-11-24**|**Multiple superconducting phases driven by pressure in the topological insulator GeSb4Te7**|W. Zhou et.al.|[2311.14472](http://arxiv.org/abs/2311.14472)|null|
+|**2023-11-24**|**Theory of fractional Chern insulator states in pentalayer graphene moiré superlattice**|Zhongqing Guo et.al.|[2311.14368](http://arxiv.org/abs/2311.14368)|null|
 |**2023-11-22**|**Rashba-splitting-induced topological flat band detected by anomalous resistance oscillations beyond the quantum limit in ZrTe $_5$**|Dong Xing et.al.|[2311.13346](http://arxiv.org/abs/2311.13346)|null|
 |**2023-11-22**|**Bulk--boundary correspondence in a non-Hermitian quantum spin-Hall insulator**|Chihiro Ishii et.al.|[2311.13142](http://arxiv.org/abs/2311.13142)|null|
 |**2023-11-21**|**Moiré Fractional Chern Insulators II: First-principles Calculations and Continuum Models of Rhombohedral Graphene Superlattices**|Jonah Herzog-Arbeitman et.al.|[2311.12920](http://arxiv.org/abs/2311.12920)|null|
@@ -305,6 +311,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Electrically tunable correlated domain wall network in twisted bilayer graphene**|Hao-Chien Wang et.al.|[2311.14384](http://arxiv.org/abs/2311.14384)|null|
+|**2023-11-23**|**Semiclassical analysis of two-scale electronic Hamiltonians for twisted bilayer graphene**|Eric Cancès et.al.|[2311.14011](http://arxiv.org/abs/2311.14011)|null|
 |**2023-11-21**|**Polarization-driven band topology evolution in twisted MoTe $_2$ and WSe$_2$**|Xiao-Wei Zhang et.al.|[2311.12776](http://arxiv.org/abs/2311.12776)|null|
 |**2023-11-21**|**Atomistic theory of moiré Hofstadter's butterfly in magic-angle graphene**|Alina Wania Rodrigues et.al.|[2311.12740](http://arxiv.org/abs/2311.12740)|null|
 |**2023-11-20**|**Interlayer electric multipoles induced by in-plane field from quantum geometric origins**|Huiyuan Zheng et.al.|[2311.11710](http://arxiv.org/abs/2311.11710)|null|
