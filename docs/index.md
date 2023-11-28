@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Current and shot noise in a spin dependent driven normal metal -- BCS superconductor junction**|Bruno Bertin-Johannet et.al.|[2311.15684](http://arxiv.org/abs/2311.15684)|null|
+|**2023-11-25**|**A Universal Model of Floquet Operator Krylov Space**|Hsiu-Chung Yeh et.al.|[2311.15116](http://arxiv.org/abs/2311.15116)|null|
 |**2023-11-22**|**Floquet Engineering of a Diatomic Molecule Through a Bichromatic Radiation Field**|Edgar Barriga et.al.|[2311.13697](http://arxiv.org/abs/2311.13697)|null|
 |**2023-11-22**|**Exactly Solvable Floquet Dynamics for Conformal Field Theories in Dimensions Greater than Two**|Diptarka Das et.al.|[2311.13468](http://arxiv.org/abs/2311.13468)|null|
 |**2023-11-22**|**Buildup and dephasing of Floquet-Bloch bands on subcycle time scales**|S. Ito et.al.|[2311.13309](http://arxiv.org/abs/2311.13309)|null|
@@ -142,6 +144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-26**|**Thermodynamic Response and Neutral Excitations in Integer and Fractional Quantum Anomalous Hall States Emerging from Correlated Flat Bands**|Hongyu Lu et.al.|[2311.15246](http://arxiv.org/abs/2311.15246)|null|
 |**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640](http://arxiv.org/abs/2311.14640)|null|
 |**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626](http://arxiv.org/abs/2311.14626)|null|
 |**2023-11-24**|**Even-in-magnetic-field part of transverse resistivity as a probe of magnetic order**|Antonin Badura et.al.|[2311.14498](http://arxiv.org/abs/2311.14498)|null|
@@ -302,6 +305,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**One-dimensional moire chains with partially-filled flat bands in two-dimensional twisted bilayer WSe2**|Ya-Ning Ren et.al.|[2311.15555](http://arxiv.org/abs/2311.15555)|null|
+|**2023-11-26**|**Thermodynamic Response and Neutral Excitations in Integer and Fractional Quantum Anomalous Hall States Emerging from Correlated Flat Bands**|Hongyu Lu et.al.|[2311.15246](http://arxiv.org/abs/2311.15246)|null|
+|**2023-11-25**|**Pseudomagnetic fields in fully relaxed twisted bilayer and trilayer graphene**|Adrián Ceferino et.al.|[2311.15052](http://arxiv.org/abs/2311.15052)|null|
 |**2023-11-24**|**Electrically tunable correlated domain wall network in twisted bilayer graphene**|Hao-Chien Wang et.al.|[2311.14384](http://arxiv.org/abs/2311.14384)|null|
 |**2023-11-23**|**Semiclassical analysis of two-scale electronic Hamiltonians for twisted bilayer graphene**|Eric Cancès et.al.|[2311.14011](http://arxiv.org/abs/2311.14011)|null|
 |**2023-11-21**|**Polarization-driven band topology evolution in twisted MoTe $_2$ and WSe$_2$**|Xiao-Wei Zhang et.al.|[2311.12776](http://arxiv.org/abs/2311.12776)|null|
