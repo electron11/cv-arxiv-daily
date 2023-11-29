@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Generation of higher-order topological insulators using periodic driving**|Arnob Kumar Ghosh et.al.|[2311.17018](http://arxiv.org/abs/2311.17018)|null|
+|**2023-11-28**|**A Floquet-Rydberg quantum simulator for confinement in $\mathbb{Z}_2$ gauge theories**|Enrico C. Domanti et.al.|[2311.16758](http://arxiv.org/abs/2311.16758)|null|
+|**2023-11-28**|**Heat Pulses in Electron Quantum Optics**|Pedro Portugal et.al.|[2311.16748](http://arxiv.org/abs/2311.16748)|null|
+|**2023-11-27**|**Frame Change Technique for Phase Transient Cancellation**|Andrew Stasiuk et.al.|[2311.16291](http://arxiv.org/abs/2311.16291)|null|
+|**2023-11-27**|**Robust effective ground state in a nonintegrable Floquet quantum circuit**|Tatsuhiko N. Ikeda et.al.|[2311.16217](http://arxiv.org/abs/2311.16217)|null|
 |**2023-11-27**|**Current and shot noise in a spin dependent driven normal metal -- BCS superconductor junction**|Bruno Bertin-Johannet et.al.|[2311.15684](http://arxiv.org/abs/2311.15684)|null|
 |**2023-11-25**|**A Universal Model of Floquet Operator Krylov Space**|Hsiu-Chung Yeh et.al.|[2311.15116](http://arxiv.org/abs/2311.15116)|null|
 |**2023-11-22**|**Floquet Engineering of a Diatomic Molecule Through a Bichromatic Radiation Field**|Edgar Barriga et.al.|[2311.13697](http://arxiv.org/abs/2311.13697)|null|
@@ -151,6 +156,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**The Conjugate Composite Fermi Liquid**|Nayan Myerson-Jain et.al.|[2311.16250](http://arxiv.org/abs/2311.16250)|null|
+|**2023-11-27**|**Density wave halo around anyons in fractional quantum anomalous hall states**|Xue-Yang Song et.al.|[2311.16216](http://arxiv.org/abs/2311.16216)|null|
 |**2023-11-26**|**Thermodynamic Response and Neutral Excitations in Integer and Fractional Quantum Anomalous Hall States Emerging from Correlated Flat Bands**|Hongyu Lu et.al.|[2311.15246](http://arxiv.org/abs/2311.15246)|null|
 |**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640](http://arxiv.org/abs/2311.14640)|null|
 |**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626](http://arxiv.org/abs/2311.14626)|null|
@@ -314,6 +321,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Room-temperature correlated states in twisted bilayer MoS $_2$**|Fanfan Wu et.al.|[2311.16655](http://arxiv.org/abs/2311.16655)|null|
 |**2023-11-27**|**One-dimensional moire chains with partially-filled flat bands in two-dimensional twisted bilayer WSe2**|Ya-Ning Ren et.al.|[2311.15555](http://arxiv.org/abs/2311.15555)|null|
 |**2023-11-26**|**Thermodynamic Response and Neutral Excitations in Integer and Fractional Quantum Anomalous Hall States Emerging from Correlated Flat Bands**|Hongyu Lu et.al.|[2311.15246](http://arxiv.org/abs/2311.15246)|null|
 |**2023-11-25**|**Pseudomagnetic fields in fully relaxed twisted bilayer and trilayer graphene**|Adrián Ceferino et.al.|[2311.15052](http://arxiv.org/abs/2311.15052)|null|
