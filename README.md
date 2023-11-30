@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Light controlled THz plasmonic time varying media: momentum gaps, entangled plasmon pairs, and pulse induced time reversal**|Egor I. Kiselev et.al.|[2311.17870](http://arxiv.org/abs/2311.17870)|null|
+|**2023-11-29**|**Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model**|George Grattan et.al.|[2311.17814](http://arxiv.org/abs/2311.17814)|null|
+|**2023-11-29**|**Realization of edge states along a synthetic orbital angular momentum dimension**|Yu-Wei Liao et.al.|[2311.17588](http://arxiv.org/abs/2311.17588)|null|
 |**2023-11-28**|**Generation of higher-order topological insulators using periodic driving**|Arnob Kumar Ghosh et.al.|[2311.17018](http://arxiv.org/abs/2311.17018)|null|
 |**2023-11-28**|**A Floquet-Rydberg quantum simulator for confinement in $\mathbb{Z}_2$ gauge theories**|Enrico C. Domanti et.al.|[2311.16758](http://arxiv.org/abs/2311.16758)|null|
 |**2023-11-28**|**Heat Pulses in Electron Quantum Optics**|Pedro Portugal et.al.|[2311.16748](http://arxiv.org/abs/2311.16748)|null|
@@ -321,6 +324,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Competition of moiré network sites to form electronic quantum dots in reconstructed MoX ${}_2$/WX${}_2$ heterostructures**|Isaac Soltero et.al.|[2311.17710](http://arxiv.org/abs/2311.17710)|null|
 |**2023-11-28**|**Room-temperature correlated states in twisted bilayer MoS $_2$**|Fanfan Wu et.al.|[2311.16655](http://arxiv.org/abs/2311.16655)|null|
 |**2023-11-27**|**One-dimensional moire chains with partially-filled flat bands in two-dimensional twisted bilayer WSe2**|Ya-Ning Ren et.al.|[2311.15555](http://arxiv.org/abs/2311.15555)|null|
 |**2023-11-26**|**Thermodynamic Response and Neutral Excitations in Integer and Fractional Quantum Anomalous Hall States Emerging from Correlated Flat Bands**|Hongyu Lu et.al.|[2311.15246](http://arxiv.org/abs/2311.15246)|null|
