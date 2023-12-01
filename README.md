@@ -159,6 +159,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Vanishing of the anomalous Hall effect and enhanced carrier mobility in the spin-gapless ferromagnetic Mn2CoGa1-xAlx alloys**|Cheng Zhang et.al.|[2311.18335](http://arxiv.org/abs/2311.18335)|null|
+|**2023-11-30**|**3D carbon allotropes: Topological quantum materials with obstructed atomic insulating phases, multiple bulk-boundary correspondences, and real topology**|Jianhua Wang et.al.|[2311.18276](http://arxiv.org/abs/2311.18276)|null|
+|**2023-11-29**|**Ferroelectric Semimetals with $α$ -Bi/SnSe van der Waals heterostructures and its Topological Currents**|D. J. P. de Sousa et.al.|[2311.18026](http://arxiv.org/abs/2311.18026)|null|
 |**2023-11-27**|**The Conjugate Composite Fermi Liquid**|Nayan Myerson-Jain et.al.|[2311.16250](http://arxiv.org/abs/2311.16250)|null|
 |**2023-11-27**|**Density wave halo around anyons in fractional quantum anomalous hall states**|Xue-Yang Song et.al.|[2311.16216](http://arxiv.org/abs/2311.16216)|null|
 |**2023-11-26**|**Thermodynamic Response and Neutral Excitations in Integer and Fractional Quantum Anomalous Hall States Emerging from Correlated Flat Bands**|Hongyu Lu et.al.|[2311.15246](http://arxiv.org/abs/2311.15246)|null|
