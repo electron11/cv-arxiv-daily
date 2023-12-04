@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Robustness of Quantum Chaos and Anomalous Relaxation in Open Quantum Circuits**|Takato Yoshimura et.al.|[2312.00649](http://arxiv.org/abs/2312.00649)|null|
 |**2023-11-29**|**Light controlled THz plasmonic time varying media: momentum gaps, entangled plasmon pairs, and pulse induced time reversal**|Egor I. Kiselev et.al.|[2311.17870](http://arxiv.org/abs/2311.17870)|null|
 |**2023-11-29**|**Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model**|George Grattan et.al.|[2311.17814](http://arxiv.org/abs/2311.17814)|null|
 |**2023-11-29**|**Realization of edge states along a synthetic orbital angular momentum dimension**|Yu-Wei Liao et.al.|[2311.17588](http://arxiv.org/abs/2311.17588)|null|
@@ -152,6 +153,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Interplay between Haldane and modified Haldane models in $α$-$T_{3}$ lattice: Band structures, phase diagrams and edge states**|Kok Wai Lee et.al.|[2312.00642](http://arxiv.org/abs/2312.00642)|null|
+|**2023-12-01**|**Hyperdeterminants and Composite fermion States in Fractional Chern Insulators**|Xiaodong Hu et.al.|[2312.00636](http://arxiv.org/abs/2312.00636)|null|
+|**2023-12-01**|**Effects of domain walls and chiral supercurrent in quantum anomalous Hall Josephson junctions**|Junjie Qi et.al.|[2312.00331](http://arxiv.org/abs/2312.00331)|null|
+|**2023-11-30**|**Anomalous Hall effect with plateaus observed in a magnetic Weyl semimetal NdAlGe at low temperatures**|Naoki Kikugawa et.al.|[2312.00222](http://arxiv.org/abs/2312.00222)|null|
 |**2023-11-30**|**Vanishing of the anomalous Hall effect and enhanced carrier mobility in the spin-gapless ferromagnetic Mn2CoGa1-xAlx alloys**|Cheng Zhang et.al.|[2311.18335](http://arxiv.org/abs/2311.18335)|null|
 |**2023-11-30**|**3D carbon allotropes: Topological quantum materials with obstructed atomic insulating phases, multiple bulk-boundary correspondences, and real topology**|Jianhua Wang et.al.|[2311.18276](http://arxiv.org/abs/2311.18276)|null|
 |**2023-11-29**|**Ferroelectric Semimetals with $α$ -Bi/SnSe van der Waals heterostructures and its Topological Currents**|D. J. P. de Sousa et.al.|[2311.18026](http://arxiv.org/abs/2311.18026)|null|
@@ -318,6 +323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Hyperdeterminants and Composite fermion States in Fractional Chern Insulators**|Xiaodong Hu et.al.|[2312.00636](http://arxiv.org/abs/2312.00636)|null|
 |**2023-11-29**|**Competition of moiré network sites to form electronic quantum dots in reconstructed MoX ${}_2$/WX${}_2$ heterostructures**|Isaac Soltero et.al.|[2311.17710](http://arxiv.org/abs/2311.17710)|null|
 |**2023-11-28**|**Room-temperature correlated states in twisted bilayer MoS $_2$**|Fanfan Wu et.al.|[2311.16655](http://arxiv.org/abs/2311.16655)|null|
 |**2023-11-27**|**One-dimensional moire chains with partially-filled flat bands in two-dimensional twisted bilayer WSe2**|Ya-Ning Ren et.al.|[2311.15555](http://arxiv.org/abs/2311.15555)|null|
