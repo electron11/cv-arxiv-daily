@@ -153,6 +153,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Switchable band topology and geometric current in sliding bilayer elemental ferroelectric**|Zhuang Qian et.al.|[2312.01937](http://arxiv.org/abs/2312.01937)|null|
+|**2023-12-04**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614](http://arxiv.org/abs/2312.01614)|null|
+|**2023-12-01**|**Effective field theory of Berry Landau Fermi liquid from the coadjoint orbit method**|Xiaoyang Huang et.al.|[2312.00877](http://arxiv.org/abs/2312.00877)|null|
 |**2023-12-01**|**Interplay between Haldane and modified Haldane models in $α$-$T_{3}$ lattice: Band structures, phase diagrams and edge states**|Kok Wai Lee et.al.|[2312.00642](http://arxiv.org/abs/2312.00642)|null|
 |**2023-12-01**|**Hyperdeterminants and Composite fermion States in Fractional Chern Insulators**|Xiaodong Hu et.al.|[2312.00636](http://arxiv.org/abs/2312.00636)|null|
 |**2023-12-01**|**Effects of domain walls and chiral supercurrent in quantum anomalous Hall Josephson junctions**|Junjie Qi et.al.|[2312.00331](http://arxiv.org/abs/2312.00331)|null|
@@ -323,6 +326,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Decomposing Electronic Structures in Twisted Multilayers: Bridging Spectra and Incommensurate Wave Functions**|Citian Wang et.al.|[2312.01848](http://arxiv.org/abs/2312.01848)|null|
 |**2023-12-01**|**Hyperdeterminants and Composite fermion States in Fractional Chern Insulators**|Xiaodong Hu et.al.|[2312.00636](http://arxiv.org/abs/2312.00636)|null|
 |**2023-11-29**|**Competition of moiré network sites to form electronic quantum dots in reconstructed MoX ${}_2$/WX${}_2$ heterostructures**|Isaac Soltero et.al.|[2311.17710](http://arxiv.org/abs/2311.17710)|null|
 |**2023-11-28**|**Room-temperature correlated states in twisted bilayer MoS $_2$**|Fanfan Wu et.al.|[2311.16655](http://arxiv.org/abs/2311.16655)|null|
