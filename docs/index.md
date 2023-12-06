@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Floquet Chiral Quantum Walk in Quantum Computer**|Chan Bin Bark et.al.|[2312.02979](http://arxiv.org/abs/2312.02979)|null|
+|**2023-12-05**|**Modulating dichroism and optical conductivity in bilayer graphene under intense electromagnetic field irradiation**|S. Sajad Dabiri et.al.|[2312.02558](http://arxiv.org/abs/2312.02558)|null|
+|**2023-12-05**|**Laser induced Flqouet topological phases in a 2D weak topological insulator with unconventional nonlinear dispersion**|Aayushi Agrawal et.al.|[2312.02474](http://arxiv.org/abs/2312.02474)|null|
+|**2023-12-04**|**Programmable Simulations of Molecules and Materials with Reconfigurable Quantum Processors**|Nishad Maskara et.al.|[2312.02265](http://arxiv.org/abs/2312.02265)|null|
 |**2023-12-01**|**Robustness of Quantum Chaos and Anomalous Relaxation in Open Quantum Circuits**|Takato Yoshimura et.al.|[2312.00649](http://arxiv.org/abs/2312.00649)|null|
 |**2023-11-29**|**Light controlled THz plasmonic time varying media: momentum gaps, entangled plasmon pairs, and pulse induced time reversal**|Egor I. Kiselev et.al.|[2311.17870](http://arxiv.org/abs/2311.17870)|null|
 |**2023-11-29**|**Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model**|George Grattan et.al.|[2311.17814](http://arxiv.org/abs/2311.17814)|null|
@@ -153,6 +157,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Fragility of the antichiral edge states under disorder**|Marwa Mannaï et.al.|[2312.02562](http://arxiv.org/abs/2312.02562)|null|
+|**2023-12-05**|**Pairwise annihilation of Weyl nodes by magnetic fields in the Hofstadter regime**|Faruk Abdulla et.al.|[2312.02463](http://arxiv.org/abs/2312.02463)|null|
 |**2023-12-04**|**Switchable band topology and geometric current in sliding bilayer elemental ferroelectric**|Zhuang Qian et.al.|[2312.01937](http://arxiv.org/abs/2312.01937)|null|
 |**2023-12-04**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614](http://arxiv.org/abs/2312.01614)|null|
 |**2023-12-01**|**Effective field theory of Berry Landau Fermi liquid from the coadjoint orbit method**|Xiaoyang Huang et.al.|[2312.00877](http://arxiv.org/abs/2312.00877)|null|
