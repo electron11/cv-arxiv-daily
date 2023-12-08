@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Geometric phases in generalized radical Floquet dynamics**|Brenden Roberts et.al.|[2312.04500](http://arxiv.org/abs/2312.04500)|null|
+|**2023-12-06**|**Hayden-Preskill recovery in chaotic and integrable unitary circuit dynamics**|Michael A. Rampp et.al.|[2312.03838](http://arxiv.org/abs/2312.03838)|null|
 |**2023-12-05**|**Floquet Chiral Quantum Walk in Quantum Computer**|Chan Bin Bark et.al.|[2312.02979](http://arxiv.org/abs/2312.02979)|null|
 |**2023-12-05**|**Modulating dichroism and optical conductivity in bilayer graphene under intense electromagnetic field irradiation**|S. Sajad Dabiri et.al.|[2312.02558](http://arxiv.org/abs/2312.02558)|null|
 |**2023-12-05**|**Laser induced Flqouet topological phases in a 2D weak topological insulator with unconventional nonlinear dispersion**|Aayushi Agrawal et.al.|[2312.02474](http://arxiv.org/abs/2312.02474)|null|
@@ -167,7 +169,7 @@
 |**2023-12-05**|**Fragility of the antichiral edge states under disorder**|Marwa Mannaï et.al.|[2312.02562](http://arxiv.org/abs/2312.02562)|null|
 |**2023-12-05**|**Pairwise annihilation of Weyl nodes by magnetic fields in the Hofstadter regime**|Faruk Abdulla et.al.|[2312.02463](http://arxiv.org/abs/2312.02463)|null|
 |**2023-12-04**|**Switchable band topology and geometric current in sliding bilayer elemental ferroelectric**|Zhuang Qian et.al.|[2312.01937](http://arxiv.org/abs/2312.01937)|null|
-|**2023-12-04**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614](http://arxiv.org/abs/2312.01614)|null|
+|**2023-12-07**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614](http://arxiv.org/abs/2312.01614)|null|
 |**2023-12-01**|**Effective field theory of Berry Landau Fermi liquid from the coadjoint orbit method**|Xiaoyang Huang et.al.|[2312.00877](http://arxiv.org/abs/2312.00877)|null|
 |**2023-12-01**|**Interplay between Haldane and modified Haldane models in $α$-$T_{3}$ lattice: Band structures, phase diagrams and edge states**|Kok Wai Lee et.al.|[2312.00642](http://arxiv.org/abs/2312.00642)|null|
 |**2023-12-01**|**Hyperdeterminants and Composite fermion States in Fractional Chern Insulators**|Xiaodong Hu et.al.|[2312.00636](http://arxiv.org/abs/2312.00636)|null|
@@ -341,6 +343,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Nano-ARPES investigation of twisted bilayer tungsten disulfide**|Giovanna Feraco et.al.|[2312.04205](http://arxiv.org/abs/2312.04205)|null|
+|**2023-12-06**|**A theory for the low-energy optical sum-rule in moiré graphene**|J. F. Mendez-Valderrama et.al.|[2312.03819](http://arxiv.org/abs/2312.03819)|null|
 |**2023-12-04**|**Decomposing Electronic Structures in Twisted Multilayers: Bridging Spectra and Incommensurate Wave Functions**|Citian Wang et.al.|[2312.01848](http://arxiv.org/abs/2312.01848)|null|
 |**2023-12-01**|**Hyperdeterminants and Composite fermion States in Fractional Chern Insulators**|Xiaodong Hu et.al.|[2312.00636](http://arxiv.org/abs/2312.00636)|null|
 |**2023-11-29**|**Competition of moiré network sites to form electronic quantum dots in reconstructed MoX ${}_2$/WX${}_2$ heterostructures**|Isaac Soltero et.al.|[2311.17710](http://arxiv.org/abs/2311.17710)|null|
