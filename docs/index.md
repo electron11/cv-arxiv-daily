@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Floquet engineering of many-body states by the Ponderomotive potential**|Zhiyuan Sun et.al.|[2312.04892](http://arxiv.org/abs/2312.04892)|null|
 |**2023-12-07**|**Geometric phases in generalized radical Floquet dynamics**|Brenden Roberts et.al.|[2312.04500](http://arxiv.org/abs/2312.04500)|null|
 |**2023-12-06**|**Hayden-Preskill recovery in chaotic and integrable unitary circuit dynamics**|Michael A. Rampp et.al.|[2312.03838](http://arxiv.org/abs/2312.03838)|null|
 |**2023-12-05**|**Floquet Chiral Quantum Walk in Quantum Computer**|Chan Bin Bark et.al.|[2312.02979](http://arxiv.org/abs/2312.02979)|null|
@@ -334,6 +335,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Twist driven deep-ultraviolet-wavelength exciton funnel effect in bilayer boron nitride**|Linghan Zhu et.al.|[2312.05135](http://arxiv.org/abs/2312.05135)|null|
 |**2023-12-07**|**Nano-ARPES investigation of twisted bilayer tungsten disulfide**|Giovanna Feraco et.al.|[2312.04205](http://arxiv.org/abs/2312.04205)|null|
 |**2023-12-06**|**A theory for the low-energy optical sum-rule in moiré graphene**|J. F. Mendez-Valderrama et.al.|[2312.03819](http://arxiv.org/abs/2312.03819)|null|
 |**2023-12-04**|**Decomposing Electronic Structures in Twisted Multilayers: Bridging Spectra and Incommensurate Wave Functions**|Citian Wang et.al.|[2312.01848](http://arxiv.org/abs/2312.01848)|null|
