@@ -19,12 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Statistical and dynamical aspects of quantum chaos in a kicked Bose-Hubbard dimer**|Chenguang Liang et.al.|[2312.08159](http://arxiv.org/abs/2312.08159)|null|
+|**2023-12-13**|**Phase modulation of directed transport, energy diffusion and quantum scrambling in a Floquet non-Hermitian system**|Wen-Lei Zhao et.al.|[2312.08082](http://arxiv.org/abs/2312.08082)|null|
+|**2023-12-12**|**Analysis of photo-induced chirality and magnetic toroidal moment based on Floquet formalism**|Satoru Hayami et.al.|[2312.07735](http://arxiv.org/abs/2312.07735)|null|
 |**2023-12-12**|**Interacting Floquet topological magnons in laser-irradiated Heisenberg honeycomb ferromagnets**|Hongchao Shi et.al.|[2312.06929](http://arxiv.org/abs/2312.06929)|null|
 |**2023-12-11**|**Anomalous Floquet Phases. A resonance phenomena**|Álvaro Gómez-León et.al.|[2312.06778](http://arxiv.org/abs/2312.06778)|null|
 |**2023-12-09**|**On the periodic and antiperiodic aspects of the Floquet normal form**|Douglas D. Novaes et.al.|[2312.05608](http://arxiv.org/abs/2312.05608)|null|
 |**2023-12-08**|**Floquet engineering of many-body states by the Ponderomotive potential**|Zhiyuan Sun et.al.|[2312.04892](http://arxiv.org/abs/2312.04892)|null|
 |**2023-12-07**|**Geometric phases in generalized radical Floquet dynamics**|Brenden Roberts et.al.|[2312.04500](http://arxiv.org/abs/2312.04500)|null|
-|**2023-12-06**|**Hayden-Preskill recovery in chaotic and integrable unitary circuit dynamics**|Michael A. Rampp et.al.|[2312.03838](http://arxiv.org/abs/2312.03838)|null|
+|**2023-12-13**|**Hayden-Preskill recovery in chaotic and integrable unitary circuit dynamics**|Michael A. Rampp et.al.|[2312.03838](http://arxiv.org/abs/2312.03838)|null|
 |**2023-12-05**|**Floquet Chiral Quantum Walk in Quantum Computer**|Chan Bin Bark et.al.|[2312.02979](http://arxiv.org/abs/2312.02979)|null|
 |**2023-12-05**|**Modulating dichroism and optical conductivity in bilayer graphene under intense electromagnetic field irradiation**|S. Sajad Dabiri et.al.|[2312.02558](http://arxiv.org/abs/2312.02558)|null|
 |**2023-12-05**|**Laser induced Flqouet topological phases in a 2D weak topological insulator with unconventional nonlinear dispersion**|Aayushi Agrawal et.al.|[2312.02474](http://arxiv.org/abs/2312.02474)|null|
@@ -170,6 +173,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Lorentz invariance violation and the CPT-odd electromagnetic response of a tilted anisotropic Weyl semimetal**|Andrés Gómez et.al.|[2312.07791](http://arxiv.org/abs/2312.07791)|null|
+|**2023-12-11**|**Wigner Molecular Crystals from Multi-electron Moiré Artificial Atoms**|Hongyuan Li et.al.|[2312.07607](http://arxiv.org/abs/2312.07607)|null|
 |**2023-12-12**|**Quantum Anomalous Hall and Spin Hall Effects in Magnetic Graphene**|Talieh S. Ghiasi et.al.|[2312.07515](http://arxiv.org/abs/2312.07515)|null|
 |**2023-12-12**|**Giant domain wall anomalous Hall effect in an antiferromagnet**|Wei Xia et.al.|[2312.07336](http://arxiv.org/abs/2312.07336)|null|
 |**2023-12-12**|**Universality of Anderson Localization Transitions in the Integer and Fractional Quantum Hall Regime**|Simrandeep Kaur et.al.|[2312.06194](http://arxiv.org/abs/2312.06194)|null|
@@ -351,6 +356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Wigner Molecular Crystals from Multi-electron Moiré Artificial Atoms**|Hongyuan Li et.al.|[2312.07607](http://arxiv.org/abs/2312.07607)|null|
 |**2023-12-12**|**Engineering Moiré Meta-crystals with Conventional Photonic and Phononic Structures**|Mourad Oudich et.al.|[2312.06970](http://arxiv.org/abs/2312.06970)|null|
 |**2023-12-11**|**Tuning Interfacial Water Friction through Moiré Twist**|Chenxing Liang et.al.|[2312.06830](http://arxiv.org/abs/2312.06830)|null|
 |**2023-12-10**|**Large quantum nonreciprocity in plasmons dragged by drifting electrons**|Debasis Dutta et.al.|[2312.05949](http://arxiv.org/abs/2312.05949)|null|
