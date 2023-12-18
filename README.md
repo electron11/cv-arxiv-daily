@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Axionlike Particle Detection in Alkali-Noble-Gas Haloscopes**|Xiaofei Huang et.al.|[2312.09491](http://arxiv.org/abs/2312.09491)|null|
 |**2023-12-14**|**A universal shortcut method for state transfer in quantum spin systems**|Jian Xu et.al.|[2312.08920](http://arxiv.org/abs/2312.08920)|null|
 |**2023-12-13**|**Statistical and dynamical aspects of quantum chaos in a kicked Bose-Hubbard dimer**|Chenguang Liang et.al.|[2312.08159](http://arxiv.org/abs/2312.08159)|null|
 |**2023-12-13**|**Phase modulation of directed transport, energy diffusion and quantum scrambling in a Floquet non-Hermitian system**|Wen-Lei Zhao et.al.|[2312.08082](http://arxiv.org/abs/2312.08082)|null|
@@ -358,6 +359,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Vacancy-induced tunable Kondo effect in twisted bilayer graphene**|Yueqing Chang et.al.|[2312.09286](http://arxiv.org/abs/2312.09286)|null|
 |**2023-12-14**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574](http://arxiv.org/abs/2312.08574)|null|
 |**2023-12-11**|**Wigner Molecular Crystals from Multi-electron Moiré Artificial Atoms**|Hongyuan Li et.al.|[2312.07607](http://arxiv.org/abs/2312.07607)|null|
 |**2023-12-12**|**Engineering Moiré Meta-crystals with Conventional Photonic and Phononic Structures**|Mourad Oudich et.al.|[2312.06970](http://arxiv.org/abs/2312.06970)|null|
