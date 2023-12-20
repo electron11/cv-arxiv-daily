@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Many-body origin of anomalous Floquet phases in cavity-QED materials**|Beatriz Pérez-González et.al.|[2312.10141](http://arxiv.org/abs/2312.10141)|null|
 |**2023-12-15**|**Axionlike Particle Detection in Alkali-Noble-Gas Haloscopes**|Xiaofei Huang et.al.|[2312.09491](http://arxiv.org/abs/2312.09491)|null|
 |**2023-12-14**|**A universal shortcut method for state transfer in quantum spin systems**|Jian Xu et.al.|[2312.08920](http://arxiv.org/abs/2312.08920)|null|
 |**2023-12-13**|**Statistical and dynamical aspects of quantum chaos in a kicked Bose-Hubbard dimer**|Chenguang Liang et.al.|[2312.08159](http://arxiv.org/abs/2312.08159)|null|
@@ -168,6 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-16**|**Multiple magnetic transitions, metamagnetism and large magnetoresistance in GdAuGe single crystals**|D. Ram et.al.|[2312.10352](http://arxiv.org/abs/2312.10352)|null|
 |**2023-12-14**|**Magneto-optical effects of an artificially-layered ferromagnetic topological insulator**|Xingyue Han et.al.|[2312.08687](http://arxiv.org/abs/2312.08687)|null|
 |**2023-12-12**|**Lorentz invariance violation and the CPT-odd electromagnetic response of a tilted anisotropic Weyl semimetal**|Andrés Gómez et.al.|[2312.07791](http://arxiv.org/abs/2312.07791)|null|
 |**2023-12-11**|**Wigner Molecular Crystals from Multi-electron Moiré Artificial Atoms**|Hongyuan Li et.al.|[2312.07607](http://arxiv.org/abs/2312.07607)|null|
