@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -170,12 +170,13 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231221>back to top</a>)</p>
 
 ## QAH
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**Moiré Fractional Chern Insulators III: Hartree-Fock Phase Diagram, Magic Angle Regime for Chern Insulator States, the Role of the Moiré Potential and Goldstone Gaps in Rhombohedral Graphene Superlattices**|Yves H. Kwan et.al.|[2312.11617](http://arxiv.org/abs/2312.11617)|null|
 |**2023-12-16**|**Multiple magnetic transitions, metamagnetism and large magnetoresistance in GdAuGe single crystals**|D. Ram et.al.|[2312.10352](http://arxiv.org/abs/2312.10352)|null|
 |**2023-12-14**|**Magneto-optical effects of an artificially-layered ferromagnetic topological insulator**|Xingyue Han et.al.|[2312.08687](http://arxiv.org/abs/2312.08687)|null|
 |**2023-12-12**|**Lorentz invariance violation and the CPT-odd electromagnetic response of a tilted anisotropic Weyl semimetal**|Andrés Gómez et.al.|[2312.07791](http://arxiv.org/abs/2312.07791)|null|
@@ -355,12 +356,14 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231221>back to top</a>)</p>
 
 ## twist
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**Gate-defined superconducting channel in magic-angle twisted bilayer graphene**|Giulia Zheng et.al.|[2312.11698](http://arxiv.org/abs/2312.11698)|null|
+|**2023-12-18**|**Layer Hall counterflow as a model probe of magic-angle twisted bilayer graphene**|Jihang Zhu et.al.|[2312.11662](http://arxiv.org/abs/2312.11662)|null|
 |**2023-12-14**|**Vacancy-induced tunable Kondo effect in twisted bilayer graphene**|Yueqing Chang et.al.|[2312.09286](http://arxiv.org/abs/2312.09286)|null|
 |**2023-12-14**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574](http://arxiv.org/abs/2312.08574)|null|
 |**2023-12-11**|**Wigner Molecular Crystals from Multi-electron Moiré Artificial Atoms**|Hongyuan Li et.al.|[2312.07607](http://arxiv.org/abs/2312.07607)|null|
@@ -459,7 +462,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
