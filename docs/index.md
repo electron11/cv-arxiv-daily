@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Non-linear photoconductivity of strongly driven graphene**|Lukas Broers et.al.|[2312.13217](http://arxiv.org/abs/2312.13217)|null|
+|**2023-12-20**|**Tunable Andreev-Conversion of Single-Electron Charge Pulses**|Pablo Burset et.al.|[2312.13145](http://arxiv.org/abs/2312.13145)|null|
+|**2023-12-20**|**Dynamical Approach to Realize Room-Temperature Superconductivity in LaH $_{10}$**|Chendi Xie et.al.|[2312.12706](http://arxiv.org/abs/2312.12706)|null|
+|**2023-12-19**|**Three-photon electron spin resonances**|S. I. Atwood et.al.|[2312.12609](http://arxiv.org/abs/2312.12609)|null|
+|**2023-12-19**|**The entanglement membrane in exactly solvable lattice models**|Michael A. Rampp et.al.|[2312.12509](http://arxiv.org/abs/2312.12509)|null|
 |**2023-12-15**|**Many-body origin of anomalous Floquet phases in cavity-QED materials**|Beatriz Pérez-González et.al.|[2312.10141](http://arxiv.org/abs/2312.10141)|null|
 |**2023-12-15**|**Axionlike Particle Detection in Alkali-Noble-Gas Haloscopes**|Xiaofei Huang et.al.|[2312.09491](http://arxiv.org/abs/2312.09491)|null|
 |**2023-12-14**|**A universal shortcut method for state transfer in quantum spin systems**|Jian Xu et.al.|[2312.08920](http://arxiv.org/abs/2312.08920)|null|
@@ -169,6 +174,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Anisotropic cold plasma modes in the chiral vector MCFJ electrodynamics**|Filipe S. Ribeiro et.al.|[2312.13196](http://arxiv.org/abs/2312.13196)|null|
+|**2023-12-20**|**Singular Hall response from a correlated ferromagnetic flat nodal-line semimetal**|Woohyun Cho et.al.|[2312.12889](http://arxiv.org/abs/2312.12889)|null|
+|**2023-12-19**|**Magnetism of noncolinear amorphous DyCo3 and TbCo3 thin films**|Zexiang Hu et.al.|[2312.12602](http://arxiv.org/abs/2312.12602)|null|
+|**2023-12-19**|**Topology, magnetism and charge order in twisted MoTe2 at higher integer hole fillings**|Taige Wang et.al.|[2312.12531](http://arxiv.org/abs/2312.12531)|null|
 |**2023-12-18**|**Moiré Fractional Chern Insulators III: Hartree-Fock Phase Diagram, Magic Angle Regime for Chern Insulator States, the Role of the Moiré Potential and Goldstone Gaps in Rhombohedral Graphene Superlattices**|Yves H. Kwan et.al.|[2312.11617](http://arxiv.org/abs/2312.11617)|null|
 |**2023-12-16**|**Multiple magnetic transitions, metamagnetism and large magnetoresistance in GdAuGe single crystals**|D. Ram et.al.|[2312.10352](http://arxiv.org/abs/2312.10352)|null|
 |**2023-12-14**|**Magneto-optical effects of an artificially-layered ferromagnetic topological insulator**|Xingyue Han et.al.|[2312.08687](http://arxiv.org/abs/2312.08687)|null|
@@ -353,6 +362,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Emergent Atomic Environments in Twisted Bilayer Graphene and Their Use in the Prediction of the Vibrational Properties**|Dilara Ickecan et.al.|[2312.12864](http://arxiv.org/abs/2312.12864)|null|
+|**2023-12-19**|**Graph Theorem for Chiral Exact Flat Bands at Charge Neutrality**|Gurjyot Sethi et.al.|[2312.12607](http://arxiv.org/abs/2312.12607)|null|
 |**2023-12-18**|**Gate-defined superconducting channel in magic-angle twisted bilayer graphene**|Giulia Zheng et.al.|[2312.11698](http://arxiv.org/abs/2312.11698)|null|
 |**2023-12-18**|**Layer Hall counterflow as a model probe of magic-angle twisted bilayer graphene**|Jihang Zhu et.al.|[2312.11662](http://arxiv.org/abs/2312.11662)|null|
 |**2023-12-14**|**Vacancy-induced tunable Kondo effect in twisted bilayer graphene**|Yueqing Chang et.al.|[2312.09286](http://arxiv.org/abs/2312.09286)|null|
