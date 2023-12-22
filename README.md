@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060](http://arxiv.org/abs/2312.14060)|null|
+|**2023-12-21**|**Probing quantum properties of black holes with a Floquet-driven optical lattice simulator**|Asmae Benhemou et.al.|[2312.14058](http://arxiv.org/abs/2312.14058)|null|
+|**2023-12-21**|**Topological Phase Transitions with Zero Indirect Band Gap**|Giandomenico Palumbo et.al.|[2312.13907](http://arxiv.org/abs/2312.13907)|null|
+|**2023-12-21**|**Floquet engineering Higgs dynamics in time-periodic superconductors**|Tobias Kuhn et.al.|[2312.13785](http://arxiv.org/abs/2312.13785)|null|
+|**2023-12-21**|**The anomalous Floquet Anderson insulator in a continuously driven optical lattice**|Arijit Dutta et.al.|[2312.13589](http://arxiv.org/abs/2312.13589)|null|
 |**2023-12-20**|**Non-linear photoconductivity of strongly driven graphene**|Lukas Broers et.al.|[2312.13217](http://arxiv.org/abs/2312.13217)|null|
 |**2023-12-20**|**Tunable Andreev-Conversion of Single-Electron Charge Pulses**|Pablo Burset et.al.|[2312.13145](http://arxiv.org/abs/2312.13145)|null|
 |**2023-12-20**|**Dynamical Approach to Realize Room-Temperature Superconductivity in LaH $_{10}$**|Chendi Xie et.al.|[2312.12706](http://arxiv.org/abs/2312.12706)|null|
@@ -181,6 +186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Direct evidence from high-field magnetotransport for a dramatic change of quasiparticle character in van der Waals ferromagnet Fe $_{3-x}$GeTe$_2$**|Shroya Vaidya et.al.|[2312.13894](http://arxiv.org/abs/2312.13894)|null|
 |**2023-12-20**|**Anisotropic cold plasma modes in the chiral vector MCFJ electrodynamics**|Filipe S. Ribeiro et.al.|[2312.13196](http://arxiv.org/abs/2312.13196)|null|
 |**2023-12-20**|**Singular Hall response from a correlated ferromagnetic flat nodal-line semimetal**|Woohyun Cho et.al.|[2312.12889](http://arxiv.org/abs/2312.12889)|null|
 |**2023-12-19**|**Magnetism of noncolinear amorphous DyCo3 and TbCo3 thin films**|Zexiang Hu et.al.|[2312.12602](http://arxiv.org/abs/2312.12602)|null|
@@ -371,6 +377,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Topological Superconductivity in Twisted Flakes of Nodal Superconductors**|Kevin P. Lucht et.al.|[2312.13367](http://arxiv.org/abs/2312.13367)|null|
 |**2023-12-20**|**Emergent Atomic Environments in Twisted Bilayer Graphene and Their Use in the Prediction of the Vibrational Properties**|Dilara Ickecan et.al.|[2312.12864](http://arxiv.org/abs/2312.12864)|null|
 |**2023-12-19**|**Graph Theorem for Chiral Exact Flat Bands at Charge Neutrality**|Gurjyot Sethi et.al.|[2312.12607](http://arxiv.org/abs/2312.12607)|null|
 |**2023-12-18**|**Gate-defined superconducting channel in magic-angle twisted bilayer graphene**|Giulia Zheng et.al.|[2312.11698](http://arxiv.org/abs/2312.11698)|null|
