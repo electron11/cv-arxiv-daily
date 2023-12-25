@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Photoinduced topological phase transition in monolayer Ti $_2$SiCO$_2$**|Pu Liu et.al.|[2312.14639](http://arxiv.org/abs/2312.14639)|null|
+|**2023-12-21**|**Operator dynamics in Floquet many-body systems**|Takato Yoshimura et.al.|[2312.14234](http://arxiv.org/abs/2312.14234)|null|
 |**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060](http://arxiv.org/abs/2312.14060)|null|
 |**2023-12-21**|**Probing quantum properties of black holes with a Floquet-driven optical lattice simulator**|Asmae Benhemou et.al.|[2312.14058](http://arxiv.org/abs/2312.14058)|null|
 |**2023-12-21**|**Topological Phase Transitions with Zero Indirect Band Gap**|Giandomenico Palumbo et.al.|[2312.13907](http://arxiv.org/abs/2312.13907)|null|
@@ -179,6 +181,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**The Impact of Local Strain Fields in Non-Collinear Antiferromagnetic Films**|Freya Johnson et.al.|[2312.14864](http://arxiv.org/abs/2312.14864)|null|
+|**2023-12-22**|**Photoinduced topological phase transition in monolayer Ti $_2$SiCO$_2$**|Pu Liu et.al.|[2312.14639](http://arxiv.org/abs/2312.14639)|null|
+|**2023-12-22**|**Electronic structure, magnetic and transport properties of antiferromagnetic Weyl semimetal GdAlSi**|Antu Laha et.al.|[2312.14415](http://arxiv.org/abs/2312.14415)|null|
+|**2023-12-19**|**Reversal of Orbital Hall Conductivity and Emergence of Tunable Topological Quantum States in Orbital Hall Insulator**|Shilei Ji et.al.|[2312.14181](http://arxiv.org/abs/2312.14181)|null|
 |**2023-12-21**|**Direct evidence from high-field magnetotransport for a dramatic change of quasiparticle character in van der Waals ferromagnet Fe $_{3-x}$GeTe$_2$**|Shroya Vaidya et.al.|[2312.13894](http://arxiv.org/abs/2312.13894)|null|
 |**2023-12-20**|**Anisotropic cold plasma modes in the chiral vector MCFJ electrodynamics**|Filipe S. Ribeiro et.al.|[2312.13196](http://arxiv.org/abs/2312.13196)|null|
 |**2023-12-20**|**Singular Hall response from a correlated ferromagnetic flat nodal-line semimetal**|Woohyun Cho et.al.|[2312.12889](http://arxiv.org/abs/2312.12889)|null|
