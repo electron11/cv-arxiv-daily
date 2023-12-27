@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Does PML exponentially absorb outgoing waves scattering from a periodic surface?**|Wangtao Lu et.al.|[2312.16134](http://arxiv.org/abs/2312.16134)|null|
+|**2023-12-26**|**Four-dimensional Floquet topological insulator with an emergent second Chern number**|Zheng-Rong Liu et.al.|[2312.16013](http://arxiv.org/abs/2312.16013)|null|
+|**2023-12-26**|**Scalar spin chirality induced by a circularly polarized electric field in a classical kagome magnet**|Ryota Yambe et.al.|[2312.15891](http://arxiv.org/abs/2312.15891)|null|
 |**2023-12-22**|**Photoinduced topological phase transition in monolayer Ti $_2$SiCO$_2$**|Pu Liu et.al.|[2312.14639](http://arxiv.org/abs/2312.14639)|null|
 |**2023-12-21**|**Operator dynamics in Floquet many-body systems**|Takato Yoshimura et.al.|[2312.14234](http://arxiv.org/abs/2312.14234)|null|
 |**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060](http://arxiv.org/abs/2312.14060)|null|
@@ -181,6 +184,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050](http://arxiv.org/abs/2312.16050)|null|
+|**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977](http://arxiv.org/abs/2312.15977)|null|
+|**2023-12-22**|**Engineering Plateau Phase Transition in Quantum Anomalous Hall Multilayers**|Deyi Zhuo et.al.|[2312.15072](http://arxiv.org/abs/2312.15072)|null|
 |**2023-12-22**|**The Impact of Local Strain Fields in Non-Collinear Antiferromagnetic Films**|Freya Johnson et.al.|[2312.14864](http://arxiv.org/abs/2312.14864)|null|
 |**2023-12-22**|**Photoinduced topological phase transition in monolayer Ti $_2$SiCO$_2$**|Pu Liu et.al.|[2312.14639](http://arxiv.org/abs/2312.14639)|null|
 |**2023-12-22**|**Electronic structure, magnetic and transport properties of antiferromagnetic Weyl semimetal GdAlSi**|Antu Laha et.al.|[2312.14415](http://arxiv.org/abs/2312.14415)|null|
@@ -374,6 +380,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Robust $T$ -Linear Resistivity due to SU(4) Valley + Spin Fluctuation Mechanism in Magic Angle Twisted Bilayer Graphene**|Daisuke Inoue et.al.|[2312.16042](http://arxiv.org/abs/2312.16042)|null|
+|**2023-12-23**|**Exact ground state of interacting electrons in magic angle graphene**|Simon Becker et.al.|[2312.15314](http://arxiv.org/abs/2312.15314)|null|
+|**2023-12-23**|**Stable Higher-Order Topological Dirac Semimetals with $\mathbb{Z}_2$ Monopole Charge in Alternating-twisted Multilayer Graphenes and beyond**|Shifeng Qian et.al.|[2312.15131](http://arxiv.org/abs/2312.15131)|null|
 |**2023-12-20**|**Topological Superconductivity in Twisted Flakes of Nodal Superconductors**|Kevin P. Lucht et.al.|[2312.13367](http://arxiv.org/abs/2312.13367)|null|
 |**2023-12-20**|**Emergent Atomic Environments in Twisted Bilayer Graphene and Their Use in the Prediction of the Vibrational Properties**|Dilara Ickecan et.al.|[2312.12864](http://arxiv.org/abs/2312.12864)|null|
 |**2023-12-19**|**Graph Theorem for Chiral Exact Flat Bands at Charge Neutrality**|Gurjyot Sethi et.al.|[2312.12607](http://arxiv.org/abs/2312.12607)|null|
