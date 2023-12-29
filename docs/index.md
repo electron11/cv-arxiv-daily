@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**SymTFT out of equilibrium: from time crystals to braided drives and Floquet codes**|Vedant Motamarri et.al.|[2312.17176](http://arxiv.org/abs/2312.17176)|null|
+|**2023-12-28**|**Swapping Floquet time crystal**|Roberto Gargiulo et.al.|[2312.17070](http://arxiv.org/abs/2312.17070)|null|
+|**2023-12-28**|**On the different Floquet Hamiltonians in a periodic-driven Bose-Josephson junction**|Xiaoshui Lin et.al.|[2312.16851](http://arxiv.org/abs/2312.16851)|null|
+|**2023-12-28**|**Influence of Dynamical Floquet Spectrum on the Plasmon Excitations and Exchange Energy of tilted monolayer 1T $^\prime$MoS$_2$**|Sita Kandel et.al.|[2312.16825](http://arxiv.org/abs/2312.16825)|null|
+|**2023-12-27**|**Theory and Design of Space-Time Metallic Metasurfaces for Wireless Communications**|Salvador Moreno-Rodríguez et.al.|[2312.16491](http://arxiv.org/abs/2312.16491)|null|
+|**2023-12-26**|**Unraveling PXP Many-Body Scars through Floquet Dynamics**|Giuliano Giudici et.al.|[2312.16288](http://arxiv.org/abs/2312.16288)|null|
 |**2023-12-26**|**Does PML exponentially absorb outgoing waves scattering from a periodic surface?**|Wangtao Lu et.al.|[2312.16134](http://arxiv.org/abs/2312.16134)|null|
 |**2023-12-26**|**Four-dimensional Floquet topological insulator with an emergent second Chern number**|Zheng-Rong Liu et.al.|[2312.16013](http://arxiv.org/abs/2312.16013)|null|
 |**2023-12-26**|**Scalar spin chirality induced by a circularly polarized electric field in a classical kagome magnet**|Ryota Yambe et.al.|[2312.15891](http://arxiv.org/abs/2312.15891)|null|
@@ -184,6 +190,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732](http://arxiv.org/abs/2312.16732)|null|
+|**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co3Sn2S2**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
+|**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290](http://arxiv.org/abs/2312.16290)|null|
 |**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050](http://arxiv.org/abs/2312.16050)|null|
 |**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977](http://arxiv.org/abs/2312.15977)|null|
 |**2023-12-22**|**Engineering Plateau Phase Transition in Quantum Anomalous Hall Multilayers**|Deyi Zhuo et.al.|[2312.15072](http://arxiv.org/abs/2312.15072)|null|
@@ -381,6 +390,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-26**|**Robust $T$ -Linear Resistivity due to SU(4) Valley + Spin Fluctuation Mechanism in Magic Angle Twisted Bilayer Graphene**|Daisuke Inoue et.al.|[2312.16042](http://arxiv.org/abs/2312.16042)|null|
+|**2023-12-27**|**Quantum-criticality in twisted bi-layer graphene**|C. M. Varma et.al.|[2312.15410](http://arxiv.org/abs/2312.15410)|null|
 |**2023-12-23**|**Exact ground state of interacting electrons in magic angle graphene**|Simon Becker et.al.|[2312.15314](http://arxiv.org/abs/2312.15314)|null|
 |**2023-12-23**|**Stable Higher-Order Topological Dirac Semimetals with $\mathbb{Z}_2$ Monopole Charge in Alternating-twisted Multilayer Graphenes and beyond**|Shifeng Qian et.al.|[2312.15131](http://arxiv.org/abs/2312.15131)|null|
 |**2023-12-20**|**Topological Superconductivity in Twisted Flakes of Nodal Superconductors**|Kevin P. Lucht et.al.|[2312.13367](http://arxiv.org/abs/2312.13367)|null|
