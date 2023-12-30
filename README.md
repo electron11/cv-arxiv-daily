@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.29
+## Updated on 2023.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -191,14 +191,14 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231230>back to top</a>)</p>
 
 ## QAH
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732](http://arxiv.org/abs/2312.16732)|null|
-|**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co3Sn2S2**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
+|**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
 |**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290](http://arxiv.org/abs/2312.16290)|null|
 |**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050](http://arxiv.org/abs/2312.16050)|null|
 |**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977](http://arxiv.org/abs/2312.15977)|null|
@@ -392,7 +392,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231230>back to top</a>)</p>
 
 ## twist
 
@@ -505,7 +505,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20231229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231230>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

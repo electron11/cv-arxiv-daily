@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.29
+## Updated on 2023.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -191,7 +191,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732](http://arxiv.org/abs/2312.16732)|null|
-|**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co3Sn2S2**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
+|**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
 |**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290](http://arxiv.org/abs/2312.16290)|null|
 |**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050](http://arxiv.org/abs/2312.16050)|null|
 |**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977](http://arxiv.org/abs/2312.15977)|null|
