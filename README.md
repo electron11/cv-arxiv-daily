@@ -282,7 +282,7 @@
 |**2023-10-25**|**Phase Change Induced Magnetic Switching through Metal-insulator Transition in VO2/TbFeCo Films**|Chung T. Ma et.al.|[2310.17045](http://arxiv.org/abs/2310.17045)|null|
 |**2023-10-25**|**Anisotropic magnetotransport realized in doped hematite**|E. F. Galindez-Ruales et.al.|[2310.16907](http://arxiv.org/abs/2310.16907)|null|
 |**2023-10-24**|**Theory of correlated Chern insulators in twisted bilayer graphene**|Xiaoyu Wang et.al.|[2310.15982](http://arxiv.org/abs/2310.15982)|null|
-|**2023-10-24**|**Local Chern Marker for Periodic Systems**|Nicolas Baù et.al.|[2310.15783](http://arxiv.org/abs/2310.15783)|null|
+|**2023-10-24**|**Local Chern Marker for Periodic Systems**|Nicolas Baù et.al.|[2310.15783](http://arxiv.org/abs/2310.15783)|**[link](https://github.com/strawberrypy-developers/strawberrypy)**|
 |**2023-10-23**|**Inheritance of the exciton geometric structure from Bloch electrons in two-dimensional layered semiconductors**|Jianju Tang et.al.|[2310.14856](http://arxiv.org/abs/2310.14856)|null|
 |**2023-10-22**|**Investigation of the mechanism of the anomalous Hall effects in Cr2Te3/(BiSb)2(TeSe)3 heterostructure**|Seong Won Cho et.al.|[2310.14259](http://arxiv.org/abs/2310.14259)|null|
 |**2023-10-21**|**Bound states and local topological phase diagram of classical impurity spins coupled to a Chern insulator**|Simon Michel et.al.|[2310.14097](http://arxiv.org/abs/2310.14097)|null|
