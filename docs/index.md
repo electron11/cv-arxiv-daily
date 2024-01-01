@@ -190,6 +190,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Electron-doped magnetic Weyl semimetal LixCo3Sn2S2 by bulk-gating**|Hideki Matsuoka et.al.|[2312.17547](http://arxiv.org/abs/2312.17547)|null|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732](http://arxiv.org/abs/2312.16732)|null|
 |**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
 |**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290](http://arxiv.org/abs/2312.16290)|null|
