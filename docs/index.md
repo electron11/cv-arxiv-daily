@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.03
+## Updated on 2024.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Floquet topological phases with large winding number**|Kaiye Shi et.al.|[2401.01250](http://arxiv.org/abs/2401.01250)|null|
+|**2024-01-02**|**RKKY signals characterizing the topological phase transitions in Floquet Dirac semimetals**|Hou-Jian Duan et.al.|[2401.01111](http://arxiv.org/abs/2401.01111)|null|
+|**2024-01-01**|**The PML-Method for a Scattering Problem for a Local Perturbation of an Open Periodic Waveguide**|Andreas Kirsch et.al.|[2401.00730](http://arxiv.org/abs/2401.00730)|null|
+|**2023-12-31**|**On the breathing of spectral bands in periodic quantum waveguides with inflating resonators**|Lucas Chesnel et.al.|[2401.00439](http://arxiv.org/abs/2401.00439)|null|
+|**2023-12-30**|**Periodically Driven Open Quantum Systems: Spectral Properties and Non-Equilibrium Steady States**|Hao Chen et.al.|[2401.00131](http://arxiv.org/abs/2401.00131)|null|
+|**2023-12-30**|**High--N00N State Generation: N00N State Output of Floquet Engineering**|Yusef Maleki et.al.|[2401.00111](http://arxiv.org/abs/2401.00111)|null|
 |**2023-12-28**|**SymTFT out of equilibrium: from time crystals to braided drives and Floquet codes**|Vedant Motamarri et.al.|[2312.17176](http://arxiv.org/abs/2312.17176)|null|
 |**2023-12-28**|**Swapping Floquet time crystal**|Roberto Gargiulo et.al.|[2312.17070](http://arxiv.org/abs/2312.17070)|null|
 |**2023-12-28**|**On the different Floquet Hamiltonians in a periodic-driven Bose-Josephson junction**|Xiaoshui Lin et.al.|[2312.16851](http://arxiv.org/abs/2312.16851)|null|
@@ -190,9 +196,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-31**|**Electrical and thermal transport properties of kagome metals AV $_3$Sb$_5$ (A=K, Rb, Cs)**|Xinrun Mi et.al.|[2401.00410](http://arxiv.org/abs/2401.00410)|null|
+|**2023-12-31**|**From Fractional Quantum Anomalous Hall Smectics to Polar Smectic Metals: Nontrivial Interplay Between Electronic Liquid Crystal Order and Topological Order in Correlated Topological Flat Bands**|Hongyu Lu et.al.|[2401.00363](http://arxiv.org/abs/2401.00363)|null|
+|**2023-12-30**|**Absence of Weyl nodes in EuCd $_2$As$_2$ revealed by the carrier density dependence of the anomalous Hall effect**|Yue Shi et.al.|[2401.00138](http://arxiv.org/abs/2401.00138)|null|
 |**2023-12-29**|**Electron-doped magnetic Weyl semimetal LixCo3Sn2S2 by bulk-gating**|Hideki Matsuoka et.al.|[2312.17547](http://arxiv.org/abs/2312.17547)|null|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732](http://arxiv.org/abs/2312.16732)|null|
-|**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
+|**2024-01-02**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437](http://arxiv.org/abs/2312.16437)|null|
 |**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290](http://arxiv.org/abs/2312.16290)|null|
 |**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050](http://arxiv.org/abs/2312.16050)|null|
 |**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977](http://arxiv.org/abs/2312.15977)|null|
@@ -390,6 +399,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-31**|**Analytical Model for Atomic Relaxation in Twisted Moiré Materials**|Mohammed M. Al Ezzi et.al.|[2401.00498](http://arxiv.org/abs/2401.00498)|null|
 |**2023-12-26**|**Robust $T$ -Linear Resistivity due to SU(4) Valley + Spin Fluctuation Mechanism in Magic Angle Twisted Bilayer Graphene**|Daisuke Inoue et.al.|[2312.16042](http://arxiv.org/abs/2312.16042)|null|
 |**2023-12-27**|**Quantum-criticality in twisted bi-layer graphene**|C. M. Varma et.al.|[2312.15410](http://arxiv.org/abs/2312.15410)|null|
 |**2023-12-23**|**Exact ground state of interacting electrons in magic angle graphene**|Simon Becker et.al.|[2312.15314](http://arxiv.org/abs/2312.15314)|null|
