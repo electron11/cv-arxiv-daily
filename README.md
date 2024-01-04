@@ -19,11 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Disorder-induced topological pumping on a superconducting quantum processor**|Yu Liu et.al.|[2401.01530](http://arxiv.org/abs/2401.01530)|null|
 |**2024-01-02**|**Floquet topological phases with large winding number**|Kaiye Shi et.al.|[2401.01250](http://arxiv.org/abs/2401.01250)|null|
-|**2024-01-02**|**RKKY signals characterizing the topological phase transitions in Floquet Dirac semimetals**|Hou-Jian Duan et.al.|[2401.01111](http://arxiv.org/abs/2401.01111)|null|
+|**2024-01-03**|**RKKY signals characterizing the topological phase transitions in Floquet Dirac semimetals**|Hou-Jian Duan et.al.|[2401.01111](http://arxiv.org/abs/2401.01111)|null|
 |**2024-01-01**|**The PML-Method for a Scattering Problem for a Local Perturbation of an Open Periodic Waveguide**|Andreas Kirsch et.al.|[2401.00730](http://arxiv.org/abs/2401.00730)|null|
 |**2023-12-31**|**On the breathing of spectral bands in periodic quantum waveguides with inflating resonators**|Lucas Chesnel et.al.|[2401.00439](http://arxiv.org/abs/2401.00439)|null|
-|**2023-12-30**|**Periodically Driven Open Quantum Systems: Spectral Properties and Non-Equilibrium Steady States**|Hao Chen et.al.|[2401.00131](http://arxiv.org/abs/2401.00131)|null|
+|**2024-01-03**|**Periodically Driven Open Quantum Systems: Spectral Properties and Non-Equilibrium Steady States**|Hao Chen et.al.|[2401.00131](http://arxiv.org/abs/2401.00131)|null|
 |**2023-12-30**|**High--N00N State Generation: N00N State Output of Floquet Engineering**|Yusef Maleki et.al.|[2401.00111](http://arxiv.org/abs/2401.00111)|null|
 |**2023-12-28**|**SymTFT out of equilibrium: from time crystals to braided drives and Floquet codes**|Vedant Motamarri et.al.|[2312.17176](http://arxiv.org/abs/2312.17176)|null|
 |**2023-12-28**|**Swapping Floquet time crystal**|Roberto Gargiulo et.al.|[2312.17070](http://arxiv.org/abs/2312.17070)|null|
@@ -408,6 +409,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**A critical nematic phase with pseudogap-like behavior in twisted bilayers**|Virginia Gali et.al.|[2401.01844](http://arxiv.org/abs/2401.01844)|null|
 |**2023-12-31**|**Analytical Model for Atomic Relaxation in Twisted Moiré Materials**|Mohammed M. Al Ezzi et.al.|[2401.00498](http://arxiv.org/abs/2401.00498)|null|
 |**2023-12-26**|**Robust $T$ -Linear Resistivity due to SU(4) Valley + Spin Fluctuation Mechanism in Magic Angle Twisted Bilayer Graphene**|Daisuke Inoue et.al.|[2312.16042](http://arxiv.org/abs/2312.16042)|null|
 |**2023-12-27**|**Quantum-criticality in twisted bi-layer graphene**|C. M. Varma et.al.|[2312.15410](http://arxiv.org/abs/2312.15410)|null|
