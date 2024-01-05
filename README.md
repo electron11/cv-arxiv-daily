@@ -204,6 +204,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Tunning the number of chiral edge channels in a fixed quantum anomalous Hall system**|Peng Deng et.al.|[2401.02295](http://arxiv.org/abs/2401.02295)|null|
+|**2024-01-04**|**Non-linear Hall Effects: Mechanisms and Materials**|Arka Bandyopadhyay et.al.|[2401.02282](http://arxiv.org/abs/2401.02282)|null|
+|**2024-01-04**|**Anisotropy of the anomalous Hall effect in the altermagnet candidate Mn $_5$Si$_3$ films**|Miina Leiviskä et.al.|[2401.02275](http://arxiv.org/abs/2401.02275)|null|
+|**2024-01-04**|**Robustness of topological order against disorder**|Lucas A. Oliveira et.al.|[2401.02270](http://arxiv.org/abs/2401.02270)|null|
 |**2023-12-31**|**Electrical and thermal transport properties of kagome metals AV $_3$Sb$_5$ (A=K, Rb, Cs)**|Xinrun Mi et.al.|[2401.00410](http://arxiv.org/abs/2401.00410)|null|
 |**2023-12-31**|**From Fractional Quantum Anomalous Hall Smectics to Polar Smectic Metals: Nontrivial Interplay Between Electronic Liquid Crystal Order and Topological Order in Correlated Topological Flat Bands**|Hongyu Lu et.al.|[2401.00363](http://arxiv.org/abs/2401.00363)|null|
 |**2023-12-30**|**Absence of Weyl nodes in EuCd $_2$As$_2$ revealed by the carrier density dependence of the anomalous Hall effect**|Yue Shi et.al.|[2401.00138](http://arxiv.org/abs/2401.00138)|null|
@@ -409,6 +413,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Spectral theory of twisted bilayer graphene in a magnetic field**|Simon Becker et.al.|[2401.02250](http://arxiv.org/abs/2401.02250)|null|
 |**2024-01-03**|**A critical nematic phase with pseudogap-like behavior in twisted bilayers**|Virginia Gali et.al.|[2401.01844](http://arxiv.org/abs/2401.01844)|null|
 |**2023-12-31**|**Analytical Model for Atomic Relaxation in Twisted Moiré Materials**|Mohammed M. Al Ezzi et.al.|[2401.00498](http://arxiv.org/abs/2401.00498)|null|
 |**2023-12-26**|**Robust $T$ -Linear Resistivity due to SU(4) Valley + Spin Fluctuation Mechanism in Magic Angle Twisted Bilayer Graphene**|Daisuke Inoue et.al.|[2312.16042](http://arxiv.org/abs/2312.16042)|null|
