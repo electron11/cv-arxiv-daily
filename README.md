@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Steering spin fluctuations in lattice systems via two-tone Floquet engineering**|Ruben Peña et.al.|[2401.03889](http://arxiv.org/abs/2401.03889)|null|
+|**2024-01-07**|**Engineering topological chiral transport in a flat-band lattice of ultracold atoms**|Hang Li et.al.|[2401.03611](http://arxiv.org/abs/2401.03611)|null|
 |**2024-01-05**|**Nearly optimal quasienergy estimation and eigenstate preparation of time-periodic Hamiltonians by Sambe space formalism**|Kaoru Mizuta et.al.|[2401.02700](http://arxiv.org/abs/2401.02700)|null|
 |**2024-01-03**|**Disorder-induced topological pumping on a superconducting quantum processor**|Yu Liu et.al.|[2401.01530](http://arxiv.org/abs/2401.01530)|null|
 |**2024-01-02**|**Floquet topological phases with large winding number**|Kaiye Shi et.al.|[2401.01250](http://arxiv.org/abs/2401.01250)|null|
@@ -205,6 +207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Machine learning inspired models for Hall effects in non-collinear magnets**|Jonathan Kipp et.al.|[2401.03044](http://arxiv.org/abs/2401.03044)|null|
 |**2024-01-04**|**Tunning the number of chiral edge channels in a fixed quantum anomalous Hall system**|Peng Deng et.al.|[2401.02295](http://arxiv.org/abs/2401.02295)|null|
 |**2024-01-04**|**Non-linear Hall Effects: Mechanisms and Materials**|Arka Bandyopadhyay et.al.|[2401.02282](http://arxiv.org/abs/2401.02282)|null|
 |**2024-01-04**|**Anisotropy of the anomalous Hall effect in the altermagnet candidate Mn $_5$Si$_3$ films**|Miina Leiviskä et.al.|[2401.02275](http://arxiv.org/abs/2401.02275)|null|
