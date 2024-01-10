@@ -200,13 +200,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Atomic Layer Molecular Beam Epitaxy of Kagome Magnet RMn $_6$Sn$_6$ (R = Er, Tb) Thin Films**|Shuyu Cheng et.al.|[2401.04713](http://arxiv.org/abs/2401.04713)|null|
+|**2024-01-09**|**Band Geometry Induced High-Angular Momentum Excitonic Superfluid in Gapped Chiral Fermion Systems**|Huaiyuan Yang et.al.|[2401.04416](http://arxiv.org/abs/2401.04416)|null|
+|**2024-01-09**|**Gate-tunable topological phases in superlattice modulated bilayer graphene**|Yongxin Zeng et.al.|[2401.04321](http://arxiv.org/abs/2401.04321)|null|
 |**2024-01-05**|**Machine learning inspired models for Hall effects in non-collinear magnets**|Jonathan Kipp et.al.|[2401.03044](http://arxiv.org/abs/2401.03044)|null|
 |**2024-01-04**|**Tunning the number of chiral edge channels in a fixed quantum anomalous Hall system**|Peng Deng et.al.|[2401.02295](http://arxiv.org/abs/2401.02295)|null|
 |**2024-01-04**|**Non-linear Hall Effects: Mechanisms and Materials**|Arka Bandyopadhyay et.al.|[2401.02282](http://arxiv.org/abs/2401.02282)|null|
 |**2024-01-04**|**Anisotropy of the anomalous Hall effect in the altermagnet candidate Mn $_5$Si$_3$ films**|Miina Leiviskä et.al.|[2401.02275](http://arxiv.org/abs/2401.02275)|null|
 |**2024-01-04**|**Robustness of topological order against disorder**|Lucas A. Oliveira et.al.|[2401.02270](http://arxiv.org/abs/2401.02270)|null|
 |**2023-12-31**|**Electrical and thermal transport properties of kagome metals AV $_3$Sb$_5$ (A=K, Rb, Cs)**|Xinrun Mi et.al.|[2401.00410](http://arxiv.org/abs/2401.00410)|null|
-|**2023-12-31**|**From Fractional Quantum Anomalous Hall Smectics to Polar Smectic Metals: Nontrivial Interplay Between Electronic Liquid Crystal Order and Topological Order in Correlated Topological Flat Bands**|Hongyu Lu et.al.|[2401.00363](http://arxiv.org/abs/2401.00363)|null|
+|**2024-01-09**|**From Fractional Quantum Anomalous Hall Smectics to Polar Smectic Metals: Nontrivial Interplay Between Electronic Liquid Crystal Order and Topological Order in Correlated Topological Flat Bands**|Hongyu Lu et.al.|[2401.00363](http://arxiv.org/abs/2401.00363)|null|
 |**2023-12-30**|**Absence of Weyl nodes in EuCd $_2$As$_2$ revealed by the carrier density dependence of the anomalous Hall effect**|Yue Shi et.al.|[2401.00138](http://arxiv.org/abs/2401.00138)|null|
 |**2023-12-29**|**Electron-doped magnetic Weyl semimetal LixCo3Sn2S2 by bulk-gating**|Hideki Matsuoka et.al.|[2312.17547](http://arxiv.org/abs/2312.17547)|null|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732](http://arxiv.org/abs/2312.16732)|null|
@@ -408,6 +411,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Variational Monte-Carlo Approach for Hubbard Model Applied to Twisted Bilayer WSe $_2$ at Half-Filling**|Andrzej Biborski et.al.|[2401.04593](http://arxiv.org/abs/2401.04593)|null|
+|**2024-01-09**|**New twisted van der Waals fabrication method based on strongly adhesive polymer**|Giung Park et.al.|[2401.04313](http://arxiv.org/abs/2401.04313)|null|
 |**2024-01-05**|**GW Theory of Magic-Angle Twisted Bilayer Graphene**|Jihang Zhu et.al.|[2401.02872](http://arxiv.org/abs/2401.02872)|null|
 |**2024-01-04**|**Spectral theory of twisted bilayer graphene in a magnetic field**|Simon Becker et.al.|[2401.02250](http://arxiv.org/abs/2401.02250)|null|
 |**2024-01-03**|**A critical nematic phase with pseudogap-like behavior in twisted bilayers**|Virginia Gali et.al.|[2401.01844](http://arxiv.org/abs/2401.01844)|null|
