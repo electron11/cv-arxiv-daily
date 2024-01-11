@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Stability of superfluids in tilted optical lattices with periodic driving**|Robbie Cruickshank et.al.|[2401.05265](http://arxiv.org/abs/2401.05265)|null|
+|**2024-01-10**|**Numerical computation of high-order expansions of invariant manifolds of high-dimensional tori**|Joan Gimeno et.al.|[2401.05003](http://arxiv.org/abs/2401.05003)|null|
+|**2024-01-09**|**Robust spectral $π$ pairing in the random-field Floquet quantum Ising model**|Harald Schmid et.al.|[2401.04809](http://arxiv.org/abs/2401.04809)|null|
 |**2024-01-08**|**Steering spin fluctuations in lattice systems via two-tone Floquet engineering**|Ruben Peña et.al.|[2401.03889](http://arxiv.org/abs/2401.03889)|null|
 |**2024-01-07**|**Engineering topological chiral transport in a flat-band lattice of ultracold atoms**|Hang Li et.al.|[2401.03611](http://arxiv.org/abs/2401.03611)|null|
 |**2024-01-05**|**Nearly optimal quasienergy estimation and eigenstate preparation of time-periodic Hamiltonians by Sambe space formalism**|Kaoru Mizuta et.al.|[2401.02700](http://arxiv.org/abs/2401.02700)|null|
@@ -200,6 +203,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Self-generated spin-orbit torque driven by anomalous Hall current**|Eric Arturo Montoya et.al.|[2401.05006](http://arxiv.org/abs/2401.05006)|null|
+|**2024-01-10**|**Electrical Non-Hermitian Control of Topological Magnon Spin Transport**|Pieter M. Gunnink et.al.|[2401.04967](http://arxiv.org/abs/2401.04967)|null|
 |**2024-01-09**|**Atomic Layer Molecular Beam Epitaxy of Kagome Magnet RMn $_6$Sn$_6$ (R = Er, Tb) Thin Films**|Shuyu Cheng et.al.|[2401.04713](http://arxiv.org/abs/2401.04713)|null|
 |**2024-01-09**|**Band Geometry Induced High-Angular Momentum Excitonic Superfluid in Gapped Chiral Fermion Systems**|Huaiyuan Yang et.al.|[2401.04416](http://arxiv.org/abs/2401.04416)|null|
 |**2024-01-09**|**Gate-tunable topological phases in superlattice modulated bilayer graphene**|Yongxin Zeng et.al.|[2401.04321](http://arxiv.org/abs/2401.04321)|null|
