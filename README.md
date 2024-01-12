@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Dynamical Chiral Symmetry and Symmetry-Class Conversion in Floquet Topological Insulators**|Mohamed Assili et.al.|[2401.05697](http://arxiv.org/abs/2401.05697)|null|
 |**2024-01-10**|**Stability of superfluids in tilted optical lattices with periodic driving**|Robbie Cruickshank et.al.|[2401.05265](http://arxiv.org/abs/2401.05265)|null|
 |**2024-01-10**|**Numerical computation of high-order expansions of invariant manifolds of high-dimensional tori**|Joan Gimeno et.al.|[2401.05003](http://arxiv.org/abs/2401.05003)|null|
 |**2024-01-09**|**Robust spectral $π$ pairing in the random-field Floquet quantum Ising model**|Harald Schmid et.al.|[2401.04809](http://arxiv.org/abs/2401.04809)|null|
@@ -210,6 +211,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Twisted TMDs in the small-angle limit: exponentially flat and trivial bands**|Simon Becker et.al.|[2401.06078](http://arxiv.org/abs/2401.06078)|null|
+|**2024-01-11**|**Atomic Scale Quantum Anomalous Hall Effect in Monolayer Graphene/ $\rm MnBi_{2}Te_{4}$ Heterostructure**|Yueh-Ting Yao et.al.|[2401.05691](http://arxiv.org/abs/2401.05691)|null|
+|**2024-01-10**|**On the zero-field quantization of the anomalous quantum Hall effect in moiré 2D layers**|Sankar Das Sarma et.al.|[2401.05485](http://arxiv.org/abs/2401.05485)|null|
 |**2024-01-10**|**Self-generated spin-orbit torque driven by anomalous Hall current**|Eric Arturo Montoya et.al.|[2401.05006](http://arxiv.org/abs/2401.05006)|null|
 |**2024-01-10**|**Electrical Non-Hermitian Control of Topological Magnon Spin Transport**|Pieter M. Gunnink et.al.|[2401.04967](http://arxiv.org/abs/2401.04967)|null|
 |**2024-01-09**|**Atomic Layer Molecular Beam Epitaxy of Kagome Magnet RMn $_6$Sn$_6$ (R = Er, Tb) Thin Films**|Shuyu Cheng et.al.|[2401.04713](http://arxiv.org/abs/2401.04713)|null|
@@ -425,6 +429,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Twisted TMDs in the small-angle limit: exponentially flat and trivial bands**|Simon Becker et.al.|[2401.06078](http://arxiv.org/abs/2401.06078)|null|
 |**2024-01-09**|**Variational Monte-Carlo Approach for Hubbard Model Applied to Twisted Bilayer WSe $_2$ at Half-Filling**|Andrzej Biborski et.al.|[2401.04593](http://arxiv.org/abs/2401.04593)|null|
 |**2024-01-09**|**New twisted van der Waals fabrication method based on strongly adhesive polymer**|Giung Park et.al.|[2401.04313](http://arxiv.org/abs/2401.04313)|null|
 |**2024-01-05**|**GW Theory of Magic-Angle Twisted Bilayer Graphene**|Jihang Zhu et.al.|[2401.02872](http://arxiv.org/abs/2401.02872)|null|
