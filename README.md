@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-15**|**Encoding position by spins: Objectivity in the boson-spin model**|Tae-Hun Lee et.al.|[2401.07690](http://arxiv.org/abs/2401.07690)|null|
 |**2024-01-12**|**Dynamics of elastic lattices with sliding constraints**|L. Cabras et.al.|[2401.06663](http://arxiv.org/abs/2401.06663)|null|
 |**2024-01-11**|**Dynamical Chiral Symmetry and Symmetry-Class Conversion in Floquet Topological Insulators**|Mohamed Assili et.al.|[2401.05697](http://arxiv.org/abs/2401.05697)|null|
 |**2024-01-10**|**Stability of superfluids in tilted optical lattices with periodic driving**|Robbie Cruickshank et.al.|[2401.05265](http://arxiv.org/abs/2401.05265)|null|
@@ -212,6 +213,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155](http://arxiv.org/abs/2401.08155)|null|
+|**2024-01-13**|**Writing and detecting topological charges in exfoliated Fe $_{5-x}$GeTe$_2$**|Alex Moon et.al.|[2401.07156](http://arxiv.org/abs/2401.07156)|null|
+|**2024-01-13**|**Acoustic Three-dimensional Chern Insulators with Arbitrary Chern Vectors**|Yang Linyun et.al.|[2401.07040](http://arxiv.org/abs/2401.07040)|null|
+|**2024-01-13**|**Electrodynamics of the quantum anomalous Hall state in a magnetically doped topological insulator**|Zhenisbek Tagay et.al.|[2401.06985](http://arxiv.org/abs/2401.06985)|null|
 |**2024-01-11**|**Magnetic control of Weyl nodes and wave packets in three-dimensional warped semimetals**|Bruno Focassio et.al.|[2401.06282](http://arxiv.org/abs/2401.06282)|null|
 |**2024-01-11**|**Twisted TMDs in the small-angle limit: exponentially flat and trivial bands**|Simon Becker et.al.|[2401.06078](http://arxiv.org/abs/2401.06078)|null|
 |**2024-01-11**|**Atomic Scale Quantum Anomalous Hall Effect in Monolayer Graphene/ $\rm MnBi_{2}Te_{4}$ Heterostructure**|Yueh-Ting Yao et.al.|[2401.05691](http://arxiv.org/abs/2401.05691)|null|
@@ -431,6 +436,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Disorder-Induced Delocalization in Magic-Angle Twisted Bilayer Graphene**|Pedro Alcázar Guerrero et.al.|[2401.08265](http://arxiv.org/abs/2401.08265)|null|
 |**2024-01-11**|**Twisted TMDs in the small-angle limit: exponentially flat and trivial bands**|Simon Becker et.al.|[2401.06078](http://arxiv.org/abs/2401.06078)|null|
 |**2024-01-09**|**Variational Monte-Carlo Approach for Hubbard Model Applied to Twisted Bilayer WSe $_2$ at Half-Filling**|Andrzej Biborski et.al.|[2401.04593](http://arxiv.org/abs/2401.04593)|null|
 |**2024-01-09**|**New twisted van der Waals fabrication method based on strongly adhesive polymer**|Giung Park et.al.|[2401.04313](http://arxiv.org/abs/2401.04313)|null|
