@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**The Floquet Fluxonium Molecule: Driving Down Dephasing in Coupled Superconducting Qubits**|Matthew Thibodeau et.al.|[2401.08762](http://arxiv.org/abs/2401.08762)|null|
+|**2024-01-16**|**Floquet Flux Attachment in Cold Atomic Systems**|Helia Kamal et.al.|[2401.08754](http://arxiv.org/abs/2401.08754)|null|
 |**2024-01-15**|**Encoding position by spins: Objectivity in the boson-spin model**|Tae-Hun Lee et.al.|[2401.07690](http://arxiv.org/abs/2401.07690)|null|
 |**2024-01-12**|**Dynamics of elastic lattices with sliding constraints**|L. Cabras et.al.|[2401.06663](http://arxiv.org/abs/2401.06663)|null|
 |**2024-01-11**|**Dynamical Chiral Symmetry and Symmetry-Class Conversion in Floquet Topological Insulators**|Mohamed Assili et.al.|[2401.05697](http://arxiv.org/abs/2401.05697)|null|
@@ -206,6 +208,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Multiple-mode Quantum-anomalous-Hall and Chern-switchable States in Germanene (Stanene, Silicene)/MBi2Te4 Heterostructures**|Zhe Li et.al.|[2401.08490](http://arxiv.org/abs/2401.08490)|null|
 |**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155](http://arxiv.org/abs/2401.08155)|null|
 |**2024-01-13**|**Writing and detecting topological charges in exfoliated Fe $_{5-x}$GeTe$_2$**|Alex Moon et.al.|[2401.07156](http://arxiv.org/abs/2401.07156)|null|
 |**2024-01-13**|**Acoustic Three-dimensional Chern Insulators with Arbitrary Chern Vectors**|Yang Linyun et.al.|[2401.07040](http://arxiv.org/abs/2401.07040)|null|
