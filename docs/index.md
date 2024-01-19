@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Non-integer Floquet Sidebands Spectroscopy**|Du-Yi Ou-Yang et.al.|[2401.09933](http://arxiv.org/abs/2401.09933)|null|
+|**2024-01-18**|**Automatic Tuning of Denoising Algorithms Parameters Without Ground Truth**|Arthur Floquet et.al.|[2401.09817](http://arxiv.org/abs/2401.09817)|null|
+|**2024-01-18**|**Floquet-Engineered Valley-Topotronics in Kekul $é\$ - Y Bond Textured Graphene Superlattice**|Sushmita Saha et.al.|[2401.09762](http://arxiv.org/abs/2401.09762)|null|
+|**2024-01-18**|**Floquet Isospectrality of the Zero Potential for Discrete Periodic Schrödinger Operators**|Matthew Faust et.al.|[2401.09731](http://arxiv.org/abs/2401.09731)|null|
+|**2024-01-18**|**Classification of same-gate quantum circuits and their space-time symmetries with application to the level-spacing distribution**|Urban Duh et.al.|[2401.09708](http://arxiv.org/abs/2401.09708)|null|
 |**2024-01-16**|**The Floquet Fluxonium Molecule: Driving Down Dephasing in Coupled Superconducting Qubits**|Matthew Thibodeau et.al.|[2401.08762](http://arxiv.org/abs/2401.08762)|null|
 |**2024-01-16**|**Floquet Flux Attachment in Cold Atomic Systems**|Helia Kamal et.al.|[2401.08754](http://arxiv.org/abs/2401.08754)|null|
 |**2024-01-15**|**Encoding position by spins: Objectivity in the boson-spin model**|Tae-Hun Lee et.al.|[2401.07690](http://arxiv.org/abs/2401.07690)|null|
@@ -208,6 +213,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Floquet-Engineered Valley-Topotronics in Kekul $é\$ - Y Bond Textured Graphene Superlattice**|Sushmita Saha et.al.|[2401.09762](http://arxiv.org/abs/2401.09762)|null|
+|**2024-01-17**|**Pressure Tuning of Berry Curvature in CrGeTe $_3$**|G. Scharf et.al.|[2401.09539](http://arxiv.org/abs/2401.09539)|null|
 |**2024-01-16**|**Multiple-mode Quantum-anomalous-Hall and Chern-switchable States in Germanene (Stanene, Silicene)/MBi2Te4 Heterostructures**|Zhe Li et.al.|[2401.08490](http://arxiv.org/abs/2401.08490)|null|
 |**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155](http://arxiv.org/abs/2401.08155)|null|
 |**2024-01-13**|**Writing and detecting topological charges in exfoliated Fe $_{5-x}$GeTe$_2$**|Alex Moon et.al.|[2401.07156](http://arxiv.org/abs/2401.07156)|null|
@@ -430,6 +437,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Magic distances for flat bands in twisted bilayer graphene**|Antonio Palamara et.al.|[2401.09884](http://arxiv.org/abs/2401.09884)|null|
+|**2024-01-18**|**Optical properties and plasmons in moiré structures**|Xueheng Kuang et.al.|[2401.09667](http://arxiv.org/abs/2401.09667)|null|
+|**2024-01-18**|**Colossal Layer Nernst Effect in Twisted Moiré Layers**|Jin-Xin Hu et.al.|[2401.09661](http://arxiv.org/abs/2401.09661)|null|
 |**2024-01-16**|**Disorder-Induced Delocalization in Magic-Angle Twisted Bilayer Graphene**|Pedro Alcázar Guerrero et.al.|[2401.08265](http://arxiv.org/abs/2401.08265)|null|
 |**2024-01-11**|**Twisted TMDs in the small-angle limit: exponentially flat and trivial bands**|Simon Becker et.al.|[2401.06078](http://arxiv.org/abs/2401.06078)|null|
 |**2024-01-09**|**Variational Monte-Carlo Approach for Hubbard Model Applied to Twisted Bilayer WSe $_2$ at Half-Filling**|Andrzej Biborski et.al.|[2401.04593](http://arxiv.org/abs/2401.04593)|null|
