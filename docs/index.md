@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-18**|**Non-integer Floquet Sidebands Spectroscopy**|Du-Yi Ou-Yang et.al.|[2401.09933](http://arxiv.org/abs/2401.09933)|null|
-|**2024-01-18**|**Automatic Tuning of Denoising Algorithms Parameters Without Ground Truth**|Arthur Floquet et.al.|[2401.09817](http://arxiv.org/abs/2401.09817)|null|
+|**2024-01-18**|**Automatic Tuning of Denoising Algorithms Parameters Without Ground Truth**|Arthur Floquet et.al.|[2401.09817](http://arxiv.org/abs/2401.09817)|**[link](https://gitlab.com/a_floquet/automatic-tuning-of-denoising-algorithms-parameters-without-ground-truth)**|
 |**2024-01-18**|**Floquet-Engineered Valley-Topotronics in Kekul $é\$ - Y Bond Textured Graphene Superlattice**|Sushmita Saha et.al.|[2401.09762](http://arxiv.org/abs/2401.09762)|null|
 |**2024-01-18**|**Floquet Isospectrality of the Zero Potential for Discrete Periodic Schrödinger Operators**|Matthew Faust et.al.|[2401.09731](http://arxiv.org/abs/2401.09731)|null|
 |**2024-01-18**|**Classification of same-gate quantum circuits and their space-time symmetries with application to the level-spacing distribution**|Urban Duh et.al.|[2401.09708](http://arxiv.org/abs/2401.09708)|null|
