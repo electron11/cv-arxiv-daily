@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Photodriven germanium hole qubit**|Bashab Dey et.al.|[2401.10570](http://arxiv.org/abs/2401.10570)|null|
+|**2024-01-18**|**Observing Topological Insulator Phases with a Programmable Quantum Simulator**|Or Katz et.al.|[2401.10362](http://arxiv.org/abs/2401.10362)|null|
 |**2024-01-18**|**Non-integer Floquet Sidebands Spectroscopy**|Du-Yi Ou-Yang et.al.|[2401.09933](http://arxiv.org/abs/2401.09933)|null|
 |**2024-01-18**|**Automatic Tuning of Denoising Algorithms Parameters Without Ground Truth**|Arthur Floquet et.al.|[2401.09817](http://arxiv.org/abs/2401.09817)|**[link](https://gitlab.com/a_floquet/automatic-tuning-of-denoising-algorithms-parameters-without-ground-truth)**|
 |**2024-01-18**|**Floquet-Engineered Valley-Topotronics in Kekul $é\$ - Y Bond Textured Graphene Superlattice**|Sushmita Saha et.al.|[2401.09762](http://arxiv.org/abs/2401.09762)|null|
