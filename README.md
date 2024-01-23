@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Fault tolerance of stabilizer channels**|Michael E. Beverland et.al.|[2401.12017](http://arxiv.org/abs/2401.12017)|null|
+|**2024-01-21**|**Topological superconductors in trapped-ion system and their Floquet engineering**|Ming-Jian Gao et.al.|[2401.11510](http://arxiv.org/abs/2401.11510)|null|
+|**2024-01-20**|**Valley filtering and valley valves in irradiated pristine graphene**|Rekha Kumari et.al.|[2401.11136](http://arxiv.org/abs/2401.11136)|null|
+|**2024-01-19**|**Dynamical transition of quantum scrambling in a non-Hermitian Floquet synthetic system**|Liang Huo et.al.|[2401.11059](http://arxiv.org/abs/2401.11059)|null|
 |**2024-01-19**|**Photodriven germanium hole qubit**|Bashab Dey et.al.|[2401.10570](http://arxiv.org/abs/2401.10570)|null|
 |**2024-01-18**|**Observing Topological Insulator Phases with a Programmable Quantum Simulator**|Or Katz et.al.|[2401.10362](http://arxiv.org/abs/2401.10362)|null|
 |**2024-01-18**|**Non-integer Floquet Sidebands Spectroscopy**|Du-Yi Ou-Yang et.al.|[2401.09933](http://arxiv.org/abs/2401.09933)|null|
@@ -222,6 +226,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Quantum Hall criticality in an amorphous Chern insulator**|Soumya Bera et.al.|[2401.11855](http://arxiv.org/abs/2401.11855)|null|
+|**2024-01-21**|**Reentrant quantum anomalous Hall effect in molecular beam epitaxy-grown MnBi2Te4 thin films**|Yuanzhao Li et.al.|[2401.11450](http://arxiv.org/abs/2401.11450)|null|
 |**2024-01-18**|**Floquet-Engineered Valley-Topotronics in Kekul $é\$ - Y Bond Textured Graphene Superlattice**|Sushmita Saha et.al.|[2401.09762](http://arxiv.org/abs/2401.09762)|null|
 |**2024-01-17**|**Pressure Tuning of Berry Curvature in CrGeTe $_3$**|G. Scharf et.al.|[2401.09539](http://arxiv.org/abs/2401.09539)|null|
 |**2024-01-16**|**Multiple-mode Quantum-anomalous-Hall and Chern-switchable States in Germanene (Stanene, Silicene)/MBi2Te4 Heterostructures**|Zhe Li et.al.|[2401.08490](http://arxiv.org/abs/2401.08490)|null|
