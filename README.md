@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Exponential perturbative expansions and coordinate transformations**|Ana Arnal et.al.|[2401.12955](http://arxiv.org/abs/2401.12955)|null|
+|**2024-01-23**|**Non-Bloch Theory for Spatiotemporal Photonic Crystals Assisted by Continuum Effective Medium**|Haozhi Ding et.al.|[2401.12536](http://arxiv.org/abs/2401.12536)|null|
+|**2024-01-22**|**Strong zero modes in integrable quantum circuits**|Eric Vernier et.al.|[2401.12305](http://arxiv.org/abs/2401.12305)|null|
 |**2024-01-22**|**Fault tolerance of stabilizer channels**|Michael E. Beverland et.al.|[2401.12017](http://arxiv.org/abs/2401.12017)|null|
 |**2024-01-21**|**Topological superconductors in trapped-ion system and their Floquet engineering**|Ming-Jian Gao et.al.|[2401.11510](http://arxiv.org/abs/2401.11510)|null|
 |**2024-01-20**|**Valley filtering and valley valves in irradiated pristine graphene**|Rekha Kumari et.al.|[2401.11136](http://arxiv.org/abs/2401.11136)|null|
@@ -226,6 +229,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Correlation between magnetic domain structures and quantum anomalous Hall effect in epitaxial MnBi2Te4 thin films**|Yang Shi et.al.|[2401.12544](http://arxiv.org/abs/2401.12544)|null|
+|**2024-01-23**|**Revisiting magnetic exchange interactions in transition metal doped Bi $_2$Se$_3$ using DFT+MFT**|Sagar Sarkar et.al.|[2401.12514](http://arxiv.org/abs/2401.12514)|null|
 |**2024-01-22**|**Quantum Hall criticality in an amorphous Chern insulator**|Soumya Bera et.al.|[2401.11855](http://arxiv.org/abs/2401.11855)|null|
 |**2024-01-21**|**Reentrant quantum anomalous Hall effect in molecular beam epitaxy-grown MnBi2Te4 thin films**|Yuanzhao Li et.al.|[2401.11450](http://arxiv.org/abs/2401.11450)|null|
 |**2024-01-18**|**Floquet-Engineered Valley-Topotronics in Kekul $é\$ - Y Bond Textured Graphene Superlattice**|Sushmita Saha et.al.|[2401.09762](http://arxiv.org/abs/2401.09762)|null|
@@ -454,6 +459,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Tunable interplay between light and heavy electrons in twisted trilayer graphene**|Andrew T. Pierce et.al.|[2401.12284](http://arxiv.org/abs/2401.12284)|null|
 |**2024-01-18**|**Magic distances for flat bands in twisted bilayer graphene**|Antonio Palamara et.al.|[2401.09884](http://arxiv.org/abs/2401.09884)|null|
 |**2024-01-18**|**Optical properties and plasmons in moiré structures**|Xueheng Kuang et.al.|[2401.09667](http://arxiv.org/abs/2401.09667)|null|
 |**2024-01-18**|**Colossal Layer Nernst Effect in Twisted Moiré Layers**|Jin-Xin Hu et.al.|[2401.09661](http://arxiv.org/abs/2401.09661)|null|
