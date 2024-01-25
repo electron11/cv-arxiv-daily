@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Dynamics of non-Hermitian Floquet Wannier-Stark system**|H. P. Zhang et.al.|[2401.13286](http://arxiv.org/abs/2401.13286)|null|
 |**2024-01-23**|**Exponential perturbative expansions and coordinate transformations**|Ana Arnal et.al.|[2401.12955](http://arxiv.org/abs/2401.12955)|null|
 |**2024-01-23**|**Non-Bloch Theory for Spatiotemporal Photonic Crystals Assisted by Continuum Effective Medium**|Haozhi Ding et.al.|[2401.12536](http://arxiv.org/abs/2401.12536)|null|
 |**2024-01-22**|**Strong zero modes in integrable quantum circuits**|Eric Vernier et.al.|[2401.12305](http://arxiv.org/abs/2401.12305)|null|
@@ -229,6 +230,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**In-plane magnetization orientation driven topological phase transition in OsCl $_3$ monolayer**|Ritwik Das et.al.|[2401.13449](http://arxiv.org/abs/2401.13449)|null|
+|**2024-01-24**|**Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene**|Zhaochen Liu et.al.|[2401.13413](http://arxiv.org/abs/2401.13413)|null|
+|**2024-01-23**|**Altermagnetism with Non-collinear Spins**|Sang-Wook Cheong et.al.|[2401.13069](http://arxiv.org/abs/2401.13069)|null|
 |**2024-01-23**|**Correlation between magnetic domain structures and quantum anomalous Hall effect in epitaxial MnBi2Te4 thin films**|Yang Shi et.al.|[2401.12544](http://arxiv.org/abs/2401.12544)|null|
 |**2024-01-23**|**Revisiting magnetic exchange interactions in transition metal doped Bi $_2$Se$_3$ using DFT+MFT**|Sagar Sarkar et.al.|[2401.12514](http://arxiv.org/abs/2401.12514)|null|
 |**2024-01-22**|**Quantum Hall criticality in an amorphous Chern insulator**|Soumya Bera et.al.|[2401.11855](http://arxiv.org/abs/2401.11855)|null|
