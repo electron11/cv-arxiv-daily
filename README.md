@@ -230,6 +230,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044](http://arxiv.org/abs/2401.14044)|null|
 |**2024-01-24**|**In-plane magnetization orientation driven topological phase transition in OsCl $_3$ monolayer**|Ritwik Das et.al.|[2401.13449](http://arxiv.org/abs/2401.13449)|null|
 |**2024-01-24**|**Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene**|Zhaochen Liu et.al.|[2401.13413](http://arxiv.org/abs/2401.13413)|null|
 |**2024-01-23**|**Altermagnetism with Non-collinear Spins**|Sang-Wook Cheong et.al.|[2401.13069](http://arxiv.org/abs/2401.13069)|null|
