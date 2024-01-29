@@ -455,6 +455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Intrinsic and extrinsic photogalvanic effects in twisted bilayer graphene**|Fernando Peñaranda et.al.|[2401.15005](http://arxiv.org/abs/2401.15005)|null|
 |**2024-01-22**|**Tunable interplay between light and heavy electrons in twisted trilayer graphene**|Andrew T. Pierce et.al.|[2401.12284](http://arxiv.org/abs/2401.12284)|null|
 |**2024-01-18**|**Magic distances for flat bands in twisted bilayer graphene**|Antonio Palamara et.al.|[2401.09884](http://arxiv.org/abs/2401.09884)|null|
 |**2024-01-18**|**Optical properties and plasmons in moiré structures**|Xueheng Kuang et.al.|[2401.09667](http://arxiv.org/abs/2401.09667)|null|
