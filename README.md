@@ -230,6 +230,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Measurement of the Chern Number for Non-Hermitian Chern Insulators**|Hongfang Liu et.al.|[2401.15991](http://arxiv.org/abs/2401.15991)|null|
+|**2024-01-26**|**New perspectives of Hall effects from first-principles calculations**|ShengNan Zhang et.al.|[2401.15150](http://arxiv.org/abs/2401.15150)|null|
+|**2024-01-26**|**First-principles Methodology for studying magnetotransport in magnetic materials**|Zhihao Liu et.al.|[2401.15146](http://arxiv.org/abs/2401.15146)|null|
 |**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044](http://arxiv.org/abs/2401.14044)|null|
 |**2024-01-24**|**In-plane magnetization orientation driven topological phase transition in OsCl $_3$ monolayer**|Ritwik Das et.al.|[2401.13449](http://arxiv.org/abs/2401.13449)|null|
 |**2024-01-24**|**Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene**|Zhaochen Liu et.al.|[2401.13413](http://arxiv.org/abs/2401.13413)|null|
@@ -464,6 +467,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Theory of intrinsic acoustic plasmons in twisted bilayer graphene**|Lorenzo Cavicchi et.al.|[2401.16384](http://arxiv.org/abs/2401.16384)|null|
 |**2024-01-26**|**Intrinsic and extrinsic photogalvanic effects in twisted bilayer graphene**|Fernando Peñaranda et.al.|[2401.15005](http://arxiv.org/abs/2401.15005)|null|
 |**2024-01-22**|**Tunable interplay between light and heavy electrons in twisted trilayer graphene**|Andrew T. Pierce et.al.|[2401.12284](http://arxiv.org/abs/2401.12284)|null|
 |**2024-01-18**|**Magic distances for flat bands in twisted bilayer graphene**|Antonio Palamara et.al.|[2401.09884](http://arxiv.org/abs/2401.09884)|null|
