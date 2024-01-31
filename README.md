@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**When FPU fronts and pulses form a single family**|Anna Vainchtein et.al.|[2401.16593](http://arxiv.org/abs/2401.16593)|null|
 |**2024-01-24**|**Dynamics of non-Hermitian Floquet Wannier-Stark system**|H. P. Zhang et.al.|[2401.13286](http://arxiv.org/abs/2401.13286)|null|
 |**2024-01-23**|**Exponential perturbative expansions and coordinate transformations**|Ana Arnal et.al.|[2401.12955](http://arxiv.org/abs/2401.12955)|null|
 |**2024-01-23**|**Non-Bloch Theory for Spatiotemporal Photonic Crystals Assisted by Continuum Effective Medium**|Haozhi Ding et.al.|[2401.12536](http://arxiv.org/abs/2401.12536)|null|
