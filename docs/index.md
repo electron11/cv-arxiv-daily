@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Floquet-Bloch Theory for Nonperturbative Response to a Static Drive**|Christophe De Beule et.al.|[2401.17368](http://arxiv.org/abs/2401.17368)|null|
 |**2024-01-29**|**When FPU fronts and pulses form a single family**|Anna Vainchtein et.al.|[2401.16593](http://arxiv.org/abs/2401.16593)|null|
 |**2024-01-24**|**Dynamics of non-Hermitian Floquet Wannier-Stark system**|H. P. Zhang et.al.|[2401.13286](http://arxiv.org/abs/2401.13286)|null|
 |**2024-01-23**|**Exponential perturbative expansions and coordinate transformations**|Ana Arnal et.al.|[2401.12955](http://arxiv.org/abs/2401.12955)|null|
@@ -224,6 +225,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Light-enhanced nonlinear Hall effect**|Fang Qin et.al.|[2401.18038](http://arxiv.org/abs/2401.18038)|null|
+|**2024-01-31**|**Keldysh Theory of Thermal Transport in Multiband Hamiltonians**|Luqman Saleem et.al.|[2401.17652](http://arxiv.org/abs/2401.17652)|null|
+|**2024-01-31**|**Giant Anomalous Hall and Nernst Effects in a Heavy Fermion Ferromagnet**|Longfei Li et.al.|[2401.17624](http://arxiv.org/abs/2401.17624)|null|
+|**2024-01-31**|**Electrical 180o switching of Néel vector in spin-splitting antiferromagnet**|Lei Han et.al.|[2401.17608](http://arxiv.org/abs/2401.17608)|null|
+|**2024-01-30**|**Topological Hall effect induced by chiral fluctuations in a kagome lattice**|Kyle Fruhling et.al.|[2401.17449](http://arxiv.org/abs/2401.17449)|null|
 |**2024-01-29**|**Measurement of the Chern Number for Non-Hermitian Chern Insulators**|Hongfang Liu et.al.|[2401.15991](http://arxiv.org/abs/2401.15991)|null|
 |**2024-01-26**|**New perspectives of Hall effects from first-principles calculations**|ShengNan Zhang et.al.|[2401.15150](http://arxiv.org/abs/2401.15150)|null|
 |**2024-01-26**|**First-principles Methodology for studying magnetotransport in magnetic materials**|Zhihao Liu et.al.|[2401.15146](http://arxiv.org/abs/2401.15146)|null|
