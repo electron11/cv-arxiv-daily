@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Longtime dynamics for the Landau Hamiltonian with a time dependent magnetic field**|Dario Bambusi et.al.|[2402.00428](http://arxiv.org/abs/2402.00428)|null|
 |**2024-01-30**|**Floquet-Bloch Theory for Nonperturbative Response to a Static Drive**|Christophe De Beule et.al.|[2401.17368](http://arxiv.org/abs/2401.17368)|null|
 |**2024-01-29**|**When FPU fronts and pulses form a single family**|Anna Vainchtein et.al.|[2401.16593](http://arxiv.org/abs/2401.16593)|null|
 |**2024-01-24**|**Dynamics of non-Hermitian Floquet Wannier-Stark system**|H. P. Zhang et.al.|[2401.13286](http://arxiv.org/abs/2401.13286)|null|
@@ -225,6 +226,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Chern-Simons bubbles: Lopsided false vacuum decay in axion electrodynamics**|Saquib Hassan et.al.|[2402.00119](http://arxiv.org/abs/2402.00119)|null|
 |**2024-01-31**|**Light-enhanced nonlinear Hall effect**|Fang Qin et.al.|[2401.18038](http://arxiv.org/abs/2401.18038)|null|
 |**2024-01-31**|**Keldysh Theory of Thermal Transport in Multiband Hamiltonians**|Luqman Saleem et.al.|[2401.17652](http://arxiv.org/abs/2401.17652)|null|
 |**2024-01-31**|**Giant Anomalous Hall and Nernst Effects in a Heavy Fermion Ferromagnet**|Longfei Li et.al.|[2401.17624](http://arxiv.org/abs/2401.17624)|null|
@@ -465,6 +467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Molecular Pairing in Twisted Bilayer Graphene Superconductivity**|Yi-Jie Wang et.al.|[2402.00869](http://arxiv.org/abs/2402.00869)|null|
 |**2024-01-29**|**Theory of intrinsic acoustic plasmons in twisted bilayer graphene**|Lorenzo Cavicchi et.al.|[2401.16384](http://arxiv.org/abs/2401.16384)|null|
 |**2024-01-26**|**Intrinsic and extrinsic photogalvanic effects in twisted bilayer graphene**|Fernando Peñaranda et.al.|[2401.15005](http://arxiv.org/abs/2401.15005)|null|
 |**2024-01-22**|**Tunable interplay between light and heavy electrons in twisted trilayer graphene**|Andrew T. Pierce et.al.|[2401.12284](http://arxiv.org/abs/2401.12284)|null|
