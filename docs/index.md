@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Enhancement of Chiral-Induced Spin Selectivity via Circularly Polarized Light**|Wei Liu et.al.|[2402.00903](http://arxiv.org/abs/2402.00903)|null|
 |**2024-02-01**|**Longtime dynamics for the Landau Hamiltonian with a time dependent magnetic field**|Dario Bambusi et.al.|[2402.00428](http://arxiv.org/abs/2402.00428)|null|
 |**2024-01-30**|**Floquet-Bloch Theory for Nonperturbative Response to a Static Drive**|Christophe De Beule et.al.|[2401.17368](http://arxiv.org/abs/2401.17368)|null|
 |**2024-01-29**|**When FPU fronts and pulses form a single family**|Anna Vainchtein et.al.|[2401.16593](http://arxiv.org/abs/2401.16593)|null|
@@ -226,6 +227,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Coexistence of Ferromagnetism and Antiferromagnetic Dimers in Topological Insulators**|Farhan Islam et.al.|[2402.01531](http://arxiv.org/abs/2402.01531)|null|
+|**2024-02-02**|**Edge State, Band Topology, and Time Boundary Effect in the Fine-Grained Categorization of Chern Insulators**|H. C. Wu et.al.|[2402.01167](http://arxiv.org/abs/2402.01167)|null|
 |**2024-01-31**|**Chern-Simons bubbles: Lopsided false vacuum decay in axion electrodynamics**|Saquib Hassan et.al.|[2402.00119](http://arxiv.org/abs/2402.00119)|null|
 |**2024-01-31**|**Light-enhanced nonlinear Hall effect**|Fang Qin et.al.|[2401.18038](http://arxiv.org/abs/2401.18038)|null|
 |**2024-01-31**|**Keldysh Theory of Thermal Transport in Multiband Hamiltonians**|Luqman Saleem et.al.|[2401.17652](http://arxiv.org/abs/2401.17652)|null|
@@ -467,6 +470,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**Correlated phases and topological phase transition in twisted bilayer graphene at one quantum of magnetic flux**|Miguel Sánchez Sánchez et.al.|[2402.00884](http://arxiv.org/abs/2402.00884)|null|
 |**2024-02-01**|**Molecular Pairing in Twisted Bilayer Graphene Superconductivity**|Yi-Jie Wang et.al.|[2402.00869](http://arxiv.org/abs/2402.00869)|null|
 |**2024-01-29**|**Theory of intrinsic acoustic plasmons in twisted bilayer graphene**|Lorenzo Cavicchi et.al.|[2401.16384](http://arxiv.org/abs/2401.16384)|null|
 |**2024-01-26**|**Intrinsic and extrinsic photogalvanic effects in twisted bilayer graphene**|Fernando Peñaranda et.al.|[2401.15005](http://arxiv.org/abs/2401.15005)|null|
