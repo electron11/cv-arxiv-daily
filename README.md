@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-03**|**Comparative study of quantum error correction strategies for the heavy-hexagonal lattice**|César Benito et.al.|[2402.02185](http://arxiv.org/abs/2402.02185)|null|
+|**2024-02-02**|**Onset of transmon ionization in microwave single-photon detection**|Yuki Nojiri et.al.|[2402.01884](http://arxiv.org/abs/2402.01884)|null|
 |**2024-02-01**|**Enhancement of Chiral-Induced Spin Selectivity via Circularly Polarized Light**|Wei Liu et.al.|[2402.00903](http://arxiv.org/abs/2402.00903)|null|
 |**2024-02-01**|**Longtime dynamics for the Landau Hamiltonian with a time dependent magnetic field**|Dario Bambusi et.al.|[2402.00428](http://arxiv.org/abs/2402.00428)|null|
 |**2024-01-30**|**Floquet-Bloch Theory for Nonperturbative Response to a Static Drive**|Christophe De Beule et.al.|[2401.17368](http://arxiv.org/abs/2401.17368)|null|
@@ -234,6 +236,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
+|**2024-02-05**|**Designing topology and fractionalization in narrow gap semiconductor films via electrostatic engineering**|Tixuan Tan et.al.|[2402.03085](http://arxiv.org/abs/2402.03085)|null|
+|**2024-02-03**|**Contrasting twisted bilayer graphene and transition metal dichalcogenides for fractional Chern insulators: an emergent gauge picture**|Heqiu Li et.al.|[2402.02251](http://arxiv.org/abs/2402.02251)|null|
+|**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248](http://arxiv.org/abs/2402.02248)|null|
+|**2024-02-02**|**Robust Majorana bound state in pseudo-spin domain wall of 2-D topological insulator**|Subhadeep Chakraborty et.al.|[2402.01871](http://arxiv.org/abs/2402.01871)|null|
 |**2024-02-02**|**Coexistence of Ferromagnetism and Antiferromagnetic Dimers in Topological Insulators**|Farhan Islam et.al.|[2402.01531](http://arxiv.org/abs/2402.01531)|null|
 |**2024-02-02**|**Edge State, Band Topology, and Time Boundary Effect in the Fine-Grained Categorization of Chern Insulators**|H. C. Wu et.al.|[2402.01167](http://arxiv.org/abs/2402.01167)|null|
 |**2024-01-31**|**Chern-Simons bubbles: Lopsided false vacuum decay in axion electrodynamics**|Saquib Hassan et.al.|[2402.00119](http://arxiv.org/abs/2402.00119)|null|
@@ -479,6 +486,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
+|**2024-02-05**|**Phonon and exciton temperature-dependent properties of twisted MoS $_2$**|Francisco Silva-Santos et.al.|[2402.03272](http://arxiv.org/abs/2402.03272)|null|
+|**2024-02-05**|**Supersymmetry dictated topology in periodic gauge fields and realization in strained and twisted 2D materials**|Dawei Zhai et.al.|[2402.02744](http://arxiv.org/abs/2402.02744)|null|
+|**2024-02-04**|**Revealing flat bands and hybridization gaps in a twisted bilayer graphene device with microARPES**|Zhihao Jiang et.al.|[2402.02417](http://arxiv.org/abs/2402.02417)|null|
+|**2024-02-03**|**Contrasting twisted bilayer graphene and transition metal dichalcogenides for fractional Chern insulators: an emergent gauge picture**|Heqiu Li et.al.|[2402.02251](http://arxiv.org/abs/2402.02251)|null|
 |**2024-01-28**|**Correlated phases and topological phase transition in twisted bilayer graphene at one quantum of magnetic flux**|Miguel Sánchez Sánchez et.al.|[2402.00884](http://arxiv.org/abs/2402.00884)|null|
 |**2024-02-01**|**Molecular Pairing in Twisted Bilayer Graphene Superconductivity**|Yi-Jie Wang et.al.|[2402.00869](http://arxiv.org/abs/2402.00869)|null|
 |**2024-01-29**|**Theory of intrinsic acoustic plasmons in twisted bilayer graphene**|Lorenzo Cavicchi et.al.|[2401.16384](http://arxiv.org/abs/2401.16384)|null|
