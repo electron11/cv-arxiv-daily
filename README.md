@@ -238,6 +238,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Vortex spin liquid with neutral Fermi surface and fractional quantum spin Hall effect at odd integer filling of moiré Chern band**|Ya-Hui Zhang et.al.|[2402.05112](http://arxiv.org/abs/2402.05112)|null|
+|**2024-02-07**|**Observation of Giant Spin Splitting and d-wave Spin Texture in Room Temperature Altermagnet RuO2**|Zihan Lin et.al.|[2402.04995](http://arxiv.org/abs/2402.04995)|null|
+|**2024-02-06**|**Broken Symmetry in Ideal Chern Bands**|Hui Liu et.al.|[2402.04303](http://arxiv.org/abs/2402.04303)|null|
 |**2024-02-06**|**Balanced Quantum Hall Resistor**|Kajetan M. Fijalkowski et.al.|[2402.04126](http://arxiv.org/abs/2402.04126)|null|
 |**2024-02-05**|**Sequential Adiabatic Generation of Chiral Topological States**|Xie Chen et.al.|[2402.03433](http://arxiv.org/abs/2402.03433)|null|
 |**2024-02-05**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
