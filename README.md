@@ -238,6 +238,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Quantum Anomalous Hall Effect in $d$ -Electron Kagome Systems: Chern Insulating States from Transverse Spin-Orbit Coupling**|Imam Makhfudz et.al.|[2402.05845](http://arxiv.org/abs/2402.05845)|null|
+|**2024-02-08**|**Valley-dependent Multiple Quantum States and Topological Transitions in Germanene-based Ferromagnetic van der Waals Heterostructures**|Feng Xue et.al.|[2402.05613](http://arxiv.org/abs/2402.05613)|null|
+|**2024-02-07**|**Large unconventional anomalous Hall effect arising from spin chirality within domain walls of an antiferromagnet EuZn $_2$Sb$_2$**|Karan Singh et.al.|[2402.05237](http://arxiv.org/abs/2402.05237)|null|
 |**2024-02-07**|**Vortex spin liquid with neutral Fermi surface and fractional quantum spin Hall effect at odd integer filling of moiré Chern band**|Ya-Hui Zhang et.al.|[2402.05112](http://arxiv.org/abs/2402.05112)|null|
 |**2024-02-07**|**Observation of Giant Spin Splitting and d-wave Spin Texture in Room Temperature Altermagnet RuO2**|Zihan Lin et.al.|[2402.04995](http://arxiv.org/abs/2402.04995)|null|
 |**2024-02-06**|**Broken Symmetry in Ideal Chern Bands**|Hui Liu et.al.|[2402.04303](http://arxiv.org/abs/2402.04303)|null|
