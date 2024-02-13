@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Instability of periodic waves for the Korteweg-de Vries-Burgers equation with monostable source**|Raffaele Folino et.al.|[2402.07789](http://arxiv.org/abs/2402.07789)|null|
+|**2024-02-12**|**Photoinduced Topological Phase Transitions in a Kitaev kagome magnet**|Zhengguo Tang et.al.|[2402.07731](http://arxiv.org/abs/2402.07731)|null|
+|**2024-02-11**|**Discrete Time Crystal Phase of Higher Dimensional Integrable Models**|Rahul Chandra et.al.|[2402.07279](http://arxiv.org/abs/2402.07279)|null|
+|**2024-02-09**|**Hilbert-Space Ergodicity in Driven Quantum Systems: Obstructions and Designs**|Saúl Pilatowsky-Cameo et.al.|[2402.06720](http://arxiv.org/abs/2402.06720)|null|
 |**2024-02-06**|**Non-Abelian anyons in a periodically-driven Abelian model**|Francesco Petiziol et.al.|[2402.04131](http://arxiv.org/abs/2402.04131)|null|
 |**2024-02-06**|**A metronome spin stabilizes time-crystalline dynamics**|Niklas Euler et.al.|[2402.04078](http://arxiv.org/abs/2402.04078)|null|
 |**2024-02-03**|**Comparative study of quantum error correction strategies for the heavy-hexagonal lattice**|César Benito et.al.|[2402.02185](http://arxiv.org/abs/2402.02185)|null|
@@ -238,6 +242,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Phonon and defect mediated quantum anomalous Hall insulator to metal transition in magnetically doped topological insulators**|Akiyoshi Park et.al.|[2402.07886](http://arxiv.org/abs/2402.07886)|null|
 |**2024-02-08**|**Quantum Anomalous Hall Effect in $d$ -Electron Kagome Systems: Chern Insulating States from Transverse Spin-Orbit Coupling**|Imam Makhfudz et.al.|[2402.05845](http://arxiv.org/abs/2402.05845)|null|
 |**2024-02-08**|**Valley-dependent Multiple Quantum States and Topological Transitions in Germanene-based Ferromagnetic van der Waals Heterostructures**|Feng Xue et.al.|[2402.05613](http://arxiv.org/abs/2402.05613)|null|
 |**2024-02-07**|**Large unconventional anomalous Hall effect arising from spin chirality within domain walls of an antiferromagnet EuZn $_2$Sb$_2$**|Karan Singh et.al.|[2402.05237](http://arxiv.org/abs/2402.05237)|null|
@@ -246,7 +251,7 @@
 |**2024-02-06**|**Broken Symmetry in Ideal Chern Bands**|Hui Liu et.al.|[2402.04303](http://arxiv.org/abs/2402.04303)|null|
 |**2024-02-06**|**Balanced Quantum Hall Resistor**|Kajetan M. Fijalkowski et.al.|[2402.04126](http://arxiv.org/abs/2402.04126)|null|
 |**2024-02-05**|**Sequential Adiabatic Generation of Chiral Topological States**|Xie Chen et.al.|[2402.03433](http://arxiv.org/abs/2402.03433)|null|
-|**2024-02-05**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
+|**2024-02-12**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
 |**2024-02-05**|**Designing topology and fractionalization in narrow gap semiconductor films via electrostatic engineering**|Tixuan Tan et.al.|[2402.03085](http://arxiv.org/abs/2402.03085)|null|
 |**2024-02-03**|**Contrasting twisted bilayer graphene and transition metal dichalcogenides for fractional Chern insulators: an emergent gauge picture**|Heqiu Li et.al.|[2402.02251](http://arxiv.org/abs/2402.02251)|null|
 |**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248](http://arxiv.org/abs/2402.02248)|null|
@@ -496,8 +501,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Enhancing Shift Current via Virtual Multiband Transitions**|Sihan Chen et.al.|[2402.06721](http://arxiv.org/abs/2402.06721)|null|
 |**2024-02-06**|**Observation of the double quantum spin Hall phase in moiré WSe2**|Kaifei Kang et.al.|[2402.04196](http://arxiv.org/abs/2402.04196)|null|
-|**2024-02-05**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
+|**2024-02-12**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
 |**2024-02-05**|**Phonon and exciton temperature-dependent properties of twisted MoS $_2$**|Francisco Silva-Santos et.al.|[2402.03272](http://arxiv.org/abs/2402.03272)|null|
 |**2024-02-05**|**Supersymmetry dictated topology in periodic gauge fields and realization in strained and twisted 2D materials**|Dawei Zhai et.al.|[2402.02744](http://arxiv.org/abs/2402.02744)|null|
 |**2024-02-04**|**Revealing flat bands and hybridization gaps in a twisted bilayer graphene device with microARPES**|Zhihao Jiang et.al.|[2402.02417](http://arxiv.org/abs/2402.02417)|null|
