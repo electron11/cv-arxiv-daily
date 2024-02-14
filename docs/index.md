@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**A note on double Floquet-Bloch transforms and the far-field asymptotics of Green's functions tailored to periodic structures**|Andrey V. Shanin et.al.|[2402.08076](http://arxiv.org/abs/2402.08076)|null|
 |**2024-02-12**|**Instability of periodic waves for the Korteweg-de Vries-Burgers equation with monostable source**|Raffaele Folino et.al.|[2402.07789](http://arxiv.org/abs/2402.07789)|null|
 |**2024-02-12**|**Photoinduced Topological Phase Transitions in a Kitaev kagome magnet**|Zhengguo Tang et.al.|[2402.07731](http://arxiv.org/abs/2402.07731)|null|
 |**2024-02-11**|**Discrete Time Crystal Phase of Higher Dimensional Integrable Models**|Rahul Chandra et.al.|[2402.07279](http://arxiv.org/abs/2402.07279)|null|
