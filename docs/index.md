@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Quantized Thouless pumps protected by interactions in dimerized Rydberg tweezer arrays**|Sergi Julià-Farré et.al.|[2402.09311](http://arxiv.org/abs/2402.09311)|null|
 |**2024-02-12**|**A note on double Floquet-Bloch transforms and the far-field asymptotics of Green's functions tailored to periodic structures**|Andrey V. Shanin et.al.|[2402.08076](http://arxiv.org/abs/2402.08076)|null|
 |**2024-02-12**|**Instability of periodic waves for the Korteweg-de Vries-Burgers equation with monostable source**|Raffaele Folino et.al.|[2402.07789](http://arxiv.org/abs/2402.07789)|null|
 |**2024-02-12**|**Photoinduced Topological Phase Transitions in a Kitaev kagome magnet**|Zhengguo Tang et.al.|[2402.07731](http://arxiv.org/abs/2402.07731)|null|
@@ -236,6 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Quantum Theory of Phonon Induced Anomalous Hall Effect in 2D Massive Dirac metals**|Jia-Xing Zhang et.al.|[2402.09049](http://arxiv.org/abs/2402.09049)|null|
 |**2024-02-12**|**Phonon and defect mediated quantum anomalous Hall insulator to metal transition in magnetically doped topological insulators**|Akiyoshi Park et.al.|[2402.07886](http://arxiv.org/abs/2402.07886)|null|
 |**2024-02-08**|**Quantum Anomalous Hall Effect in $d$ -Electron Kagome Systems: Chern Insulating States from Transverse Spin-Orbit Coupling**|Imam Makhfudz et.al.|[2402.05845](http://arxiv.org/abs/2402.05845)|null|
 |**2024-02-08**|**Valley-dependent Multiple Quantum States and Topological Transitions in Germanene-based Ferromagnetic van der Waals Heterostructures**|Feng Xue et.al.|[2402.05613](http://arxiv.org/abs/2402.05613)|null|
@@ -493,6 +495,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Giant asymmetric proximity-induced spin-orbit coupling in twisted graphene/SnTe heterostructure**|Marko Milivojević et.al.|[2402.09045](http://arxiv.org/abs/2402.09045)|null|
 |**2024-02-09**|**Enhancing Shift Current via Virtual Multiband Transitions**|Sihan Chen et.al.|[2402.06721](http://arxiv.org/abs/2402.06721)|null|
 |**2024-02-06**|**Observation of the double quantum spin Hall phase in moiré WSe2**|Kaifei Kang et.al.|[2402.04196](http://arxiv.org/abs/2402.04196)|null|
 |**2024-02-12**|**Observation of the fractional quantum spin Hall effect in moiré MoTe2**|Kaifei Kang et.al.|[2402.03294](http://arxiv.org/abs/2402.03294)|null|
