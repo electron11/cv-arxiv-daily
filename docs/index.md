@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Observation of topology transition in Floquet non-Hermitian skin effects in silicon photonics**|Zhiyuan Lin et.al.|[2402.09700](http://arxiv.org/abs/2402.09700)|null|
 |**2024-02-14**|**Quantized Thouless pumps protected by interactions in dimerized Rydberg tweezer arrays**|Sergi Julià-Farré et.al.|[2402.09311](http://arxiv.org/abs/2402.09311)|null|
 |**2024-02-12**|**A note on double Floquet-Bloch transforms and the far-field asymptotics of Green's functions tailored to periodic structures**|Andrey V. Shanin et.al.|[2402.08076](http://arxiv.org/abs/2402.08076)|null|
 |**2024-02-12**|**Instability of periodic waves for the Korteweg-de Vries-Burgers equation with monostable source**|Raffaele Folino et.al.|[2402.07789](http://arxiv.org/abs/2402.07789)|null|
@@ -237,6 +238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201](http://arxiv.org/abs/2402.10201)|null|
+|**2024-02-15**|**Doping induced multiferroicity and quantum anomalous Hall effect in $α$-In$_2$Se$_3$ thin films**|Zhiqiang Tian et.al.|[2402.09770](http://arxiv.org/abs/2402.09770)|null|
 |**2024-02-14**|**Quantum Theory of Phonon Induced Anomalous Hall Effect in 2D Massive Dirac metals**|Jia-Xing Zhang et.al.|[2402.09049](http://arxiv.org/abs/2402.09049)|null|
 |**2024-02-12**|**Phonon and defect mediated quantum anomalous Hall insulator to metal transition in magnetically doped topological insulators**|Akiyoshi Park et.al.|[2402.07886](http://arxiv.org/abs/2402.07886)|null|
 |**2024-02-08**|**Quantum Anomalous Hall Effect in $d$ -Electron Kagome Systems: Chern Insulating States from Transverse Spin-Orbit Coupling**|Imam Makhfudz et.al.|[2402.05845](http://arxiv.org/abs/2402.05845)|null|
