@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Fast counter-diabatic Thouless pumping in the Rice-Mele mode**|Joshua Chiel et.al.|[2402.10872](http://arxiv.org/abs/2402.10872)|null|
+|**2024-02-16**|**Simultaneous symmetry breaking in spontaneous Floquet states: Floquet-Nambu-Goldstone modes, Floquet thermodynamics, and the time operator**|Juan Ramón Muñoz de Nova et.al.|[2402.10784](http://arxiv.org/abs/2402.10784)|null|
 |**2024-02-15**|**Observation of topology transition in Floquet non-Hermitian skin effects in silicon photonics**|Zhiyuan Lin et.al.|[2402.09700](http://arxiv.org/abs/2402.09700)|null|
 |**2024-02-14**|**Quantized Thouless pumps protected by interactions in dimerized Rydberg tweezer arrays**|Sergi Julià-Farré et.al.|[2402.09311](http://arxiv.org/abs/2402.09311)|null|
 |**2024-02-12**|**A note on double Floquet-Bloch transforms and the far-field asymptotics of Green's functions tailored to periodic structures**|Andrey V. Shanin et.al.|[2402.08076](http://arxiv.org/abs/2402.08076)|null|
@@ -238,6 +240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Electronic orders on the kagome lattice at the lower Van Hove filling**|Yi-Qun Liu et.al.|[2402.10455](http://arxiv.org/abs/2402.10455)|null|
 |**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201](http://arxiv.org/abs/2402.10201)|null|
 |**2024-02-15**|**Doping induced multiferroicity and quantum anomalous Hall effect in $α$-In$_2$Se$_3$ thin films**|Zhiqiang Tian et.al.|[2402.09770](http://arxiv.org/abs/2402.09770)|null|
 |**2024-02-14**|**Quantum Theory of Phonon Induced Anomalous Hall Effect in 2D Massive Dirac metals**|Jia-Xing Zhang et.al.|[2402.09049](http://arxiv.org/abs/2402.09049)|null|
