@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Topological Phase Diagram of Optimally Shaken Honeycomb Lattices: A Dual Perspective from Stroboscopic and Non-Stroboscopic Floquet Hamiltonians**|Álvaro R. Puente-Uriona et.al.|[2402.12113](http://arxiv.org/abs/2402.12113)|null|
 |**2024-02-16**|**Fast counter-diabatic Thouless pumping in the Rice-Mele mode**|Joshua Chiel et.al.|[2402.10872](http://arxiv.org/abs/2402.10872)|null|
 |**2024-02-16**|**Simultaneous symmetry breaking in spontaneous Floquet states: Floquet-Nambu-Goldstone modes, Floquet thermodynamics, and the time operator**|Juan Ramón Muñoz de Nova et.al.|[2402.10784](http://arxiv.org/abs/2402.10784)|null|
 |**2024-02-15**|**Observation of topology transition in Floquet non-Hermitian skin effects in silicon photonics**|Zhiyuan Lin et.al.|[2402.09700](http://arxiv.org/abs/2402.09700)|null|
@@ -247,6 +248,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Intrinsic anomalous and crystal Hall effects in altermagnets**|Lotan Attias et.al.|[2402.12115](http://arxiv.org/abs/2402.12115)|null|
+|**2024-02-19**|**Unusual Multiple Magnetic Transitions and Anomalous Hall Effect Observed in Antiferromagnetic Weyl Semimetal, Mn $_{2.94}$ Ge (Ge-rich)**|Susanta Ghosh et.al.|[2402.11923](http://arxiv.org/abs/2402.11923)|null|
 |**2024-02-16**|**Electronic orders on the kagome lattice at the lower Van Hove filling**|Yi-Qun Liu et.al.|[2402.10455](http://arxiv.org/abs/2402.10455)|null|
 |**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201](http://arxiv.org/abs/2402.10201)|null|
 |**2024-02-15**|**Doping induced multiferroicity and quantum anomalous Hall effect in $α$-In$_2$Se$_3$ thin films**|Zhiqiang Tian et.al.|[2402.09770](http://arxiv.org/abs/2402.09770)|null|
@@ -510,6 +513,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Emergence of radial Rashba spin-orbit fields in twisted van der Waals heterostructures**|Tobias Frank et.al.|[2402.12353](http://arxiv.org/abs/2402.12353)|null|
+|**2024-02-19**|**Cryo-Near-Field Photovoltage Microscopy of Heavy-Fermion Twisted Symmetric Trilayer Graphene**|Sergi Batlle-Porro et.al.|[2402.12296](http://arxiv.org/abs/2402.12296)|null|
+|**2024-02-19**|**Moiré optical phonons dancing with heavy electrons in magic-angle twisted bilayer graphene**|Hao Shi et.al.|[2402.11824](http://arxiv.org/abs/2402.11824)|null|
+|**2024-02-19**|**Evidence of heavy fermion physics in the thermoelectric transport of magic angle twisted bilayer graphene**|Rafael Luque Merino et.al.|[2402.11749](http://arxiv.org/abs/2402.11749)|null|
+|**2024-02-18**|**Electric field tunable superconductivity with competing orders in near magic-angle twisted bilayer graphene**|Ranit Dutta et.al.|[2402.11649](http://arxiv.org/abs/2402.11649)|null|
+|**2024-02-18**|**Deep learning methods for Hamiltonian parameter estimation and magnetic domain image generation in twisted van der Waals magnets**|Woo Seok Lee et.al.|[2402.11434](http://arxiv.org/abs/2402.11434)|null|
 |**2024-02-14**|**Giant asymmetric proximity-induced spin-orbit coupling in twisted graphene/SnTe heterostructure**|Marko Milivojević et.al.|[2402.09045](http://arxiv.org/abs/2402.09045)|null|
 |**2024-02-09**|**Enhancing Shift Current via Virtual Multiband Transitions**|Sihan Chen et.al.|[2402.06721](http://arxiv.org/abs/2402.06721)|null|
 |**2024-02-06**|**Observation of the double quantum spin Hall phase in moiré WSe2**|Kaifei Kang et.al.|[2402.04196](http://arxiv.org/abs/2402.04196)|null|
