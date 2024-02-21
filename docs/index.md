@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**A mechanical analogue of Faraday's law for waves in chiral elastic media**|Finn J. P. Allison et.al.|[2402.12853](http://arxiv.org/abs/2402.12853)|null|
+|**2024-02-20**|**Floquet Nonadiabatic Mixed Quantum-Classical Dynamics in Laser-Dressed Solid Systems**|Jingqi Chen et.al.|[2402.12732](http://arxiv.org/abs/2402.12732)|null|
 |**2024-02-19**|**Topological Phase Diagram of Optimally Shaken Honeycomb Lattices: A Dual Perspective from Stroboscopic and Non-Stroboscopic Floquet Hamiltonians**|Álvaro R. Puente-Uriona et.al.|[2402.12113](http://arxiv.org/abs/2402.12113)|null|
 |**2024-02-16**|**Fast counter-diabatic Thouless pumping in the Rice-Mele mode**|Joshua Chiel et.al.|[2402.10872](http://arxiv.org/abs/2402.10872)|null|
 |**2024-02-16**|**Simultaneous symmetry breaking in spontaneous Floquet states: Floquet-Nambu-Goldstone modes, Floquet thermodynamics, and the time operator**|Juan Ramón Muñoz de Nova et.al.|[2402.10784](http://arxiv.org/abs/2402.10784)|null|
@@ -241,6 +243,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Quantized shift response in multi-gap topological phases**|Wojciech J. Jankowski et.al.|[2402.13245](http://arxiv.org/abs/2402.13245)|null|
+|**2024-02-20**|**Antiferromagnetic Chern insulator with large charge gap in heavy transition-metal compounds**|Mohsen Hafez-Torbati et.al.|[2402.12918](http://arxiv.org/abs/2402.12918)|null|
+|**2024-02-19**|**Interlayer ferroelectric polarization modulated anomalous Hall effects in four-layer MnBi2Te4 antiferromagnets**|Ziyu Niu et.al.|[2402.12603](http://arxiv.org/abs/2402.12603)|null|
+|**2024-02-19**|**Excitonic quantum criticality: from bilayer graphene to narrow Chern bands**|Zhengyan Darius Shi et.al.|[2402.12436](http://arxiv.org/abs/2402.12436)|null|
 |**2024-02-19**|**Intrinsic anomalous and crystal Hall effects in altermagnets**|Lotan Attias et.al.|[2402.12115](http://arxiv.org/abs/2402.12115)|null|
 |**2024-02-19**|**Unusual Multiple Magnetic Transitions and Anomalous Hall Effect Observed in Antiferromagnetic Weyl Semimetal, Mn $_{2.94}$ Ge (Ge-rich)**|Susanta Ghosh et.al.|[2402.11923](http://arxiv.org/abs/2402.11923)|null|
 |**2024-02-16**|**Electronic orders on the kagome lattice at the lower Van Hove filling**|Yi-Qun Liu et.al.|[2402.10455](http://arxiv.org/abs/2402.10455)|null|
@@ -504,8 +510,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Absence of small magic angles for disordered tunneling potentials in twisted bilayer graphene**|Simon Becker et.al.|[2402.12799](http://arxiv.org/abs/2402.12799)|null|
 |**2024-02-19**|**Emergence of radial Rashba spin-orbit fields in twisted van der Waals heterostructures**|Tobias Frank et.al.|[2402.12353](http://arxiv.org/abs/2402.12353)|null|
-|**2024-02-19**|**Cryo-Near-Field Photovoltage Microscopy of Heavy-Fermion Twisted Symmetric Trilayer Graphene**|Sergi Batlle-Porro et.al.|[2402.12296](http://arxiv.org/abs/2402.12296)|null|
+|**2024-02-20**|**Cryo-Near-Field Photovoltage Microscopy of Heavy-Fermion Twisted Symmetric Trilayer Graphene**|Sergi Batlle-Porro et.al.|[2402.12296](http://arxiv.org/abs/2402.12296)|null|
 |**2024-02-19**|**Moiré optical phonons dancing with heavy electrons in magic-angle twisted bilayer graphene**|Hao Shi et.al.|[2402.11824](http://arxiv.org/abs/2402.11824)|null|
 |**2024-02-19**|**Evidence of heavy fermion physics in the thermoelectric transport of magic angle twisted bilayer graphene**|Rafael Luque Merino et.al.|[2402.11749](http://arxiv.org/abs/2402.11749)|null|
 |**2024-02-18**|**Electric field tunable superconductivity with competing orders in near magic-angle twisted bilayer graphene**|Ranit Dutta et.al.|[2402.11649](http://arxiv.org/abs/2402.11649)|null|
