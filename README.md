@@ -19,8 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
 |**2024-02-21**|**Time-reversal in a dipolar quantum many-body spin system**|Sebastian Geier et.al.|[2402.13873](http://arxiv.org/abs/2402.13873)|null|
-|**2024-02-21**|**Higher-order and fractional discrete time crystals in Floquet-driven Rydberg atoms**|Bang Liu et.al.|[2402.13657](http://arxiv.org/abs/2402.13657)|null|
+|**2024-02-22**|**Higher-order and fractional discrete time crystals in Floquet-driven Rydberg atoms**|Bang Liu et.al.|[2402.13657](http://arxiv.org/abs/2402.13657)|null|
 |**2024-02-20**|**A mechanical analogue of Faraday's law for waves in chiral elastic media**|Finn J. P. Allison et.al.|[2402.12853](http://arxiv.org/abs/2402.12853)|null|
 |**2024-02-20**|**Floquet Nonadiabatic Mixed Quantum-Classical Dynamics in Laser-Dressed Solid Systems**|Jingqi Chen et.al.|[2402.12732](http://arxiv.org/abs/2402.12732)|null|
 |**2024-02-19**|**Topological Phase Diagram of Optimally Shaken Honeycomb Lattices: A Dual Perspective from Stroboscopic and Non-Stroboscopic Floquet Hamiltonians**|Álvaro R. Puente-Uriona et.al.|[2402.12113](http://arxiv.org/abs/2402.12113)|null|
@@ -252,6 +253,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Unexpected versatile electrical transport behaviors of ferromagnetic nickel films**|Kai-Xuan Zhang et.al.|[2402.14275](http://arxiv.org/abs/2402.14275)|null|
+|**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
 |**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875](http://arxiv.org/abs/2402.13875)|null|
 |**2024-02-20**|**Quantized shift response in multi-gap topological phases**|Wojciech J. Jankowski et.al.|[2402.13245](http://arxiv.org/abs/2402.13245)|null|
 |**2024-02-20**|**Antiferromagnetic Chern insulator with large charge gap in heavy transition-metal compounds**|Mohsen Hafez-Torbati et.al.|[2402.12918](http://arxiv.org/abs/2402.12918)|null|
@@ -522,6 +525,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Dominant 1/3-filling Correlated Insulator States and Orbital Geometric Frustration in Twisted Bilayer Graphene**|Haidong Tian et.al.|[2402.14774](http://arxiv.org/abs/2402.14774)|null|
+|**2024-02-22**|**Robust 1D proximity superconductivity along graphene domain walls in the quantum Hall regime**|Julien Barrier et.al.|[2402.14451](http://arxiv.org/abs/2402.14451)|null|
+|**2024-02-21**|**The Thermoelectric Effect and Its Natural Heavy Fermion Explanation in Twisted Bilayer and Trilayer Graphene**|Dumitru Călugăru et.al.|[2402.14057](http://arxiv.org/abs/2402.14057)|null|
 |**2024-02-21**|**Quantum spin Hall effect protected by spin U(1) quasi-symmetry**|Lu Liu et.al.|[2402.13974](http://arxiv.org/abs/2402.13974)|null|
 |**2024-02-20**|**Absence of small magic angles for disordered tunneling potentials in twisted bilayer graphene**|Simon Becker et.al.|[2402.12799](http://arxiv.org/abs/2402.12799)|null|
 |**2024-02-19**|**Emergence of radial Rashba spin-orbit fields in twisted van der Waals heterostructures**|Tobias Frank et.al.|[2402.12353](http://arxiv.org/abs/2402.12353)|null|
