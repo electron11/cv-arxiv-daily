@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Dynamic control of 2D non-Hermitian photonic corner states in synthetic dimensions**|Xinyuan Zheng et.al.|[2402.14946](http://arxiv.org/abs/2402.14946)|null|
 |**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
 |**2024-02-21**|**Time-reversal in a dipolar quantum many-body spin system**|Sebastian Geier et.al.|[2402.13873](http://arxiv.org/abs/2402.13873)|null|
 |**2024-02-22**|**Higher-order and fractional discrete time crystals in Floquet-driven Rydberg atoms**|Bang Liu et.al.|[2402.13657](http://arxiv.org/abs/2402.13657)|null|
