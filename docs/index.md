@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**Terahertz amplification and lasing in pump-probe experiments with hyperbolic polaritons in h-BN**|Khachatur G. Nazaryan et.al.|[2402.15563](http://arxiv.org/abs/2402.15563)|null|
 |**2024-02-22**|**Dynamic control of 2D non-Hermitian photonic corner states in synthetic dimensions**|Xinyuan Zheng et.al.|[2402.14946](http://arxiv.org/abs/2402.14946)|null|
-|**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
+|**2024-02-24**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
 |**2024-02-21**|**Time-reversal in a dipolar quantum many-body spin system**|Sebastian Geier et.al.|[2402.13873](http://arxiv.org/abs/2402.13873)|null|
 |**2024-02-22**|**Higher-order and fractional discrete time crystals in Floquet-driven Rydberg atoms**|Bang Liu et.al.|[2402.13657](http://arxiv.org/abs/2402.13657)|null|
 |**2024-02-20**|**A mechanical analogue of Faraday's law for waves in chiral elastic media**|Finn J. P. Allison et.al.|[2402.12853](http://arxiv.org/abs/2402.12853)|null|
@@ -247,8 +248,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**The Map between Symmetries and Orbital Rules to Realize Tunable Band Gap in Quantum Anomalous Hall Effect Material**|Jiaohong Shu et.al.|[2402.16500](http://arxiv.org/abs/2402.16500)|null|
+|**2024-02-26**|**Topological transitions by magnetization rotation in kagome monolayers of ferromagnetic Weyl semimetal Co-based shandite**|Kazuki Nakazawa et.al.|[2402.16273](http://arxiv.org/abs/2402.16273)|null|
+|**2024-02-26**|**Giant resonant skew scattering of plasma waves in graphene off a micromagnet**|Cooper Finnigan et.al.|[2402.16263](http://arxiv.org/abs/2402.16263)|null|
+|**2024-02-24**|**Observation of the In-plane Anomalous Hall Effect induced by Octupole in Magnetization Space**|Wenzhi Peng et.al.|[2402.15741](http://arxiv.org/abs/2402.15741)|null|
 |**2024-02-22**|**Unexpected versatile electrical transport behaviors of ferromagnetic nickel films**|Kai-Xuan Zhang et.al.|[2402.14275](http://arxiv.org/abs/2402.14275)|null|
-|**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
+|**2024-02-24**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
 |**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875](http://arxiv.org/abs/2402.13875)|null|
 |**2024-02-20**|**Quantized shift response in multi-gap topological phases**|Wojciech J. Jankowski et.al.|[2402.13245](http://arxiv.org/abs/2402.13245)|null|
 |**2024-02-20**|**Antiferromagnetic Chern insulator with large charge gap in heavy transition-metal compounds**|Mohsen Hafez-Torbati et.al.|[2402.12918](http://arxiv.org/abs/2402.12918)|null|
