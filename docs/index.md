@@ -19,7 +19,7 @@ layout: default
 |**2024-02-22**|**Dynamic control of 2D non-Hermitian photonic corner states in synthetic dimensions**|Xinyuan Zheng et.al.|[2402.14946](http://arxiv.org/abs/2402.14946)|null|
 |**2024-02-24**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
 |**2024-02-21**|**Time-reversal in a dipolar quantum many-body spin system**|Sebastian Geier et.al.|[2402.13873](http://arxiv.org/abs/2402.13873)|null|
-|**2024-02-22**|**Higher-order and fractional discrete time crystals in Floquet-driven Rydberg atoms**|Bang Liu et.al.|[2402.13657](http://arxiv.org/abs/2402.13657)|null|
+|**2024-02-27**|**Higher-order and fractional discrete time crystals in Floquet-driven Rydberg atoms**|Bang Liu et.al.|[2402.13657](http://arxiv.org/abs/2402.13657)|null|
 |**2024-02-20**|**A mechanical analogue of Faraday's law for waves in chiral elastic media**|Finn J. P. Allison et.al.|[2402.12853](http://arxiv.org/abs/2402.12853)|null|
 |**2024-02-20**|**Floquet Nonadiabatic Mixed Quantum-Classical Dynamics in Laser-Dressed Solid Systems**|Jingqi Chen et.al.|[2402.12732](http://arxiv.org/abs/2402.12732)|null|
 |**2024-02-19**|**Topological Phase Diagram of Optimally Shaken Honeycomb Lattices: A Dual Perspective from Stroboscopic and Non-Stroboscopic Floquet Hamiltonians**|Álvaro R. Puente-Uriona et.al.|[2402.12113](http://arxiv.org/abs/2402.12113)|null|
@@ -249,6 +249,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Altermagnetism in NiSi with non-collinear spins**|Deepak K. Singh et.al.|[2402.17451](http://arxiv.org/abs/2402.17451)|null|
+|**2024-02-26**|**Chern Bands with Higher-Order Van Hove Singularities on Topological Moiré Surface States**|Lakshmi Pullasseri et.al.|[2402.16772](http://arxiv.org/abs/2402.16772)|null|
+|**2024-02-26**|**Large Anomalous Hall Effect at Room Temperature in a Fermi-Level-Tuned Kagome Antiferromagnet**|Linxuan Song et.al.|[2402.16521](http://arxiv.org/abs/2402.16521)|null|
 |**2024-02-26**|**The Map between Symmetries and Orbital Rules to Realize Tunable Band Gap in Quantum Anomalous Hall Effect Material**|Jiaohong Shu et.al.|[2402.16500](http://arxiv.org/abs/2402.16500)|null|
 |**2024-02-26**|**Topological transitions by magnetization rotation in kagome monolayers of ferromagnetic Weyl semimetal Co-based shandite**|Kazuki Nakazawa et.al.|[2402.16273](http://arxiv.org/abs/2402.16273)|null|
 |**2024-02-26**|**Giant resonant skew scattering of plasma waves in graphene off a micromagnet**|Cooper Finnigan et.al.|[2402.16263](http://arxiv.org/abs/2402.16263)|null|
@@ -523,6 +526,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Layer Coherence Origin of Intrinsic Planar Hall Effect in 2D Limit**|Huiyuan Zheng et.al.|[2402.17166](http://arxiv.org/abs/2402.17166)|null|
 |**2024-02-22**|**Dominant 1/3-filling Correlated Insulator States and Orbital Geometric Frustration in Twisted Bilayer Graphene**|Haidong Tian et.al.|[2402.14774](http://arxiv.org/abs/2402.14774)|null|
 |**2024-02-22**|**Robust 1D proximity superconductivity along graphene domain walls in the quantum Hall regime**|Julien Barrier et.al.|[2402.14451](http://arxiv.org/abs/2402.14451)|null|
 |**2024-02-21**|**The Thermoelectric Effect and Its Natural Heavy Fermion Explanation in Twisted Bilayer and Trilayer Graphene**|Dumitru Călugăru et.al.|[2402.14057](http://arxiv.org/abs/2402.14057)|null|
