@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Periodically driven thermodynamic systems under vanishingly small viscous drives**|Shakul Awasthi et.al.|[2402.16512](http://arxiv.org/abs/2402.16512)|null|
 |**2024-02-23**|**Terahertz amplification and lasing in pump-probe experiments with hyperbolic polaritons in h-BN**|Khachatur G. Nazaryan et.al.|[2402.15563](http://arxiv.org/abs/2402.15563)|null|
 |**2024-02-22**|**Dynamic control of 2D non-Hermitian photonic corner states in synthetic dimensions**|Xinyuan Zheng et.al.|[2402.14946](http://arxiv.org/abs/2402.14946)|null|
 |**2024-02-24**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
