@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Hilbert Space Fragmentation and Subspace Scar Time-Crystallinity in Driven Homogeneous Central-Spin Models**|Abhishek Kumar et.al.|[2402.18001](http://arxiv.org/abs/2402.18001)|null|
 |**2024-02-26**|**Periodically driven thermodynamic systems under vanishingly small viscous drives**|Shakul Awasthi et.al.|[2402.16512](http://arxiv.org/abs/2402.16512)|null|
 |**2024-02-23**|**Terahertz amplification and lasing in pump-probe experiments with hyperbolic polaritons in h-BN**|Khachatur G. Nazaryan et.al.|[2402.15563](http://arxiv.org/abs/2402.15563)|null|
 |**2024-02-22**|**Dynamic control of 2D non-Hermitian photonic corner states in synthetic dimensions**|Xinyuan Zheng et.al.|[2402.14946](http://arxiv.org/abs/2402.14946)|null|
@@ -256,6 +257,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Anomalous Hall Effect in Thin Bismuth**|Oulin Yu et.al.|[2402.18441](http://arxiv.org/abs/2402.18441)|null|
+|**2024-02-28**|**Magnetization fluctuations and magnetic aftereffect probed via the anomalous Hall effect**|Nadine Nabben et.al.|[2402.18436](http://arxiv.org/abs/2402.18436)|null|
+|**2024-02-27**|**Sublattice structure and topology in spontaneously crystallized electronic states**|Yongxin Zeng et.al.|[2402.17867](http://arxiv.org/abs/2402.17867)|null|
+|**2024-02-27**|**Quantum anomalous Hall crystal at fractional filling of moiré superlattices**|D. N. Sheng et.al.|[2402.17832](http://arxiv.org/abs/2402.17832)|null|
 |**2024-02-27**|**Altermagnetism in NiSi with non-collinear spins**|Deepak K. Singh et.al.|[2402.17451](http://arxiv.org/abs/2402.17451)|null|
 |**2024-02-26**|**Chern Bands with Higher-Order Van Hove Singularities on Topological Moiré Surface States**|Lakshmi Pullasseri et.al.|[2402.16772](http://arxiv.org/abs/2402.16772)|null|
 |**2024-02-26**|**Large Anomalous Hall Effect at Room Temperature in a Fermi-Level-Tuned Kagome Antiferromagnet**|Linxuan Song et.al.|[2402.16521](http://arxiv.org/abs/2402.16521)|null|
