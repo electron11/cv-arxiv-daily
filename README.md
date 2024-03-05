@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-04**|**A Floquet-Lyapunov Theory for nonautonomous linear periodic differential equations with piecewise constant deviating arguments**|Ricardo Torres et.al.|[2403.00661](http://arxiv.org/abs/2403.00661)|null|
+|**2024-02-29**|**Bloch-Floquet band gaps for water waves over a periodic bottom**|Christophe Lacave et.al.|[2403.00114](http://arxiv.org/abs/2403.00114)|null|
 |**2024-02-29**|**Achieving quantized transport in Floquet topological insulators via energy filters**|Ruoyu Zhang et.al.|[2402.18776](http://arxiv.org/abs/2402.18776)|null|
 |**2024-02-28**|**Slow crossover from superdiffusion to diffusion in isotropic spin chains**|Catherine McCarthy et.al.|[2402.18661](http://arxiv.org/abs/2402.18661)|null|
 |**2024-02-28**|**Two-mode Squeezing in Floquet Engineered Power-law Interacting Spin Models**|Arman Duha et.al.|[2402.18642](http://arxiv.org/abs/2402.18642)|null|
@@ -260,6 +262,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Simulating chiral spin liquids with fermionic Projected Entangled Paired States**|Sasank Budaraju et.al.|[2403.01243](http://arxiv.org/abs/2403.01243)|null|
+|**2024-03-02**|**Mirror real Chern insulator in two and three dimensions**|Yang Wang et.al.|[2403.01145](http://arxiv.org/abs/2403.01145)|null|
+|**2024-02-29**|**Higher vortexability: zero field realization of higher Landau levels**|Manato Fujimoto et.al.|[2403.00856](http://arxiv.org/abs/2403.00856)|null|
+|**2024-02-29**|**Non-Abelian fractionalization in topological minibands**|Aidan P. Reddy et.al.|[2403.00059](http://arxiv.org/abs/2403.00059)|null|
+|**2024-02-29**|**Long-lived Topological Flatband Excitons in Semiconductor Moiré Heterostructures: a Bosonic Kane-Mele Model Platform**|Ming Xie et.al.|[2403.00052](http://arxiv.org/abs/2403.00052)|null|
 |**2024-02-29**|**Viscoelastic response and anisotropic hydrodynamics in Weyl semimetals**|A. A. Herasymchuk et.al.|[2402.19304](http://arxiv.org/abs/2402.19304)|null|
 |**2024-02-29**|**Exchange bias induced by spin-glass-like state in Te-rich FeGeTe van der Waals ferromagnet**|Shaojie Hu et.al.|[2402.18887](http://arxiv.org/abs/2402.18887)|null|
 |**2024-02-28**|**Anomalous Hall Effect in Thin Bismuth**|Oulin Yu et.al.|[2402.18441](http://arxiv.org/abs/2402.18441)|null|
@@ -545,6 +552,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Evolution of Superconductivity in Twisted Graphene Multilayers**|Min Long et.al.|[2403.00903](http://arxiv.org/abs/2403.00903)|null|
 |**2024-02-29**|**Topological flat bands, valley polarization, and interband superconductivity in magic-angle twisted bilayer graphene with proximitized spin-orbit couplings**|Yang-Zhi Chou et.al.|[2402.19478](http://arxiv.org/abs/2402.19478)|null|
 |**2024-02-29**|**First-principles electron-phonon interactions and electronic transport in large-angle twisted bilayer graphene**|Shiyuan Gao et.al.|[2402.19453](http://arxiv.org/abs/2402.19453)|null|
 |**2024-02-27**|**Layer Coherence Origin of Intrinsic Planar Hall Effect in 2D Limit**|Huiyuan Zheng et.al.|[2402.17166](http://arxiv.org/abs/2402.17166)|null|
