@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-03**|**Multiple plateaus of high-sideband generation from Floquet matters**|Yu-Xuan Chen et.al.|[2403.01466](http://arxiv.org/abs/2403.01466)|null|
 |**2024-03-04**|**A Floquet-Lyapunov Theory for nonautonomous linear periodic differential equations with piecewise constant deviating arguments**|Ricardo Torres et.al.|[2403.00661](http://arxiv.org/abs/2403.00661)|null|
 |**2024-02-29**|**Bloch-Floquet band gaps for water waves over a periodic bottom**|Christophe Lacave et.al.|[2403.00114](http://arxiv.org/abs/2403.00114)|null|
 |**2024-02-29**|**Achieving quantized transport in Floquet topological insulators via energy filters**|Ruoyu Zhang et.al.|[2402.18776](http://arxiv.org/abs/2402.18776)|null|
@@ -255,6 +256,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Particle-hole asymmetric phases in doped twisted bilayer graphene**|Run Hou et.al.|[2403.03123](http://arxiv.org/abs/2403.03123)|null|
+|**2024-03-05**|**Strain tunable electronic ground states in two-dimensional iridate thin films**|Donghan Kim et.al.|[2403.02734](http://arxiv.org/abs/2403.02734)|null|
+|**2024-03-05**|**Coexistence of topological semimetal states in holography**|Haoqi Chu et.al.|[2403.02669](http://arxiv.org/abs/2403.02669)|null|
+|**2024-03-04**|**Tuning charge density wave of kagome metal ScV6Sn6**|Changjiang Yi et.al.|[2403.02463](http://arxiv.org/abs/2403.02463)|null|
 |**2024-03-02**|**Simulating chiral spin liquids with fermionic Projected Entangled Paired States**|Sasank Budaraju et.al.|[2403.01243](http://arxiv.org/abs/2403.01243)|null|
 |**2024-03-02**|**Mirror real Chern insulator in two and three dimensions**|Yang Wang et.al.|[2403.01145](http://arxiv.org/abs/2403.01145)|null|
 |**2024-02-29**|**Higher vortexability: zero field realization of higher Landau levels**|Manato Fujimoto et.al.|[2403.00856](http://arxiv.org/abs/2403.00856)|null|
@@ -543,6 +548,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Nematic Ising superconductivity in twisted bilayer graphene under hydrostatic pressure**|Miguel Sánchez Sánchez et.al.|[2403.03140](http://arxiv.org/abs/2403.03140)|null|
+|**2024-03-05**|**Particle-hole asymmetric phases in doped twisted bilayer graphene**|Run Hou et.al.|[2403.03123](http://arxiv.org/abs/2403.03123)|null|
+|**2024-03-04**|**Ultra-low carrier density superconducting bolometers with single photon sensitivity based on magic-angle twisted bilayer graphene**|G. Di Battista et.al.|[2403.02049](http://arxiv.org/abs/2403.02049)|null|
+|**2024-03-03**|**Anomalous impurity effect in the heavy-fermion superconductor CeCu $_2$Si$_2$**|Shan Zhao et.al.|[2403.01455](http://arxiv.org/abs/2403.01455)|null|
 |**2024-03-01**|**Evolution of Superconductivity in Twisted Graphene Multilayers**|Min Long et.al.|[2403.00903](http://arxiv.org/abs/2403.00903)|null|
 |**2024-02-29**|**Topological flat bands, valley polarization, and interband superconductivity in magic-angle twisted bilayer graphene with proximitized spin-orbit couplings**|Yang-Zhi Chou et.al.|[2402.19478](http://arxiv.org/abs/2402.19478)|null|
 |**2024-02-29**|**First-principles electron-phonon interactions and electronic transport in large-angle twisted bilayer graphene**|Shiyuan Gao et.al.|[2402.19453](http://arxiv.org/abs/2402.19453)|null|
