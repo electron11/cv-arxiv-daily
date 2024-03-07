@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Dynamical Logical Qubits in the Bacon-Shor Code**|M. Sohaib Alam et.al.|[2403.03291](http://arxiv.org/abs/2403.03291)|null|
 |**2024-03-03**|**Multiple plateaus of high-sideband generation from Floquet matters**|Yu-Xuan Chen et.al.|[2403.01466](http://arxiv.org/abs/2403.01466)|null|
 |**2024-03-04**|**A Floquet-Lyapunov Theory for nonautonomous linear periodic differential equations with piecewise constant deviating arguments**|Ricardo Torres et.al.|[2403.00661](http://arxiv.org/abs/2403.00661)|null|
 |**2024-02-29**|**Bloch-Floquet band gaps for water waves over a periodic bottom**|Christophe Lacave et.al.|[2403.00114](http://arxiv.org/abs/2403.00114)|null|
@@ -263,6 +264,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Engineering of a Layered Ferromagnet via Graphitization: An Overlooked Polymorph of GdAlSi**|Dmitry V. Averyanov et.al.|[2403.03735](http://arxiv.org/abs/2403.03735)|null|
+|**2024-03-06**|**Weyl points and anomalous transport effects tuned by the Fe doping in Mn $_3$ Ge Weyl semimetal**|Venus Rai et.al.|[2403.03626](http://arxiv.org/abs/2403.03626)|null|
+|**2024-03-06**|**Two-dimensional Kagome-in-Honeycomb materials (MN $_4$)$_3$C$_{32}$ (M=Pt or Mn)**|Jingping Dong et.al.|[2403.03402](http://arxiv.org/abs/2403.03402)|null|
+|**2024-03-05**|**Interaction-driven Roton Condensation in C = 2/3 Fractional Quantum Anomalous Hall State**|Hongyu Lu et.al.|[2403.03258](http://arxiv.org/abs/2403.03258)|null|
 |**2024-03-05**|**Particle-hole asymmetric phases in doped twisted bilayer graphene**|Run Hou et.al.|[2403.03123](http://arxiv.org/abs/2403.03123)|null|
 |**2024-03-05**|**Strain tunable electronic ground states in two-dimensional iridate thin films**|Donghan Kim et.al.|[2403.02734](http://arxiv.org/abs/2403.02734)|null|
 |**2024-03-05**|**Coexistence of topological semimetal states in holography**|Haoqi Chu et.al.|[2403.02669](http://arxiv.org/abs/2403.02669)|null|
