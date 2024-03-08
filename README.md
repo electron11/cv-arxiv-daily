@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Error Correction in Dynamical Codes**|Xiaozhen Fu et.al.|[2403.04163](http://arxiv.org/abs/2403.04163)|null|
+|**2024-03-07**|**Dual Symmetry Classification of Non-Hermitian Systems and $\mathbb{Z}_2$ Point-Gap Topology of a Non-Unitary Quantum Walk**|Zhiyu Jiang et.al.|[2403.04147](http://arxiv.org/abs/2403.04147)|null|
 |**2024-03-05**|**Dynamical Logical Qubits in the Bacon-Shor Code**|M. Sohaib Alam et.al.|[2403.03291](http://arxiv.org/abs/2403.03291)|null|
 |**2024-03-03**|**Multiple plateaus of high-sideband generation from Floquet matters**|Yu-Xuan Chen et.al.|[2403.01466](http://arxiv.org/abs/2403.01466)|null|
 |**2024-03-04**|**A Floquet-Lyapunov Theory for nonautonomous linear periodic differential equations with piecewise constant deviating arguments**|Ricardo Torres et.al.|[2403.00661](http://arxiv.org/abs/2403.00661)|null|
@@ -264,6 +266,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Parent Berry curvature and the ideal anomalous Hall crystal**|Tixuan Tan et.al.|[2403.04196](http://arxiv.org/abs/2403.04196)|null|
+|**2024-03-07**|**Orbital Magneto-Nonlinear Anomalous Hall Effect in Kagome Magnet Fe $_3$Sn$_2$**|Lujunyu Wang et.al.|[2403.04192](http://arxiv.org/abs/2403.04192)|null|
+|**2024-03-06**|**Power efficiency of Hall-like devices: comparison between reciprocal and anti-reciprocal Onsager relations**|Jean-Eric Wegrowe et.al.|[2403.04059](http://arxiv.org/abs/2403.04059)|null|
 |**2024-03-06**|**Engineering of a Layered Ferromagnet via Graphitization: An Overlooked Polymorph of GdAlSi**|Dmitry V. Averyanov et.al.|[2403.03735](http://arxiv.org/abs/2403.03735)|null|
 |**2024-03-06**|**Weyl points and anomalous transport effects tuned by the Fe doping in Mn $_3$ Ge Weyl semimetal**|Venus Rai et.al.|[2403.03626](http://arxiv.org/abs/2403.03626)|null|
 |**2024-03-06**|**Two-dimensional Kagome-in-Honeycomb materials (MN $_4$)$_3$C$_{32}$ (M=Pt or Mn)**|Jingping Dong et.al.|[2403.03402](http://arxiv.org/abs/2403.03402)|null|
@@ -562,6 +567,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Controllable Skyrmion Islands in a Moiré Magnet**|Jemin Park et.al.|[2403.04208](http://arxiv.org/abs/2403.04208)|null|
 |**2024-03-05**|**Nematic Ising superconductivity in twisted bilayer graphene under hydrostatic pressure**|Miguel Sánchez Sánchez et.al.|[2403.03140](http://arxiv.org/abs/2403.03140)|null|
 |**2024-03-05**|**Particle-hole asymmetric phases in doped twisted bilayer graphene**|Run Hou et.al.|[2403.03123](http://arxiv.org/abs/2403.03123)|null|
 |**2024-03-04**|**Ultra-low carrier density superconducting bolometers with single photon sensitivity based on magic-angle twisted bilayer graphene**|G. Di Battista et.al.|[2403.02049](http://arxiv.org/abs/2403.02049)|null|
