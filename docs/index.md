@@ -259,6 +259,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Anomalous Hall Crystals in Rhombohedral Multilayer Graphene II: General Mechanism and a Minimal Model**|Tomohiro Soejima et.al.|[2403.05522](http://arxiv.org/abs/2403.05522)|null|
+|**2024-03-08**|**Intrinsic anomalous Hall effect arising from antiferromagnetic structure revealed by high-quality NbMnP**|Yuki Arai et.al.|[2403.05058](http://arxiv.org/abs/2403.05058)|null|
 |**2024-03-07**|**Parent Berry curvature and the ideal anomalous Hall crystal**|Tixuan Tan et.al.|[2403.04196](http://arxiv.org/abs/2403.04196)|null|
 |**2024-03-07**|**Orbital Magneto-Nonlinear Anomalous Hall Effect in Kagome Magnet Fe $_3$Sn$_2$**|Lujunyu Wang et.al.|[2403.04192](http://arxiv.org/abs/2403.04192)|null|
 |**2024-03-06**|**Power efficiency of Hall-like devices: comparison between reciprocal and anti-reciprocal Onsager relations**|Jean-Eric Wegrowe et.al.|[2403.04059](http://arxiv.org/abs/2403.04059)|null|
