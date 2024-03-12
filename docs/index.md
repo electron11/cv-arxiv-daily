@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-10**|**Dynamical generation of skyrmion and bimeron crystals by a circularly polarized electric field in frustrated magnets**|Ryota Yambe et.al.|[2403.06118](http://arxiv.org/abs/2403.06118)|null|
 |**2024-03-07**|**Error Correction in Dynamical Codes**|Xiaozhen Fu et.al.|[2403.04163](http://arxiv.org/abs/2403.04163)|null|
 |**2024-03-07**|**Dual Symmetry Classification of Non-Hermitian Systems and $\mathbb{Z}_2$ Point-Gap Topology of a Non-Unitary Quantum Walk**|Zhiyu Jiang et.al.|[2403.04147](http://arxiv.org/abs/2403.04147)|null|
 |**2024-03-05**|**Dynamical Logical Qubits in the Bacon-Shor Code**|M. Sohaib Alam et.al.|[2403.03291](http://arxiv.org/abs/2403.03291)|null|
@@ -259,6 +260,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-10**|**Hybrid-order topology with tunable chiral hinge modes and unpinned Dirac surface states in the altermagnetic insulator Eu $_{3}$In$_{2}$As$_{4}$**|Yufei Zhao et.al.|[2403.06304](http://arxiv.org/abs/2403.06304)|null|
+|**2024-03-10**|**Chiral Spin-Liquid-Like State in Pyrochlore Iridate Thin Films**|Xiaoran Liu et.al.|[2403.06170](http://arxiv.org/abs/2403.06170)|null|
+|**2024-03-10**|**van Hove Singularity-Driven Emergence of Multiple Flat Bands in Kagome Superconductors**|Hailan Luo et.al.|[2403.06085](http://arxiv.org/abs/2403.06085)|null|
 |**2024-03-08**|**Anomalous Hall Crystals in Rhombohedral Multilayer Graphene II: General Mechanism and a Minimal Model**|Tomohiro Soejima et.al.|[2403.05522](http://arxiv.org/abs/2403.05522)|null|
 |**2024-03-08**|**Intrinsic anomalous Hall effect arising from antiferromagnetic structure revealed by high-quality NbMnP**|Yuki Arai et.al.|[2403.05058](http://arxiv.org/abs/2403.05058)|null|
 |**2024-03-07**|**Parent Berry curvature and the ideal anomalous Hall crystal**|Tixuan Tan et.al.|[2403.04196](http://arxiv.org/abs/2403.04196)|null|
