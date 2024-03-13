@@ -267,6 +267,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873](http://arxiv.org/abs/2403.07873)|null|
+|**2024-03-12**|**Unraveling the nature of quasi van der Waals Epitaxy of magnetic topological insulators Cr: (BixSb1-x)2Te3 on a GaAs (111) substrate through coherently strained interface**|Yuxing Ren et.al.|[2403.07864](http://arxiv.org/abs/2403.07864)|null|
+|**2024-03-12**|**Discovery of a Magnetic Topological Semimetal Eu3In2As4 with a Single Pair of Weyl Points**|Ke Jia et.al.|[2403.07637](http://arxiv.org/abs/2403.07637)|null|
+|**2024-03-12**|**Isolated nearly flat higher Chern band in monolayer transition metal trihalides**|Kejie Bao et.al.|[2403.07551](http://arxiv.org/abs/2403.07551)|null|
+|**2024-03-12**|**Crystal design of altermagnetism**|Zhiyuan Zhou et.al.|[2403.07396](http://arxiv.org/abs/2403.07396)|null|
 |**2024-03-10**|**Hybrid-order topology with tunable chiral hinge modes and unpinned Dirac surface states in the altermagnetic insulator Eu $_{3}$In$_{2}$As$_{4}$**|Yufei Zhao et.al.|[2403.06304](http://arxiv.org/abs/2403.06304)|null|
 |**2024-03-10**|**Chiral Spin-Liquid-Like State in Pyrochlore Iridate Thin Films**|Xiaoran Liu et.al.|[2403.06170](http://arxiv.org/abs/2403.06170)|null|
 |**2024-03-10**|**van Hove Singularity-Driven Emergence of Multiple Flat Bands in Kagome Superconductors**|Hailan Luo et.al.|[2403.06085](http://arxiv.org/abs/2403.06085)|null|
