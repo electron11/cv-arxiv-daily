@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -577,7 +577,7 @@ layout: default
 |**2024-03-01**|**Evolution of Superconductivity in Twisted Graphene Multilayers**|Min Long et.al.|[2403.00903](http://arxiv.org/abs/2403.00903)|null|
 |**2024-02-29**|**Topological flat bands, valley polarization, and interband superconductivity in magic-angle twisted bilayer graphene with proximitized spin-orbit couplings**|Yang-Zhi Chou et.al.|[2402.19478](http://arxiv.org/abs/2402.19478)|null|
 |**2024-02-29**|**First-principles electron-phonon interactions and electronic transport in large-angle twisted bilayer graphene**|Shiyuan Gao et.al.|[2402.19453](http://arxiv.org/abs/2402.19453)|null|
-|**2024-02-27**|**Layer Coherence Origin of Intrinsic Planar Hall Effect in 2D Limit**|Huiyuan Zheng et.al.|[2402.17166](http://arxiv.org/abs/2402.17166)|null|
+|**2024-03-13**|**Layer Coherence Origin of Intrinsic Planar Hall Effect in 2D Limit**|Huiyuan Zheng et.al.|[2402.17166](http://arxiv.org/abs/2402.17166)|null|
 |**2024-02-22**|**Dominant 1/3-filling Correlated Insulator States and Orbital Geometric Frustration in Twisted Bilayer Graphene**|Haidong Tian et.al.|[2402.14774](http://arxiv.org/abs/2402.14774)|null|
 |**2024-02-22**|**Robust 1D proximity superconductivity along graphene domain walls in the quantum Hall regime**|Julien Barrier et.al.|[2402.14451](http://arxiv.org/abs/2402.14451)|null|
 |**2024-02-21**|**The Thermoelectric Effect and Its Natural Heavy Fermion Explanation in Twisted Bilayer and Trilayer Graphene**|Dumitru Călugăru et.al.|[2402.14057](http://arxiv.org/abs/2402.14057)|null|
