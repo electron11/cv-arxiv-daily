@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Driving non-trivial quantum phases in conventional semiconductors with intense excitonic fields**|Vivek Pareek et.al.|[2403.08725](http://arxiv.org/abs/2403.08725)|null|
+|**2024-03-13**|**Sharp detection of the onset of Floquet heating using eigenstate sensitivity**|Sourav Bhattacharjee et.al.|[2403.08490](http://arxiv.org/abs/2403.08490)|null|
+|**2024-03-13**|**Inhomogeneous Floquet thermalization**|Soumya Bera et.al.|[2403.08369](http://arxiv.org/abs/2403.08369)|null|
+|**2024-03-13**|**Noninteger high-harmonic generation from extended correlated systems**|Christian Saugbjerg Lange et.al.|[2403.08327](http://arxiv.org/abs/2403.08327)|null|
 |**2024-03-10**|**Dynamical generation of skyrmion and bimeron crystals by a circularly polarized electric field in frustrated magnets**|Ryota Yambe et.al.|[2403.06118](http://arxiv.org/abs/2403.06118)|null|
 |**2024-03-07**|**Error Correction in Dynamical Codes**|Xiaozhen Fu et.al.|[2403.04163](http://arxiv.org/abs/2403.04163)|null|
 |**2024-03-07**|**Dual Symmetry Classification of Non-Hermitian Systems and $\mathbb{Z}_2$ Point-Gap Topology of a Non-Unitary Quantum Walk**|Zhiyu Jiang et.al.|[2403.04147](http://arxiv.org/abs/2403.04147)|null|
@@ -578,6 +582,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Evidence of enhanced thermopower from emergent local moments in flatbands of magic-angle twisted bilayer graphene**|Ayan Ghosh et.al.|[2403.08686](http://arxiv.org/abs/2403.08686)|null|
 |**2024-03-07**|**Controllable Skyrmion Islands in a Moiré Magnet**|Jemin Park et.al.|[2403.04208](http://arxiv.org/abs/2403.04208)|null|
 |**2024-03-05**|**Nematic Ising superconductivity in twisted bilayer graphene under hydrostatic pressure**|Miguel Sánchez Sánchez et.al.|[2403.03140](http://arxiv.org/abs/2403.03140)|null|
 |**2024-03-05**|**Particle-hole asymmetric phases in doped twisted bilayer graphene**|Run Hou et.al.|[2403.03123](http://arxiv.org/abs/2403.03123)|null|
