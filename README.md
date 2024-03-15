@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -265,7 +265,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240315>back to top</a>)</p>
 
 ## QAH
 
@@ -273,7 +273,7 @@
 |---|---|---|---|---|
 |**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873](http://arxiv.org/abs/2403.07873)|null|
 |**2024-03-12**|**Unraveling the nature of quasi van der Waals Epitaxy of magnetic topological insulators Cr: (BixSb1-x)2Te3 on a GaAs (111) substrate through coherently strained interface**|Yuxing Ren et.al.|[2403.07864](http://arxiv.org/abs/2403.07864)|null|
-|**2024-03-12**|**Discovery of a Magnetic Topological Semimetal Eu3In2As4 with a Single Pair of Weyl Points**|Ke Jia et.al.|[2403.07637](http://arxiv.org/abs/2403.07637)|null|
+|**2024-03-12**|**Discovery of a Magnetic Topological Semimetal Eu $_3$In$_2$As$_4$ with a Single Pair of Weyl Points**|Ke Jia et.al.|[2403.07637](http://arxiv.org/abs/2403.07637)|null|
 |**2024-03-12**|**Isolated nearly flat higher Chern band in monolayer transition metal trihalides**|Kejie Bao et.al.|[2403.07551](http://arxiv.org/abs/2403.07551)|null|
 |**2024-03-12**|**Crystal design of altermagnetism**|Zhiyuan Zhou et.al.|[2403.07396](http://arxiv.org/abs/2403.07396)|null|
 |**2024-03-10**|**Hybrid-order topology with tunable chiral hinge modes and unpinned Dirac surface states in the altermagnetic insulator Eu $_{3}$In$_{2}$As$_{4}$**|Yufei Zhao et.al.|[2403.06304](http://arxiv.org/abs/2403.06304)|null|
@@ -576,7 +576,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240315>back to top</a>)</p>
 
 ## twist
 
@@ -734,7 +734,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
