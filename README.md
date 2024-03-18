@@ -19,13 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Engineering nonequilibrium steady states through Floquet Liouvillians**|Weijian Chen et.al.|[2403.09769](http://arxiv.org/abs/2403.09769)|null|
 |**2024-03-13**|**Driving non-trivial quantum phases in conventional semiconductors with intense excitonic fields**|Vivek Pareek et.al.|[2403.08725](http://arxiv.org/abs/2403.08725)|null|
 |**2024-03-13**|**Sharp detection of the onset of Floquet heating using eigenstate sensitivity**|Sourav Bhattacharjee et.al.|[2403.08490](http://arxiv.org/abs/2403.08490)|null|
 |**2024-03-13**|**Inhomogeneous Floquet thermalization**|Soumya Bera et.al.|[2403.08369](http://arxiv.org/abs/2403.08369)|null|
 |**2024-03-13**|**Noninteger high-harmonic generation from extended correlated systems**|Christian Saugbjerg Lange et.al.|[2403.08327](http://arxiv.org/abs/2403.08327)|null|
 |**2024-03-10**|**Dynamical generation of skyrmion and bimeron crystals by a circularly polarized electric field in frustrated magnets**|Ryota Yambe et.al.|[2403.06118](http://arxiv.org/abs/2403.06118)|null|
 |**2024-03-07**|**Error Correction in Dynamical Codes**|Xiaozhen Fu et.al.|[2403.04163](http://arxiv.org/abs/2403.04163)|null|
-|**2024-03-07**|**Dual Symmetry Classification of Non-Hermitian Systems and $\mathbb{Z}_2$ Point-Gap Topology of a Non-Unitary Quantum Walk**|Zhiyu Jiang et.al.|[2403.04147](http://arxiv.org/abs/2403.04147)|null|
+|**2024-03-15**|**Dual Symmetry Classification of Non-Hermitian Systems and $\mathbb{Z}_2$ Point-Gap Topology of a Non-Unitary Quantum Walk**|Zhiyu Jiang et.al.|[2403.04147](http://arxiv.org/abs/2403.04147)|null|
 |**2024-03-05**|**Dynamical Logical Qubits in the Bacon-Shor Code**|M. Sohaib Alam et.al.|[2403.03291](http://arxiv.org/abs/2403.03291)|null|
 |**2024-03-03**|**Multiple plateaus of high-sideband generation from Floquet matters**|Yu-Xuan Chen et.al.|[2403.01466](http://arxiv.org/abs/2403.01466)|null|
 |**2024-03-04**|**A Floquet-Lyapunov Theory for nonautonomous linear periodic differential equations with piecewise constant deviating arguments**|Ricardo Torres et.al.|[2403.00661](http://arxiv.org/abs/2403.00661)|null|
@@ -271,6 +272,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Tuneable band topology and optical conductivity in altermagnets**|Peng Rao et.al.|[2403.10509](http://arxiv.org/abs/2403.10509)|null|
+|**2024-03-14**|**Berry curvature derived negative magnetoconductivity observed in type-II magnetic Weyl semimetal films**|Ayano Nakamura et.al.|[2403.09924](http://arxiv.org/abs/2403.09924)|null|
 |**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873](http://arxiv.org/abs/2403.07873)|null|
 |**2024-03-12**|**Unraveling the nature of quasi van der Waals Epitaxy of magnetic topological insulators Cr: (BixSb1-x)2Te3 on a GaAs (111) substrate through coherently strained interface**|Yuxing Ren et.al.|[2403.07864](http://arxiv.org/abs/2403.07864)|null|
 |**2024-03-12**|**Discovery of a Magnetic Topological Semimetal Eu $_3$In$_2$As$_4$ with a Single Pair of Weyl Points**|Ke Jia et.al.|[2403.07637](http://arxiv.org/abs/2403.07637)|null|
