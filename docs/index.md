@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**Coherent insulator at arbitrary frequency in a driven atomtronic transistor**|Wenxi Lai et.al.|[2403.11355](http://arxiv.org/abs/2403.11355)|null|
+|**2024-03-17**|**Floquet-Bloch functions on non-simply connected manifolds, the Aharonov-Bohm fluxes, and conformal invariants of immersed surfaces**|I. A. Taimanov et.al.|[2403.11161](http://arxiv.org/abs/2403.11161)|null|
+|**2024-03-15**|**Fluttering without wind: Stokesian quasiperiodic settling**|Harshit Joshi et.al.|[2403.10643](http://arxiv.org/abs/2403.10643)|null|
 |**2024-03-14**|**Engineering nonequilibrium steady states through Floquet Liouvillians**|Weijian Chen et.al.|[2403.09769](http://arxiv.org/abs/2403.09769)|null|
 |**2024-03-13**|**Driving non-trivial quantum phases in conventional semiconductors with intense excitonic fields**|Vivek Pareek et.al.|[2403.08725](http://arxiv.org/abs/2403.08725)|null|
 |**2024-03-13**|**Sharp detection of the onset of Floquet heating using eigenstate sensitivity**|Sourav Bhattacharjee et.al.|[2403.08490](http://arxiv.org/abs/2403.08490)|null|
@@ -576,6 +579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Tailoring topological band properties of twisted double bilayer graphene: effects due to spin-orbit coupling**|Kamalesh Bera et.al.|[2403.11660](http://arxiv.org/abs/2403.11660)|null|
 |**2024-03-13**|**Evidence of enhanced thermopower from emergent local moments in flatbands of magic-angle twisted bilayer graphene**|Ayan Ghosh et.al.|[2403.08686](http://arxiv.org/abs/2403.08686)|null|
 |**2024-03-07**|**Controllable Skyrmion Islands in a Moiré Magnet**|Jemin Park et.al.|[2403.04208](http://arxiv.org/abs/2403.04208)|null|
 |**2024-03-05**|**Nematic Ising superconductivity in twisted bilayer graphene under hydrostatic pressure**|Miguel Sánchez Sánchez et.al.|[2403.03140](http://arxiv.org/abs/2403.03140)|null|
