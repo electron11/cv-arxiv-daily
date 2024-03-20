@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Tangent space generators of matrix product states and exact Floquet quantum scars**|Marko Ljubotina et.al.|[2403.12325](http://arxiv.org/abs/2403.12325)|null|
+|**2024-03-18**|**Low-overhead non-Clifford topological fault-tolerant circuits for all non-chiral abelian topological phases**|Andreas Bauer et.al.|[2403.12119](http://arxiv.org/abs/2403.12119)|null|
 |**2024-03-17**|**Coherent insulator at arbitrary frequency in a driven atomtronic transistor**|Wenxi Lai et.al.|[2403.11355](http://arxiv.org/abs/2403.11355)|null|
 |**2024-03-17**|**Floquet-Bloch functions on non-simply connected manifolds, the Aharonov-Bohm fluxes, and conformal invariants of immersed surfaces**|I. A. Taimanov et.al.|[2403.11161](http://arxiv.org/abs/2403.11161)|null|
 |**2024-03-15**|**Fluttering without wind: Stokesian quasiperiodic settling**|Harshit Joshi et.al.|[2403.10643](http://arxiv.org/abs/2403.10643)|null|
@@ -268,6 +270,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Interfacing Quantum Spin Hall and Quantum Anomalous Hall insulators: Bi bilayer on MnBi $_2$Te$_4$ -family materials**|I. I. Klimovskikh et.al.|[2403.12287](http://arxiv.org/abs/2403.12287)|null|
 |**2024-03-15**|**Tuneable band topology and optical conductivity in altermagnets**|Peng Rao et.al.|[2403.10509](http://arxiv.org/abs/2403.10509)|null|
 |**2024-03-14**|**Berry curvature derived negative magnetoconductivity observed in type-II magnetic Weyl semimetal films**|Ayano Nakamura et.al.|[2403.09924](http://arxiv.org/abs/2403.09924)|null|
 |**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873](http://arxiv.org/abs/2403.07873)|null|
@@ -579,6 +582,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Dielectric response in twisted MoS2 bilayer facilitated by spin-orbit coupling effect**|Yu-Hao Shen et.al.|[2403.12475](http://arxiv.org/abs/2403.12475)|null|
 |**2024-03-18**|**Tailoring topological band properties of twisted double bilayer graphene: effects due to spin-orbit coupling**|Kamalesh Bera et.al.|[2403.11660](http://arxiv.org/abs/2403.11660)|null|
 |**2024-03-13**|**Evidence of enhanced thermopower from emergent local moments in flatbands of magic-angle twisted bilayer graphene**|Ayan Ghosh et.al.|[2403.08686](http://arxiv.org/abs/2403.08686)|null|
 |**2024-03-07**|**Controllable Skyrmion Islands in a Moiré Magnet**|Jemin Park et.al.|[2403.04208](http://arxiv.org/abs/2403.04208)|null|
