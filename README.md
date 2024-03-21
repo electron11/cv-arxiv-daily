@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Ultraclean Andreev interferometers**|Régis Mélin et.al.|[2403.13669](http://arxiv.org/abs/2403.13669)|null|
 |**2024-03-18**|**Tangent space generators of matrix product states and exact Floquet quantum scars**|Marko Ljubotina et.al.|[2403.12325](http://arxiv.org/abs/2403.12325)|null|
 |**2024-03-18**|**Low-overhead non-Clifford topological fault-tolerant circuits for all non-chiral abelian topological phases**|Andreas Bauer et.al.|[2403.12119](http://arxiv.org/abs/2403.12119)|null|
 |**2024-03-17**|**Coherent insulator at arbitrary frequency in a driven atomtronic transistor**|Wenxi Lai et.al.|[2403.11355](http://arxiv.org/abs/2403.11355)|null|
@@ -277,6 +278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Tailoring Physical Properties of Crystals through Synthetic Temperature Control: A Case Study for new Polymorphic NbFeTe2 phases**|Hanlin Wu et.al.|[2403.13596](http://arxiv.org/abs/2403.13596)|null|
 |**2024-03-18**|**Interfacing Quantum Spin Hall and Quantum Anomalous Hall insulators: Bi bilayer on MnBi $_2$Te$_4$ -family materials**|I. I. Klimovskikh et.al.|[2403.12287](http://arxiv.org/abs/2403.12287)|null|
 |**2024-03-15**|**Tuneable band topology and optical conductivity in altermagnets**|Peng Rao et.al.|[2403.10509](http://arxiv.org/abs/2403.10509)|null|
 |**2024-03-14**|**Berry curvature derived negative magnetoconductivity observed in type-II magnetic Weyl semimetal films**|Ayano Nakamura et.al.|[2403.09924](http://arxiv.org/abs/2403.09924)|null|
