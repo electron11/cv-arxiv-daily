@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Unveiling clean two-dimensional discrete time quasicrystals on a digital quantum computer**|Kazuya Shinjo et.al.|[2403.16718](http://arxiv.org/abs/2403.16718)|null|
+|**2024-03-25**|**Application of Floquet-Magnus expansion and Fer expansion to investigate the chemical shift anisotropy in solid-state NMR when irradiated with the triple oscillating field technique**|Eugene Stephane Mananga et.al.|[2403.16359](http://arxiv.org/abs/2403.16359)|null|
 |**2024-03-21**|**Optimal Floquet Engineering for Large Scale Atom Interferometers**|T. Rodzinka et.al.|[2403.14337](http://arxiv.org/abs/2403.14337)|null|
 |**2024-03-20**|**Ultraclean Andreev interferometers**|Régis Mélin et.al.|[2403.13669](http://arxiv.org/abs/2403.13669)|null|
 |**2024-03-18**|**Tangent space generators of matrix product states and exact Floquet quantum scars**|Marko Ljubotina et.al.|[2403.12325](http://arxiv.org/abs/2403.12325)|null|
@@ -272,6 +274,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Intrinsic Dipole Hall effect in tMoTe $_2$ moiré: magnetoelectricity and contact-free signature of topological transitions**|Feng-Ren Fan et.al.|[2403.16586](http://arxiv.org/abs/2403.16586)|null|
+|**2024-03-24**|**Ideal spin-polarized Weyl-half-semimetal with a single pair of Weyl points in half-Heusler compounds XCrTe (X=K, Rb)**|Hongshuang Liu et.al.|[2403.16195](http://arxiv.org/abs/2403.16195)|null|
+|**2024-03-23**|**Observation of the dual quantum spin Hall insulator by density-tuned correlations in a van der Waals monolayer**|Jian Tang et.al.|[2403.15912](http://arxiv.org/abs/2403.15912)|null|
 |**2024-03-22**|**Orbital-doublet-driven even spin Chern insulators**|Lu Liu et.al.|[2403.14893](http://arxiv.org/abs/2403.14893)|null|
 |**2024-03-21**|**Direct Probe of Topology and Geometry of Quantum States on IBM Q**|Tianqi Chen et.al.|[2403.14249](http://arxiv.org/abs/2403.14249)|null|
 |**2024-03-20**|**Tailoring Physical Properties of Crystals through Synthetic Temperature Control: A Case Study for new Polymorphic NbFeTe2 phases**|Hanlin Wu et.al.|[2403.13596](http://arxiv.org/abs/2403.13596)|null|
