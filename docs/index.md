@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -274,6 +274,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725](http://arxiv.org/abs/2403.16725)|null|
 |**2024-03-25**|**Intrinsic Dipole Hall effect in tMoTe $_2$ moiré: magnetoelectricity and contact-free signature of topological transitions**|Feng-Ren Fan et.al.|[2403.16586](http://arxiv.org/abs/2403.16586)|null|
 |**2024-03-24**|**Ideal spin-polarized Weyl-half-semimetal with a single pair of Weyl points in half-Heusler compounds XCrTe (X=K, Rb)**|Hongshuang Liu et.al.|[2403.16195](http://arxiv.org/abs/2403.16195)|null|
 |**2024-03-23**|**Observation of the dual quantum spin Hall insulator by density-tuned correlations in a van der Waals monolayer**|Jian Tang et.al.|[2403.15912](http://arxiv.org/abs/2403.15912)|null|
