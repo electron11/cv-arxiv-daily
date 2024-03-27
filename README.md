@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**A Floquet analysis perspective of driven light-matter interaction models**|Jonas Larson et.al.|[2403.17866](http://arxiv.org/abs/2403.17866)|null|
+|**2024-03-26**|**Experimental Realization of Discrete Time Quasi-Crystals**|Guanghui He et.al.|[2403.17842](http://arxiv.org/abs/2403.17842)|null|
+|**2024-03-25**|**Floquet Prethermal Order by Disorder**|Hui-Ke Jin et.al.|[2403.17118](http://arxiv.org/abs/2403.17118)|null|
+|**2024-03-25**|**Measuring Spectral Form Factor in Many-Body Chaotic and Localized Phases of Quantum Processors**|Hang Dong et.al.|[2403.16935](http://arxiv.org/abs/2403.16935)|null|
 |**2024-03-25**|**Unveiling clean two-dimensional discrete time quasicrystals on a digital quantum computer**|Kazuya Shinjo et.al.|[2403.16718](http://arxiv.org/abs/2403.16718)|null|
 |**2024-03-25**|**Application of Floquet-Magnus expansion and Fer expansion to investigate the chemical shift anisotropy in solid-state NMR when irradiated with the triple oscillating field technique**|Eugene Stephane Mananga et.al.|[2403.16359](http://arxiv.org/abs/2403.16359)|null|
 |**2024-03-21**|**Optimal Floquet Engineering for Large Scale Atom Interferometers**|T. Rodzinka et.al.|[2403.14337](http://arxiv.org/abs/2403.14337)|null|
@@ -602,6 +606,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Negative electronic compressibility in charge islands in twisted bilayer graphene**|Robin J. Dolleman et.al.|[2403.17840](http://arxiv.org/abs/2403.17840)|null|
+|**2024-03-25**|**Multiple Chern bands in twisted MoTe $_2$ and possible non-Abelian states**|Cheng Xu et.al.|[2403.17003](http://arxiv.org/abs/2403.17003)|null|
 |**2024-03-22**|**Quantum Valley Hall effect without Berry curvature**|Rasoul Ghadimi et.al.|[2403.15050](http://arxiv.org/abs/2403.15050)|null|
 |**2024-03-21**|**Moiré-modulated band gap and van Hove singularities in twisted bilayer germanene**|Pantelis Bampoulis et.al.|[2403.14560](http://arxiv.org/abs/2403.14560)|null|
 |**2024-03-21**|**Band gap formation in commensurate twisted bilayer graphene/hBN moiré lattices**|Alexander Rothstein et.al.|[2403.14393](http://arxiv.org/abs/2403.14393)|null|
