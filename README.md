@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Generalized bulk-boundary correspondence in periodically driven non-Hermitian systems**|Xiang Ji et.al.|[2403.18470](http://arxiv.org/abs/2403.18470)|null|
+|**2024-03-27**|**Floquet Product Mode**|Hsiu-Chung Yeh et.al.|[2403.18194](http://arxiv.org/abs/2403.18194)|null|
 |**2024-03-26**|**A Floquet analysis perspective of driven light-matter interaction models**|Jonas Larson et.al.|[2403.17866](http://arxiv.org/abs/2403.17866)|null|
 |**2024-03-26**|**Experimental Realization of Discrete Time Quasi-Crystals**|Guanghui He et.al.|[2403.17842](http://arxiv.org/abs/2403.17842)|null|
 |**2024-03-25**|**Floquet Prethermal Order by Disorder**|Hui-Ke Jin et.al.|[2403.17118](http://arxiv.org/abs/2403.17118)|null|
