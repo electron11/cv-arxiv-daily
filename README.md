@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**A Photonic Floquet Scattering Matrix for Wavefront-Shaping in Time-Periodic Media**|David Globosits et.al.|[2403.19311](http://arxiv.org/abs/2403.19311)|null|
 |**2024-03-27**|**Generalized bulk-boundary correspondence in periodically driven non-Hermitian systems**|Xiang Ji et.al.|[2403.18470](http://arxiv.org/abs/2403.18470)|null|
 |**2024-03-27**|**Floquet Product Mode**|Hsiu-Chung Yeh et.al.|[2403.18194](http://arxiv.org/abs/2403.18194)|null|
 |**2024-03-26**|**A Floquet analysis perspective of driven light-matter interaction models**|Jonas Larson et.al.|[2403.17866](http://arxiv.org/abs/2403.17866)|null|
@@ -287,6 +288,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581](http://arxiv.org/abs/2403.19581)|null|
+|**2024-03-28**|**High Mobility Charge Transport in a Multicarrier Altermagnet CrSb**|Takahiro Urata et.al.|[2403.19233](http://arxiv.org/abs/2403.19233)|null|
+|**2024-03-28**|**First Landau Level Physics in Second Moiré Band of $2.1^\circ$ Twisted Bilayer MoTe${}_2$**|Cheong-Eung Ahn et.al.|[2403.19155](http://arxiv.org/abs/2403.19155)|null|
 |**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725](http://arxiv.org/abs/2403.16725)|null|
 |**2024-03-25**|**Intrinsic Dipole Hall effect in tMoTe $_2$ moiré: magnetoelectricity and contact-free signature of topological transitions**|Feng-Ren Fan et.al.|[2403.16586](http://arxiv.org/abs/2403.16586)|null|
 |**2024-03-24**|**Ideal spin-polarized Weyl-half-semimetal with a single pair of Weyl points in half-Heusler compounds XCrTe (X=K, Rb)**|Hongshuang Liu et.al.|[2403.16195](http://arxiv.org/abs/2403.16195)|null|
@@ -608,6 +612,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Topologically protected flatness in chiral moiré heterostructures**|Valentin Crépel et.al.|[2403.19656](http://arxiv.org/abs/2403.19656)|null|
+|**2024-03-28**|**Transport effects of twist-angle disorder in mesoscopic twisted bilayer graphene**|Aleksander Sanjuan Ciepielewski et.al.|[2403.19313](http://arxiv.org/abs/2403.19313)|null|
+|**2024-03-28**|**First Landau Level Physics in Second Moiré Band of $2.1^\circ$ Twisted Bilayer MoTe${}_2$**|Cheong-Eung Ahn et.al.|[2403.19155](http://arxiv.org/abs/2403.19155)|null|
 |**2024-03-26**|**Negative electronic compressibility in charge islands in twisted bilayer graphene**|Robin J. Dolleman et.al.|[2403.17840](http://arxiv.org/abs/2403.17840)|null|
 |**2024-03-25**|**Multiple Chern bands in twisted MoTe $_2$ and possible non-Abelian states**|Cheng Xu et.al.|[2403.17003](http://arxiv.org/abs/2403.17003)|null|
 |**2024-03-22**|**Quantum Valley Hall effect without Berry curvature**|Rasoul Ghadimi et.al.|[2403.15050](http://arxiv.org/abs/2403.15050)|null|
