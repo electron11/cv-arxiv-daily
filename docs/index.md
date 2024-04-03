@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Photodriven Mott insulating heterostructures: A steady-state study of impact ionization processes**|Paolo Gazzaneo et.al.|[2404.01729](http://arxiv.org/abs/2404.01729)|null|
+|**2024-03-31**|**Gauge potentials and vortices in the Fock space of a pair of periodically driven Bose-Einstein condensates**|J. Mumford et.al.|[2404.00533](http://arxiv.org/abs/2404.00533)|null|
+|**2024-03-29**|**Transient amplification in Floquet media: the Mathieu oscillator example**|Ioannis Kiorpelidis et.al.|[2404.00138](http://arxiv.org/abs/2404.00138)|null|
 |**2024-03-29**|**Theory of the inverse Faraday effect in dissipative Rashba electron systems: Floquet engineering perspective**|Miho Tanaka et.al.|[2403.20110](http://arxiv.org/abs/2403.20110)|null|
 |**2024-03-28**|**Rabi flop-assisted electron tunneling through the quantum dots**|Serhii Shafraniuk et.al.|[2403.19775](http://arxiv.org/abs/2403.19775)|null|
 |**2024-03-28**|**A Photonic Floquet Scattering Matrix for Wavefront-Shaping in Time-Periodic Media**|David Globosits et.al.|[2403.19311](http://arxiv.org/abs/2403.19311)|null|
@@ -283,6 +286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659](http://arxiv.org/abs/2404.00659)|null|
 |**2024-03-28**|**Superconductivity from On-Chip Metallization on 2D Topological Chalcogenides**|Yanyu Jia et.al.|[2403.19877](http://arxiv.org/abs/2403.19877)|null|
 |**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581](http://arxiv.org/abs/2403.19581)|null|
 |**2024-03-28**|**High Mobility Charge Transport in a Multicarrier Altermagnet CrSb**|Takahiro Urata et.al.|[2403.19233](http://arxiv.org/abs/2403.19233)|null|
@@ -606,6 +610,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-01**|**Continuously tunable uniaxial strain control of van der Waals heterostructure devices**|Zhaoyu Liu et.al.|[2404.00905](http://arxiv.org/abs/2404.00905)|null|
+|**2024-03-31**|**Interaction-driven breakdown of Aharonov--Bohm caging in flat-band Rydberg lattices**|Tao Chen et.al.|[2404.00737](http://arxiv.org/abs/2404.00737)|null|
+|**2024-03-31**|**Electron Collimation in Twisted Bilayer Graphene via Gate-defined Moiré Barriers**|Wei Ren et.al.|[2404.00519](http://arxiv.org/abs/2404.00519)|null|
 |**2024-03-29**|**On the Hartree-Fock Ground State Manifold in Magic Angle Twisted Graphene Systems**|Kevin D. Stubbs et.al.|[2403.19890](http://arxiv.org/abs/2403.19890)|null|
 |**2024-03-28**|**Superconductivity from On-Chip Metallization on 2D Topological Chalcogenides**|Yanyu Jia et.al.|[2403.19877](http://arxiv.org/abs/2403.19877)|null|
 |**2024-03-28**|**Topologically protected flatness in chiral moiré heterostructures**|Valentin Crépel et.al.|[2403.19656](http://arxiv.org/abs/2403.19656)|null|
