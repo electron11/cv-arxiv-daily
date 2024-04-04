@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Floquet topological transitions in 2D Su-Schrieffer-Heeger model: interplay between time reversal symmetry breaking and dimerization**|Adrian Pena et.al.|[2404.02735](http://arxiv.org/abs/2404.02735)|null|
 |**2024-04-02**|**Photodriven Mott insulating heterostructures: A steady-state study of impact ionization processes**|Paolo Gazzaneo et.al.|[2404.01729](http://arxiv.org/abs/2404.01729)|null|
 |**2024-03-31**|**Gauge potentials and vortices in the Fock space of a pair of periodically driven Bose-Einstein condensates**|J. Mumford et.al.|[2404.00533](http://arxiv.org/abs/2404.00533)|null|
 |**2024-03-29**|**Transient amplification in Floquet media: the Mathieu oscillator example**|Ioannis Kiorpelidis et.al.|[2404.00138](http://arxiv.org/abs/2404.00138)|null|
@@ -286,6 +287,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Observation of Kosterlitz-Thouless Metal-to-Insulator Transition in Quantum Anomalous Hall Insulators**|Ruoxi Zhang et.al.|[2404.02430](http://arxiv.org/abs/2404.02430)|null|
+|**2024-04-02**|**Evolution of Berry Phase and Half-Metallicity in Cr $_2$Te$_3$ in Response to Strain, Filling, Thickness, and Surface Termination**|Sohee Kwon et.al.|[2404.02315](http://arxiv.org/abs/2404.02315)|null|
+|**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192](http://arxiv.org/abs/2404.02192)|null|
 |**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659](http://arxiv.org/abs/2404.00659)|null|
 |**2024-03-28**|**Superconductivity from On-Chip Metallization on 2D Topological Chalcogenides**|Yanyu Jia et.al.|[2403.19877](http://arxiv.org/abs/2403.19877)|null|
 |**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581](http://arxiv.org/abs/2403.19581)|null|
