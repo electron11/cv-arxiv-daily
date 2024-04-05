@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -288,7 +288,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
 
 ## QAH
 
@@ -299,7 +299,7 @@
 |**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192](http://arxiv.org/abs/2404.02192)|null|
 |**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659](http://arxiv.org/abs/2404.00659)|null|
 |**2024-03-28**|**Superconductivity from On-Chip Metallization on 2D Topological Chalcogenides**|Yanyu Jia et.al.|[2403.19877](http://arxiv.org/abs/2403.19877)|null|
-|**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581](http://arxiv.org/abs/2403.19581)|null|
+|**2024-04-04**|**Tuning intrinsic anomalous Hall effect from large to zero in two ferromagnetic states of SmMn2Ge2**|Mahima Singh et.al.|[2403.19581](http://arxiv.org/abs/2403.19581)|null|
 |**2024-03-28**|**High Mobility Charge Transport in a Multicarrier Altermagnet CrSb**|Takahiro Urata et.al.|[2403.19233](http://arxiv.org/abs/2403.19233)|null|
 |**2024-03-28**|**First Landau Level Physics in Second Moiré Band of $2.1^\circ$ Twisted Bilayer MoTe${}_2$**|Cheong-Eung Ahn et.al.|[2403.19155](http://arxiv.org/abs/2403.19155)|null|
 |**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725](http://arxiv.org/abs/2403.16725)|null|
@@ -617,7 +617,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
 
 ## twist
 
@@ -792,7 +792,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

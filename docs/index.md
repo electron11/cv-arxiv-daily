@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -292,7 +292,7 @@ layout: default
 |**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192](http://arxiv.org/abs/2404.02192)|null|
 |**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659](http://arxiv.org/abs/2404.00659)|null|
 |**2024-03-28**|**Superconductivity from On-Chip Metallization on 2D Topological Chalcogenides**|Yanyu Jia et.al.|[2403.19877](http://arxiv.org/abs/2403.19877)|null|
-|**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581](http://arxiv.org/abs/2403.19581)|null|
+|**2024-04-04**|**Tuning intrinsic anomalous Hall effect from large to zero in two ferromagnetic states of SmMn2Ge2**|Mahima Singh et.al.|[2403.19581](http://arxiv.org/abs/2403.19581)|null|
 |**2024-03-28**|**High Mobility Charge Transport in a Multicarrier Altermagnet CrSb**|Takahiro Urata et.al.|[2403.19233](http://arxiv.org/abs/2403.19233)|null|
 |**2024-03-28**|**First Landau Level Physics in Second Moiré Band of $2.1^\circ$ Twisted Bilayer MoTe${}_2$**|Cheong-Eung Ahn et.al.|[2403.19155](http://arxiv.org/abs/2403.19155)|null|
 |**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725](http://arxiv.org/abs/2403.16725)|null|
