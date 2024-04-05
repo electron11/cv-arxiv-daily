@@ -287,6 +287,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Peculiar magnetism and magneto-transport properties in a non-centrosymmetric self-intercalated van der Waals ferromagnet Cr5Te8**|Banik Rai et.al.|[2404.03391](http://arxiv.org/abs/2404.03391)|null|
+|**2024-04-03**|**Even-Odd Layer-Dependent Exchange Bias Effect in MnBi2Te4 Chern Insulator Devices**|Bo Chen et.al.|[2404.03032](http://arxiv.org/abs/2404.03032)|null|
 |**2024-04-03**|**Observation of Kosterlitz-Thouless Metal-to-Insulator Transition in Quantum Anomalous Hall Insulators**|Ruoxi Zhang et.al.|[2404.02430](http://arxiv.org/abs/2404.02430)|null|
 |**2024-04-02**|**Evolution of Berry Phase and Half-Metallicity in Cr $_2$Te$_3$ in Response to Strain, Filling, Thickness, and Surface Termination**|Sohee Kwon et.al.|[2404.02315](http://arxiv.org/abs/2404.02315)|null|
 |**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192](http://arxiv.org/abs/2404.02192)|null|
