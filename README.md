@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Discriminating chaotic and integrable regimes in quenched field Floquet system using saturation of Out-of-time-order correlation**|Rohit Kumar Shukla et.al.|[2404.04177](http://arxiv.org/abs/2404.04177)|null|
+|**2024-04-04**|**Time-harmonic wave propagation in junctions of two periodic half-spaces**|Pierre Amenoagbadji et.al.|[2404.03806](http://arxiv.org/abs/2404.03806)|null|
+|**2024-04-04**|**Thermal noise squeezing and amplification in parametrically driven resonators**|Adriano A. Batista et.al.|[2404.03758](http://arxiv.org/abs/2404.03758)|null|
 |**2024-04-03**|**Floquet topological transitions in 2D Su-Schrieffer-Heeger model: interplay between time reversal symmetry breaking and dimerization**|Adrian Pena et.al.|[2404.02735](http://arxiv.org/abs/2404.02735)|null|
 |**2024-04-02**|**Photodriven Mott insulating heterostructures: A steady-state study of impact ionization processes**|Paolo Gazzaneo et.al.|[2404.01729](http://arxiv.org/abs/2404.01729)|null|
 |**2024-03-31**|**Gauge potentials and vortices in the Fock space of a pair of periodically driven Bose-Einstein condensates**|J. Mumford et.al.|[2404.00533](http://arxiv.org/abs/2404.00533)|null|
