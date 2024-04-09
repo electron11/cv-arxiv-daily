@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Multiple Floquet Chern insulator phases in the spin-charge coupled triangular-lattice ferrimagnet: Crucial roles of higher-order terms in the high-frequency expansion**|Rintaro Eto et.al.|[2404.05385](http://arxiv.org/abs/2404.05385)|null|
+|**2024-04-05**|**Signatures of fragmentation for periodically driven fermions**|Somsubhra Ghosh et.al.|[2404.04328](http://arxiv.org/abs/2404.04328)|null|
 |**2024-04-05**|**Discriminating chaotic and integrable regimes in quenched field Floquet system using saturation of Out-of-time-order correlation**|Rohit Kumar Shukla et.al.|[2404.04177](http://arxiv.org/abs/2404.04177)|null|
 |**2024-04-04**|**Time-harmonic wave propagation in junctions of two periodic half-spaces**|Pierre Amenoagbadji et.al.|[2404.03806](http://arxiv.org/abs/2404.03806)|null|
 |**2024-04-04**|**Thermal noise squeezing and amplification in parametrically driven resonators**|Adriano A. Batista et.al.|[2404.03758](http://arxiv.org/abs/2404.03758)|null|
@@ -290,6 +292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Higher Landau-Level Analogues and Signatures of Non-Abelian States in Twisted Bilayer MoTe $_2$**|Chong Wang et.al.|[2404.05697](http://arxiv.org/abs/2404.05697)|null|
+|**2024-04-08**|**Multiple Floquet Chern insulator phases in the spin-charge coupled triangular-lattice ferrimagnet: Crucial roles of higher-order terms in the high-frequency expansion**|Rintaro Eto et.al.|[2404.05385](http://arxiv.org/abs/2404.05385)|null|
 |**2024-04-04**|**Peculiar magnetism and magneto-transport properties in a non-centrosymmetric self-intercalated van der Waals ferromagnet Cr5Te8**|Banik Rai et.al.|[2404.03391](http://arxiv.org/abs/2404.03391)|null|
 |**2024-04-03**|**Even-Odd Layer-Dependent Exchange Bias Effect in MnBi2Te4 Chern Insulator Devices**|Bo Chen et.al.|[2404.03032](http://arxiv.org/abs/2404.03032)|null|
 |**2024-04-03**|**Observation of Kosterlitz-Thouless Metal-to-Insulator Transition in Quantum Anomalous Hall Insulators**|Ruoxi Zhang et.al.|[2404.02430](http://arxiv.org/abs/2404.02430)|null|
@@ -619,6 +623,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Infrared Spectroscopy for Diagnosing Superlattice Minibands in Magic-angle Twisted Bilayer Graphene**|Geng Li et.al.|[2404.05716](http://arxiv.org/abs/2404.05716)|null|
+|**2024-04-08**|**Higher Landau-Level Analogues and Signatures of Non-Abelian States in Twisted Bilayer MoTe $_2$**|Chong Wang et.al.|[2404.05697](http://arxiv.org/abs/2404.05697)|null|
+|**2024-04-08**|**Observation of dichotomic field-tunable electronic structure in twisted monolayer-bilayer graphene**|Hongyun Zhang et.al.|[2404.05533](http://arxiv.org/abs/2404.05533)|null|
+|**2024-04-07**|**Effect of nonlocal interlayer hopping on wave function in twisted bilayer graphene**|Hridis K. Pal et.al.|[2404.05025](http://arxiv.org/abs/2404.05025)|null|
+|**2024-04-06**|**Site-selective insulating phase in twisted bilayer Hubbard model**|Xiu-Cai Jiang et.al.|[2404.04602](http://arxiv.org/abs/2404.04602)|null|
 |**2024-04-01**|**Continuously tunable uniaxial strain control of van der Waals heterostructure devices**|Zhaoyu Liu et.al.|[2404.00905](http://arxiv.org/abs/2404.00905)|null|
 |**2024-03-31**|**Interaction-driven breakdown of Aharonov--Bohm caging in flat-band Rydberg lattices**|Tao Chen et.al.|[2404.00737](http://arxiv.org/abs/2404.00737)|null|
 |**2024-03-31**|**Electron Collimation in Twisted Bilayer Graphene via Gate-defined Moiré Barriers**|Wei Ren et.al.|[2404.00519](http://arxiv.org/abs/2404.00519)|null|
