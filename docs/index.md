@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Continuous Floquet Theory in Solid-State NMR**|Matías Chávez et.al.|[2404.06300](http://arxiv.org/abs/2404.06300)|null|
 |**2024-04-08**|**Multiple Floquet Chern insulator phases in the spin-charge coupled triangular-lattice ferrimagnet: Crucial roles of higher-order terms in the high-frequency expansion**|Rintaro Eto et.al.|[2404.05385](http://arxiv.org/abs/2404.05385)|null|
 |**2024-04-05**|**Signatures of fragmentation for periodically driven fermions**|Somsubhra Ghosh et.al.|[2404.04328](http://arxiv.org/abs/2404.04328)|null|
 |**2024-04-05**|**Discriminating chaotic and integrable regimes in quenched field Floquet system using saturation of Out-of-time-order correlation**|Rohit Kumar Shukla et.al.|[2404.04177](http://arxiv.org/abs/2404.04177)|null|
