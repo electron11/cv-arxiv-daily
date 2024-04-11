@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**On quantum Floquet theorem**|Dmitry Treschev et.al.|[2404.06999](http://arxiv.org/abs/2404.06999)|null|
+|**2024-04-10**|**Synchronization Conditions for Nonlinear Oscillator Networks**|Sanjeev Kumar Pandey et.al.|[2404.06752](http://arxiv.org/abs/2404.06752)|null|
+|**2024-04-09**|**Exact Floquet flat band and heating suppression via two-rate drive protocols**|Tista Banerjee et.al.|[2404.06536](http://arxiv.org/abs/2404.06536)|null|
 |**2024-04-09**|**Continuous Floquet Theory in Solid-State NMR**|Matías Chávez et.al.|[2404.06300](http://arxiv.org/abs/2404.06300)|null|
 |**2024-04-08**|**Multiple Floquet Chern insulator phases in the spin-charge coupled triangular-lattice ferrimagnet: Crucial roles of higher-order terms in the high-frequency expansion**|Rintaro Eto et.al.|[2404.05385](http://arxiv.org/abs/2404.05385)|null|
 |**2024-04-05**|**Signatures of fragmentation for periodically driven fermions**|Somsubhra Ghosh et.al.|[2404.04328](http://arxiv.org/abs/2404.04328)|null|
@@ -300,6 +303,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Local probe of bulk and edge states in a fractional Chern insulator**|Zhurun Ji et.al.|[2404.07157](http://arxiv.org/abs/2404.07157)|null|
+|**2024-04-10**|**Topological states constructed by two different trivial quantum wires**|Jing-Run Lin et.al.|[2404.06886](http://arxiv.org/abs/2404.06886)|null|
+|**2024-04-10**|**Direct transition from a fractional quantum anomalous Hall state to a smectic state with the same Hall conductance**|Hongyu Lu et.al.|[2404.06745](http://arxiv.org/abs/2404.06745)|null|
 |**2024-04-08**|**Higher Landau-Level Analogues and Signatures of Non-Abelian States in Twisted Bilayer MoTe $_2$**|Chong Wang et.al.|[2404.05697](http://arxiv.org/abs/2404.05697)|null|
 |**2024-04-08**|**Multiple Floquet Chern insulator phases in the spin-charge coupled triangular-lattice ferrimagnet: Crucial roles of higher-order terms in the high-frequency expansion**|Rintaro Eto et.al.|[2404.05385](http://arxiv.org/abs/2404.05385)|null|
 |**2024-04-04**|**Peculiar magnetism and magneto-transport properties in a non-centrosymmetric self-intercalated van der Waals ferromagnet Cr5Te8**|Banik Rai et.al.|[2404.03391](http://arxiv.org/abs/2404.03391)|null|
@@ -633,6 +639,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Pressure-tuned many-body phases through $Γ$-K valleytronics in moiré bilayer WSe$_2$**|Marta Brzezińska et.al.|[2404.07165](http://arxiv.org/abs/2404.07165)|null|
 |**2024-04-08**|**Infrared Spectroscopy for Diagnosing Superlattice Minibands in Magic-angle Twisted Bilayer Graphene**|Geng Li et.al.|[2404.05716](http://arxiv.org/abs/2404.05716)|null|
 |**2024-04-08**|**Higher Landau-Level Analogues and Signatures of Non-Abelian States in Twisted Bilayer MoTe $_2$**|Chong Wang et.al.|[2404.05697](http://arxiv.org/abs/2404.05697)|null|
 |**2024-04-08**|**Observation of dichotomic field-tunable electronic structure in twisted monolayer-bilayer graphene**|Hongyun Zhang et.al.|[2404.05533](http://arxiv.org/abs/2404.05533)|null|
