@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**New horizons for inhomogeneous quenches and Floquet CFT**|Hanzhi Jiang et.al.|[2404.07884](http://arxiv.org/abs/2404.07884)|null|
+|**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608](http://arxiv.org/abs/2404.07608)|null|
+|**2024-04-11**|**Flexible Control of Chiral Superconductivity in Optically Driven Nodal Point Superconductors with Antiferromagnetism**|Zhen Ning et.al.|[2404.07506](http://arxiv.org/abs/2404.07506)|null|
+|**2024-04-11**|**Floquet engineering Rydberg sub-THz frequency comb spectroscopy**|Li-Hua Zhang et.al.|[2404.07433](http://arxiv.org/abs/2404.07433)|null|
 |**2024-04-10**|**On quantum Floquet theorem**|Dmitry Treschev et.al.|[2404.06999](http://arxiv.org/abs/2404.06999)|null|
 |**2024-04-10**|**Synchronization Conditions for Nonlinear Oscillator Networks**|Sanjeev Kumar Pandey et.al.|[2404.06752](http://arxiv.org/abs/2404.06752)|null|
 |**2024-04-09**|**Exact Floquet flat band and heating suppression via two-rate drive protocols**|Tista Banerjee et.al.|[2404.06536](http://arxiv.org/abs/2404.06536)|null|
@@ -303,6 +307,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Topology-engineered orbital Hall effect in two-dimensional ferromagnets**|Zhiqi Chen et.al.|[2404.07820](http://arxiv.org/abs/2404.07820)|null|
+|**2024-04-08**|**Intricate Magnetism and Topological Hall Effect Observed in Cr $_{0.83}$ Te**|Shubham Purwar et.al.|[2404.07237](http://arxiv.org/abs/2404.07237)|null|
 |**2024-04-10**|**Local probe of bulk and edge states in a fractional Chern insulator**|Zhurun Ji et.al.|[2404.07157](http://arxiv.org/abs/2404.07157)|null|
 |**2024-04-10**|**Topological states constructed by two different trivial quantum wires**|Jing-Run Lin et.al.|[2404.06886](http://arxiv.org/abs/2404.06886)|null|
 |**2024-04-10**|**Direct transition from a fractional quantum anomalous Hall state to a smectic state with the same Hall conductance**|Hongyu Lu et.al.|[2404.06745](http://arxiv.org/abs/2404.06745)|null|
@@ -639,6 +645,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Topological Heavy Fermion Principle For Flat (Narrow) Bands With Concentrated Quantum Geometry**|Jonah Herzog-Arbeitman et.al.|[2404.07253](http://arxiv.org/abs/2404.07253)|null|
 |**2024-04-10**|**Pressure-tuned many-body phases through $Γ$-K valleytronics in moiré bilayer WSe$_2$**|Marta Brzezińska et.al.|[2404.07165](http://arxiv.org/abs/2404.07165)|null|
 |**2024-04-08**|**Infrared Spectroscopy for Diagnosing Superlattice Minibands in Magic-angle Twisted Bilayer Graphene**|Geng Li et.al.|[2404.05716](http://arxiv.org/abs/2404.05716)|null|
 |**2024-04-08**|**Higher Landau-Level Analogues and Signatures of Non-Abelian States in Twisted Bilayer MoTe $_2$**|Chong Wang et.al.|[2404.05697](http://arxiv.org/abs/2404.05697)|null|
