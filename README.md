@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Floquet-driven crossover from density-assisted tunneling to enhanced pair tunneling**|Nick Klemmer et.al.|[2404.08482](http://arxiv.org/abs/2404.08482)|null|
+|**2024-04-12**|**Floquet SYK wormholes**|Martí Berenguer et.al.|[2404.08394](http://arxiv.org/abs/2404.08394)|null|
 |**2024-04-11**|**New horizons for inhomogeneous quenches and Floquet CFT**|Hanzhi Jiang et.al.|[2404.07884](http://arxiv.org/abs/2404.07884)|null|
 |**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608](http://arxiv.org/abs/2404.07608)|null|
 |**2024-04-11**|**Flexible Control of Chiral Superconductivity in Optically Driven Nodal Point Superconductors with Antiferromagnetism**|Zhen Ning et.al.|[2404.07506](http://arxiv.org/abs/2404.07506)|null|
@@ -301,12 +303,13 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## QAH
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**On the average spin Chern number**|Rafael Gonzalez-Hernandez et.al.|[2404.08595](http://arxiv.org/abs/2404.08595)|null|
 |**2024-04-11**|**Topology-engineered orbital Hall effect in two-dimensional ferromagnets**|Zhiqi Chen et.al.|[2404.07820](http://arxiv.org/abs/2404.07820)|null|
 |**2024-04-08**|**Intricate Magnetism and Topological Hall Effect Observed in Cr $_{0.83}$ Te**|Shubham Purwar et.al.|[2404.07237](http://arxiv.org/abs/2404.07237)|null|
 |**2024-04-10**|**Local probe of bulk and edge states in a fractional Chern insulator**|Zhurun Ji et.al.|[2404.07157](http://arxiv.org/abs/2404.07157)|null|
@@ -639,12 +642,15 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## twist
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Fractal spectrum in twisted bilayer optical lattice**|Xu-Tao Wan et.al.|[2404.08211](http://arxiv.org/abs/2404.08211)|null|
+|**2024-04-12**|**Magnetic properties of low-angle twisted bilayer graphene at three-quarters filling**|Kevin J. U. Vidarte et.al.|[2404.08177](http://arxiv.org/abs/2404.08177)|null|
+|**2024-04-11**|**Polar vortex hidden in twisted bilayers of paraelectric SrTiO3**|Haozhi Sha et.al.|[2404.08145](http://arxiv.org/abs/2404.08145)|null|
 |**2024-04-10**|**Topological Heavy Fermion Principle For Flat (Narrow) Bands With Concentrated Quantum Geometry**|Jonah Herzog-Arbeitman et.al.|[2404.07253](http://arxiv.org/abs/2404.07253)|null|
 |**2024-04-10**|**Pressure-tuned many-body phases through $Γ$-K valleytronics in moiré bilayer WSe$_2$**|Marta Brzezińska et.al.|[2404.07165](http://arxiv.org/abs/2404.07165)|null|
 |**2024-04-08**|**Infrared Spectroscopy for Diagnosing Superlattice Minibands in Magic-angle Twisted Bilayer Graphene**|Geng Li et.al.|[2404.05716](http://arxiv.org/abs/2404.05716)|null|
@@ -821,7 +827,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
