@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Floquet expansion by counting pump photons**|Kilian Seibold et.al.|[2404.09704](http://arxiv.org/abs/2404.09704)|null|
+|**2024-04-13**|**Photo-induced Multiply Quantized Vortex States in Dirac-like Materials**|Lauren I. Massaro et.al.|[2404.09086](http://arxiv.org/abs/2404.09086)|null|
 |**2024-04-12**|**Floquet-driven crossover from density-assisted tunneling to enhanced pair tunneling**|Nick Klemmer et.al.|[2404.08482](http://arxiv.org/abs/2404.08482)|null|
 |**2024-04-12**|**Floquet SYK wormholes**|Martí Berenguer et.al.|[2404.08394](http://arxiv.org/abs/2404.08394)|null|
 |**2024-04-11**|**New horizons for inhomogeneous quenches and Floquet CFT**|Hanzhi Jiang et.al.|[2404.07884](http://arxiv.org/abs/2404.07884)|null|
@@ -302,6 +304,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083](http://arxiv.org/abs/2404.09083)|null|
 |**2024-04-12**|**On the average spin Chern number**|Rafael Gonzalez-Hernandez et.al.|[2404.08595](http://arxiv.org/abs/2404.08595)|null|
 |**2024-04-11**|**Topology-engineered orbital Hall effect in two-dimensional ferromagnets**|Zhiqi Chen et.al.|[2404.07820](http://arxiv.org/abs/2404.07820)|null|
 |**2024-04-08**|**Intricate Magnetism and Topological Hall Effect Observed in Cr $_{0.83}$ Te**|Shubham Purwar et.al.|[2404.07237](http://arxiv.org/abs/2404.07237)|null|
