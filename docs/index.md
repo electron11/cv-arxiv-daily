@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Design and experimental validation of a finite-size labyrinthine metamaterial for vibro-acoustics: enabling upscaling towards large-scale structures**|Svenja Hermann et.al.|[2404.10671](http://arxiv.org/abs/2404.10671)|null|
+|**2024-04-15**|**Landau-Zener without a Qubit: Unveiling Multiphoton Interference, Synthetic Floquet Dimensions, and Dissipative Quantum Chaos**|Leo Peyruchat et.al.|[2404.10051](http://arxiv.org/abs/2404.10051)|null|
 |**2024-04-15**|**Floquet expansion by counting pump photons**|Kilian Seibold et.al.|[2404.09704](http://arxiv.org/abs/2404.09704)|null|
 |**2024-04-13**|**Photo-induced Multiply Quantized Vortex States in Dirac-like Materials**|Lauren I. Massaro et.al.|[2404.09086](http://arxiv.org/abs/2404.09086)|null|
 |**2024-04-12**|**Floquet-driven crossover from density-assisted tunneling to enhanced pair tunneling**|Nick Klemmer et.al.|[2404.08482](http://arxiv.org/abs/2404.08482)|null|
@@ -304,6 +306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049](http://arxiv.org/abs/2404.10049)|null|
 |**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083](http://arxiv.org/abs/2404.09083)|null|
 |**2024-04-12**|**On the average spin Chern number**|Rafael Gonzalez-Hernandez et.al.|[2404.08595](http://arxiv.org/abs/2404.08595)|null|
 |**2024-04-11**|**Topology-engineered orbital Hall effect in two-dimensional ferromagnets**|Zhiqi Chen et.al.|[2404.07820](http://arxiv.org/abs/2404.07820)|null|
@@ -642,6 +645,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Strain-dependent one-dimensional confinement channels in twisted bilayer 1T $'$-WTe$_2$**|Samuel J. Magorrian et.al.|[2404.10557](http://arxiv.org/abs/2404.10557)|null|
 |**2024-04-12**|**Fractal spectrum in twisted bilayer optical lattice**|Xu-Tao Wan et.al.|[2404.08211](http://arxiv.org/abs/2404.08211)|null|
 |**2024-04-12**|**Magnetic properties of low-angle twisted bilayer graphene at three-quarters filling**|Kevin J. U. Vidarte et.al.|[2404.08177](http://arxiv.org/abs/2404.08177)|null|
 |**2024-04-11**|**Polar vortex hidden in twisted bilayers of paraelectric SrTiO3**|Haozhi Sha et.al.|[2404.08145](http://arxiv.org/abs/2404.08145)|null|
