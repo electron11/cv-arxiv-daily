@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Dynamical Detection of Topological Spectral Density**|Jia-Hui Zhang et.al.|[2404.11402](http://arxiv.org/abs/2404.11402)|null|
+|**2024-04-17**|**Melnikov Method for Perturbed Completely Integrable Systems**|F. Crespo et.al.|[2404.10986](http://arxiv.org/abs/2404.10986)|null|
 |**2024-04-16**|**Design and experimental validation of a finite-size labyrinthine metamaterial for vibro-acoustics: enabling upscaling towards large-scale structures**|Svenja Hermann et.al.|[2404.10671](http://arxiv.org/abs/2404.10671)|null|
 |**2024-04-15**|**Landau-Zener without a Qubit: Unveiling Multiphoton Interference, Synthetic Floquet Dimensions, and Dissipative Quantum Chaos**|Leo Peyruchat et.al.|[2404.10051](http://arxiv.org/abs/2404.10051)|null|
 |**2024-04-15**|**Floquet expansion by counting pump photons**|Kilian Seibold et.al.|[2404.09704](http://arxiv.org/abs/2404.09704)|null|
@@ -313,6 +315,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Quantum dynamics of dissipative Chern insulator**|Jilian Zhong et.al.|[2404.11466](http://arxiv.org/abs/2404.11466)|null|
+|**2024-04-17**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414](http://arxiv.org/abs/2404.11414)|null|
 |**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049](http://arxiv.org/abs/2404.10049)|null|
 |**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083](http://arxiv.org/abs/2404.09083)|null|
 |**2024-04-12**|**On the average spin Chern number**|Rafael Gonzalez-Hernandez et.al.|[2404.08595](http://arxiv.org/abs/2404.08595)|null|
