@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -309,14 +309,14 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## QAH
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-17**|**Quantum dynamics of dissipative Chern insulator**|Jilian Zhong et.al.|[2404.11466](http://arxiv.org/abs/2404.11466)|null|
-|**2024-04-17**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414](http://arxiv.org/abs/2404.11414)|null|
+|**2024-04-18**|**Quantum dynamics of dissipative Chern insulator**|Jilian Zhong et.al.|[2404.11466](http://arxiv.org/abs/2404.11466)|null|
+|**2024-04-18**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414](http://arxiv.org/abs/2404.11414)|null|
 |**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049](http://arxiv.org/abs/2404.10049)|null|
 |**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083](http://arxiv.org/abs/2404.09083)|null|
 |**2024-04-12**|**On the average spin Chern number**|Rafael Gonzalez-Hernandez et.al.|[2404.08595](http://arxiv.org/abs/2404.08595)|null|
@@ -652,7 +652,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## twist
 
@@ -838,7 +838,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

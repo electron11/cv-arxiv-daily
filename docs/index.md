@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -308,8 +308,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-17**|**Quantum dynamics of dissipative Chern insulator**|Jilian Zhong et.al.|[2404.11466](http://arxiv.org/abs/2404.11466)|null|
-|**2024-04-17**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414](http://arxiv.org/abs/2404.11414)|null|
+|**2024-04-18**|**Quantum dynamics of dissipative Chern insulator**|Jilian Zhong et.al.|[2404.11466](http://arxiv.org/abs/2404.11466)|null|
+|**2024-04-18**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414](http://arxiv.org/abs/2404.11414)|null|
 |**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049](http://arxiv.org/abs/2404.10049)|null|
 |**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083](http://arxiv.org/abs/2404.09083)|null|
 |**2024-04-12**|**On the average spin Chern number**|Rafael Gonzalez-Hernandez et.al.|[2404.08595](http://arxiv.org/abs/2404.08595)|null|
