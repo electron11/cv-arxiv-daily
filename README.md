@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Microwave seeding time crystal in Floquet driven Rydberg atoms**|Bang Liu et.al.|[2404.12180](http://arxiv.org/abs/2404.12180)|null|
+|**2024-04-17**|**Quantized Acoustoelectric Floquet Effect in Quantum Nanowires**|Christopher Yang et.al.|[2404.11647](http://arxiv.org/abs/2404.11647)|null|
 |**2024-04-17**|**Dynamical Detection of Topological Spectral Density**|Jia-Hui Zhang et.al.|[2404.11402](http://arxiv.org/abs/2404.11402)|null|
 |**2024-04-17**|**Melnikov Method for Perturbed Completely Integrable Systems**|F. Crespo et.al.|[2404.10986](http://arxiv.org/abs/2404.10986)|null|
 |**2024-04-16**|**Design and experimental validation of a finite-size labyrinthine metamaterial for vibro-acoustics: enabling upscaling towards large-scale structures**|Svenja Hermann et.al.|[2404.10671](http://arxiv.org/abs/2404.10671)|null|
@@ -315,6 +317,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Tunable Kondo physics in a van der Waals kagome antiferromagnet**|Boqin Song et.al.|[2404.12374](http://arxiv.org/abs/2404.12374)|null|
+|**2024-04-18**|**Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn $_2$ PdSn**|Arnab Bhattacharya et.al.|[2404.12275](http://arxiv.org/abs/2404.12275)|null|
 |**2024-04-18**|**Quantum dynamics of dissipative Chern insulator**|Jilian Zhong et.al.|[2404.11466](http://arxiv.org/abs/2404.11466)|null|
 |**2024-04-18**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414](http://arxiv.org/abs/2404.11414)|null|
 |**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049](http://arxiv.org/abs/2404.10049)|null|
@@ -658,6 +662,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Tunable magnetism in bilayer transition metal dichalcogenides**|Li-Ya Qiao et.al.|[2404.11911](http://arxiv.org/abs/2404.11911)|null|
+|**2024-04-17**|**A many-body perturbation approach to moiré bands in twisted bilayer graphene**|Federico Escudero et.al.|[2404.11653](http://arxiv.org/abs/2404.11653)|null|
 |**2024-04-16**|**Strain-dependent one-dimensional confinement channels in twisted bilayer 1T $'$-WTe$_2$**|Samuel J. Magorrian et.al.|[2404.10557](http://arxiv.org/abs/2404.10557)|null|
 |**2024-04-12**|**Fractal spectrum in twisted bilayer optical lattice**|Xu-Tao Wan et.al.|[2404.08211](http://arxiv.org/abs/2404.08211)|null|
 |**2024-04-12**|**Magnetic properties of low-angle twisted bilayer graphene at three-quarters filling**|Kevin J. U. Vidarte et.al.|[2404.08177](http://arxiv.org/abs/2404.08177)|null|
