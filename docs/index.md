@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Direct observation of Floquet-Bloch states in monolayer graphene**|Dongsung Choi et.al.|[2404.14392](http://arxiv.org/abs/2404.14392)|null|
+|**2024-04-20**|**Spontaneous emission decay and excitation in photonic temporal crystals**|Jagang Park et.al.|[2404.13287](http://arxiv.org/abs/2404.13287)|null|
+|**2024-04-19**|**Real-space topological invariant for time-quasiperiodic Majoranas**|Zihao Qi et.al.|[2404.13129](http://arxiv.org/abs/2404.13129)|null|
 |**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791](http://arxiv.org/abs/2404.12791)|null|
 |**2024-04-19**|**Floquet engineering tunable periodic gauge fields and simulating real topological phases in cold alkaline-earth atom optical lattice**|Wei Wang et.al.|[2404.12682](http://arxiv.org/abs/2404.12682)|null|
 |**2024-04-18**|**Microwave seeding time crystal in Floquet driven Rydberg atoms**|Bang Liu et.al.|[2404.12180](http://arxiv.org/abs/2404.12180)|null|
@@ -312,6 +315,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Chiral edge plasmons in quantum anomalous Hall insulators**|Furu Zhang et.al.|[2404.13930](http://arxiv.org/abs/2404.13930)|null|
+|**2024-04-20**|**Adiabatic Approximation and Aharonov-Casher Bands in Twisted Homobilayer TMDs**|Jingtian Shi et.al.|[2404.13455](http://arxiv.org/abs/2404.13455)|null|
+|**2024-04-20**|**Chern Number Tunable Quantum Anomalous Hall Effect in Compensated Antiferromagnets**|Wenhao Liang et.al.|[2404.13305](http://arxiv.org/abs/2404.13305)|null|
 |**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791](http://arxiv.org/abs/2404.12791)|null|
 |**2024-04-18**|**Tunable Kondo physics in a van der Waals kagome antiferromagnet**|Boqin Song et.al.|[2404.12374](http://arxiv.org/abs/2404.12374)|null|
 |**2024-04-18**|**Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn $_2$ PdSn**|Arnab Bhattacharya et.al.|[2404.12275](http://arxiv.org/abs/2404.12275)|null|
