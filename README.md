@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Floquet dynamics of Rabi model beyond the counterrotating hybridized rotating wave method**|Yingying Han et.al.|[2404.14841](http://arxiv.org/abs/2404.14841)|null|
 |**2024-04-22**|**Direct observation of Floquet-Bloch states in monolayer graphene**|Dongsung Choi et.al.|[2404.14392](http://arxiv.org/abs/2404.14392)|null|
 |**2024-04-20**|**Spontaneous emission decay and excitation in photonic temporal crystals**|Jagang Park et.al.|[2404.13287](http://arxiv.org/abs/2404.13287)|null|
 |**2024-04-19**|**Real-space topological invariant for time-quasiperiodic Majoranas**|Zihao Qi et.al.|[2404.13129](http://arxiv.org/abs/2404.13129)|null|
