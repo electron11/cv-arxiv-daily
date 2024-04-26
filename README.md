@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Benchmarking a heuristic Floquet adiabatic algorithm for the Max-Cut problem**|Etienne Granet et.al.|[2404.16001](http://arxiv.org/abs/2404.16001)|null|
 |**2024-04-23**|**Floquet dynamics of Rabi model beyond the counterrotating hybridized rotating wave method**|Yingying Han et.al.|[2404.14841](http://arxiv.org/abs/2404.14841)|null|
 |**2024-04-22**|**Direct observation of Floquet-Bloch states in monolayer graphene**|Dongsung Choi et.al.|[2404.14392](http://arxiv.org/abs/2404.14392)|null|
 |**2024-04-20**|**Spontaneous emission decay and excitation in photonic temporal crystals**|Jagang Park et.al.|[2404.13287](http://arxiv.org/abs/2404.13287)|null|
@@ -323,6 +324,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Anisotropic magnetoresistance in altermagnetic MnTe**|Ruben Dario Gonzalez Betancourt et.al.|[2404.16516](http://arxiv.org/abs/2404.16516)|null|
+|**2024-04-25**|**Does carrier localization affect the anomalous Hall effect?**|Prasanta Chowdhury et.al.|[2404.16368](http://arxiv.org/abs/2404.16368)|null|
+|**2024-04-24**|**Optical signatures of type-II Weyl fermions in the noncentrosymmetric semimetals $R$AlSi ($R$ =La, Ce, Pr, Nd, Sm)**|J. Kunze et.al.|[2404.16002](http://arxiv.org/abs/2404.16002)|null|
 |**2024-04-22**|**Chiral edge plasmons in quantum anomalous Hall insulators**|Furu Zhang et.al.|[2404.13930](http://arxiv.org/abs/2404.13930)|null|
 |**2024-04-23**|**Adiabatic Approximation and Aharonov-Casher Bands in Twisted Homobilayer TMDs**|Jingtian Shi et.al.|[2404.13455](http://arxiv.org/abs/2404.13455)|null|
 |**2024-04-20**|**Chern Number Tunable Quantum Anomalous Hall Effect in Compensated Antiferromagnets**|Wenhao Liang et.al.|[2404.13305](http://arxiv.org/abs/2404.13305)|null|
