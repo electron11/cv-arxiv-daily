@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules**|Calder Miller et.al.|[2404.18913](http://arxiv.org/abs/2404.18913)|null|
+|**2024-04-29**|**Floquet Amorphous Topological Orders in a Rydberg Glass**|Peng He et.al.|[2404.18512](http://arxiv.org/abs/2404.18512)|null|
+|**2024-04-28**|**Topological Origin of Floquet Thermalization in Periodically Driven Many-body Systems**|Hao-Yue Qi et.al.|[2404.18052](http://arxiv.org/abs/2404.18052)|null|
+|**2024-04-26**|**Phonon-driven multipolar dynamics in spin-orbit coupled Mott insulators**|Kathleen Hart et.al.|[2404.17633](http://arxiv.org/abs/2404.17633)|null|
 |**2024-04-26**|**Exploiting many-body localization for scalable variational quantum simulation**|Chenfeng Cao et.al.|[2404.17560](http://arxiv.org/abs/2404.17560)|null|
 |**2024-04-26**|**Application of Lagrangian techniques for calculating the on-axis rotational transform**|S. Guinchard et.al.|[2404.17531](http://arxiv.org/abs/2404.17531)|null|
 |**2024-04-26**|**Phase and amplitude responses for delay equations using harmonic balance**|Rachel Nicks et.al.|[2404.17356](http://arxiv.org/abs/2404.17356)|null|
@@ -320,6 +324,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins**|Robin Guehne et.al.|[2404.18597](http://arxiv.org/abs/2404.18597)|null|
+|**2024-04-29**|**Anomalous Phonon in Charge-Density-Wave Phase of Kagome Metal CsV3Sb5**|Han-Yu Wang et.al.|[2404.18366](http://arxiv.org/abs/2404.18366)|null|
+|**2024-04-28**|**Enhanced torque efficiency in ferromagnetic multilayers by introducing naturally oxidized Cu**|Kun Zheng et.al.|[2404.18055](http://arxiv.org/abs/2404.18055)|null|
 |**2024-04-26**|**On the equivalence of the semiclassical theory and the response theory**|Jinxiong Jia et.al.|[2404.17086](http://arxiv.org/abs/2404.17086)|null|
 |**2024-04-25**|**Anisotropic magnetoresistance in altermagnetic MnTe**|Ruben Dario Gonzalez Betancourt et.al.|[2404.16516](http://arxiv.org/abs/2404.16516)|null|
 |**2024-04-25**|**Does carrier localization affect the anomalous Hall effect?**|Prasanta Chowdhury et.al.|[2404.16368](http://arxiv.org/abs/2404.16368)|null|
@@ -671,6 +678,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**Ferroelectricity in twisted double bilayer graphene**|Renjun Du et.al.|[2404.18059](http://arxiv.org/abs/2404.18059)|null|
+|**2024-04-26**|**A self-consistent Hartree theory for lattice-relaxed magic-angle twisted bilayer graphene**|Mohammed M. Al Ezzi et.al.|[2404.17638](http://arxiv.org/abs/2404.17638)|null|
 |**2024-04-26**|**Ferrimagnetism of ultracold fermions in a multi-band Hubbard system**|Martin Lebrat et.al.|[2404.17555](http://arxiv.org/abs/2404.17555)|null|
 |**2024-04-26**|**Excitonic response in TMD heterostructures from first-principles: impact of stacking, twisting, and interlayer distance**|R. Reho et.al.|[2404.17182](http://arxiv.org/abs/2404.17182)|null|
 |**2024-04-26**|**Twisted Magnetic Van der Waals Bilayers: An Ideal Platform for Altermagnetism**|Yichen Liu et.al.|[2404.17146](http://arxiv.org/abs/2404.17146)|null|
