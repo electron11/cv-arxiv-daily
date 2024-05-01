@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-29**|**Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules**|Calder Miller et.al.|[2404.18913](http://arxiv.org/abs/2404.18913)|null|
+|**2024-04-30**|**Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules**|Calder Miller et.al.|[2404.18913](http://arxiv.org/abs/2404.18913)|null|
 |**2024-04-29**|**Floquet Amorphous Topological Orders in a Rydberg Glass**|Peng He et.al.|[2404.18512](http://arxiv.org/abs/2404.18512)|null|
 |**2024-04-28**|**Topological Origin of Floquet Thermalization in Periodically Driven Many-body Systems**|Hao-Yue Qi et.al.|[2404.18052](http://arxiv.org/abs/2404.18052)|null|
 |**2024-04-26**|**Phonon-driven multipolar dynamics in spin-orbit coupled Mott insulators**|Kathleen Hart et.al.|[2404.17633](http://arxiv.org/abs/2404.17633)|null|
