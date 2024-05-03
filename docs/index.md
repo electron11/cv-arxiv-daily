@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**On degenerate perturbation theory for the Floquet-Hilbert space**|Yakov Braver et.al.|[2405.01383](http://arxiv.org/abs/2405.01383)|null|
 |**2024-05-01**|**Floquet geometric entangling gates in ground-state manifolds of Rydberg atoms**|Hao-Wen Sun et.al.|[2405.00471](http://arxiv.org/abs/2405.00471)|null|
 |**2024-04-30**|**Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules**|Calder Miller et.al.|[2404.18913](http://arxiv.org/abs/2404.18913)|null|
 |**2024-04-29**|**Floquet Amorphous Topological Orders in a Rydberg Glass**|Peng He et.al.|[2404.18512](http://arxiv.org/abs/2404.18512)|null|
@@ -325,6 +326,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005](http://arxiv.org/abs/2405.01005)|null|
 |**2024-05-01**|**Metamagnetism and anomalous magnetotransport properties in rare-earth-based polar semimetals $R$AuGe ($R =$ Dy, Ho, and Gd)**|Takashi Kurumaji et.al.|[2405.00628](http://arxiv.org/abs/2405.00628)|null|
 |**2024-04-29**|**Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins**|Robin Guehne et.al.|[2404.18597](http://arxiv.org/abs/2404.18597)|null|
 |**2024-04-29**|**Anomalous Phonon in Charge-Density-Wave Phase of Kagome Metal CsV3Sb5**|Han-Yu Wang et.al.|[2404.18366](http://arxiv.org/abs/2404.18366)|null|
