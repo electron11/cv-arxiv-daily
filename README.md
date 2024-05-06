@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Floquet dynamics of ultracold atoms in optical lattices with a parametrically modulated trapping potential**|Usman Ali et.al.|[2405.02125](http://arxiv.org/abs/2405.02125)|null|
+|**2024-05-02**|**Floquet engineered inhomogeneous quantum chaos in critical systems**|Bastien Lapierre et.al.|[2405.01642](http://arxiv.org/abs/2405.01642)|null|
+|**2024-05-02**|**Dynamical Freezing in Exactly Solvable Models of Driven Chaotic Quantum Dots**|Haoyu Guo et.al.|[2405.01627](http://arxiv.org/abs/2405.01627)|null|
 |**2024-05-02**|**On degenerate perturbation theory for the Floquet-Hilbert space**|Yakov Braver et.al.|[2405.01383](http://arxiv.org/abs/2405.01383)|null|
 |**2024-05-01**|**Floquet geometric entangling gates in ground-state manifolds of Rydberg atoms**|Hao-Wen Sun et.al.|[2405.00471](http://arxiv.org/abs/2405.00471)|null|
 |**2024-04-30**|**Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules**|Calder Miller et.al.|[2404.18913](http://arxiv.org/abs/2404.18913)|null|
@@ -333,6 +336,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829](http://arxiv.org/abs/2405.01829)|null|
 |**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005](http://arxiv.org/abs/2405.01005)|null|
 |**2024-05-01**|**Metamagnetism and anomalous magnetotransport properties in rare-earth-based polar semimetals $R$AuGe ($R =$ Dy, Ho, and Gd)**|Takashi Kurumaji et.al.|[2405.00628](http://arxiv.org/abs/2405.00628)|null|
 |**2024-04-29**|**Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins**|Robin Guehne et.al.|[2404.18597](http://arxiv.org/abs/2404.18597)|null|
@@ -691,6 +695,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Symmetry-enforced metal-insulator transition and topological adiabatic charge pump in sliding bilayers of threefold symmetric materials**|Sergio Bravo et.al.|[2405.02167](http://arxiv.org/abs/2405.02167)|null|
+|**2024-05-03**|**Probing fragile topology with a screw dislocation**|Ying Wu et.al.|[2405.02057](http://arxiv.org/abs/2405.02057)|null|
 |**2024-04-28**|**Ferroelectricity in twisted double bilayer graphene**|Renjun Du et.al.|[2404.18059](http://arxiv.org/abs/2404.18059)|null|
 |**2024-04-26**|**A self-consistent Hartree theory for lattice-relaxed magic-angle twisted bilayer graphene**|Mohammed M. Al Ezzi et.al.|[2404.17638](http://arxiv.org/abs/2404.17638)|null|
 |**2024-04-26**|**Ferrimagnetism of ultracold fermions in a multi-band Hubbard system**|Martin Lebrat et.al.|[2404.17555](http://arxiv.org/abs/2404.17555)|null|
