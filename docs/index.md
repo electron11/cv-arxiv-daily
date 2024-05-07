@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**A cavity-microscope for micrometer-scale control of atom-photon interactions**|Francesca Orsi et.al.|[2405.03550](http://arxiv.org/abs/2405.03550)|null|
+|**2024-05-05**|**Exploring nonequilibrium Andreev resonances in ultraclean graphene Andreev interferometers**|Asmaul Smitha Rashid et.al.|[2405.02975](http://arxiv.org/abs/2405.02975)|null|
 |**2024-05-03**|**Floquet dynamics of ultracold atoms in optical lattices with a parametrically modulated trapping potential**|Usman Ali et.al.|[2405.02125](http://arxiv.org/abs/2405.02125)|null|
 |**2024-05-02**|**Floquet engineered inhomogeneous quantum chaos in critical systems**|Bastien Lapierre et.al.|[2405.01642](http://arxiv.org/abs/2405.01642)|null|
 |**2024-05-02**|**Dynamical Freezing in Exactly Solvable Models of Driven Chaotic Quantum Dots**|Haoyu Guo et.al.|[2405.01627](http://arxiv.org/abs/2405.01627)|null|
@@ -329,6 +331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438](http://arxiv.org/abs/2405.03438)|null|
 |**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829](http://arxiv.org/abs/2405.01829)|null|
 |**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005](http://arxiv.org/abs/2405.01005)|null|
 |**2024-05-01**|**Metamagnetism and anomalous magnetotransport properties in rare-earth-based polar semimetals $R$AuGe ($R =$ Dy, Ho, and Gd)**|Takashi Kurumaji et.al.|[2405.00628](http://arxiv.org/abs/2405.00628)|null|
@@ -686,6 +689,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Josephson junction of minimally twisted bilayer graphene**|Ritajit Kundu et.al.|[2405.03571](http://arxiv.org/abs/2405.03571)|null|
 |**2024-05-03**|**Symmetry-enforced metal-insulator transition and topological adiabatic charge pump in sliding bilayers of threefold symmetric materials**|Sergio Bravo et.al.|[2405.02167](http://arxiv.org/abs/2405.02167)|null|
 |**2024-05-03**|**Probing fragile topology with a screw dislocation**|Ying Wu et.al.|[2405.02057](http://arxiv.org/abs/2405.02057)|null|
 |**2024-04-28**|**Ferroelectricity in twisted double bilayer graphene**|Renjun Du et.al.|[2404.18059](http://arxiv.org/abs/2404.18059)|null|
