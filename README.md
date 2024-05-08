@@ -338,6 +338,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Light-induced Hall currents in altermagnets**|Tohid Farajollahpour et.al.|[2405.03779](http://arxiv.org/abs/2405.03779)|null|
 |**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438](http://arxiv.org/abs/2405.03438)|null|
 |**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829](http://arxiv.org/abs/2405.01829)|null|
 |**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005](http://arxiv.org/abs/2405.01005)|null|
@@ -698,6 +699,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Band structure engineering using a moiré polar substrate**|Xirui Wang et.al.|[2405.03761](http://arxiv.org/abs/2405.03761)|null|
 |**2024-05-06**|**Josephson junction of minimally twisted bilayer graphene**|Ritajit Kundu et.al.|[2405.03571](http://arxiv.org/abs/2405.03571)|null|
 |**2024-05-03**|**Symmetry-enforced metal-insulator transition and topological adiabatic charge pump in sliding bilayers of threefold symmetric materials**|Sergio Bravo et.al.|[2405.02167](http://arxiv.org/abs/2405.02167)|null|
 |**2024-05-03**|**Probing fragile topology with a screw dislocation**|Ying Wu et.al.|[2405.02057](http://arxiv.org/abs/2405.02057)|null|
