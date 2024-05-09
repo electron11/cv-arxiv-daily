@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Raman-phonon-polariton condensation in a transversely pumped cavity**|Alexander N. Bourzutschky et.al.|[2405.05257](http://arxiv.org/abs/2405.05257)|null|
+|**2024-05-08**|**Subsystem Information Capacity in Random Circuits and Hamiltonian Dynamics**|Yu-Qin Chen et.al.|[2405.05076](http://arxiv.org/abs/2405.05076)|null|
 |**2024-05-06**|**A cavity-microscope for micrometer-scale control of atom-photon interactions**|Francesca Orsi et.al.|[2405.03550](http://arxiv.org/abs/2405.03550)|null|
 |**2024-05-05**|**Exploring nonequilibrium Andreev resonances in ultraclean graphene Andreev interferometers**|Asmaul Smitha Rashid et.al.|[2405.02975](http://arxiv.org/abs/2405.02975)|null|
 |**2024-05-03**|**Floquet dynamics of ultracold atoms in optical lattices with a parametrically modulated trapping potential**|Usman Ali et.al.|[2405.02125](http://arxiv.org/abs/2405.02125)|null|
@@ -331,6 +333,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**First-principles study of structural, electronic and magnetic properties at the \ce{(0001)Cr2O3-(111)Pt} interface**|Marlies Reher et.al.|[2405.05020](http://arxiv.org/abs/2405.05020)|null|
 |**2024-05-06**|**Light-induced Hall currents in altermagnets**|Tohid Farajollahpour et.al.|[2405.03779](http://arxiv.org/abs/2405.03779)|null|
 |**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438](http://arxiv.org/abs/2405.03438)|null|
 |**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829](http://arxiv.org/abs/2405.01829)|null|
