@@ -340,6 +340,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Manipulating Topological Polaritons in Optomechanical Ladders**|Jia-Kang Wu et.al.|[2405.05753](http://arxiv.org/abs/2405.05753)|null|
+|**2024-05-08**|**Switching between superconductivity and current density waves in Bernal bilayer graphene**|Jun Ho Son et.al.|[2405.05442](http://arxiv.org/abs/2405.05442)|null|
 |**2024-05-08**|**First-principles study of structural, electronic and magnetic properties at the \ce{(0001)Cr2O3-(111)Pt} interface**|Marlies Reher et.al.|[2405.05020](http://arxiv.org/abs/2405.05020)|null|
 |**2024-05-06**|**Light-induced Hall currents in altermagnets**|Tohid Farajollahpour et.al.|[2405.03779](http://arxiv.org/abs/2405.03779)|null|
 |**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438](http://arxiv.org/abs/2405.03438)|null|
