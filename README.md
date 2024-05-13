@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Sensing force gradients with cavity optomechanics while evading backaction**|Elisabet K. Arvidsson et.al.|[2405.06589](http://arxiv.org/abs/2405.06589)|null|
+|**2024-05-09**|**Hybrid Stabilizer Matrix Product Operator**|Antonio Francesco Mello et.al.|[2405.06045](http://arxiv.org/abs/2405.06045)|null|
 |**2024-05-08**|**Raman-phonon-polariton condensation in a transversely pumped cavity**|Alexander N. Bourzutschky et.al.|[2405.05257](http://arxiv.org/abs/2405.05257)|null|
 |**2024-05-08**|**Subsystem Information Capacity in Random Circuits and Hamiltonian Dynamics**|Yu-Qin Chen et.al.|[2405.05076](http://arxiv.org/abs/2405.05076)|null|
 |**2024-05-06**|**A cavity-microscope for micrometer-scale control of atom-photon interactions**|Francesca Orsi et.al.|[2405.03550](http://arxiv.org/abs/2405.03550)|null|
@@ -340,6 +342,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Non-Hermitian topological phases and skin effects in kagome lattices**|Li-Wei Wang et.al.|[2405.06170](http://arxiv.org/abs/2405.06170)|null|
 |**2024-05-09**|**Manipulating Topological Polaritons in Optomechanical Ladders**|Jia-Kang Wu et.al.|[2405.05753](http://arxiv.org/abs/2405.05753)|null|
 |**2024-05-08**|**Switching between superconductivity and current density waves in Bernal bilayer graphene**|Jun Ho Son et.al.|[2405.05442](http://arxiv.org/abs/2405.05442)|null|
 |**2024-05-08**|**First-principles study of structural, electronic and magnetic properties at the \ce{(0001)Cr2O3-(111)Pt} interface**|Marlies Reher et.al.|[2405.05020](http://arxiv.org/abs/2405.05020)|null|
@@ -704,6 +707,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Detecting the spread of valence band Wannier functions by optical sum rules**|Luis F. Cárdenas-Castillo et.al.|[2405.06146](http://arxiv.org/abs/2405.06146)|null|
+|**2024-05-09**|**Moiré polar vortex, flat bands and Lieb lattice in twisted bilayer BaTiO $_3$**|Seungjun Lee et.al.|[2405.06132](http://arxiv.org/abs/2405.06132)|null|
 |**2024-05-06**|**Band structure engineering using a moiré polar substrate**|Xirui Wang et.al.|[2405.03761](http://arxiv.org/abs/2405.03761)|null|
 |**2024-05-06**|**Josephson junction of minimally twisted bilayer graphene**|Ritajit Kundu et.al.|[2405.03571](http://arxiv.org/abs/2405.03571)|null|
 |**2024-05-03**|**Symmetry-enforced metal-insulator transition and topological adiabatic charge pump in sliding bilayers of threefold symmetric materials**|Sergio Bravo et.al.|[2405.02167](http://arxiv.org/abs/2405.02167)|null|
