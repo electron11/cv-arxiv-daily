@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki et.al.|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
 |**2024-05-10**|**Sensing force gradients with cavity optomechanics while evading backaction**|Elisabet K. Arvidsson et.al.|[2405.06589](http://arxiv.org/abs/2405.06589)|null|
 |**2024-05-09**|**Hybrid Stabilizer Matrix Product Operator**|Antonio Francesco Mello et.al.|[2405.06045](http://arxiv.org/abs/2405.06045)|null|
 |**2024-05-08**|**Raman-phonon-polariton condensation in a transversely pumped cavity**|Alexander N. Bourzutschky et.al.|[2405.05257](http://arxiv.org/abs/2405.05257)|null|
@@ -707,6 +708,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Quasiparticle and superfluid dynamics in Magic-Angle Graphene**|Elías Portolés et.al.|[2405.06793](http://arxiv.org/abs/2405.06793)|null|
 |**2024-05-09**|**Detecting the spread of valence band Wannier functions by optical sum rules**|Luis F. Cárdenas-Castillo et.al.|[2405.06146](http://arxiv.org/abs/2405.06146)|null|
 |**2024-05-09**|**Moiré polar vortex, flat bands and Lieb lattice in twisted bilayer BaTiO $_3$**|Seungjun Lee et.al.|[2405.06132](http://arxiv.org/abs/2405.06132)|null|
 |**2024-05-06**|**Band structure engineering using a moiré polar substrate**|Xirui Wang et.al.|[2405.03761](http://arxiv.org/abs/2405.03761)|null|
