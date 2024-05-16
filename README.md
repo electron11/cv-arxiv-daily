@@ -19,8 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Floquet engineering of quantum thermal machines: A gradient-based procedure to optimize their performance**|Alberto Castro et.al.|[2405.09126](http://arxiv.org/abs/2405.09126)|null|
 |**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki et.al.|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
-|**2024-05-10**|**Sensing force gradients with cavity optomechanics while evading backaction**|Elisabet K. Arvidsson et.al.|[2405.06589](http://arxiv.org/abs/2405.06589)|null|
+|**2024-05-10**|**Sensing force gradients with cavity optomechanics while evading backaction**|Elisabet K. Arvidsson et.al.|[2405.06589](http://arxiv.org/abs/2405.06589)|**[link](https://zenodo.org/record/11175476)**|
 |**2024-05-09**|**Hybrid Stabilizer Matrix Product Operator**|Antonio Francesco Mello et.al.|[2405.06045](http://arxiv.org/abs/2405.06045)|null|
 |**2024-05-08**|**Raman-phonon-polariton condensation in a transversely pumped cavity**|Alexander N. Bourzutschky et.al.|[2405.05257](http://arxiv.org/abs/2405.05257)|null|
 |**2024-05-08**|**Subsystem Information Capacity in Random Circuits and Hamiltonian Dynamics**|Yu-Qin Chen et.al.|[2405.05076](http://arxiv.org/abs/2405.05076)|null|
@@ -343,9 +344,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Dirac Fermions and Topological Phases in Magnetic Topological Insulator Films**|Kai-Zhi Bai et.al.|[2405.09121](http://arxiv.org/abs/2405.09121)|null|
+|**2024-05-14**|**Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands**|Hui Liu et.al.|[2405.08887](http://arxiv.org/abs/2405.08887)|null|
 |**2024-05-14**|**Antiferromagnetic Quantum Anomalous Hall Effect Modulated by Spin Flips and Flops**|Zichen Lian et.al.|[2405.08686](http://arxiv.org/abs/2405.08686)|null|
 |**2024-05-14**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677](http://arxiv.org/abs/2405.08677)|null|
-|**2024-05-14**|**Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe $_2$**|Feng Chen et.al.|[2405.08386](http://arxiv.org/abs/2405.08386)|null|
+|**2024-05-15**|**Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe $_2$**|Feng Chen et.al.|[2405.08386](http://arxiv.org/abs/2405.08386)|null|
 |**2024-05-13**|**Topological quantum phase transitions driven by displacement fields in the twisted MoTe2 bilayers**|Prakash Sharma et.al.|[2405.08181](http://arxiv.org/abs/2405.08181)|null|
 |**2024-05-13**|**Optical Imaging of Flavor Order in Flat Band Graphene**|Tian Xie et.al.|[2405.08074](http://arxiv.org/abs/2405.08074)|null|
 |**2024-05-10**|**Non-Hermitian topological phases and skin effects in kagome lattices**|Li-Wei Wang et.al.|[2405.06170](http://arxiv.org/abs/2405.06170)|null|
@@ -713,7 +716,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-14**|**Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe $_2$**|Feng Chen et.al.|[2405.08386](http://arxiv.org/abs/2405.08386)|null|
+|**2024-05-14**|**Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands**|Hui Liu et.al.|[2405.08887](http://arxiv.org/abs/2405.08887)|null|
+|**2024-05-15**|**Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe $_2$**|Feng Chen et.al.|[2405.08386](http://arxiv.org/abs/2405.08386)|null|
 |**2024-05-13**|**Topological quantum phase transitions driven by displacement fields in the twisted MoTe2 bilayers**|Prakash Sharma et.al.|[2405.08181](http://arxiv.org/abs/2405.08181)|null|
 |**2024-05-10**|**Quasiparticle and superfluid dynamics in Magic-Angle Graphene**|Elías Portolés et.al.|[2405.06793](http://arxiv.org/abs/2405.06793)|null|
 |**2024-05-09**|**Detecting the spread of valence band Wannier functions by optical sum rules**|Luis F. Cárdenas-Castillo et.al.|[2405.06146](http://arxiv.org/abs/2405.06146)|null|
