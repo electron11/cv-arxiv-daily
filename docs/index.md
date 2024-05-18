@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Topological Floquet engineering of a three-band optical lattice with dual-mode resonant driving**|Dalmin Bae et.al.|[2405.09834](http://arxiv.org/abs/2405.09834)|null|
 |**2024-05-15**|**Floquet engineering of quantum thermal machines: A gradient-based procedure to optimize their performance**|Alberto Castro et.al.|[2405.09126](http://arxiv.org/abs/2405.09126)|null|
 |**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki et.al.|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
 |**2024-05-10**|**Sensing force gradients with cavity optomechanics while evading backaction**|Elisabet K. Arvidsson et.al.|[2405.06589](http://arxiv.org/abs/2405.06589)|**[link](https://zenodo.org/record/11175476)**|
@@ -337,6 +338,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Direct magnetic imaging of fractional Chern insulators in twisted MoTe $_2$ with a superconducting sensor**|Evgeny Redekop et.al.|[2405.10269](http://arxiv.org/abs/2405.10269)|null|
+|**2024-05-16**|**Non-Hermitian Topology in Hermitian Topological Matter**|Shu Hamanaka et.al.|[2405.10015](http://arxiv.org/abs/2405.10015)|null|
+|**2024-05-15**|**Quantum Geometry and Stabilization of Fractional Chern Insulators Far from the Ideal Limit**|Gal Shavit et.al.|[2405.09627](http://arxiv.org/abs/2405.09627)|null|
 |**2024-05-15**|**Dirac Fermions and Topological Phases in Magnetic Topological Insulator Films**|Kai-Zhi Bai et.al.|[2405.09121](http://arxiv.org/abs/2405.09121)|null|
 |**2024-05-14**|**Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands**|Hui Liu et.al.|[2405.08887](http://arxiv.org/abs/2405.08887)|null|
 |**2024-05-14**|**Antiferromagnetic Quantum Anomalous Hall Effect Modulated by Spin Flips and Flops**|Zichen Lian et.al.|[2405.08686](http://arxiv.org/abs/2405.08686)|null|
@@ -707,6 +711,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Direct magnetic imaging of fractional Chern insulators in twisted MoTe $_2$ with a superconducting sensor**|Evgeny Redekop et.al.|[2405.10269](http://arxiv.org/abs/2405.10269)|null|
+|**2024-05-15**|**Theory of possible sliding regimes in twisted bilayer WTe $_2$**|Yi-Ming Wu et.al.|[2405.09616](http://arxiv.org/abs/2405.09616)|null|
 |**2024-05-14**|**Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands**|Hui Liu et.al.|[2405.08887](http://arxiv.org/abs/2405.08887)|null|
 |**2024-05-16**|**Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe $_2$**|Feng Chen et.al.|[2405.08386](http://arxiv.org/abs/2405.08386)|null|
 |**2024-05-13**|**Topological quantum phase transitions driven by displacement fields in the twisted MoTe2 bilayers**|Prakash Sharma et.al.|[2405.08181](http://arxiv.org/abs/2405.08181)|null|
