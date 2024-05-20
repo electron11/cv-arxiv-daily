@@ -345,6 +345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Possible spin-polarized Cooper pairing in high temperature FeSe superconductor**|Yi Hu et.al.|[2405.10482](http://arxiv.org/abs/2405.10482)|null|
 |**2024-05-16**|**Direct magnetic imaging of fractional Chern insulators in twisted MoTe $_2$ with a superconducting sensor**|Evgeny Redekop et.al.|[2405.10269](http://arxiv.org/abs/2405.10269)|null|
 |**2024-05-16**|**Non-Hermitian Topology in Hermitian Topological Matter**|Shu Hamanaka et.al.|[2405.10015](http://arxiv.org/abs/2405.10015)|null|
 |**2024-05-15**|**Quantum Geometry and Stabilization of Fractional Chern Insulators Far from the Ideal Limit**|Gal Shavit et.al.|[2405.09627](http://arxiv.org/abs/2405.09627)|null|
@@ -720,6 +721,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Extended Coupled Cluster approach to Twisted Graphene Layers**|Ingvars Vitenburgs et.al.|[2405.10863](http://arxiv.org/abs/2405.10863)|null|
 |**2024-05-16**|**Direct magnetic imaging of fractional Chern insulators in twisted MoTe $_2$ with a superconducting sensor**|Evgeny Redekop et.al.|[2405.10269](http://arxiv.org/abs/2405.10269)|null|
 |**2024-05-15**|**Theory of possible sliding regimes in twisted bilayer WTe $_2$**|Yi-Ming Wu et.al.|[2405.09616](http://arxiv.org/abs/2405.09616)|null|
 |**2024-05-14**|**Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands**|Hui Liu et.al.|[2405.08887](http://arxiv.org/abs/2405.08887)|null|
