@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Quantum Dissipation at Conical Intersections of Quasienergies**|Sigmund Kohler et.al.|[2405.12093](http://arxiv.org/abs/2405.12093)|null|
+|**2024-05-20**|**Simulating a Chern Insulator with C = $\pm$ 2 on Synthetic Floquet Lattice**|Lingxiao Lei et.al.|[2405.11733](http://arxiv.org/abs/2405.11733)|null|
+|**2024-05-18**|**Different driving protocols and multiple Majorana modes in a Rashba coupled superconducting nanowire**|Koustav Roy et.al.|[2405.11307](http://arxiv.org/abs/2405.11307)|null|
 |**2024-05-16**|**Topological Floquet engineering of a three-band optical lattice with dual-mode resonant driving**|Dalmin Bae et.al.|[2405.09834](http://arxiv.org/abs/2405.09834)|null|
 |**2024-05-15**|**Floquet engineering of quantum thermal machines: A gradient-based procedure to optimize their performance**|Alberto Castro et.al.|[2405.09126](http://arxiv.org/abs/2405.09126)|null|
 |**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki et.al.|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
@@ -345,6 +348,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Giant Impurity Effects on Charge Loop Current Order States in Kagome Metals**|Seigo Nakazawa et.al.|[2405.12141](http://arxiv.org/abs/2405.12141)|null|
+|**2024-05-20**|**Real topological phonons in 3D carbon allotropes**|Xiaotian Wang et.al.|[2405.12072](http://arxiv.org/abs/2405.12072)|null|
+|**2024-05-20**|**Constructing vortex functions and basis states of Chern insulators: ideal condition, inequality from index theorem, and coherent-like states on von Neumann lattice**|Nobuyuki Okuma et.al.|[2405.11796](http://arxiv.org/abs/2405.11796)|null|
+|**2024-05-20**|**Simulating a Chern Insulator with C = $\pm$ 2 on Synthetic Floquet Lattice**|Lingxiao Lei et.al.|[2405.11733](http://arxiv.org/abs/2405.11733)|null|
+|**2024-05-19**|**Generic Approach to Intrinsic Magnetic Second-order Topological Insulators via Inverted $p-d$ Orbitals**|Zhao Liu et.al.|[2405.11420](http://arxiv.org/abs/2405.11420)|null|
+|**2024-05-18**|**Interlayer Coupling Induced Topological Phase Transition to Higher Order**|Lizhou Liu et.al.|[2405.11249](http://arxiv.org/abs/2405.11249)|null|
 |**2024-05-17**|**Possible spin-polarized Cooper pairing in high temperature FeSe superconductor**|Yi Hu et.al.|[2405.10482](http://arxiv.org/abs/2405.10482)|null|
 |**2024-05-16**|**Direct magnetic imaging of fractional Chern insulators in twisted MoTe $_2$ with a superconducting sensor**|Evgeny Redekop et.al.|[2405.10269](http://arxiv.org/abs/2405.10269)|null|
 |**2024-05-16**|**Non-Hermitian Topology in Hermitian Topological Matter**|Shu Hamanaka et.al.|[2405.10015](http://arxiv.org/abs/2405.10015)|null|
@@ -721,6 +730,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Strongly coupled magneto-exciton condensates in large-angle twisted double bilayer graphene**|Qingxin Li et.al.|[2405.11761](http://arxiv.org/abs/2405.11761)|null|
+|**2024-05-18**|**High-yield fabrication of bubble-free magic-angle twisted bilayer graphene devices with high twist-angle homogeneity**|J. Diez-Merida et.al.|[2405.11323](http://arxiv.org/abs/2405.11323)|null|
 |**2024-05-17**|**Extended Coupled Cluster approach to Twisted Graphene Layers**|Ingvars Vitenburgs et.al.|[2405.10863](http://arxiv.org/abs/2405.10863)|null|
 |**2024-05-16**|**Direct magnetic imaging of fractional Chern insulators in twisted MoTe $_2$ with a superconducting sensor**|Evgeny Redekop et.al.|[2405.10269](http://arxiv.org/abs/2405.10269)|null|
 |**2024-05-15**|**Theory of possible sliding regimes in twisted bilayer WTe $_2$**|Yi-Ming Wu et.al.|[2405.09616](http://arxiv.org/abs/2405.09616)|null|
