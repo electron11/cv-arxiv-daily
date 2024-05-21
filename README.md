@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -339,7 +339,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 ## QAH
 
@@ -352,7 +352,7 @@
 |**2024-05-15**|**Dirac Fermions and Topological Phases in Magnetic Topological Insulator Films**|Kai-Zhi Bai et.al.|[2405.09121](http://arxiv.org/abs/2405.09121)|null|
 |**2024-05-14**|**Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands**|Hui Liu et.al.|[2405.08887](http://arxiv.org/abs/2405.08887)|null|
 |**2024-05-14**|**Antiferromagnetic Quantum Anomalous Hall Effect Modulated by Spin Flips and Flops**|Zichen Lian et.al.|[2405.08686](http://arxiv.org/abs/2405.08686)|null|
-|**2024-05-14**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677](http://arxiv.org/abs/2405.08677)|null|
+|**2024-05-19**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677](http://arxiv.org/abs/2405.08677)|null|
 |**2024-05-16**|**Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe $_2$**|Feng Chen et.al.|[2405.08386](http://arxiv.org/abs/2405.08386)|null|
 |**2024-05-13**|**Topological quantum phase transitions driven by displacement fields in the twisted MoTe2 bilayers**|Prakash Sharma et.al.|[2405.08181](http://arxiv.org/abs/2405.08181)|null|
 |**2024-05-13**|**Optical Imaging of Flavor Order in Flat Band Graphene**|Tian Xie et.al.|[2405.08074](http://arxiv.org/abs/2405.08074)|null|
@@ -715,7 +715,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 ## twist
 
@@ -922,7 +922,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

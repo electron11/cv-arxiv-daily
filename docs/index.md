@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -345,7 +345,7 @@ layout: default
 |**2024-05-15**|**Dirac Fermions and Topological Phases in Magnetic Topological Insulator Films**|Kai-Zhi Bai et.al.|[2405.09121](http://arxiv.org/abs/2405.09121)|null|
 |**2024-05-14**|**Non-Abelian Fractional Chern Insulators and Competing States in Flat Moiré Bands**|Hui Liu et.al.|[2405.08887](http://arxiv.org/abs/2405.08887)|null|
 |**2024-05-14**|**Antiferromagnetic Quantum Anomalous Hall Effect Modulated by Spin Flips and Flops**|Zichen Lian et.al.|[2405.08686](http://arxiv.org/abs/2405.08686)|null|
-|**2024-05-14**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677](http://arxiv.org/abs/2405.08677)|null|
+|**2024-05-19**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677](http://arxiv.org/abs/2405.08677)|null|
 |**2024-05-16**|**Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe $_2$**|Feng Chen et.al.|[2405.08386](http://arxiv.org/abs/2405.08386)|null|
 |**2024-05-13**|**Topological quantum phase transitions driven by displacement fields in the twisted MoTe2 bilayers**|Prakash Sharma et.al.|[2405.08181](http://arxiv.org/abs/2405.08181)|null|
 |**2024-05-13**|**Optical Imaging of Flavor Order in Flat Band Graphene**|Tian Xie et.al.|[2405.08074](http://arxiv.org/abs/2405.08074)|null|
