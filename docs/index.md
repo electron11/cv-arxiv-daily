@@ -341,6 +341,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**A single crystal study of Kagome metals U $_2$Mn$_3$Ge and U$_2$Fe$_3$ Ge**|Wanyue Lin et.al.|[2405.12905](http://arxiv.org/abs/2405.12905)|null|
+|**2024-05-21**|**Tunable Giant Anomalous Hall in a Kondo Lattice Ferromagnet UBiTe**|Qiaozhi Xu et.al.|[2405.12471](http://arxiv.org/abs/2405.12471)|null|
+|**2024-05-20**|**Stabilizing fractional Chern insulators via exchange interaction in moiré systems**|Xiaoyang Shen et.al.|[2405.12294](http://arxiv.org/abs/2405.12294)|null|
 |**2024-05-20**|**Giant Impurity Effects on Charge Loop Current Order States in Kagome Metals**|Seigo Nakazawa et.al.|[2405.12141](http://arxiv.org/abs/2405.12141)|null|
 |**2024-05-20**|**Real topological phonons in 3D carbon allotropes**|Xiaotian Wang et.al.|[2405.12072](http://arxiv.org/abs/2405.12072)|null|
 |**2024-05-20**|**Constructing vortex functions and basis states of Chern insulators: ideal condition, inequality from index theorem, and coherent-like states on von Neumann lattice**|Nobuyuki Okuma et.al.|[2405.11796](http://arxiv.org/abs/2405.11796)|null|
@@ -721,6 +724,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Diffusion of brightened dark excitons in a high-angle incommensurate Moiré homobilayer**|Arnab Barman Ray et.al.|[2405.12901](http://arxiv.org/abs/2405.12901)|null|
 |**2024-05-20**|**Strongly coupled magneto-exciton condensates in large-angle twisted double bilayer graphene**|Qingxin Li et.al.|[2405.11761](http://arxiv.org/abs/2405.11761)|null|
 |**2024-05-18**|**High-yield fabrication of bubble-free magic-angle twisted bilayer graphene devices with high twist-angle homogeneity**|J. Diez-Merida et.al.|[2405.11323](http://arxiv.org/abs/2405.11323)|null|
 |**2024-05-17**|**Extended Coupled Cluster approach to Twisted Graphene Layers**|Ingvars Vitenburgs et.al.|[2405.10863](http://arxiv.org/abs/2405.10863)|null|
