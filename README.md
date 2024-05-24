@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Quantum Mpemba Effect in Random Circuits**|Xhek Turkeshi et.al.|[2405.14514](http://arxiv.org/abs/2405.14514)|null|
 |**2024-05-20**|**Quantum Dissipation at Conical Intersections of Quasienergies**|Sigmund Kohler et.al.|[2405.12093](http://arxiv.org/abs/2405.12093)|null|
 |**2024-05-20**|**Simulating a Chern Insulator with C = $\pm$ 2 on Synthetic Floquet Lattice**|Lingxiao Lei et.al.|[2405.11733](http://arxiv.org/abs/2405.11733)|null|
 |**2024-05-18**|**Different driving protocols and multiple Majorana modes in a Rashba coupled superconducting nanowire**|Koustav Roy et.al.|[2405.11307](http://arxiv.org/abs/2405.11307)|null|
@@ -348,6 +349,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Interacting phase diagram of twisted bilayer MoTe $_2$ in magnetic field**|Minxuan Wang et.al.|[2405.14811](http://arxiv.org/abs/2405.14811)|null|
+|**2024-05-23**|**Detecting slow magnetization relaxation via magnetotransport measurements based on the current-reversal method**|Sebastian Beckert et.al.|[2405.14460](http://arxiv.org/abs/2405.14460)|null|
+|**2024-05-21**|**Engineering Miniband Topology via Band-Folding in Moiré Superlattice Materials**|Kaijie Yang et.al.|[2405.13145](http://arxiv.org/abs/2405.13145)|null|
 |**2024-05-21**|**A single crystal study of Kagome metals U $_2$Mn$_3$Ge and U$_2$Fe$_3$ Ge**|Wanyue Lin et.al.|[2405.12905](http://arxiv.org/abs/2405.12905)|null|
 |**2024-05-21**|**Tunable Giant Anomalous Hall in a Kondo Lattice Ferromagnet UBiTe**|Qiaozhi Xu et.al.|[2405.12471](http://arxiv.org/abs/2405.12471)|null|
 |**2024-05-20**|**Stabilizing fractional Chern insulators via exchange interaction in moiré systems**|Xiaoyang Shen et.al.|[2405.12294](http://arxiv.org/abs/2405.12294)|null|
@@ -733,6 +737,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Interacting phase diagram of twisted bilayer MoTe $_2$ in magnetic field**|Minxuan Wang et.al.|[2405.14811](http://arxiv.org/abs/2405.14811)|null|
+|**2024-05-23**|**Unconventional superconductivity in twisted bilayer WSe2**|Yiyu Xia et.al.|[2405.14784](http://arxiv.org/abs/2405.14784)|null|
+|**2024-05-23**|**Tuning monolayer superconductivity in twisted NbSe $_2$ graphene heterostructures**|Shun Asano et.al.|[2405.14661](http://arxiv.org/abs/2405.14661)|null|
+|**2024-05-23**|**Theory of Generalized Landau Levels and Implication for non-Abelian States**|Zhao Liu et.al.|[2405.14479](http://arxiv.org/abs/2405.14479)|null|
+|**2024-05-23**|**Recursive Green's functions optimized for atomistic modelling of large superlattice-based devices**|Viet-Hung Nguyen et.al.|[2405.14288](http://arxiv.org/abs/2405.14288)|null|
+|**2024-05-22**|**Heavy Fermions as an Efficient Representation of Atomistic Strain and Relaxation in Twisted Bilayer Graphene**|Jonah Herzog-Arbeitman et.al.|[2405.13880](http://arxiv.org/abs/2405.13880)|null|
 |**2024-05-21**|**Diffusion of brightened dark excitons in a high-angle incommensurate Moiré homobilayer**|Arnab Barman Ray et.al.|[2405.12901](http://arxiv.org/abs/2405.12901)|null|
 |**2024-05-20**|**Strongly coupled magneto-exciton condensates in large-angle twisted double bilayer graphene**|Qingxin Li et.al.|[2405.11761](http://arxiv.org/abs/2405.11761)|null|
 |**2024-05-18**|**High-yield fabrication of bubble-free magic-angle twisted bilayer graphene devices with high twist-angle homogeneity**|J. Diez-Merida et.al.|[2405.11323](http://arxiv.org/abs/2405.11323)|null|
