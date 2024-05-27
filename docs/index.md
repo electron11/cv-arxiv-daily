@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Timelike Kasner singularities and Floquet States in 2+1d AdS/CFT**|Emil Albrychiewicz et.al.|[2405.14971](http://arxiv.org/abs/2405.14971)|null|
+|**2024-05-23**|**Arresting Quantum Chaos Dynamically in Transmon Arrays**|Rohit Mukherjee et.al.|[2405.14935](http://arxiv.org/abs/2405.14935)|null|
 |**2024-05-23**|**Quantum Mpemba Effect in Random Circuits**|Xhek Turkeshi et.al.|[2405.14514](http://arxiv.org/abs/2405.14514)|null|
 |**2024-05-20**|**Quantum Dissipation at Conical Intersections of Quasienergies**|Sigmund Kohler et.al.|[2405.12093](http://arxiv.org/abs/2405.12093)|null|
 |**2024-05-20**|**Simulating a Chern Insulator with C = $\pm$ 2 on Synthetic Floquet Lattice**|Lingxiao Lei et.al.|[2405.11733](http://arxiv.org/abs/2405.11733)|null|
@@ -342,6 +344,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Probing Berry curvature in magnetic topological insulators through resonant infrared magnetic circular dichroism**|Seul-Ki Bac et.al.|[2405.15689](http://arxiv.org/abs/2405.15689)|null|
 |**2024-05-23**|**Interacting phase diagram of twisted bilayer MoTe $_2$ in magnetic field**|Minxuan Wang et.al.|[2405.14811](http://arxiv.org/abs/2405.14811)|null|
 |**2024-05-23**|**Detecting slow magnetization relaxation via magnetotransport measurements based on the current-reversal method**|Sebastian Beckert et.al.|[2405.14460](http://arxiv.org/abs/2405.14460)|null|
 |**2024-05-21**|**Engineering Miniband Topology via Band-Folding in Moiré Superlattice Materials**|Kaijie Yang et.al.|[2405.13145](http://arxiv.org/abs/2405.13145)|null|
@@ -728,6 +731,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Imaging topological polar structures in marginally twisted 2D semiconductors**|Thi-Hai-Yen Vu et.al.|[2405.15126](http://arxiv.org/abs/2405.15126)|null|
 |**2024-05-23**|**Interacting phase diagram of twisted bilayer MoTe $_2$ in magnetic field**|Minxuan Wang et.al.|[2405.14811](http://arxiv.org/abs/2405.14811)|null|
 |**2024-05-23**|**Unconventional superconductivity in twisted bilayer WSe2**|Yiyu Xia et.al.|[2405.14784](http://arxiv.org/abs/2405.14784)|null|
 |**2024-05-23**|**Tuning monolayer superconductivity in twisted NbSe $_2$ graphene heterostructures**|Shun Asano et.al.|[2405.14661](http://arxiv.org/abs/2405.14661)|null|
