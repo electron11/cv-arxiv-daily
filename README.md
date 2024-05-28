@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-26**|**Revealing the hidden Dirac gap in a topological antiferromagnet using Floquet-Bloch manipulation**|Nina Bielinski et.al.|[2405.16432](http://arxiv.org/abs/2405.16432)|null|
+|**2024-05-24**|**Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements**|Campbell McLauchlan et.al.|[2405.15854](http://arxiv.org/abs/2405.15854)|null|
 |**2024-05-23**|**Timelike Kasner singularities and Floquet States in 2+1d AdS/CFT**|Emil Albrychiewicz et.al.|[2405.14971](http://arxiv.org/abs/2405.14971)|null|
 |**2024-05-23**|**Arresting Quantum Chaos Dynamically in Transmon Arrays**|Rohit Mukherjee et.al.|[2405.14935](http://arxiv.org/abs/2405.14935)|null|
 |**2024-05-23**|**Quantum Mpemba Effect in Random Circuits**|Xhek Turkeshi et.al.|[2405.14514](http://arxiv.org/abs/2405.14514)|null|
@@ -351,6 +353,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Crystalline invariants of fractional Chern insulators**|Ryohei Kobayashi et.al.|[2405.17431](http://arxiv.org/abs/2405.17431)|null|
+|**2024-05-27**|**Moiré flat bands in alternating twisted $\mathrm{MoTe_2}$ multilayer**|Miao Liang et.al.|[2405.17134](http://arxiv.org/abs/2405.17134)|null|
+|**2024-05-27**|**Even- and Odd-denominator Fractional Quantum Anomalous Hall Effect in Graphene Moire Superlattices**|Jian Xie et.al.|[2405.16944](http://arxiv.org/abs/2405.16944)|null|
+|**2024-05-27**|**Giant anomalous Hall effect and band folding in a Kagome metal with mixed dimensionality**|Erjian Cheng et.al.|[2405.16831](http://arxiv.org/abs/2405.16831)|null|
+|**2024-05-26**|**Observation of in-plane anomalous Hall effect associated with orbital magnetization**|Ayano Nakamura et.al.|[2405.16722](http://arxiv.org/abs/2405.16722)|null|
 |**2024-05-24**|**Probing Berry curvature in magnetic topological insulators through resonant infrared magnetic circular dichroism**|Seul-Ki Bac et.al.|[2405.15689](http://arxiv.org/abs/2405.15689)|null|
 |**2024-05-23**|**Interacting phase diagram of twisted bilayer MoTe $_2$ in magnetic field**|Minxuan Wang et.al.|[2405.14811](http://arxiv.org/abs/2405.14811)|null|
 |**2024-05-23**|**Detecting slow magnetization relaxation via magnetotransport measurements based on the current-reversal method**|Sebastian Beckert et.al.|[2405.14460](http://arxiv.org/abs/2405.14460)|null|
@@ -740,6 +747,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Direct view of gate-tunable miniband dispersion in graphene superlattices near the magic twist angle**|Zhihao Jiang et.al.|[2405.17148](http://arxiv.org/abs/2405.17148)|null|
+|**2024-05-27**|**Moiré flat bands in alternating twisted $\mathrm{MoTe_2}$ multilayer**|Miao Liang et.al.|[2405.17134](http://arxiv.org/abs/2405.17134)|null|
+|**2024-05-26**|**Dipolar bosons in a twisted bilayer geometry**|Chao Zhang et.al.|[2405.16425](http://arxiv.org/abs/2405.16425)|null|
 |**2024-05-24**|**Imaging topological polar structures in marginally twisted 2D semiconductors**|Thi-Hai-Yen Vu et.al.|[2405.15126](http://arxiv.org/abs/2405.15126)|null|
 |**2024-05-23**|**Interacting phase diagram of twisted bilayer MoTe $_2$ in magnetic field**|Minxuan Wang et.al.|[2405.14811](http://arxiv.org/abs/2405.14811)|null|
 |**2024-05-23**|**Unconventional superconductivity in twisted bilayer WSe2**|Yiyu Xia et.al.|[2405.14784](http://arxiv.org/abs/2405.14784)|null|
