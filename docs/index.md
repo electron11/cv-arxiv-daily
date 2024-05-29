@@ -346,6 +346,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Metamagnetic multiband Hall effect in Ising antiferromagnet ErGa $_2$**|Takashi Kurumaji et.al.|[2405.18325](http://arxiv.org/abs/2405.18325)|null|
+|**2024-05-28**|**Continuous Transition between Bosonic Fractional Chern Insulator and Superfluid**|Hongyu Lu et.al.|[2405.18269](http://arxiv.org/abs/2405.18269)|null|
 |**2024-05-27**|**Crystalline invariants of fractional Chern insulators**|Ryohei Kobayashi et.al.|[2405.17431](http://arxiv.org/abs/2405.17431)|null|
 |**2024-05-27**|**Moiré flat bands in alternating twisted $\mathrm{MoTe_2}$ multilayer**|Miao Liang et.al.|[2405.17134](http://arxiv.org/abs/2405.17134)|null|
 |**2024-05-27**|**Even- and Odd-denominator Fractional Quantum Anomalous Hall Effect in Graphene Moire Superlattices**|Jian Xie et.al.|[2405.16944](http://arxiv.org/abs/2405.16944)|null|
@@ -738,6 +740,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Emergent inhomogeneity and non-locality in a graphene field-effect transistor on a near-parallel moire superlattice of transition metal dichalcogenides**|Shaili Sett et.al.|[2405.18024](http://arxiv.org/abs/2405.18024)|null|
+|**2024-05-28**|**Correlation effects in magic-angle twisted bilayer graphene: An auxiliary-field quantum Monte Carlo study**|Zhi-Yu Xiao et.al.|[2405.17808](http://arxiv.org/abs/2405.17808)|null|
+|**2024-05-27**|**Symmetry quantification and segmentation in STEM imaging through Zernike moments**|Jiadong Dan et.al.|[2405.17519](http://arxiv.org/abs/2405.17519)|null|
 |**2024-05-27**|**Direct view of gate-tunable miniband dispersion in graphene superlattices near the magic twist angle**|Zhihao Jiang et.al.|[2405.17148](http://arxiv.org/abs/2405.17148)|null|
 |**2024-05-27**|**Moiré flat bands in alternating twisted $\mathrm{MoTe_2}$ multilayer**|Miao Liang et.al.|[2405.17134](http://arxiv.org/abs/2405.17134)|null|
 |**2024-05-26**|**Dipolar bosons in a twisted bilayer geometry**|Chao Zhang et.al.|[2405.16425](http://arxiv.org/abs/2405.16425)|null|
