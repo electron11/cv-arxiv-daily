@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675](http://arxiv.org/abs/2405.18675)|null|
 |**2024-05-26**|**Revealing the hidden Dirac gap in a topological antiferromagnet using Floquet-Bloch manipulation**|Nina Bielinski et.al.|[2405.16432](http://arxiv.org/abs/2405.16432)|null|
 |**2024-05-24**|**Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements**|Campbell McLauchlan et.al.|[2405.15854](http://arxiv.org/abs/2405.15854)|null|
 |**2024-05-23**|**Timelike Kasner singularities and Floquet States in 2+1d AdS/CFT**|Emil Albrychiewicz et.al.|[2405.14971](http://arxiv.org/abs/2405.14971)|null|
@@ -353,6 +354,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Visualizing the microscopic origins of topology in twisted molybdenum ditelluride**|Ellis Thompson et.al.|[2405.19308](http://arxiv.org/abs/2405.19308)|null|
+|**2024-05-29**|**Genuine topological Anderson insulator from impurity induced chirality reversal**|Avedis Neehus et.al.|[2405.19289](http://arxiv.org/abs/2405.19289)|null|
+|**2024-05-29**|**Photonic bilayer Chern insulator with corner states**|Subhaskar Mandal et.al.|[2405.19267](http://arxiv.org/abs/2405.19267)|null|
+|**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675](http://arxiv.org/abs/2405.18675)|null|
 |**2024-05-28**|**Metamagnetic multiband Hall effect in Ising antiferromagnet ErGa $_2$**|Takashi Kurumaji et.al.|[2405.18325](http://arxiv.org/abs/2405.18325)|null|
 |**2024-05-28**|**Continuous Transition between Bosonic Fractional Chern Insulator and Superfluid**|Hongyu Lu et.al.|[2405.18269](http://arxiv.org/abs/2405.18269)|null|
 |**2024-05-27**|**Crystalline invariants of fractional Chern insulators**|Ryohei Kobayashi et.al.|[2405.17431](http://arxiv.org/abs/2405.17431)|null|
@@ -749,6 +754,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**|Rupini V. Kamat et.al.|[2405.18588](http://arxiv.org/abs/2405.18588)|null|
 |**2024-05-28**|**Emergent inhomogeneity and non-locality in a graphene field-effect transistor on a near-parallel moire superlattice of transition metal dichalcogenides**|Shaili Sett et.al.|[2405.18024](http://arxiv.org/abs/2405.18024)|null|
 |**2024-05-28**|**Correlation effects in magic-angle twisted bilayer graphene: An auxiliary-field quantum Monte Carlo study**|Zhi-Yu Xiao et.al.|[2405.17808](http://arxiv.org/abs/2405.17808)|null|
 |**2024-05-27**|**Symmetry quantification and segmentation in STEM imaging through Zernike moments**|Jiadong Dan et.al.|[2405.17519](http://arxiv.org/abs/2405.17519)|null|
