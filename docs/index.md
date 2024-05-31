@@ -347,6 +347,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
+|**2024-05-30**|**Propagation, dissipation and breakdown in quantum anomalous Hall edge states probed by microwave edge plasmons**|Torsten Röper et.al.|[2405.19983](http://arxiv.org/abs/2405.19983)|null|
+|**2024-05-30**|**Material and size dependent corrections to conductance quantization in anomalous Hall effect from anomaly inflow**|Armin Ghazi et.al.|[2405.19935](http://arxiv.org/abs/2405.19935)|null|
 |**2024-05-29**|**Visualizing the microscopic origins of topology in twisted molybdenum ditelluride**|Ellis Thompson et.al.|[2405.19308](http://arxiv.org/abs/2405.19308)|null|
 |**2024-05-29**|**Genuine topological Anderson insulator from impurity induced chirality reversal**|Avedis Neehus et.al.|[2405.19289](http://arxiv.org/abs/2405.19289)|null|
 |**2024-05-29**|**Photonic bilayer Chern insulator with corner states**|Subhaskar Mandal et.al.|[2405.19267](http://arxiv.org/abs/2405.19267)|null|
@@ -745,6 +748,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
 |**2024-05-28**|**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**|Rupini V. Kamat et.al.|[2405.18588](http://arxiv.org/abs/2405.18588)|null|
 |**2024-05-28**|**Emergent inhomogeneity and non-locality in a graphene field-effect transistor on a near-parallel moire superlattice of transition metal dichalcogenides**|Shaili Sett et.al.|[2405.18024](http://arxiv.org/abs/2405.18024)|null|
 |**2024-05-28**|**Correlation effects in magic-angle twisted bilayer graphene: An auxiliary-field quantum Monte Carlo study**|Zhi-Yu Xiao et.al.|[2405.17808](http://arxiv.org/abs/2405.17808)|null|
