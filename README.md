@@ -757,6 +757,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Coexisting charge density waves in twisted bilayer NbSe2**|Christopher T. S. Cheung et.al.|[2405.20913](http://arxiv.org/abs/2405.20913)|null|
+|**2024-05-31**|**Dynamical Moiré Systems in Twisted Bilayer Optical Lattices**|Jian-Hua Zeng et.al.|[2405.20732](http://arxiv.org/abs/2405.20732)|null|
 |**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
 |**2024-05-28**|**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**|Rupini V. Kamat et.al.|[2405.18588](http://arxiv.org/abs/2405.18588)|null|
 |**2024-05-28**|**Emergent inhomogeneity and non-locality in a graphene field-effect transistor on a near-parallel moire superlattice of transition metal dichalcogenides**|Shaili Sett et.al.|[2405.18024](http://arxiv.org/abs/2405.18024)|null|
