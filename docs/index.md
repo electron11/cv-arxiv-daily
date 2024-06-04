@@ -17,7 +17,7 @@ layout: default
 |**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675](http://arxiv.org/abs/2405.18675)|null|
 |**2024-05-26**|**Revealing the hidden Dirac gap in a topological antiferromagnet using Floquet-Bloch manipulation**|Nina Bielinski et.al.|[2405.16432](http://arxiv.org/abs/2405.16432)|null|
 |**2024-05-24**|**Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements**|Campbell McLauchlan et.al.|[2405.15854](http://arxiv.org/abs/2405.15854)|null|
-|**2024-05-23**|**Timelike Kasner singularities and Floquet States in 2+1d AdS/CFT**|Emil Albrychiewicz et.al.|[2405.14971](http://arxiv.org/abs/2405.14971)|null|
+|**2024-06-03**|**Timelike Kasner singularities and Floquet States in 2+1d AdS/CFT**|Emil Albrychiewicz et.al.|[2405.14971](http://arxiv.org/abs/2405.14971)|null|
 |**2024-05-23**|**Arresting Quantum Chaos Dynamically in Transmon Arrays**|Rohit Mukherjee et.al.|[2405.14935](http://arxiv.org/abs/2405.14935)|null|
 |**2024-05-23**|**Quantum Mpemba Effect in Random Circuits**|Xhek Turkeshi et.al.|[2405.14514](http://arxiv.org/abs/2405.14514)|null|
 |**2024-05-20**|**Quantum Dissipation at Conical Intersections of Quasienergies**|Sigmund Kohler et.al.|[2405.12093](http://arxiv.org/abs/2405.12093)|null|
