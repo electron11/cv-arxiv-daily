@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Magnetically generated spin-orbit coupling for ultracold atoms with slowly varying periodic driving**|Domantas Burba et.al.|[2406.01619](http://arxiv.org/abs/2406.01619)|null|
+|**2024-06-03**|**Tessellated phase diagram and extended criticality in driven quasicrystals and quantum Hall matter**|Yifei Bai et.al.|[2406.01445](http://arxiv.org/abs/2406.01445)|null|
+|**2024-06-03**|**Floquet engineering nearly flat bands through quantum-geometric light-matter coupling with surface polaritons**|Mikołaj Walicki et.al.|[2406.01298](http://arxiv.org/abs/2406.01298)|null|
+|**2024-05-31**|**Measuring a localization phase diagram controlled by the interplay of disorder and driving**|Peter Dotti et.al.|[2406.00214](http://arxiv.org/abs/2406.00214)|null|
 |**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675](http://arxiv.org/abs/2405.18675)|null|
 |**2024-05-26**|**Revealing the hidden Dirac gap in a topological antiferromagnet using Floquet-Bloch manipulation**|Nina Bielinski et.al.|[2405.16432](http://arxiv.org/abs/2405.16432)|null|
 |**2024-05-24**|**Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements**|Campbell McLauchlan et.al.|[2405.15854](http://arxiv.org/abs/2405.15854)|null|
@@ -354,6 +358,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-03**|**Ferromagnetic semimetal and charge-density wave phases of interacting electrons in a honeycomb moiré potential**|Yubo Yang et.al.|[2406.01715](http://arxiv.org/abs/2406.01715)|null|
+|**2024-06-03**|**Engineering second-order topological insulators via coupling two first-order topological insulators**|Lizhou Liu et.al.|[2406.01037](http://arxiv.org/abs/2406.01037)|null|
 |**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
 |**2024-05-30**|**Propagation, dissipation and breakdown in quantum anomalous Hall edge states probed by microwave edge plasmons**|Torsten Röper et.al.|[2405.19983](http://arxiv.org/abs/2405.19983)|null|
 |**2024-05-30**|**Material and size dependent corrections to conductance quantization in anomalous Hall effect from anomaly inflow**|Armin Ghazi et.al.|[2405.19935](http://arxiv.org/abs/2405.19935)|null|
