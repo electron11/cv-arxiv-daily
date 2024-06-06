@@ -351,6 +351,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
+|**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029](http://arxiv.org/abs/2406.03029)|null|
+|**2024-06-05**|**Shaping the topology of twisted bilayer graphene via time-reversal symmetry breaking**|Cunyuan Jiang et.al.|[2406.02947](http://arxiv.org/abs/2406.02947)|null|
 |**2024-06-03**|**Ferromagnetic semimetal and charge-density wave phases of interacting electrons in a honeycomb moiré potential**|Yubo Yang et.al.|[2406.01715](http://arxiv.org/abs/2406.01715)|null|
 |**2024-06-03**|**Engineering second-order topological insulators via coupling two first-order topological insulators**|Lizhou Liu et.al.|[2406.01037](http://arxiv.org/abs/2406.01037)|null|
 |**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
@@ -754,6 +757,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Superconductivity in twisted bilayer WSe $_2$**|Yinjie Guo et.al.|[2406.03418](http://arxiv.org/abs/2406.03418)|null|
+|**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
+|**2024-06-05**|**Shaping the topology of twisted bilayer graphene via time-reversal symmetry breaking**|Cunyuan Jiang et.al.|[2406.02947](http://arxiv.org/abs/2406.02947)|null|
+|**2024-06-04**|**Versatile polymer method to dry-flip two-dimensional moiré hetero structures for nanoscale surface characterization**|Roop Kumar Mech et.al.|[2406.02819](http://arxiv.org/abs/2406.02819)|null|
 |**2024-05-31**|**Coexisting charge density waves in twisted bilayer NbSe2**|Christopher T. S. Cheung et.al.|[2405.20913](http://arxiv.org/abs/2405.20913)|null|
 |**2024-05-31**|**Dynamical Moiré Systems in Twisted Bilayer Optical Lattices**|Jian-Hua Zeng et.al.|[2405.20732](http://arxiv.org/abs/2405.20732)|null|
 |**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
