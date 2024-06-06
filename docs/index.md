@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -759,7 +759,7 @@ layout: default
 |**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
 |**2024-05-28**|**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**|Rupini V. Kamat et.al.|[2405.18588](http://arxiv.org/abs/2405.18588)|null|
 |**2024-05-28**|**Emergent inhomogeneity and non-locality in a graphene field-effect transistor on a near-parallel moire superlattice of transition metal dichalcogenides**|Shaili Sett et.al.|[2405.18024](http://arxiv.org/abs/2405.18024)|null|
-|**2024-05-28**|**Correlation effects in magic-angle twisted bilayer graphene: An auxiliary-field quantum Monte Carlo study**|Zhi-Yu Xiao et.al.|[2405.17808](http://arxiv.org/abs/2405.17808)|null|
+|**2024-06-05**|**Correlation effects in magic-angle twisted bilayer graphene: An auxiliary-field quantum Monte Carlo study**|Zhi-Yu Xiao et.al.|[2405.17808](http://arxiv.org/abs/2405.17808)|null|
 |**2024-05-27**|**Symmetry quantification and segmentation in STEM imaging through Zernike moments**|Jiadong Dan et.al.|[2405.17519](http://arxiv.org/abs/2405.17519)|null|
 |**2024-05-27**|**Direct view of gate-tunable miniband dispersion in graphene superlattices near the magic twist angle**|Zhihao Jiang et.al.|[2405.17148](http://arxiv.org/abs/2405.17148)|null|
 |**2024-05-27**|**Moiré flat bands in alternating twisted $\mathrm{MoTe_2}$ multilayer**|Miao Liang et.al.|[2405.17134](http://arxiv.org/abs/2405.17134)|null|

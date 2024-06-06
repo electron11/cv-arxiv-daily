@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -352,7 +352,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
 ## QAH
 
@@ -757,7 +757,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
 ## twist
 
@@ -768,7 +768,7 @@
 |**2024-05-30**|**Variational Mapping of Chern Bands to Landau Levels: Application to Fractional Chern Insulators in Twisted MoTe $_2$**|Bohao Li et.al.|[2405.20307](http://arxiv.org/abs/2405.20307)|null|
 |**2024-05-28**|**Deterministic fabrication of graphene hexagonal boron nitride moiré superlattices**|Rupini V. Kamat et.al.|[2405.18588](http://arxiv.org/abs/2405.18588)|null|
 |**2024-05-28**|**Emergent inhomogeneity and non-locality in a graphene field-effect transistor on a near-parallel moire superlattice of transition metal dichalcogenides**|Shaili Sett et.al.|[2405.18024](http://arxiv.org/abs/2405.18024)|null|
-|**2024-05-28**|**Correlation effects in magic-angle twisted bilayer graphene: An auxiliary-field quantum Monte Carlo study**|Zhi-Yu Xiao et.al.|[2405.17808](http://arxiv.org/abs/2405.17808)|null|
+|**2024-06-05**|**Correlation effects in magic-angle twisted bilayer graphene: An auxiliary-field quantum Monte Carlo study**|Zhi-Yu Xiao et.al.|[2405.17808](http://arxiv.org/abs/2405.17808)|null|
 |**2024-05-27**|**Symmetry quantification and segmentation in STEM imaging through Zernike moments**|Jiadong Dan et.al.|[2405.17519](http://arxiv.org/abs/2405.17519)|null|
 |**2024-05-27**|**Direct view of gate-tunable miniband dispersion in graphene superlattices near the magic twist angle**|Zhihao Jiang et.al.|[2405.17148](http://arxiv.org/abs/2405.17148)|null|
 |**2024-05-27**|**Moiré flat bands in alternating twisted $\mathrm{MoTe_2}$ multilayer**|Miao Liang et.al.|[2405.17134](http://arxiv.org/abs/2405.17134)|null|
@@ -984,7 +984,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
