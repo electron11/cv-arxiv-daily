@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Computing Floquet quasienergies in finite and extended systems: Role of electromagnetic and quantum-geometric gauges**|Álvaro R. Puente-Uriona et.al.|[2406.04091](http://arxiv.org/abs/2406.04091)|null|
+|**2024-06-06**|**Floquet Theory in an Irradiated Nodal Surface Semimetal**|Bhaskar Pandit et.al.|[2406.04053](http://arxiv.org/abs/2406.04053)|null|
+|**2024-06-06**|**Self-resonance after inflation: The case of $α$ -attractor models**|Daniel del-Corral et.al.|[2406.04017](http://arxiv.org/abs/2406.04017)|null|
+|**2024-06-06**|**Operator dynamics and entanglement in space-time dual Hadamard lattices**|Pieter W. Claeys et.al.|[2406.03781](http://arxiv.org/abs/2406.03781)|null|
 |**2024-05-31**|**Magnetically generated spin-orbit coupling for ultracold atoms with slowly varying periodic driving**|Domantas Burba et.al.|[2406.01619](http://arxiv.org/abs/2406.01619)|null|
 |**2024-06-03**|**Tessellated phase diagram and extended criticality in driven quasicrystals and quantum Hall matter**|Yifei Bai et.al.|[2406.01445](http://arxiv.org/abs/2406.01445)|null|
 |**2024-06-03**|**Floquet engineering nearly flat bands through quantum-geometric light-matter coupling with surface polaritons**|Mikołaj Walicki et.al.|[2406.01298](http://arxiv.org/abs/2406.01298)|null|
@@ -358,6 +362,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
 |**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029](http://arxiv.org/abs/2406.03029)|null|
 |**2024-06-05**|**Shaping the topology of twisted bilayer graphene via time-reversal symmetry breaking**|Cunyuan Jiang et.al.|[2406.02947](http://arxiv.org/abs/2406.02947)|null|
@@ -766,6 +771,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Superconductivity in twisted bilayer WSe $_2$**|Yinjie Guo et.al.|[2406.03418](http://arxiv.org/abs/2406.03418)|null|
 |**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
 |**2024-06-05**|**Shaping the topology of twisted bilayer graphene via time-reversal symmetry breaking**|Cunyuan Jiang et.al.|[2406.02947](http://arxiv.org/abs/2406.02947)|null|
