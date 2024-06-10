@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Observation of higher-order time-dislocation topological modes**|Jia-Hui Zhang et.al.|[2406.04763](http://arxiv.org/abs/2406.04763)|null|
 |**2024-06-06**|**Computing Floquet quasienergies in finite and extended systems: Role of electromagnetic and quantum-geometric gauges**|Álvaro R. Puente-Uriona et.al.|[2406.04091](http://arxiv.org/abs/2406.04091)|null|
 |**2024-06-06**|**Floquet Theory in an Irradiated Nodal Surface Semimetal**|Bhaskar Pandit et.al.|[2406.04053](http://arxiv.org/abs/2406.04053)|null|
 |**2024-06-06**|**Self-resonance after inflation: The case of $α$ -attractor models**|Daniel del-Corral et.al.|[2406.04017](http://arxiv.org/abs/2406.04017)|null|
@@ -355,6 +356,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474](http://arxiv.org/abs/2406.04474)|null|
 |**2024-06-05**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
 |**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029](http://arxiv.org/abs/2406.03029)|null|
