@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Solitary waves and kinks in FPU lattices with soft-hard-soft trilinear interactions**|Anna Vainchtein et.al.|[2406.06437](http://arxiv.org/abs/2406.06437)|null|
+|**2024-06-10**|**Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians**|Matthias Werner et.al.|[2406.06378](http://arxiv.org/abs/2406.06378)|null|
+|**2024-06-09**|**Analysis of Bessel Beam Generation Using MetaMaterials in Photonic Integrated Circuits**|Solomon M. Serunjogi et.al.|[2406.05751](http://arxiv.org/abs/2406.05751)|null|
+|**2024-06-09**|**Predicting edge-localized monovacancy defects in zigzag graphene nanoribbons from Floquet quasienergy spectrum**|Gulshan Kumar et.al.|[2406.05643](http://arxiv.org/abs/2406.05643)|null|
 |**2024-06-07**|**Observation of higher-order time-dislocation topological modes**|Jia-Hui Zhang et.al.|[2406.04763](http://arxiv.org/abs/2406.04763)|null|
 |**2024-06-06**|**Computing Floquet quasienergies in finite and extended systems: Role of electromagnetic and quantum-geometric gauges**|Álvaro R. Puente-Uriona et.al.|[2406.04091](http://arxiv.org/abs/2406.04091)|null|
 |**2024-06-06**|**Floquet Theory in an Irradiated Nodal Surface Semimetal**|Bhaskar Pandit et.al.|[2406.04053](http://arxiv.org/abs/2406.04053)|null|
@@ -363,6 +367,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**Chern insulator phase realized in dual-gate-tuned MnBi2Te4 thin films grown by molecular beam epitaxy**|Yunhe Bai et.al.|[2406.05676](http://arxiv.org/abs/2406.05676)|null|
 |**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474](http://arxiv.org/abs/2406.04474)|null|
 |**2024-06-05**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
@@ -773,6 +778,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Theory of phonon sidebands in the absorption spectra of moiré exciton-polaritons**|Kevin Jürgens et.al.|[2406.06330](http://arxiv.org/abs/2406.06330)|null|
 |**2024-06-05**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Superconductivity in twisted bilayer WSe $_2$**|Yinjie Guo et.al.|[2406.03418](http://arxiv.org/abs/2406.03418)|null|
 |**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
