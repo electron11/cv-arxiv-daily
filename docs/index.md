@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -362,7 +362,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-09**|**Chern insulator phase realized in dual-gate-tuned MnBi2Te4 thin films grown by molecular beam epitaxy**|Yunhe Bai et.al.|[2406.05676](http://arxiv.org/abs/2406.05676)|null|
 |**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474](http://arxiv.org/abs/2406.04474)|null|
-|**2024-06-05**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
+|**2024-06-10**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
 |**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029](http://arxiv.org/abs/2406.03029)|null|
 |**2024-06-05**|**Shaping the topology of twisted bilayer graphene via time-reversal symmetry breaking**|Cunyuan Jiang et.al.|[2406.02947](http://arxiv.org/abs/2406.02947)|null|
@@ -770,7 +770,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-10**|**Theory of phonon sidebands in the absorption spectra of moiré exciton-polaritons**|Kevin Jürgens et.al.|[2406.06330](http://arxiv.org/abs/2406.06330)|null|
-|**2024-06-05**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
+|**2024-06-10**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Superconductivity in twisted bilayer WSe $_2$**|Yinjie Guo et.al.|[2406.03418](http://arxiv.org/abs/2406.03418)|null|
 |**2024-06-05**|**Correlated states controlled by tunable van Hove singularity in moiré WSe2**|Patrick Knüppel et.al.|[2406.03315](http://arxiv.org/abs/2406.03315)|null|
 |**2024-06-05**|**Shaping the topology of twisted bilayer graphene via time-reversal symmetry breaking**|Cunyuan Jiang et.al.|[2406.02947](http://arxiv.org/abs/2406.02947)|null|
