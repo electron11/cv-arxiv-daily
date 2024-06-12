@@ -360,6 +360,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Pushing an Altermagnet to the Ultimate 2D Limit: Evidence of Symmetry Breaking in Monolayers of GdAlSi**|Oleg E. Parfenov et.al.|[2406.07172](http://arxiv.org/abs/2406.07172)|null|
 |**2024-06-09**|**Chern insulator phase realized in dual-gate-tuned MnBi2Te4 thin films grown by molecular beam epitaxy**|Yunhe Bai et.al.|[2406.05676](http://arxiv.org/abs/2406.05676)|null|
 |**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474](http://arxiv.org/abs/2406.04474)|null|
 |**2024-06-10**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
@@ -769,6 +770,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Hofstadter spectrum of Chern bands in twisted transition metal dichalcogenides**|Kryštof Kolář et.al.|[2406.06680](http://arxiv.org/abs/2406.06680)|null|
+|**2024-06-10**|**Critical Filaments and Superconductivity in Quasiperiodic Twisted Bilayer Graphene**|Xinghai Zhang et.al.|[2406.06676](http://arxiv.org/abs/2406.06676)|null|
 |**2024-06-10**|**Theory of phonon sidebands in the absorption spectra of moiré exciton-polaritons**|Kevin Jürgens et.al.|[2406.06330](http://arxiv.org/abs/2406.06330)|null|
 |**2024-06-10**|**Fractional Chern Insulators in Twisted Bilayer MoTe $_2$ : A Composite Fermion Perspective**|Tianhong Lu et.al.|[2406.03530](http://arxiv.org/abs/2406.03530)|null|
 |**2024-06-05**|**Superconductivity in twisted bilayer WSe $_2$**|Yinjie Guo et.al.|[2406.03418](http://arxiv.org/abs/2406.03418)|null|
