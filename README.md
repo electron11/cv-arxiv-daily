@@ -367,6 +367,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Topological linear response of hyperbolic Chern insulators**|Canon Sun et.al.|[2406.08388](http://arxiv.org/abs/2406.08388)|null|
+|**2024-06-12**|**Chiral edge transport along domain walls in magnetic topological insulator nanoribbons**|Nezhat Pournaghavi et.al.|[2406.08258](http://arxiv.org/abs/2406.08258)|null|
 |**2024-06-11**|**Pushing an Altermagnet to the Ultimate 2D Limit: Evidence of Symmetry Breaking in Monolayers of GdAlSi**|Oleg E. Parfenov et.al.|[2406.07172](http://arxiv.org/abs/2406.07172)|null|
 |**2024-06-09**|**Chern insulator phase realized in dual-gate-tuned MnBi2Te4 thin films grown by molecular beam epitaxy**|Yunhe Bai et.al.|[2406.05676](http://arxiv.org/abs/2406.05676)|null|
 |**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474](http://arxiv.org/abs/2406.04474)|null|
