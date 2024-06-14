@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Floquet topological phases with time-reversal and space inversion symmetries and dynamical detection of topological charges**|Hong Wu et.al.|[2406.08532](http://arxiv.org/abs/2406.08532)|null|
 |**2024-06-10**|**Solitary waves and kinks in FPU lattices with soft-hard-soft trilinear interactions**|Anna Vainchtein et.al.|[2406.06437](http://arxiv.org/abs/2406.06437)|null|
 |**2024-06-10**|**Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians**|Matthias Werner et.al.|[2406.06378](http://arxiv.org/abs/2406.06378)|null|
 |**2024-06-09**|**Analysis of Bessel Beam Generation Using MetaMaterials in Photonic Integrated Circuits**|Solomon M. Serunjogi et.al.|[2406.05751](http://arxiv.org/abs/2406.05751)|null|
@@ -360,6 +361,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Fractional Chern insulator candidate in twisted bilayer checkboard lattice**|Jia-Zheng Ma et.al.|[2406.08901](http://arxiv.org/abs/2406.08901)|null|
+|**2024-06-13**|**Link between cascade transitions and correlated Chern insulators in magic-angle twisted bilayer graphene**|Qianying Hu et.al.|[2406.08734](http://arxiv.org/abs/2406.08734)|null|
+|**2024-06-12**|**Meandering conduction channels and the tunable nature of quantized charge transport**|Benoit Douçot et.al.|[2406.08548](http://arxiv.org/abs/2406.08548)|null|
+|**2024-06-12**|**Parafermions in Moiré Minibands**|Hui Liu et.al.|[2406.08546](http://arxiv.org/abs/2406.08546)|null|
 |**2024-06-12**|**Topological linear response of hyperbolic Chern insulators**|Canon Sun et.al.|[2406.08388](http://arxiv.org/abs/2406.08388)|null|
 |**2024-06-12**|**Chiral edge transport along domain walls in magnetic topological insulator nanoribbons**|Nezhat Pournaghavi et.al.|[2406.08258](http://arxiv.org/abs/2406.08258)|null|
 |**2024-06-11**|**Pushing an Altermagnet to the Ultimate 2D Limit: Evidence of Symmetry Breaking in Monolayers of GdAlSi**|Oleg E. Parfenov et.al.|[2406.07172](http://arxiv.org/abs/2406.07172)|null|
@@ -772,6 +777,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Fractional Chern insulator candidate in twisted bilayer checkboard lattice**|Jia-Zheng Ma et.al.|[2406.08901](http://arxiv.org/abs/2406.08901)|null|
+|**2024-06-13**|**Link between cascade transitions and correlated Chern insulators in magic-angle twisted bilayer graphene**|Qianying Hu et.al.|[2406.08734](http://arxiv.org/abs/2406.08734)|null|
+|**2024-06-12**|**Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**|Steven J. Tran et.al.|[2406.08681](http://arxiv.org/abs/2406.08681)|null|
 |**2024-06-10**|**Hofstadter spectrum of Chern bands in twisted transition metal dichalcogenides**|Kryštof Kolář et.al.|[2406.06680](http://arxiv.org/abs/2406.06680)|null|
 |**2024-06-10**|**Critical Filaments and Superconductivity in Quasiperiodic Twisted Bilayer Graphene**|Xinghai Zhang et.al.|[2406.06676](http://arxiv.org/abs/2406.06676)|null|
 |**2024-06-10**|**Theory of phonon sidebands in the absorption spectra of moiré exciton-polaritons**|Kevin Jürgens et.al.|[2406.06330](http://arxiv.org/abs/2406.06330)|null|
