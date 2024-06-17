@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Resonant analogue configurations in atomic condensates**|Juan Ramón Muñoz de Nova et.al.|[2406.10027](http://arxiv.org/abs/2406.10027)|null|
 |**2024-06-12**|**Floquet topological phases with time-reversal and space inversion symmetries and dynamical detection of topological charges**|Hong Wu et.al.|[2406.08532](http://arxiv.org/abs/2406.08532)|null|
 |**2024-06-10**|**Solitary waves and kinks in FPU lattices with soft-hard-soft trilinear interactions**|Anna Vainchtein et.al.|[2406.06437](http://arxiv.org/abs/2406.06437)|null|
 |**2024-06-10**|**Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians**|Matthias Werner et.al.|[2406.06378](http://arxiv.org/abs/2406.06378)|null|
@@ -368,6 +369,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Loop unitary and phase band topological invariant in generic multi-band Chern insulators**|Xi Wu et.al.|[2406.09797](http://arxiv.org/abs/2406.09797)|null|
+|**2024-06-14**|**Interplay between topology and correlations in the second moiré band of twisted bilayer MoTe2**|Fan Xu et.al.|[2406.09687](http://arxiv.org/abs/2406.09687)|null|
+|**2024-06-13**|**Massive Dirac Fermions and Strong Shubnikov-de Haas Oscillations in Topological Insulator Sm,Fe:Bi2Se3 Single Crystals**|Weiyao Zhao et.al.|[2406.09628](http://arxiv.org/abs/2406.09628)|null|
+|**2024-06-13**|**Ferromagnetism and Topology of the Higher Flat Band in a Fractional Chern Insulator**|Heonjoon Park et.al.|[2406.09591](http://arxiv.org/abs/2406.09591)|null|
 |**2024-06-13**|**Fractional Chern insulator candidate in twisted bilayer checkboard lattice**|Jia-Zheng Ma et.al.|[2406.08901](http://arxiv.org/abs/2406.08901)|null|
 |**2024-06-13**|**Link between cascade transitions and correlated Chern insulators in magic-angle twisted bilayer graphene**|Qianying Hu et.al.|[2406.08734](http://arxiv.org/abs/2406.08734)|null|
 |**2024-06-12**|**Meandering conduction channels and the tunable nature of quantized charge transport**|Benoit Douçot et.al.|[2406.08548](http://arxiv.org/abs/2406.08548)|null|
@@ -786,6 +791,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Interplay between topology and correlations in the second moiré band of twisted bilayer MoTe2**|Fan Xu et.al.|[2406.09687](http://arxiv.org/abs/2406.09687)|null|
+|**2024-06-14**|**Nontrivial twisted bilayer chiral excitonic systems: Förster coupling and related Hall effect**|Ci Li et.al.|[2406.09674](http://arxiv.org/abs/2406.09674)|null|
 |**2024-06-13**|**Fractional Chern insulator candidate in twisted bilayer checkboard lattice**|Jia-Zheng Ma et.al.|[2406.08901](http://arxiv.org/abs/2406.08901)|null|
 |**2024-06-13**|**Link between cascade transitions and correlated Chern insulators in magic-angle twisted bilayer graphene**|Qianying Hu et.al.|[2406.08734](http://arxiv.org/abs/2406.08734)|null|
 |**2024-06-12**|**Quantitative determination of twist angle and strain in Van der Waals moiré superlattices**|Steven J. Tran et.al.|[2406.08681](http://arxiv.org/abs/2406.08681)|null|
