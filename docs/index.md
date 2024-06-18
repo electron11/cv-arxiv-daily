@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Simulation of chiral motion of excitation within the ground-state manifolds of neutral atoms**|Hao-Yuan Tang et.al.|[2406.11291](http://arxiv.org/abs/2406.11291)|null|
+|**2024-06-16**|**Notes on heating phase dynamics in Floquet CFTs and Modular quantization**|Suchetan Das et.al.|[2406.10899](http://arxiv.org/abs/2406.10899)|null|
+|**2024-06-16**|**Selection rules of linear and nonlinear polarization-selective absorption in optically dressed matter**|Michael Feldman et.al.|[2406.10894](http://arxiv.org/abs/2406.10894)|null|
+|**2024-06-14**|**Phases and phase transition in Grover's algorithm with systematic noise**|Sasanka Dowarah et.al.|[2406.10344](http://arxiv.org/abs/2406.10344)|null|
 |**2024-06-14**|**Resonant analogue configurations in atomic condensates**|Juan Ramón Muñoz de Nova et.al.|[2406.10027](http://arxiv.org/abs/2406.10027)|null|
 |**2024-06-12**|**Floquet topological phases with time-reversal and space inversion symmetries and dynamical detection of topological charges**|Hong Wu et.al.|[2406.08532](http://arxiv.org/abs/2406.08532)|null|
 |**2024-06-10**|**Solitary waves and kinks in FPU lattices with soft-hard-soft trilinear interactions**|Anna Vainchtein et.al.|[2406.06437](http://arxiv.org/abs/2406.06437)|null|
@@ -362,6 +366,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Definition and Frequency Dependence of Intrinsic Nonlinear Current**|Cong Xiao et.al.|[2406.11180](http://arxiv.org/abs/2406.11180)|null|
+|**2024-06-15**|**Intraband collective excitations in fractional Chern insulators are dark**|Tobias M. R. Wolf et.al.|[2406.10709](http://arxiv.org/abs/2406.10709)|null|
+|**2024-06-15**|**Photonic realization of chiral hinge states in a Chern-insulator stack**|Han-Rong Xia et.al.|[2406.10637](http://arxiv.org/abs/2406.10637)|null|
 |**2024-06-14**|**Loop unitary and phase band topological invariant in generic multi-band Chern insulators**|Xi Wu et.al.|[2406.09797](http://arxiv.org/abs/2406.09797)|null|
 |**2024-06-14**|**Interplay between topology and correlations in the second moiré band of twisted bilayer MoTe2**|Fan Xu et.al.|[2406.09687](http://arxiv.org/abs/2406.09687)|null|
 |**2024-06-13**|**Massive Dirac Fermions and Strong Shubnikov-de Haas Oscillations in Topological Insulator Sm,Fe:Bi2Se3 Single Crystals**|Weiyao Zhao et.al.|[2406.09628](http://arxiv.org/abs/2406.09628)|null|
@@ -782,6 +789,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Sliding-dependent electronic structures of alternating-twist tetralayer graphene**|Kyungjin Shin et.al.|[2406.11527](http://arxiv.org/abs/2406.11527)|null|
+|**2024-06-17**|**Layer-dependent electromechanical response in twisted graphene moiré superlattices**|Hanhao Zhang et.al.|[2406.11442](http://arxiv.org/abs/2406.11442)|null|
+|**2024-06-16**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
 |**2024-06-14**|**Interplay between topology and correlations in the second moiré band of twisted bilayer MoTe2**|Fan Xu et.al.|[2406.09687](http://arxiv.org/abs/2406.09687)|null|
 |**2024-06-14**|**Nontrivial twisted bilayer chiral excitonic systems: Förster coupling and related Hall effect**|Ci Li et.al.|[2406.09674](http://arxiv.org/abs/2406.09674)|null|
 |**2024-06-13**|**Fractional Chern insulator candidate in twisted bilayer checkboard lattice**|Jia-Zheng Ma et.al.|[2406.08901](http://arxiv.org/abs/2406.08901)|null|
