@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Integrability of open boundary driven quantum circuits**|Chiara Paletta et.al.|[2406.12695](http://arxiv.org/abs/2406.12695)|null|
+|**2024-06-18**|**Interacting Mathieu equation, synchronization dynamics and collision-induced velocity exchange in trapped ions**|Asma Benbouza et.al.|[2406.12306](http://arxiv.org/abs/2406.12306)|null|
 |**2024-06-17**|**Simulation of chiral motion of excitation within the ground-state manifolds of neutral atoms**|Hao-Yuan Tang et.al.|[2406.11291](http://arxiv.org/abs/2406.11291)|null|
 |**2024-06-16**|**Notes on heating phase dynamics in Floquet CFTs and Modular quantization**|Suchetan Das et.al.|[2406.10899](http://arxiv.org/abs/2406.10899)|null|
 |**2024-06-16**|**Selection rules of linear and nonlinear polarization-selective absorption in optically dressed matter**|Michael Feldman et.al.|[2406.10894](http://arxiv.org/abs/2406.10894)|null|
@@ -366,6 +368,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Observation of Temperature Independent Anomalous Hall Effect in Thin Bismuth from Near Absolute Zero to 300 K Temperature**|Oulin Yu et.al.|[2406.12134](http://arxiv.org/abs/2406.12134)|null|
 |**2024-06-17**|**Definition and Frequency Dependence of Intrinsic Nonlinear Current**|Cong Xiao et.al.|[2406.11180](http://arxiv.org/abs/2406.11180)|null|
 |**2024-06-15**|**Intraband collective excitations in fractional Chern insulators are dark**|Tobias M. R. Wolf et.al.|[2406.10709](http://arxiv.org/abs/2406.10709)|null|
 |**2024-06-15**|**Photonic realization of chiral hinge states in a Chern-insulator stack**|Han-Rong Xia et.al.|[2406.10637](http://arxiv.org/abs/2406.10637)|null|
@@ -789,6 +792,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Moiré flat bands and antiferroelectric domains in lattice relaxed twisted bilayer hexagonal boron nitride under perpendicular electric fields**|Fengping Li et.al.|[2406.12231](http://arxiv.org/abs/2406.12231)|null|
 |**2024-06-17**|**Sliding-dependent electronic structures of alternating-twist tetralayer graphene**|Kyungjin Shin et.al.|[2406.11527](http://arxiv.org/abs/2406.11527)|null|
 |**2024-06-17**|**Layer-dependent electromechanical response in twisted graphene moiré superlattices**|Hanhao Zhang et.al.|[2406.11442](http://arxiv.org/abs/2406.11442)|null|
 |**2024-06-16**|**Atomistic theory of twist-angle dependent intralayer and interlayer exciton properties in twisted bilayer materials**|Indrajit Maity et.al.|[2406.11098](http://arxiv.org/abs/2406.11098)|null|
