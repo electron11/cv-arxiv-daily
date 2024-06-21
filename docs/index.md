@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**Dynamical phase-field model of cavity electromagnonic systems**|Shihao Zhuang et.al.|[2406.13203](http://arxiv.org/abs/2406.13203)|null|
+|**2024-06-18**|**Non-hermitian Floquet perspective on high harmonic generation and above threshold ionization spectra from Photon statistics**|Nimrod Moiseyev et.al.|[2406.13109](http://arxiv.org/abs/2406.13109)|null|
 |**2024-06-18**|**Integrability of open boundary driven quantum circuits**|Chiara Paletta et.al.|[2406.12695](http://arxiv.org/abs/2406.12695)|null|
 |**2024-06-18**|**Interacting Mathieu equation, synchronization dynamics and collision-induced velocity exchange in trapped ions**|Asma Benbouza et.al.|[2406.12306](http://arxiv.org/abs/2406.12306)|null|
 |**2024-06-17**|**Simulation of chiral motion of excitation within the ground-state manifolds of neutral atoms**|Hao-Yuan Tang et.al.|[2406.11291](http://arxiv.org/abs/2406.11291)|null|
@@ -368,6 +370,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Quantum anomalous, quantum spin, and quantum valley Hall effects in pentalayer rhombohedral graphene**|Koji Kudo et.al.|[2406.14354](http://arxiv.org/abs/2406.14354)|null|
+|**2024-06-20**|**Non-Hermitian topology of transport in Chern insulators**|Raghav Chaturvedi et.al.|[2406.14303](http://arxiv.org/abs/2406.14303)|null|
+|**2024-06-20**|**Electrical switching of chirality in rhombohedral graphene Chern insulators**|Jing Ding et.al.|[2406.14289](http://arxiv.org/abs/2406.14289)|null|
+|**2024-06-19**|**Multiband transport in RuO $_2$**|Florent Pawula et.al.|[2406.13518](http://arxiv.org/abs/2406.13518)|null|
 |**2024-06-17**|**Observation of Temperature Independent Anomalous Hall Effect in Thin Bismuth from Near Absolute Zero to 300 K Temperature**|Oulin Yu et.al.|[2406.12134](http://arxiv.org/abs/2406.12134)|null|
 |**2024-06-17**|**Definition and Frequency Dependence of Intrinsic Nonlinear Current**|Cong Xiao et.al.|[2406.11180](http://arxiv.org/abs/2406.11180)|null|
 |**2024-06-15**|**Intraband collective excitations in fractional Chern insulators are dark**|Tobias M. R. Wolf et.al.|[2406.10709](http://arxiv.org/abs/2406.10709)|null|
@@ -792,6 +798,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Optical and Raman selection rules for odd-parity clean superconductors**|Shuangyuan Lu et.al.|[2406.14523](http://arxiv.org/abs/2406.14523)|null|
+|**2024-06-20**|**Valley polarization in twisted altermagnetism**|San-Dong Guo et.al.|[2406.13950](http://arxiv.org/abs/2406.13950)|null|
+|**2024-06-19**|**Superfluid stiffness of twisted multilayer graphene superconductors**|Abhishek Banerjee et.al.|[2406.13742](http://arxiv.org/abs/2406.13742)|null|
+|**2024-06-19**|**Kinetic Inductance, Quantum Geometry, and Superconductivity in Magic-Angle Twisted Bilayer Graphene**|Miuko Tanaka et.al.|[2406.13740](http://arxiv.org/abs/2406.13740)|null|
+|**2024-06-18**|**Superconductor-Insulator Transition in the TMD moiré systems and the Deconfined Quantum Critical Point**|Nayan Myerson-Jain et.al.|[2406.12971](http://arxiv.org/abs/2406.12971)|null|
 |**2024-06-18**|**Moiré flat bands and antiferroelectric domains in lattice relaxed twisted bilayer hexagonal boron nitride under perpendicular electric fields**|Fengping Li et.al.|[2406.12231](http://arxiv.org/abs/2406.12231)|null|
 |**2024-06-17**|**Sliding-dependent electronic structures of alternating-twist tetralayer graphene**|Kyungjin Shin et.al.|[2406.11527](http://arxiv.org/abs/2406.11527)|null|
 |**2024-06-17**|**Layer-dependent electromechanical response in twisted graphene moiré superlattices**|Hanhao Zhang et.al.|[2406.11442](http://arxiv.org/abs/2406.11442)|null|
