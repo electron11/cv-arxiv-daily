@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Quantum battery supercharging via counter-diabatic dynamics**|L. F. C. de Moraes et.al.|[2406.15274](http://arxiv.org/abs/2406.15274)|null|
 |**2024-06-19**|**Dynamical phase-field model of cavity electromagnonic systems**|Shihao Zhuang et.al.|[2406.13203](http://arxiv.org/abs/2406.13203)|null|
 |**2024-06-18**|**Non-hermitian Floquet perspective on high harmonic generation and above threshold ionization spectra from Photon statistics**|Nimrod Moiseyev et.al.|[2406.13109](http://arxiv.org/abs/2406.13109)|null|
 |**2024-06-18**|**Integrability of open boundary driven quantum circuits**|Chiara Paletta et.al.|[2406.12695](http://arxiv.org/abs/2406.12695)|null|
