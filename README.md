@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Topological classification of driven-dissipative nonlinear systems**|Greta Villa et.al.|[2406.16591](http://arxiv.org/abs/2406.16591)|null|
+|**2024-06-24**|**Non-Hermitian Floquet dynamics in absorption spectroscopy**|R M Potvliege et.al.|[2406.16559](http://arxiv.org/abs/2406.16559)|null|
 |**2024-06-21**|**Quantum battery supercharging via counter-diabatic dynamics**|L. F. C. de Moraes et.al.|[2406.15274](http://arxiv.org/abs/2406.15274)|null|
 |**2024-06-19**|**Dynamical phase-field model of cavity electromagnonic systems**|Shihao Zhuang et.al.|[2406.13203](http://arxiv.org/abs/2406.13203)|null|
 |**2024-06-18**|**Non-hermitian Floquet perspective on high harmonic generation and above threshold ionization spectra from Photon statistics**|Nimrod Moiseyev et.al.|[2406.13109](http://arxiv.org/abs/2406.13109)|null|
@@ -378,6 +380,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Bipolarized Weyl semimetals and quantum crystal valley Hall effect in two-dimensional altermagnetic materials**|Chao-Yang Tan et.al.|[2406.16603](http://arxiv.org/abs/2406.16603)|null|
+|**2024-06-24**|**Constraints on the orbital flux phase in $A$V$_3$Sb$_5$ from polar Kerr effect**|Hao-Tian Liu et.al.|[2406.16398](http://arxiv.org/abs/2406.16398)|null|
+|**2024-06-24**|**Spinon pairing induced by chiral in-plane exchange and the stabilization of odd-spin Chern number spin liquid in twisted ${\rm MoTe}_2$**|Valentin Crépel et.al.|[2406.16277](http://arxiv.org/abs/2406.16277)|null|
 |**2024-06-20**|**Quantum anomalous, quantum spin, and quantum valley Hall effects in pentalayer rhombohedral graphene**|Koji Kudo et.al.|[2406.14354](http://arxiv.org/abs/2406.14354)|null|
 |**2024-06-20**|**Non-Hermitian topology of transport in Chern insulators**|Raghav Chaturvedi et.al.|[2406.14303](http://arxiv.org/abs/2406.14303)|null|
 |**2024-06-20**|**Electrical switching of chirality in rhombohedral graphene Chern insulators**|Jing Ding et.al.|[2406.14289](http://arxiv.org/abs/2406.14289)|null|
@@ -808,6 +813,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Terahertz photocurrent probe of quantum geometry and interactions in magic-angle twisted bilayer graphene**|Roshan Krishna Kumar et.al.|[2406.16532](http://arxiv.org/abs/2406.16532)|null|
+|**2024-06-22**|**Construction and Accuracy of Electronic Continuum Models of Incommensurate Bilayer 2D Materials**|Xue Quan et.al.|[2406.15712](http://arxiv.org/abs/2406.15712)|null|
 |**2024-06-20**|**Optical and Raman selection rules for odd-parity clean superconductors**|Shuangyuan Lu et.al.|[2406.14523](http://arxiv.org/abs/2406.14523)|null|
 |**2024-06-20**|**Valley polarization in twisted altermagnetism**|San-Dong Guo et.al.|[2406.13950](http://arxiv.org/abs/2406.13950)|null|
 |**2024-06-19**|**Superfluid stiffness of twisted multilayer graphene superconductors**|Abhishek Banerjee et.al.|[2406.13742](http://arxiv.org/abs/2406.13742)|null|
