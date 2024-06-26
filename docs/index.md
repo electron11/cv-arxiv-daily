@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**trARPES and optical transport properties of irradiated twisted bilayer graphene in steady-state**|Ashutosh Dubey et.al.|[2406.17703](http://arxiv.org/abs/2406.17703)|null|
+|**2024-06-25**|**Exact results on the dynamics of the stochastic Floquet-East model**|Cecilia De Fazio et.al.|[2406.17464](http://arxiv.org/abs/2406.17464)|null|
+|**2024-06-24**|**Quantum fingerprints of self-organization in spin chains coupled to a Kuramoto model**|V. M. Bastidas et.al.|[2406.17062](http://arxiv.org/abs/2406.17062)|null|
 |**2024-06-24**|**Topological classification of driven-dissipative nonlinear systems**|Greta Villa et.al.|[2406.16591](http://arxiv.org/abs/2406.16591)|null|
 |**2024-06-24**|**Non-Hermitian Floquet dynamics in absorption spectroscopy**|R M Potvliege et.al.|[2406.16559](http://arxiv.org/abs/2406.16559)|null|
 |**2024-06-21**|**Quantum battery supercharging via counter-diabatic dynamics**|L. F. C. de Moraes et.al.|[2406.15274](http://arxiv.org/abs/2406.15274)|null|
@@ -373,6 +376,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766](http://arxiv.org/abs/2406.17766)|null|
+|**2024-06-24**|**Quantum Geometry and Entanglement in Two-dimensional Insulators: A View from the Corner Charge Fluctuation**|Pok Man Tam et.al.|[2406.17023](http://arxiv.org/abs/2406.17023)|null|
 |**2024-06-24**|**Bipolarized Weyl semimetals and quantum crystal valley Hall effect in two-dimensional altermagnetic materials**|Chao-Yang Tan et.al.|[2406.16603](http://arxiv.org/abs/2406.16603)|null|
 |**2024-06-24**|**Constraints on the orbital flux phase in $A$V$_3$Sb$_5$ from polar Kerr effect**|Hao-Tian Liu et.al.|[2406.16398](http://arxiv.org/abs/2406.16398)|null|
 |**2024-06-24**|**Spinon pairing induced by chiral in-plane exchange and the stabilization of odd-spin Chern number spin liquid in twisted ${\rm MoTe}_2$**|Valentin Crépel et.al.|[2406.16277](http://arxiv.org/abs/2406.16277)|null|
@@ -804,6 +809,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766](http://arxiv.org/abs/2406.17766)|null|
+|**2024-06-25**|**trARPES and optical transport properties of irradiated twisted bilayer graphene in steady-state**|Ashutosh Dubey et.al.|[2406.17703](http://arxiv.org/abs/2406.17703)|null|
+|**2024-06-25**|**Moiré lattice of twisted bilayer graphene as template for non-covalent functionalization**|Tobias Dierke et.al.|[2406.17573](http://arxiv.org/abs/2406.17573)|null|
 |**2024-06-24**|**Terahertz photocurrent probe of quantum geometry and interactions in magic-angle twisted bilayer graphene**|Roshan Krishna Kumar et.al.|[2406.16532](http://arxiv.org/abs/2406.16532)|null|
 |**2024-06-22**|**Construction and Accuracy of Electronic Continuum Models of Incommensurate Bilayer 2D Materials**|Xue Quan et.al.|[2406.15712](http://arxiv.org/abs/2406.15712)|null|
 |**2024-06-20**|**Optical and Raman selection rules for odd-parity clean superconductors**|Shuangyuan Lu et.al.|[2406.14523](http://arxiv.org/abs/2406.14523)|null|
