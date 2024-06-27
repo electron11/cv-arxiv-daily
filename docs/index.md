@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Interband and intraband transitions, as well as charge mobility in driven two-band model with electron phonon coupling**|Yu Wang et.al.|[2406.17817](http://arxiv.org/abs/2406.17817)|null|
 |**2024-06-25**|**trARPES and optical transport properties of irradiated twisted bilayer graphene in steady-state**|Ashutosh Dubey et.al.|[2406.17703](http://arxiv.org/abs/2406.17703)|null|
 |**2024-06-25**|**Exact results on the dynamics of the stochastic Floquet-East model**|Cecilia De Fazio et.al.|[2406.17464](http://arxiv.org/abs/2406.17464)|null|
 |**2024-06-24**|**Quantum fingerprints of self-organization in spin chains coupled to a Kuramoto model**|V. M. Bastidas et.al.|[2406.17062](http://arxiv.org/abs/2406.17062)|null|
@@ -376,6 +377,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Efficient prediction of superlattice and anomalous miniband topology from quantum geometry**|Valentin Crépel et.al.|[2406.17843](http://arxiv.org/abs/2406.17843)|null|
 |**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766](http://arxiv.org/abs/2406.17766)|null|
 |**2024-06-24**|**Quantum Geometry and Entanglement in Two-dimensional Insulators: A View from the Corner Charge Fluctuation**|Pok Man Tam et.al.|[2406.17023](http://arxiv.org/abs/2406.17023)|null|
 |**2024-06-24**|**Bipolarized Weyl semimetals and quantum crystal valley Hall effect in two-dimensional altermagnetic materials**|Chao-Yang Tan et.al.|[2406.16603](http://arxiv.org/abs/2406.16603)|null|
