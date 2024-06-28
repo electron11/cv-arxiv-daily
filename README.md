@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Subharmonic oscillations in the Floquet circuit with the frequency-synthesis dimension**|Bo Lv et.al.|[2406.18769](http://arxiv.org/abs/2406.18769)|null|
+|**2024-06-26**|**Microwave-optical spectroscopy of Rydberg excitons in the ultrastrong driving regime**|Alistair Brewin et.al.|[2406.18674](http://arxiv.org/abs/2406.18674)|null|
 |**2024-06-25**|**Interband and intraband transitions, as well as charge mobility in driven two-band model with electron phonon coupling**|Yu Wang et.al.|[2406.17817](http://arxiv.org/abs/2406.17817)|null|
 |**2024-06-25**|**trARPES and optical transport properties of irradiated twisted bilayer graphene in steady-state**|Ashutosh Dubey et.al.|[2406.17703](http://arxiv.org/abs/2406.17703)|null|
 |**2024-06-25**|**Exact results on the dynamics of the stochastic Floquet-East model**|Cecilia De Fazio et.al.|[2406.17464](http://arxiv.org/abs/2406.17464)|null|
@@ -384,6 +386,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Imaging semiconductor-to-metal transition and topological flat bands of twisted bilayer MoTe2**|Yufeng Liu et.al.|[2406.19310](http://arxiv.org/abs/2406.19310)|null|
+|**2024-06-26**|**Topological bound on structure factor**|Yugo Onishi et.al.|[2406.18654](http://arxiv.org/abs/2406.18654)|null|
 |**2024-06-25**|**Efficient prediction of superlattice and anomalous miniband topology from quantum geometry**|Valentin Crépel et.al.|[2406.17843](http://arxiv.org/abs/2406.17843)|null|
 |**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766](http://arxiv.org/abs/2406.17766)|null|
 |**2024-06-24**|**Quantum Geometry and Entanglement in Two-dimensional Insulators: A View from the Corner Charge Fluctuation**|Pok Man Tam et.al.|[2406.17023](http://arxiv.org/abs/2406.17023)|null|
@@ -820,6 +824,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Imaging semiconductor-to-metal transition and topological flat bands of twisted bilayer MoTe2**|Yufeng Liu et.al.|[2406.19310](http://arxiv.org/abs/2406.19310)|null|
+|**2024-06-26**|**Topological phases, van Hove singularities, and spin texture in magic-angle twisted bilayer graphene in the presence of proximity-induced spin-orbit couplings**|Yuting Tan et.al.|[2406.18644](http://arxiv.org/abs/2406.18644)|null|
 |**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766](http://arxiv.org/abs/2406.17766)|null|
 |**2024-06-25**|**trARPES and optical transport properties of irradiated twisted bilayer graphene in steady-state**|Ashutosh Dubey et.al.|[2406.17703](http://arxiv.org/abs/2406.17703)|null|
 |**2024-06-25**|**Moiré lattice of twisted bilayer graphene as template for non-covalent functionalization**|Tobias Dierke et.al.|[2406.17573](http://arxiv.org/abs/2406.17573)|null|
