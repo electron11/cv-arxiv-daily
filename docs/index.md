@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -21,7 +21,7 @@ layout: default
 |**2024-06-25**|**Exact results on the dynamics of the stochastic Floquet-East model**|Cecilia De Fazio et.al.|[2406.17464](http://arxiv.org/abs/2406.17464)|null|
 |**2024-06-24**|**Quantum fingerprints of self-organization in spin chains coupled to a Kuramoto model**|V. M. Bastidas et.al.|[2406.17062](http://arxiv.org/abs/2406.17062)|null|
 |**2024-06-24**|**Topological classification of driven-dissipative nonlinear systems**|Greta Villa et.al.|[2406.16591](http://arxiv.org/abs/2406.16591)|null|
-|**2024-06-24**|**Non-Hermitian Floquet dynamics in absorption spectroscopy**|R M Potvliege et.al.|[2406.16559](http://arxiv.org/abs/2406.16559)|null|
+|**2024-06-28**|**Non-Hermitian Floquet dynamics in absorption spectroscopy**|R M Potvliege et.al.|[2406.16559](http://arxiv.org/abs/2406.16559)|null|
 |**2024-06-21**|**Quantum battery supercharging via counter-diabatic dynamics**|L. F. C. de Moraes et.al.|[2406.15274](http://arxiv.org/abs/2406.15274)|null|
 |**2024-06-19**|**Dynamical phase-field model of cavity electromagnonic systems**|Shihao Zhuang et.al.|[2406.13203](http://arxiv.org/abs/2406.13203)|null|
 |**2024-06-18**|**Non-hermitian Floquet perspective on high harmonic generation and above threshold ionization spectra from Photon statistics**|Nimrod Moiseyev et.al.|[2406.13109](http://arxiv.org/abs/2406.13109)|null|

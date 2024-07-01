@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-06-25**|**Exact results on the dynamics of the stochastic Floquet-East model**|Cecilia De Fazio et.al.|[2406.17464](http://arxiv.org/abs/2406.17464)|null|
 |**2024-06-24**|**Quantum fingerprints of self-organization in spin chains coupled to a Kuramoto model**|V. M. Bastidas et.al.|[2406.17062](http://arxiv.org/abs/2406.17062)|null|
 |**2024-06-24**|**Topological classification of driven-dissipative nonlinear systems**|Greta Villa et.al.|[2406.16591](http://arxiv.org/abs/2406.16591)|null|
-|**2024-06-24**|**Non-Hermitian Floquet dynamics in absorption spectroscopy**|R M Potvliege et.al.|[2406.16559](http://arxiv.org/abs/2406.16559)|null|
+|**2024-06-28**|**Non-Hermitian Floquet dynamics in absorption spectroscopy**|R M Potvliege et.al.|[2406.16559](http://arxiv.org/abs/2406.16559)|null|
 |**2024-06-21**|**Quantum battery supercharging via counter-diabatic dynamics**|L. F. C. de Moraes et.al.|[2406.15274](http://arxiv.org/abs/2406.15274)|null|
 |**2024-06-19**|**Dynamical phase-field model of cavity electromagnonic systems**|Shihao Zhuang et.al.|[2406.13203](http://arxiv.org/abs/2406.13203)|null|
 |**2024-06-18**|**Non-hermitian Floquet perspective on high harmonic generation and above threshold ionization spectra from Photon statistics**|Nimrod Moiseyev et.al.|[2406.13109](http://arxiv.org/abs/2406.13109)|null|
@@ -380,7 +380,7 @@
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143](http://arxiv.org/abs/2308.02143)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## QAH
 
@@ -818,7 +818,7 @@
 |**2023-08-06**|**Magic Angles and Fractional Chern Insulators in Twisted Homobilayer TMDs**|Nicolás Morales-Durán et.al.|[2308.03143](http://arxiv.org/abs/2308.03143)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657](http://arxiv.org/abs/2308.02657)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## twist
 
@@ -1074,7 +1074,7 @@
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
