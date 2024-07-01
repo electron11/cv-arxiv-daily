@@ -386,6 +386,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Direct observation of layer skyrmions in twisted WSe2 bilayers**|Fan Zhang et.al.|[2406.20036](http://arxiv.org/abs/2406.20036)|null|
 |**2024-06-27**|**Imaging semiconductor-to-metal transition and topological flat bands of twisted bilayer MoTe2**|Yufeng Liu et.al.|[2406.19310](http://arxiv.org/abs/2406.19310)|null|
 |**2024-06-26**|**Topological bound on structure factor**|Yugo Onishi et.al.|[2406.18654](http://arxiv.org/abs/2406.18654)|null|
 |**2024-06-25**|**Efficient prediction of superlattice and anomalous miniband topology from quantum geometry**|Valentin Crépel et.al.|[2406.17843](http://arxiv.org/abs/2406.17843)|null|
@@ -824,6 +825,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Twist angle driven electronic structure evolution of twisted bilayer graphene**|Jiawei Yu et.al.|[2406.20040](http://arxiv.org/abs/2406.20040)|null|
+|**2024-06-28**|**Delocalization of Quasiparticle Moiré States in Twisted Bilayer hBN**|Arsineh Apelian et.al.|[2406.19700](http://arxiv.org/abs/2406.19700)|null|
+|**2024-06-27**|**Strong atomic reconstruction in twisted bilayers of highly flexible InSe: Machine-Learned Interatomic Potential and continuum model approaches**|Samuel J. Magorrian et.al.|[2406.19462](http://arxiv.org/abs/2406.19462)|null|
 |**2024-06-27**|**Imaging semiconductor-to-metal transition and topological flat bands of twisted bilayer MoTe2**|Yufeng Liu et.al.|[2406.19310](http://arxiv.org/abs/2406.19310)|null|
 |**2024-06-26**|**Topological phases, van Hove singularities, and spin texture in magic-angle twisted bilayer graphene in the presence of proximity-induced spin-orbit couplings**|Yuting Tan et.al.|[2406.18644](http://arxiv.org/abs/2406.18644)|null|
 |**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766](http://arxiv.org/abs/2406.17766)|null|
