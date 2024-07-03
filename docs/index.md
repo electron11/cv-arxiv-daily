@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Quantum Simulation with Gauge Fixing: from Ising Lattice Gauge Theory to Dynamical Flux Model**|Junsen Wang et.al.|[2407.01422](http://arxiv.org/abs/2407.01422)|null|
+|**2024-07-01**|**Transport signatures of single and multiple Floquet Majorana modes in one-dimensional Rashba nanowire and Shiba chain**|Debashish Mondal et.al.|[2407.01135](http://arxiv.org/abs/2407.01135)|null|
+|**2024-07-01**|**Spin Resonance in Perspective of Floquet Theory and Brillouin-Wigner Perturbation Method**|Mingjun Feng et.al.|[2407.01075](http://arxiv.org/abs/2407.01075)|null|
 |**2024-06-26**|**Subharmonic oscillations in the Floquet circuit with the frequency-synthesis dimension**|Bo Lv et.al.|[2406.18769](http://arxiv.org/abs/2406.18769)|null|
 |**2024-06-26**|**Microwave-optical spectroscopy of Rydberg excitons in the ultrastrong driving regime**|Alistair Brewin et.al.|[2406.18674](http://arxiv.org/abs/2406.18674)|null|
 |**2024-06-25**|**Interband and intraband transitions, as well as charge mobility in driven two-band model with electron phonon coupling**|Yu Wang et.al.|[2406.17817](http://arxiv.org/abs/2406.17817)|null|
@@ -379,6 +382,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Strong Field Optical Hall Effect in 2D Weyl Semimetal**|M. Umar Farooq et.al.|[2407.00974](http://arxiv.org/abs/2407.00974)|null|
+|**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281](http://arxiv.org/abs/2407.00281)|null|
 |**2024-06-28**|**Direct observation of layer skyrmions in twisted WSe2 bilayers**|Fan Zhang et.al.|[2406.20036](http://arxiv.org/abs/2406.20036)|null|
 |**2024-06-27**|**Imaging semiconductor-to-metal transition and topological flat bands of twisted bilayer MoTe2**|Yufeng Liu et.al.|[2406.19310](http://arxiv.org/abs/2406.19310)|null|
 |**2024-06-26**|**Topological bound on structure factor**|Yugo Onishi et.al.|[2406.18654](http://arxiv.org/abs/2406.18654)|null|
@@ -816,6 +821,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Approximate symmetries, insulators, and superconductivity in continuum-model description of twisted WSe $_2$**|Maine Christos et.al.|[2407.02393](http://arxiv.org/abs/2407.02393)|null|
 |**2024-06-28**|**Twist angle driven electronic structure evolution of twisted bilayer graphene**|Jiawei Yu et.al.|[2406.20040](http://arxiv.org/abs/2406.20040)|null|
 |**2024-06-28**|**Delocalization of Quasiparticle Moiré States in Twisted Bilayer hBN**|Arsineh Apelian et.al.|[2406.19700](http://arxiv.org/abs/2406.19700)|null|
 |**2024-06-27**|**Strong atomic reconstruction in twisted bilayers of highly flexible InSe: Machine-Learned Interatomic Potential and continuum model approaches**|Samuel J. Magorrian et.al.|[2406.19462](http://arxiv.org/abs/2406.19462)|null|
