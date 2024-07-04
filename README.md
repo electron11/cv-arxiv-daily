@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Multiple topological transitions and spectral singularities in non-Hermitian Floquet systems**|Weiwei Zhu et.al.|[2407.02806](http://arxiv.org/abs/2407.02806)|null|
 |**2024-07-01**|**Quantum Simulation with Gauge Fixing: from Ising Lattice Gauge Theory to Dynamical Flux Model**|Junsen Wang et.al.|[2407.01422](http://arxiv.org/abs/2407.01422)|null|
 |**2024-07-01**|**Transport signatures of single and multiple Floquet Majorana modes in one-dimensional Rashba nanowire and Shiba chain**|Debashish Mondal et.al.|[2407.01135](http://arxiv.org/abs/2407.01135)|null|
 |**2024-07-01**|**Spin Resonance in Perspective of Floquet Theory and Brillouin-Wigner Perturbation Method**|Mingjun Feng et.al.|[2407.01075](http://arxiv.org/abs/2407.01075)|null|
@@ -389,6 +390,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Quantum Geometry Probed by Chiral Excitonic Optical Response of Chern Insulators**|Wen-Xuan Qiu et.al.|[2407.03317](http://arxiv.org/abs/2407.03317)|null|
+|**2024-07-03**|**Dimensionality Engineering of Magnetic Anisotropy from Anomalous Hall Effect in Synthetic SrRuO3 Crystals**|Seung Gyo Jeong et.al.|[2407.03231](http://arxiv.org/abs/2407.03231)|null|
+|**2024-07-03**|**Coulomb Hall drag induced by electron-electron skew scattering**|Yonatan Messica et.al.|[2407.03023](http://arxiv.org/abs/2407.03023)|null|
+|**2024-07-03**|**Inducing superconductivity in quantum anomalous Hall regime**|Yu Huang et.al.|[2407.02761](http://arxiv.org/abs/2407.02761)|null|
+|**2024-07-02**|**Antiferromagnetic topological insulators in heavy-fermion systems**|Mohsen Hafez-Torbati et.al.|[2407.02630](http://arxiv.org/abs/2407.02630)|null|
+|**2024-07-02**|**When Could Abelian Fractional Topological Insulators Exist in Twisted MoTe $_2$ (and Other Systems)**|Yves H. Kwan et.al.|[2407.02560](http://arxiv.org/abs/2407.02560)|null|
 |**2024-07-01**|**Strong Field Optical Hall Effect in 2D Weyl Semimetal**|M. Umar Farooq et.al.|[2407.00974](http://arxiv.org/abs/2407.00974)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281](http://arxiv.org/abs/2407.00281)|null|
 |**2024-06-28**|**Direct observation of layer skyrmions in twisted WSe2 bilayers**|Fan Zhang et.al.|[2406.20036](http://arxiv.org/abs/2406.20036)|null|
@@ -830,6 +837,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Quantum Geometry Probed by Chiral Excitonic Optical Response of Chern Insulators**|Wen-Xuan Qiu et.al.|[2407.03317](http://arxiv.org/abs/2407.03317)|null|
+|**2024-07-03**|**Microscopic theory for electron-phonon coupling in twisted bilayer graphene**|Ziyan Zhu et.al.|[2407.03293](http://arxiv.org/abs/2407.03293)|null|
+|**2024-07-02**|**When Could Abelian Fractional Topological Insulators Exist in Twisted MoTe $_2$ (and Other Systems)**|Yves H. Kwan et.al.|[2407.02560](http://arxiv.org/abs/2407.02560)|null|
 |**2024-07-02**|**Approximate symmetries, insulators, and superconductivity in continuum-model description of twisted WSe $_2$**|Maine Christos et.al.|[2407.02393](http://arxiv.org/abs/2407.02393)|null|
 |**2024-06-28**|**Twist angle driven electronic structure evolution of twisted bilayer graphene**|Jiawei Yu et.al.|[2406.20040](http://arxiv.org/abs/2406.20040)|null|
 |**2024-06-28**|**Delocalization of Quasiparticle Moiré States in Twisted Bilayer hBN**|Arsineh Apelian et.al.|[2406.19700](http://arxiv.org/abs/2406.19700)|null|
