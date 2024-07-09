@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Continuous broadband Rydberg receiver using AC Stark shifts and Floquet States**|Danni Song et.al.|[2407.05676](http://arxiv.org/abs/2407.05676)|null|
+|**2024-07-06**|**Topological edge states in photonic Floquet insulator with unpaired Dirac cones**|Hua Zhong et.al.|[2407.05086](http://arxiv.org/abs/2407.05086)|null|
+|**2024-07-05**|**Complexification of Quantum Signal Processing and its Ramifications**|V. M. Bastidas et.al.|[2407.04780](http://arxiv.org/abs/2407.04780)|null|
 |**2024-07-03**|**Unifying Floquet theory of longitudinal and dispersive readout**|Alessandro Chessari et.al.|[2407.03417](http://arxiv.org/abs/2407.03417)|null|
 |**2024-07-03**|**Network model for magnetic higher-order topological phases**|Hui Liu et.al.|[2407.03396](http://arxiv.org/abs/2407.03396)|null|
 |**2024-07-03**|**Multiple topological transitions and spectral singularities in non-Hermitian Floquet systems**|Weiwei Zhu et.al.|[2407.02806](http://arxiv.org/abs/2407.02806)|null|
@@ -385,6 +388,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Hyperbolic Fractional Chern insulators**|Ai-Lei He et.al.|[2407.05706](http://arxiv.org/abs/2407.05706)|null|
 |**2024-07-05**|**Quantized circular dichroism on the edge of quantum Hall systems: The many-body Chern number as seen from the edge**|F. Nur Ünal et.al.|[2407.04639](http://arxiv.org/abs/2407.04639)|null|
 |**2024-07-05**|**High-throughput magnetic co-doping and design of exchange interactions in a topological insulator**|Rubel Mozumder et.al.|[2407.04413](http://arxiv.org/abs/2407.04413)|null|
 |**2024-07-04**|**Topological phase transitions via attosecond x-ray absorption spectroscopy**|Juan F. P. Mosquera et.al.|[2407.03737](http://arxiv.org/abs/2407.03737)|null|
@@ -838,7 +842,7 @@ layout: default
 |**2024-07-03**|**Quantum Geometry Probed by Chiral Excitonic Optical Response of Chern Insulators**|Wen-Xuan Qiu et.al.|[2407.03317](http://arxiv.org/abs/2407.03317)|null|
 |**2024-07-03**|**Microscopic theory for electron-phonon coupling in twisted bilayer graphene**|Ziyan Zhu et.al.|[2407.03293](http://arxiv.org/abs/2407.03293)|null|
 |**2024-07-02**|**When Could Abelian Fractional Topological Insulators Exist in Twisted MoTe $_2$ (and Other Systems)**|Yves H. Kwan et.al.|[2407.02560](http://arxiv.org/abs/2407.02560)|null|
-|**2024-07-02**|**Approximate symmetries, insulators, and superconductivity in continuum-model description of twisted WSe $_2$**|Maine Christos et.al.|[2407.02393](http://arxiv.org/abs/2407.02393)|null|
+|**2024-07-07**|**Approximate symmetries, insulators, and superconductivity in continuum-model description of twisted WSe $_2$**|Maine Christos et.al.|[2407.02393](http://arxiv.org/abs/2407.02393)|null|
 |**2024-06-28**|**Twist angle driven electronic structure evolution of twisted bilayer graphene**|Jiawei Yu et.al.|[2406.20040](http://arxiv.org/abs/2406.20040)|null|
 |**2024-06-28**|**Delocalization of Quasiparticle Moiré States in Twisted Bilayer hBN**|Arsineh Apelian et.al.|[2406.19700](http://arxiv.org/abs/2406.19700)|null|
 |**2024-06-27**|**Strong atomic reconstruction in twisted bilayers of highly flexible InSe: Machine-Learned Interatomic Potential and continuum model approaches**|Samuel J. Magorrian et.al.|[2406.19462](http://arxiv.org/abs/2406.19462)|null|
