@@ -395,6 +395,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Unconventional Field-Like Spin-Torques in CrPt $_3$**|Robin Klause et.al.|[2407.06445](http://arxiv.org/abs/2407.06445)|null|
 |**2024-07-08**|**Hyperbolic Fractional Chern insulators**|Ai-Lei He et.al.|[2407.05706](http://arxiv.org/abs/2407.05706)|null|
 |**2024-07-05**|**Quantized circular dichroism on the edge of quantum Hall systems: The many-body Chern number as seen from the edge**|F. Nur Ünal et.al.|[2407.04639](http://arxiv.org/abs/2407.04639)|null|
 |**2024-07-05**|**High-throughput magnetic co-doping and design of exchange interactions in a topological insulator**|Rubel Mozumder et.al.|[2407.04413](http://arxiv.org/abs/2407.04413)|null|
@@ -847,6 +848,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Dirac cones and magic angles in the Bistritzer--MacDonald TBG Hamiltonian**|Simon Becker et.al.|[2407.06316](http://arxiv.org/abs/2407.06316)|null|
 |**2024-07-05**|**Edge-state transport in twisted bilayer graphene**|Jesús Arturo Sánchez-Sánchez et.al.|[2407.04668](http://arxiv.org/abs/2407.04668)|null|
 |**2024-07-03**|**Quantum Geometry Probed by Chiral Excitonic Optical Response of Chern Insulators**|Wen-Xuan Qiu et.al.|[2407.03317](http://arxiv.org/abs/2407.03317)|null|
 |**2024-07-03**|**Microscopic theory for electron-phonon coupling in twisted bilayer graphene**|Ziyan Zhu et.al.|[2407.03293](http://arxiv.org/abs/2407.03293)|null|
