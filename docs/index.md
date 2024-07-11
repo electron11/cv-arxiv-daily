@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Quantum circuit refrigerator based on normal-superconductor quantum dots**|S. Mojtaba Tabatabaei et.al.|[2407.07305](http://arxiv.org/abs/2407.07305)|null|
 |**2024-07-08**|**Continuous broadband Rydberg receiver using AC Stark shifts and Floquet States**|Danni Song et.al.|[2407.05676](http://arxiv.org/abs/2407.05676)|null|
 |**2024-07-06**|**Topological edge states in photonic Floquet insulator with unpaired Dirac cones**|Hua Zhong et.al.|[2407.05086](http://arxiv.org/abs/2407.05086)|null|
 |**2024-07-05**|**Complexification of Quantum Signal Processing and its Ramifications**|V. M. Bastidas et.al.|[2407.04780](http://arxiv.org/abs/2407.04780)|null|
@@ -388,6 +389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Quantum metric induced quantum Hall conductance inversion and reentrant transition in fractional Chern insulators**|Ang-Kun Wu et.al.|[2407.07894](http://arxiv.org/abs/2407.07894)|null|
 |**2024-07-08**|**Unconventional Field-Like Spin-Torques in CrPt $_3$**|Robin Klause et.al.|[2407.06445](http://arxiv.org/abs/2407.06445)|null|
 |**2024-07-08**|**Hyperbolic Fractional Chern insulators**|Ai-Lei He et.al.|[2407.05706](http://arxiv.org/abs/2407.05706)|null|
 |**2024-07-05**|**Quantized circular dichroism on the edge of quantum Hall systems: The many-body Chern number as seen from the edge**|F. Nur Ünal et.al.|[2407.04639](http://arxiv.org/abs/2407.04639)|null|
