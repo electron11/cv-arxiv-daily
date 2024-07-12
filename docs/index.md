@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**The XYZ ruby code: Making a case for a three-colored graphical calculus for quantum error correction in spacetime**|Julio C. Magdalena de la Fuente et.al.|[2407.08566](http://arxiv.org/abs/2407.08566)|null|
+|**2024-07-11**|**Floquet Schrieffer-Wolff transform based on Sylvester equations**|Xiao Wang et.al.|[2407.08405](http://arxiv.org/abs/2407.08405)|null|
+|**2024-07-11**|**Dirac Electrons in AC-Magnetic Fields: $π$ -Landau Levels and Chiral Anomaly-Induced Homodyne Effect**|Sota Kitamura et.al.|[2407.08115](http://arxiv.org/abs/2407.08115)|null|
 |**2024-07-10**|**Quantum circuit refrigerator based on normal-superconductor quantum dots**|S. Mojtaba Tabatabaei et.al.|[2407.07305](http://arxiv.org/abs/2407.07305)|null|
 |**2024-07-08**|**Continuous broadband Rydberg receiver using AC Stark shifts and Floquet States**|Danni Song et.al.|[2407.05676](http://arxiv.org/abs/2407.05676)|null|
 |**2024-07-06**|**Topological edge states in photonic Floquet insulator with unpaired Dirac cones**|Hua Zhong et.al.|[2407.05086](http://arxiv.org/abs/2407.05086)|null|
@@ -389,6 +392,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661](http://arxiv.org/abs/2407.08661)|null|
+|**2024-07-11**|**Peculiarities of measured dependencies of strength of spin-orbit interaction and anisotropy field on current density in FeCoB nanomagnet**|Vadym Zayets et.al.|[2407.08170](http://arxiv.org/abs/2407.08170)|null|
+|**2024-07-10**|**Large anomalous Hall conductivity in kagome Weyl ferrimagnet Cs $_{2}$Co$_{3}$S$_4$ predicted by density-functional calculations**|Gang Bahadur Acharya et.al.|[2407.08077](http://arxiv.org/abs/2407.08077)|null|
 |**2024-07-10**|**Quantum metric induced quantum Hall conductance inversion and reentrant transition in fractional Chern insulators**|Ang-Kun Wu et.al.|[2407.07894](http://arxiv.org/abs/2407.07894)|null|
 |**2024-07-08**|**Unconventional Field-Like Spin-Torques in CrPt $_3$**|Robin Klause et.al.|[2407.06445](http://arxiv.org/abs/2407.06445)|null|
 |**2024-07-08**|**Hyperbolic Fractional Chern insulators**|Ai-Lei He et.al.|[2407.05706](http://arxiv.org/abs/2407.05706)|null|
@@ -841,6 +847,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Electrical manipulation of inter-valley trions in twisted MoSe $_2$ homobilayers at room temperature**|Bárbara L. T. Rosa et.al.|[2407.08063](http://arxiv.org/abs/2407.08063)|null|
 |**2024-07-08**|**Dirac cones and magic angles in the Bistritzer--MacDonald TBG Hamiltonian**|Simon Becker et.al.|[2407.06316](http://arxiv.org/abs/2407.06316)|null|
 |**2024-07-05**|**Edge-state transport in twisted bilayer graphene**|Jesús Arturo Sánchez-Sánchez et.al.|[2407.04668](http://arxiv.org/abs/2407.04668)|null|
 |**2024-07-03**|**Quantum Geometry Probed by Chiral Excitonic Optical Response of Chern Insulators**|Wen-Xuan Qiu et.al.|[2407.03317](http://arxiv.org/abs/2407.03317)|null|
