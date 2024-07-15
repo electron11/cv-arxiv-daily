@@ -399,6 +399,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Coupling multi-space topologies in 2D ferromagnetic lattice**|Zhonglin He et.al.|[2407.09001](http://arxiv.org/abs/2407.09001)|null|
+|**2024-07-12**|**Chern Bands' Optimally Localized Wannier Functions and Fractional Chern Insulators**|Fang Xie et.al.|[2407.08920](http://arxiv.org/abs/2407.08920)|null|
 |**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661](http://arxiv.org/abs/2407.08661)|null|
 |**2024-07-11**|**Peculiarities of measured dependencies of strength of spin-orbit interaction and anisotropy field on current density in FeCoB nanomagnet**|Vadym Zayets et.al.|[2407.08170](http://arxiv.org/abs/2407.08170)|null|
 |**2024-07-12**|**Large anomalous Hall conductivity in Weyl ferrimagnet Cs $_{2}$Co$_{3}$S$_4$ predicted by density-functional calculations**|Gang Bahadur Acharya et.al.|[2407.08077](http://arxiv.org/abs/2407.08077)|null|
