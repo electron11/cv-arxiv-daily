@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
@@ -394,7 +394,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661](http://arxiv.org/abs/2407.08661)|null|
 |**2024-07-11**|**Peculiarities of measured dependencies of strength of spin-orbit interaction and anisotropy field on current density in FeCoB nanomagnet**|Vadym Zayets et.al.|[2407.08170](http://arxiv.org/abs/2407.08170)|null|
-|**2024-07-10**|**Large anomalous Hall conductivity in kagome Weyl ferrimagnet Cs $_{2}$Co$_{3}$S$_4$ predicted by density-functional calculations**|Gang Bahadur Acharya et.al.|[2407.08077](http://arxiv.org/abs/2407.08077)|null|
+|**2024-07-12**|**Large anomalous Hall conductivity in Weyl ferrimagnet Cs $_{2}$Co$_{3}$S$_4$ predicted by density-functional calculations**|Gang Bahadur Acharya et.al.|[2407.08077](http://arxiv.org/abs/2407.08077)|null|
 |**2024-07-10**|**Quantum metric induced quantum Hall conductance inversion and reentrant transition in fractional Chern insulators**|Ang-Kun Wu et.al.|[2407.07894](http://arxiv.org/abs/2407.07894)|null|
 |**2024-07-08**|**Unconventional Field-Like Spin-Torques in CrPt $_3$**|Robin Klause et.al.|[2407.06445](http://arxiv.org/abs/2407.06445)|null|
 |**2024-07-08**|**Hyperbolic Fractional Chern insulators**|Ai-Lei He et.al.|[2407.05706](http://arxiv.org/abs/2407.05706)|null|
