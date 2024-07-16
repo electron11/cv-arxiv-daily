@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-14**|**Topological Edge State Nucleation in Frequency Space and its Realization with Floquet Electrical Circuits**|Alexander Stegmaier et.al.|[2407.10191](http://arxiv.org/abs/2407.10191)|null|
+|**2024-07-13**|**Floquet valley Hall edge solitons**|Sergey K. Ivanov et.al.|[2407.09973](http://arxiv.org/abs/2407.09973)|null|
+|**2024-07-13**|**Non-Bloch band theory for time-modulated discrete mechanical systems**|Kei Matsushima et.al.|[2407.09871](http://arxiv.org/abs/2407.09871)|null|
 |**2024-07-11**|**The XYZ ruby code: Making a case for a three-colored graphical calculus for quantum error correction in spacetime**|Julio C. Magdalena de la Fuente et.al.|[2407.08566](http://arxiv.org/abs/2407.08566)|null|
 |**2024-07-11**|**Floquet Schrieffer-Wolff transform based on Sylvester equations**|Xiao Wang et.al.|[2407.08405](http://arxiv.org/abs/2407.08405)|null|
 |**2024-07-11**|**Dirac Electrons in AC-Magnetic Fields: $π$ -Landau Levels and Chiral Anomaly-Induced Homodyne Effect**|Sota Kitamura et.al.|[2407.08115](http://arxiv.org/abs/2407.08115)|null|
@@ -399,6 +402,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Interplay of altermagnetism and pressure in hexagonal and orthorhombic MnTe**|Nayana Devaraj et.al.|[2407.10584](http://arxiv.org/abs/2407.10584)|null|
 |**2024-07-12**|**Coupling multi-space topologies in 2D ferromagnetic lattice**|Zhonglin He et.al.|[2407.09001](http://arxiv.org/abs/2407.09001)|null|
 |**2024-07-12**|**Chern Bands' Optimally Localized Wannier Functions and Fractional Chern Insulators**|Fang Xie et.al.|[2407.08920](http://arxiv.org/abs/2407.08920)|null|
 |**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661](http://arxiv.org/abs/2407.08661)|null|
