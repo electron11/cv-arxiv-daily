@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Improve Virational Quantum Eigensolver by Many-Body Localization**|Li Xin et.al.|[2407.11589](http://arxiv.org/abs/2407.11589)|null|
 |**2024-07-14**|**Topological Edge State Nucleation in Frequency Space and its Realization with Floquet Electrical Circuits**|Alexander Stegmaier et.al.|[2407.10191](http://arxiv.org/abs/2407.10191)|null|
 |**2024-07-13**|**Floquet valley Hall edge solitons**|Sergey K. Ivanov et.al.|[2407.09973](http://arxiv.org/abs/2407.09973)|null|
 |**2024-07-13**|**Non-Bloch band theory for time-modulated discrete mechanical systems**|Kei Matsushima et.al.|[2407.09871](http://arxiv.org/abs/2407.09871)|null|
@@ -862,6 +863,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Electron phonon coupling in the topological heavy fermion model of twisted bilayer graphene**|Yi-Jie Wang et.al.|[2407.11116](http://arxiv.org/abs/2407.11116)|null|
 |**2024-07-10**|**Electrical manipulation of inter-valley trions in twisted MoSe $_2$ homobilayers at room temperature**|Bárbara L. T. Rosa et.al.|[2407.08063](http://arxiv.org/abs/2407.08063)|null|
 |**2024-07-08**|**Dirac cones and magic angles in the Bistritzer--MacDonald TBG Hamiltonian**|Simon Becker et.al.|[2407.06316](http://arxiv.org/abs/2407.06316)|null|
 |**2024-07-05**|**Edge-state transport in twisted bilayer graphene**|Jesús Arturo Sánchez-Sánchez et.al.|[2407.04668](http://arxiv.org/abs/2407.04668)|null|
