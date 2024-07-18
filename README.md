@@ -403,6 +403,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Edge Optical Effect as Probe of Chiral Topological Superconductor**|Linghao Huang et.al.|[2407.12584](http://arxiv.org/abs/2407.12584)|null|
+|**2024-07-17**|**Engineering Fractional Chern Insulators through Periodic Strain in Monolayer Graphene and Transition Metal Dichalcogenides**|Yuchen Liu et.al.|[2407.12411](http://arxiv.org/abs/2407.12411)|null|
+|**2024-07-17**|**Effects of GaAs buffer layer on quantum anomalous Hall insulator Vy(BixSb1-x)2-yTe3**|Yusuke Nakazawa et.al.|[2407.12268](http://arxiv.org/abs/2407.12268)|null|
+|**2024-07-16**|**Doping-induced Quantum Anomalous Hall Crystals and Topological Domain Walls**|Miguel Gonçalves et.al.|[2407.12198](http://arxiv.org/abs/2407.12198)|null|
 |**2024-07-15**|**Interplay of altermagnetism and pressure in hexagonal and orthorhombic MnTe**|Nayana Devaraj et.al.|[2407.10584](http://arxiv.org/abs/2407.10584)|null|
 |**2024-07-12**|**Coupling multi-space topologies in 2D ferromagnetic lattice**|Zhonglin He et.al.|[2407.09001](http://arxiv.org/abs/2407.09001)|null|
 |**2024-07-12**|**Chern Bands' Optimally Localized Wannier Functions and Fractional Chern Insulators**|Fang Xie et.al.|[2407.08920](http://arxiv.org/abs/2407.08920)|null|
@@ -863,6 +867,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Theory of phonon spectroscopy with the quantum twisting microscope**|Jiewen Xiao et.al.|[2407.12092](http://arxiv.org/abs/2407.12092)|null|
 |**2024-07-15**|**Electron phonon coupling in the topological heavy fermion model of twisted bilayer graphene**|Yi-Jie Wang et.al.|[2407.11116](http://arxiv.org/abs/2407.11116)|null|
 |**2024-07-10**|**Electrical manipulation of inter-valley trions in twisted MoSe $_2$ homobilayers at room temperature**|Bárbara L. T. Rosa et.al.|[2407.08063](http://arxiv.org/abs/2407.08063)|null|
 |**2024-07-08**|**Dirac cones and magic angles in the Bistritzer--MacDonald TBG Hamiltonian**|Simon Becker et.al.|[2407.06316](http://arxiv.org/abs/2407.06316)|null|
