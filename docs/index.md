@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Floquet
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Quantum-vacuum-induced topological edge polaritons**|Raditya Weda Bomantara et.al.|[2407.12925](http://arxiv.org/abs/2407.12925)|null|
 |**2024-07-16**|**Improve Virational Quantum Eigensolver by Many-Body Localization**|Li Xin et.al.|[2407.11589](http://arxiv.org/abs/2407.11589)|null|
 |**2024-07-14**|**Topological Edge State Nucleation in Frequency Space and its Realization with Floquet Electrical Circuits**|Alexander Stegmaier et.al.|[2407.10191](http://arxiv.org/abs/2407.10191)|null|
 |**2024-07-13**|**Floquet valley Hall edge solitons**|Sergey K. Ivanov et.al.|[2407.09973](http://arxiv.org/abs/2407.09973)|null|
@@ -396,6 +397,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Moiré Fractional Chern Insulators IV: Fluctuation-Driven Collapse of FCIs in Multi-Band Exact Diagonalization Calculations on Rhombohedral Graphene**|Jiabin Yu et.al.|[2407.13770](http://arxiv.org/abs/2407.13770)|null|
+|**2024-07-18**|**Topological insulators on fractal lattices: A general principle of construction**|Daniel J. Salib et.al.|[2407.13767](http://arxiv.org/abs/2407.13767)|null|
+|**2024-07-18**|**Inducing topological flat bands in bilayer graphene with electric and magnetic superlattices**|Daniel Seleznev et.al.|[2407.13758](http://arxiv.org/abs/2407.13758)|null|
+|**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674](http://arxiv.org/abs/2407.13674)|null|
+|**2024-07-18**|**Nematic Ising superconductivity with hidden magnetism in few-layer 6R-TaS2**|Shao-Bo Liu et.al.|[2407.13121](http://arxiv.org/abs/2407.13121)|null|
 |**2024-07-17**|**Edge Optical Effect as Probe of Chiral Topological Superconductor**|Linghao Huang et.al.|[2407.12584](http://arxiv.org/abs/2407.12584)|null|
 |**2024-07-17**|**Engineering Fractional Chern Insulators through Periodic Strain in Monolayer Graphene and Transition Metal Dichalcogenides**|Yuchen Liu et.al.|[2407.12411](http://arxiv.org/abs/2407.12411)|null|
 |**2024-07-17**|**Effects of GaAs buffer layer on quantum anomalous Hall insulator Vy(BixSb1-x)2-yTe3**|Yusuke Nakazawa et.al.|[2407.12268](http://arxiv.org/abs/2407.12268)|null|
@@ -858,6 +864,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674](http://arxiv.org/abs/2407.13674)|null|
+|**2024-07-18**|**Measuring Phonon Dispersion and Electron-Phason Coupling in Twisted Bilayer Graphene with a Cryogenic Quantum Twisting Microscope**|John Birkbeck et.al.|[2407.13404](http://arxiv.org/abs/2407.13404)|null|
 |**2024-07-16**|**Theory of phonon spectroscopy with the quantum twisting microscope**|Jiewen Xiao et.al.|[2407.12092](http://arxiv.org/abs/2407.12092)|null|
 |**2024-07-15**|**Electron phonon coupling in the topological heavy fermion model of twisted bilayer graphene**|Yi-Jie Wang et.al.|[2407.11116](http://arxiv.org/abs/2407.11116)|null|
 |**2024-07-10**|**Electrical manipulation of inter-valley trions in twisted MoSe $_2$ homobilayers at room temperature**|Bárbara L. T. Rosa et.al.|[2407.08063](http://arxiv.org/abs/2407.08063)|null|
