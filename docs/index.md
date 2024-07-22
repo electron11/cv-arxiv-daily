@@ -26,7 +26,7 @@ layout: default
 |**2024-07-08**|**Continuous broadband Rydberg receiver using AC Stark shifts and Floquet States**|Danni Song et.al.|[2407.05676](http://arxiv.org/abs/2407.05676)|null|
 |**2024-07-06**|**Topological edge states in photonic Floquet insulator with unpaired Dirac cones**|Hua Zhong et.al.|[2407.05086](http://arxiv.org/abs/2407.05086)|null|
 |**2024-07-05**|**Complexification of Quantum Signal Processing and its Ramifications**|V. M. Bastidas et.al.|[2407.04780](http://arxiv.org/abs/2407.04780)|null|
-|**2024-07-03**|**Unifying Floquet theory of longitudinal and dispersive readout**|Alessandro Chessari et.al.|[2407.03417](http://arxiv.org/abs/2407.03417)|null|
+|**2024-07-03**|**Unifying Floquet theory of longitudinal and dispersive readout**|Alessandro Chessari et.al.|[2407.03417](http://arxiv.org/abs/2407.03417)|**[link](https://github.com/aleeschessari/Unifying-Floquet-Theory)**|
 |**2024-07-03**|**Network model for magnetic higher-order topological phases**|Hui Liu et.al.|[2407.03396](http://arxiv.org/abs/2407.03396)|null|
 |**2024-07-03**|**Multiple topological transitions and spectral singularities in non-Hermitian Floquet systems**|Weiwei Zhu et.al.|[2407.02806](http://arxiv.org/abs/2407.02806)|null|
 |**2024-07-01**|**Quantum Simulation with Gauge Fixing: from Ising Lattice Gauge Theory to Dynamical Flux Model**|Junsen Wang et.al.|[2407.01422](http://arxiv.org/abs/2407.01422)|null|
