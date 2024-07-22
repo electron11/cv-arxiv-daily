@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Floquet interferometry of a dressed semiconductor quantum dot**|Felix-Ekkehard von Horstig et.al.|[2407.14241](http://arxiv.org/abs/2407.14241)|null|
+|**2024-07-18**|**Designing fault-tolerant circuits using detector error models**|Peter-Jan H. S. Derks et.al.|[2407.13826](http://arxiv.org/abs/2407.13826)|null|
+|**2024-07-14**|**Floquet $π$ Exceptional Points**|Weiwei Zhu et.al.|[2407.13789](http://arxiv.org/abs/2407.13789)|null|
 |**2024-07-17**|**Quantum-vacuum-induced topological edge polaritons**|Raditya Weda Bomantara et.al.|[2407.12925](http://arxiv.org/abs/2407.12925)|null|
 |**2024-07-16**|**Improve Virational Quantum Eigensolver by Many-Body Localization**|Li Xin et.al.|[2407.11589](http://arxiv.org/abs/2407.11589)|null|
 |**2024-07-14**|**Topological Edge State Nucleation in Frequency Space and its Realization with Floquet Electrical Circuits**|Alexander Stegmaier et.al.|[2407.10191](http://arxiv.org/abs/2407.10191)|null|
@@ -397,6 +400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Giant gate-controlled room temperature odd-parity magnetoresistance in magnetized bilayer graphene**|Divya Sahani et.al.|[2407.14071](http://arxiv.org/abs/2407.14071)|null|
 |**2024-07-18**|**Moiré Fractional Chern Insulators IV: Fluctuation-Driven Collapse of FCIs in Multi-Band Exact Diagonalization Calculations on Rhombohedral Graphene**|Jiabin Yu et.al.|[2407.13770](http://arxiv.org/abs/2407.13770)|null|
 |**2024-07-18**|**Topological insulators on fractal lattices: A general principle of construction**|Daniel J. Salib et.al.|[2407.13767](http://arxiv.org/abs/2407.13767)|null|
 |**2024-07-18**|**Inducing topological flat bands in bilayer graphene with electric and magnetic superlattices**|Daniel Seleznev et.al.|[2407.13758](http://arxiv.org/abs/2407.13758)|null|
