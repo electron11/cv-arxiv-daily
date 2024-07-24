@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Floquet engineering the quantum Rabi model in the ultrastrong coupling regime**|Kamran Akbari et.al.|[2407.16188](http://arxiv.org/abs/2407.16188)|null|
 |**2024-07-21**|**Thermometry of Trapped Ions Based on Bichromatic Driving**|Xie-Qian Li et.al.|[2407.15182](http://arxiv.org/abs/2407.15182)|null|
 |**2024-07-20**|**Eikonal Approximation for Floquet Scattering**|Yaru Liu et.al.|[2407.14751](http://arxiv.org/abs/2407.14751)|null|
 |**2024-07-19**|**Floquet interferometry of a dressed semiconductor quantum dot**|Felix-Ekkehard von Horstig et.al.|[2407.14241](http://arxiv.org/abs/2407.14241)|null|
@@ -409,6 +410,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Engineering high Chern number insulators**|Sungjong Woo et.al.|[2407.16225](http://arxiv.org/abs/2407.16225)|null|
 |**2024-07-22**|**Nonlinear Magnetoelectric Effect under Magnetic Octupole Order: Its Application to a $d$ -Wave Altermagnet and a Pyrochlore Lattice with All-In/All-Out Magnetic Order**|Jun Ōiké et.al.|[2407.15836](http://arxiv.org/abs/2407.15836)|null|
 |**2024-07-19**|**Giant gate-controlled room temperature odd-parity magnetoresistance in magnetized bilayer graphene**|Divya Sahani et.al.|[2407.14071](http://arxiv.org/abs/2407.14071)|null|
 |**2024-07-18**|**Moiré Fractional Chern Insulators IV: Fluctuation-Driven Collapse of FCIs in Multi-Band Exact Diagonalization Calculations on Rhombohedral Graphene**|Jiabin Yu et.al.|[2407.13770](http://arxiv.org/abs/2407.13770)|null|
@@ -880,6 +882,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Unconventional superconductivity in magic-strain graphene superlattices**|Qingxiang Ji et.al.|[2407.16044](http://arxiv.org/abs/2407.16044)|null|
 |**2024-07-21**|**Bilayer stacking A-type altermagnet: A general approach to generating two-dimensional altermagnetism**|Sike Zeng et.al.|[2407.15097](http://arxiv.org/abs/2407.15097)|null|
 |**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674](http://arxiv.org/abs/2407.13674)|null|
 |**2024-07-18**|**Measuring Phonon Dispersion and Electron-Phason Coupling in Twisted Bilayer Graphene with a Cryogenic Quantum Twisting Microscope**|John Birkbeck et.al.|[2407.13404](http://arxiv.org/abs/2407.13404)|null|
