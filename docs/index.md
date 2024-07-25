@@ -403,6 +403,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-23**|**Engineering high Chern number insulators**|Sungjong Woo et.al.|[2407.16225](http://arxiv.org/abs/2407.16225)|null|
 |**2024-07-22**|**Nonlinear Magnetoelectric Effect under Magnetic Octupole Order: Its Application to a $d$ -Wave Altermagnet and a Pyrochlore Lattice with All-In/All-Out Magnetic Order**|Jun Ōiké et.al.|[2407.15836](http://arxiv.org/abs/2407.15836)|null|
 |**2024-07-19**|**Giant gate-controlled room temperature odd-parity magnetoresistance in magnetized bilayer graphene**|Divya Sahani et.al.|[2407.14071](http://arxiv.org/abs/2407.14071)|null|
@@ -873,6 +874,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Twist-tunable spin control in twisted bilayer bismuthene**|Ludovica Zullo et.al.|[2407.17124](http://arxiv.org/abs/2407.17124)|null|
+|**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-22**|**Unconventional superconductivity in magic-strain graphene superlattices**|Qingxiang Ji et.al.|[2407.16044](http://arxiv.org/abs/2407.16044)|null|
 |**2024-07-21**|**Bilayer stacking A-type altermagnet: A general approach to generating two-dimensional altermagnetism**|Sike Zeng et.al.|[2407.15097](http://arxiv.org/abs/2407.15097)|null|
 |**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674](http://arxiv.org/abs/2407.13674)|null|
