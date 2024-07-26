@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Stability analysis of periodic orbits in nonlinear dynamical systems using Chebyshev polynomials**|Artur Gesla et.al.|[2407.18230](http://arxiv.org/abs/2407.18230)|null|
+|**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917](http://arxiv.org/abs/2407.17917)|null|
+|**2024-07-25**|**Observation of excitonic Floquet states in a one-dimensional organic Mott insulator using mid-infrared pump near-infrared probe reflection spectroscopy**|R. Ikeda et.al.|[2407.17759](http://arxiv.org/abs/2407.17759)|null|
+|**2024-07-25**|**Photon-resolved Floquet theory I: Full-Counting statistics of the driving field in Floquet systems**|Georg Engelhardt et.al.|[2407.17732](http://arxiv.org/abs/2407.17732)|null|
 |**2024-07-23**|**Floquet engineering the quantum Rabi model in the ultrastrong coupling regime**|Kamran Akbari et.al.|[2407.16188](http://arxiv.org/abs/2407.16188)|null|
 |**2024-07-21**|**Thermometry of Trapped Ions Based on Bichromatic Driving**|Xie-Qian Li et.al.|[2407.15182](http://arxiv.org/abs/2407.15182)|null|
 |**2024-07-20**|**Eikonal Approximation for Floquet Scattering**|Yaru Liu et.al.|[2407.14751](http://arxiv.org/abs/2407.14751)|null|
@@ -410,6 +414,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Nonlinear magneto-optical response across van Hove singularity in a non-centrosymmetric magnetic Weyl semimetal**|Jian Li et.al.|[2407.18094](http://arxiv.org/abs/2407.18094)|null|
+|**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917](http://arxiv.org/abs/2407.17917)|null|
 |**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-23**|**Engineering high Chern number insulators**|Sungjong Woo et.al.|[2407.16225](http://arxiv.org/abs/2407.16225)|null|
 |**2024-07-22**|**Nonlinear Magnetoelectric Effect under Magnetic Octupole Order: Its Application to a $d$ -Wave Altermagnet and a Pyrochlore Lattice with All-In/All-Out Magnetic Order**|Jun Ōiké et.al.|[2407.15836](http://arxiv.org/abs/2407.15836)|null|
