@@ -1148,6 +1148,21 @@ layout: default
 |**2023-08-08**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997](http://arxiv.org/abs/2308.01997)|null|
 |**2023-08-01**|**Quadratic Dirac fermions and the competition of ordered states in twisted bilayer graphene**|Julian Ingham et.al.|[2308.00748](http://arxiv.org/abs/2308.00748)|null|
 
+## Deep Learning
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Dust and Power: Unravelling the merger -- AGN connection in the second half of the cosmic history**|A. La Marca et.al.|[2407.18238](http://arxiv.org/abs/2407.18238)|null|
+|**2024-07-25**|**Automated Ensemble Multimodal Machine Learning for Healthcare**|Fergus Imrie et.al.|[2407.18227](http://arxiv.org/abs/2407.18227)|null|
+|**2024-07-25**|**Reshape Dimensions Network for Speaker Recognition**|Ivan Yakovlev et.al.|[2407.18223](http://arxiv.org/abs/2407.18223)|null|
+|**2024-07-25**|**Statistical mechanics of frustrated assemblies and incompatible graphs**|José M. Ortiz-Tavárez et.al.|[2407.18210](http://arxiv.org/abs/2407.18210)|null|
+|**2024-07-25**|**Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**|Samuel Yen-Chi Chen et.al.|[2407.18202](http://arxiv.org/abs/2407.18202)|null|
+|**2024-07-25**|**AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction**|Chunan Liu et.al.|[2407.18184](http://arxiv.org/abs/2407.18184)|**[link](https://github.com/biochunan/asep-dataset)**|
+|**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181](http://arxiv.org/abs/2407.18181)|null|
+|**2024-07-25**|**Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers**|Zhengang Li et.al.|[2407.18175](http://arxiv.org/abs/2407.18175)|null|
+|**2024-07-25**|**RIDA: A Robust Attack Framework on Incomplete Graphs**|Jianke Yu et.al.|[2407.18170](http://arxiv.org/abs/2407.18170)|null|
+|**2024-07-25**|**Adaptable Deep Joint Source-and-Channel Coding for Small Satellite Applications**|Olga Kondrateva et.al.|[2407.18146](http://arxiv.org/abs/2407.18146)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
