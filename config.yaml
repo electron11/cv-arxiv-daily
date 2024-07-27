@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Deep Learning": 
-        filters: ["deep learning", "neural network", "DFT"]
+        filters: ["deep learning", "neural network"]
     "twist":
         filters: ["twisted bilayer"]
