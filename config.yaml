@@ -22,9 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Floquet": 
-        filters: ["Floquet"]
-    "QAH":
-        filters: ["anomalous Hall", "Chern insulator"]
+    "Deep Learning": 
+        filters: ["deep learning", "neural network", "DFT"]
     "twist":
-        filters: ["twisted bilayer", "twisted multilayer"]
+        filters: ["twisted bilayer"]
